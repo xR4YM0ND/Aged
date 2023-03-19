@@ -65,6 +65,26 @@ Shield Cooldown mit dem Mod "Guarding" compatibel ?
 
 # ----------------------------------------------------[Datapack]----------------------------------------------------
 
+EnvironmentZ - comfort effect - heat / cold protection
+
+Spawner not breaking einstellen
+
+Crab Claw acts like sheer / try custom item 
+
+Drink Beer reworked - Loading Time long - maybe original mod?
+
+Disable Phantoms -> Gamerule
+
+Remove Cosmetic Armors (till bugs fixed)
+
+Remove Code from latest.log
+
+# -----------------------------------------------------[Others]-----------------------------------------------------
+
+No permission for openpac-parties command
+
+# Ideas:
+
 [ ] -> Enderman in biomes erlauben ( maybe auch andere mobs wie: Endermite , Stray , Wither Skeleton , Soul Reaper , Withered Necromancer , Wither Puppet )
 
 "entitys_in_other_biomes": {
@@ -81,32 +101,6 @@ Shield Cooldown mit dem Mod "Guarding" compatibel ?
         }
     ]
 }
-
-EnvironmentZ - comfort effect - heat / cold protection
-
-Spawner not breaking einstellen
-
-Crab Claw acts like sheer / try custom item 
-
-Drink Beer reworked - Loading Time long - maybe original mod?
-
-New Villager Trades
-
-add: false ?? in entities loot tables ?
-
-Disable Phantoms -> Gamerule
-
-Remove Cosmetic Armors (till bugs fixed)
-
-Remove Code from latest.log
-
-Enchanted Book ids:
-enchanted_book[{Year:0,Season:Winter}]
-# -----------------------------------------------------[Others]-----------------------------------------------------
-
-No permission for openpac-parties command
-
-# Ideas:
 
 Early Stage / EnvironmentZ - Rocks aufs lagerfeuer -> Heating Stone ( schwächer als heating stones )
 
