@@ -1,4 +1,7 @@
+*****
 # Aged 2.0.0
+
+! WARNING !
 > This update changes the world generation completely.
 >
 > Reinstall the modpack for a clean experience.
@@ -9,8 +12,8 @@
 
 ## Changed:
 - Lowered season length to 12 real time hours
-- Doubled crop growth from 0.3 best to 0.6 best ( you can harvest up to 13 times in the right season )
-- Increased spawn rate ( Necromancer / Summoner / Shaman / Amethyst Golem )
+- Doubled crop growth from 0.3 best to 0.6 best \( you can harvest up to 13 times in the right season )
+- Increased spawn rate \( Necromancer / Summoner / Shaman / Amethyst Golem )
 - Extended the range of scarecrows
 - Now you can buy more claims from any Villager
 - Iron Golem don't drop iron ingots
@@ -35,7 +38,7 @@
 - Missing Wilds
 - Mouse Wheelie
 - Oh The Biomes You'll Go Refabricated
-- Spice of Fabric (temporarily)
+- Spice of Fabric \(temporarily)
 - Status Effect Bars
 - Taterzens
 - TerraBlender
@@ -57,7 +60,7 @@
 - ewewukek's Musket mod
 - Experience Bottler
 - Fabric Shield Lib
-- Flintl0cks [RP]
+- Flintl0cks \(*Resourcepack*)
 - Go Fish
 - Horse Expert
 - Immediately Fast
@@ -80,8 +83,7 @@
 - Yung's Better Strongholds
 
 ## Updated:
-<Fabric-Loader 0.14.17>
-
+- **Fabric-Loader 0.14.17**
 - Balm
 - Better Statistics Screen
 - Corgi Lib
@@ -100,7 +102,7 @@
 - Target Dummy
 - Tree Chop
 
-
+*****
 # Aged 1.3.1
 
 ## Changed:
@@ -109,7 +111,7 @@
 - Disabled missing Recipes
 - Changed path speed from 0.03 to 0.02
 - Updated Aged_Guide_Book
-- Fixed Aged Datapack (bronze_item / property sell issue)
+- Fixed Aged Datapack \(bronze_item / property sell issue)
 
 ## Added:
 - Toms Simple Storage
@@ -130,7 +132,7 @@
 - Moonlight Lib
 - TerraBlender
 
-
+*****
 # Aged 1.3.0
 
 ## Changed:
@@ -154,13 +156,12 @@
 - Tree Chop
 
 ## Removed:
-- Collective (Legacy)
+- Collective \(Legacy)
 - Falling Tree
-- StarterKit (Legacy)
+- StarterKit \(Legacy)
 
 ## Updated:
-<Fabric-Loader 0.14.14>
-
+- **Fabric-Loader 0.14.14**
 - AdditionZ
 - Colorful Azaleas
 - Combat Roll
@@ -180,14 +181,14 @@
 - TieredZ
 - Visual Workbench
 
-
+*****
 # Aged 1.2.3
 
 ## Changed:
-- XP Bottles now give 0 LevelZ XP cause of Combat Problems with XP Obelisk (thx @Nachoco)
-- Creepers dont do block damage in the overworld (only on our server)
-- The wither can't be created in the overworld (only on our server)
-- Excluded Warden from RPGDifficulty levels (thx @Mickey)
+- XP Bottles now give 0 LevelZ XP cause of Combat Problems with XP Obelisk \(thx @Nachoco)
+- Creepers dont do block damage in the overworld \(only on our server)
+- The wither can't be created in the overworld \(only on our server)
+- Excluded Warden from RPGDifficulty levels \(thx @Mickey)
 
 ## Removed:
 - Eldritch Mobs
@@ -224,33 +225,32 @@
 - Xaeros World Map
 - Yet Another Config Lib
 
-
+*****
 # Aged 1.2.2
 
 ## Added:
-<Aged-Modpack Server>
+- **Aged Modpack Server**
 
 ## Updated:
 - Fabric API
 
-
+*****
 # Aged 1.2.1
 
-Added:
-======
+## Added:
 - Drippy Loading Screen
 - Droplight
 - Item Borders
 - Moonlight Lib
 - Nicer Skies
 
-Removed:
-- Better Leaves by Motschen [RP]
+## Removed:
+- Better Leaves by Motschen \(*Resourcepack*)
 - Connectivity
 - Dark Loading Screen
 - Krypton
 
-Changed:
+## Changed:
 - Added custom colors to TieredZ
 - Added colored Borders to Armors
 - Added Aged Loading Screen
@@ -258,10 +258,9 @@ Changed:
 - Fixed First Time Startup Crash
 - Tweaked LevelZ Config
 
-Updated:
-<Fabric-Loader 0.14.12>
-<Aged Guide Book>
-
+## Updated:
+- **Fabric-Loader 0.14.12**
+- **Aged Guide Book**
 - AdditionZ
 - Attribute Fix
 - Better Combat
@@ -294,37 +293,37 @@ Updated:
 - Towns and Towers
 - Visual Workbench
 
-
+*****
 # Aged 1.2.0
 
-Added:
-- Aged Guide Book <First Edition>
-- Better Leaves by Motschen [RP]
+## Added:
+- Aged Guide Book \(*First Edition*)
+- Better Leaves by Motschen \(*Resourcepack*)
 - Collective
 - Early Stage
 - Starter Kit
 
-Removed:
+## Removed:
 - This Rocks!
 
-Changed:
-- Added missing tags to some Blocks [Datapack]
-- Added new Blocks to Aged [Datapack]
-- Added silktouchable Budding Ores to [Datapack]
-- Added Start Items ( Bread, Apple, Water, Campfire )
-- Added modded drops for Sieve [Datapack]
-- Added modded blocks / items to JobsAddon [Datapack]
+## Changed:
+- Added missing tags to some Blocks
+- Added new Blocks
+- Added silktouchable Budding Ores
+- Added Start Items \( Bread, Apple, Water, Campfire )
+- Added modded drops for Sieve
+- Added modded blocks / items to JobsAddon
 - Removed some duplicated Blocks
 - Disabled some Twigs Features
 - Disabled Architects Palette Villager Trades
 - Changed LevelZ Points per Level from 3 -> 1
-- Tweaked Dehydration [Config]
-- Tweaked SpiceOfFabric [Config]
-- Tweaked RecipeRemover [Config]
-- Tweaked Aged [Datapack]
-- Reworked Numismatic [Datapack]
+- Tweaked Dehydration
+- Tweaked SpiceOfFabric
+- Tweaked RecipeRemover
+- Tweaked Aged
+- Reworked Numismatic
 
-Updated:
+## Updated:
 - AdditionZ
 - BackSlot
 - Better Combat
@@ -369,18 +368,17 @@ Updated:
 - Terralith
 - Xaeros Worldmap
 
-
+*****
 # Aged 1.1.2
 
-Changed:
+## Changed:
 - Enabled LevelZ Block Tooltips
 - Fixed (Disabled Overworld protection in SP)
 - Changed Water Hydration Range from 1 to 2
 - Increased Levelz Xp gained from Jobs
 
-Updated:
-<Fabric-Loader 0.14.11>
-
+## Updated:
+- **Fabric-Loader 0.14.11**
 - AdditionZ
 - Better Combat
 - Comabt Roll
@@ -404,15 +402,15 @@ Updated:
 - Xaeros World Map
 - XP Obelisk
 
-
-Aged 1.1.1
+*****
+# Aged 1.1.1
 
 ## Added:
 - LogBegone
 
 ## Changed:
 - Fixed RPGDifficulty Mobs starting now at 1.0 Factor instead of 0.0
-- Tweaked RPGDifficulty Values (Mobs now have lower Level at different heights than before)
+- Tweaked RPGDifficulty Values \(Mobs now have lower Level at different heights than before)
 - Removed several annoying lines from latest.log
 
 ## Updated:
@@ -428,20 +426,19 @@ Aged 1.1.1
 - Smooth Swapping
 - TieredZ
 
-
-Aged 1.1.0
+*****
+# Aged 1.1.0
 
 ## Added:
 - NBT Crafting
 
 ## Changed:
-- Iris Config (Disabled update notifications)
+- Iris Config \(Disabled update notifications)
 - Added Azalea Saplings to Seasons
-- Changed Better Combat Config (FarmersDelight compat)
+- Changed Better Combat Config \(FarmersDelight compat)
 
 ## Updated:
 - **Fabric Loader 0.14.10**
-
 - Better Combat
 - Blossom
 - Connectible Chains
@@ -469,8 +466,8 @@ Aged 1.1.0
 - Trinkets
 - Visuality
 
-
-Aged 1.0.5
+*****
+# Aged 1.0.5
 
 ## Added:
 - Patchouli Button
@@ -478,12 +475,11 @@ Aged 1.0.5
 
 ## Removed:
 - Ambient Environment
-- Better F3 (now optional)
-- Nyf`s Spiders
+- Better F3 \(now optional)
+- Nyf's Spiders
 - Raknetify
 - Very Many Players
-
-- Resourcepack: Motschens Better Leaves (now optional)
+- Motschens Better Leaves \(*Resourcepack*) (now optional)
 
 ## Changed:
 - Hide FPS on standard
@@ -506,8 +502,8 @@ Aged 1.0.5
 - Talk Bubbles
 - Yet Another Config Lib
 
-
-Aged 1.0.4
+*****
+# Aged 1.0.4
 
 ## Added:
 - Alternate Current
@@ -522,7 +518,7 @@ Aged 1.0.4
 - Phosphor
 
 ## Changed:
-- Changed Cull Leaves Config (slightly better performance in forests)
+- Changed Cull Leaves Config \(slightly better performance in forests)
 - Tweaked chunk loading stability
 - Fixed - Passive Mobs spawn on chunk creation with Lvl 1
 - Fixed - Flamed Arrows after blocking Skeletons with a shield
@@ -531,8 +527,8 @@ Aged 1.0.4
 - AdditionZ
 - RPGDifficulty
 
-
-Aged 1.0.3
+*****
+# Aged 1.0.3
 
 ## Added:
 - Notes
@@ -546,7 +542,7 @@ Aged 1.0.3
 
 ## Changed:
 - Fixed Background Animation not loading
-- Fixed Knives (now actually breaking Blocks)
+- Fixed Knives \(now actually breaking Blocks)
 - Tweaked Seasons Config
 
 ## Updated:
@@ -562,8 +558,8 @@ Aged 1.0.3
 - RPGDifficulty
 - Xaeros Worldmap
 
-
-Aged 1.0.2
+*****
+# Aged 1.0.2
 
 ## Added:
 - Legendary Tooltips
@@ -571,8 +567,8 @@ Aged 1.0.2
 - Prism
 
 ## Changed:
-- Interactic Config (disabled tooltips)
-- Libgui Config (darkmode = false)
+- Interactic Config \(disabled tooltips)
+- Libgui Config \(darkmode = false)
 
 ## Updated:
 - Fabric API
@@ -580,8 +576,8 @@ Aged 1.0.2
 - Taterzens
 - Xaeros Worldmap
 
-
-Aged 1.0.1
+*****
+# Aged 1.0.1
 
 ## Added:
 - Enhanced Vertical Slabs
@@ -593,7 +589,7 @@ Aged 1.0.1
 - TieredZ
 
 ## Changed:
-- C2ME Config (Compression RF 1952 -> RF 1950)
+- C2ME Config \(Compression RF 1952 -> RF 1950)
 
 ## Updated:
 - Falling Leaves
@@ -601,7 +597,7 @@ Aged 1.0.1
 - The Graveyard
 - ToolTipFix
 
-
-Aged 1.0.0
+*****
+# Aged 1.0.0
 
 - first release
