@@ -1,5 +1,5 @@
 
-# ------------------------------------------------------[Mods]------------------------------------------------------
+# -----------------------------------[Mods]-----------------------------------
 
 # Numismatic 1 Silver buy leather not working
 [ ] -> works when you hit the villager once ( no discount - but only on the leater cap ( 1 silver ))
