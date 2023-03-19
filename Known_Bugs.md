@@ -27,6 +27,8 @@
 # Dehydration
 [ ] -> Sneak Right click with flask actually fills cauldrons & campfire cauldron
 [ ] -> Sneak Right click with Vanilla Water bottles emptys the bottle
+[ ] -> Dirty Water Bottle smeltable in Furnace & Campfire (lot of people mentioned that)
+[ ] -> is milk bucket dehydration hard coded? or overwriteable with a datapack?
 
 # RPG Difficulty
 [ ] -> per Dimension Datapack -> Starting Location (xyz)
@@ -74,8 +76,6 @@ Crab Claw acts like sheer / try custom item
 Drink Beer reworked - Loading Time long - maybe original mod?
 
 Disable Phantoms -> Gamerule
-
-Remove Cosmetic Armors (till bugs fixed)
 
 Remove Code from latest.log
 
