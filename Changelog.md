@@ -31,6 +31,7 @@
 - Architects Palette
 - Colorful Azaleas
 - Cosmetic Armor
+- Drink Beer
 - Farmer's Knives
 - Loot Integrations
 - Macaw's Bridges
@@ -51,22 +52,26 @@
 
 ## Added:
 - Angel Block Renewed
+- Aquatic Torches
 - Awesome Dungeon The End Edition
 - BCLib
 - Better End
 - Better Nether
 - Better Villages
 - Chipped
+- Brewin And Chewin
 - CTM
 - ewewukek's Musket mod
 - Experience Bottler
 - Fabric Shield Lib
+- Farmers Respite
 - Flintl0cks \(*Resourcepack*)
 - Go Fish
 - Horse Expert
 - Immediately Fast
 - It Takes a Pillage
 - Library Ferret
+- Nethers Delight
 - Resourceful Lib
 - Simple Voice Chat
 - Snow Under Trees
