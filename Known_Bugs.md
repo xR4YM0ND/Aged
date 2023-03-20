@@ -36,6 +36,7 @@
 - Mobs added by other Structure mods only Lvl 1
 - Wandering Trader has lvl's 
 - Wandering Trader Lama's only Lvl 1
+- Give Traders their Level (1-5 / Novice / Apprentice / Journeyman / Expert / Master)
 
 ### Medieval Weapons
 - Better Combat -> Lance ausgangsposition nach vorne gerichtet nicht nach oben
@@ -79,8 +80,9 @@
 ## Datapack
 
 - EnvironmentZ / comfort effect / heat & cold protection
+- EnvironmentZ / tags / items / ice_items.json / ice items (blocks) einfügen / zum recipe
 
-- Spawner not breaking
+- Spawner not breaking / update !
 
 - Crab Claw acts like sheer / try custom item 
 
