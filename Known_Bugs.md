@@ -32,11 +32,10 @@
 - per Dimension Datapack -> Starting Location (xyz)
 - Baby Zombie always Lvl 1
 - BetterEnd Slime Lvl 1 or Lvl 460 ^^
-- Custom Mobs (e.g. BetterDesertTemples Husks) are only Lvl 1
-- Mobs added by other Structure mods only Lvl 1
 - Wandering Trader has lvl's 
 - Wandering Trader Lama's only Lvl 1
-- Give Traders their Level (1-5 / Novice / Apprentice / Journeyman / Expert / Master)
+- Nameplate / Give Traders their Level (/ Novice / Apprentice / Journeyman / Expert / Master)
+- Nameplate / Spawner mobs lvl 1
 
 ### Medieval Weapons
 - Better Combat -> Lance ausgangsposition nach vorne gerichtet nicht nach oben
@@ -79,22 +78,14 @@
 *****
 ## Datapack
 
-- EnvironmentZ / comfort effect / heat & cold protection
-- EnvironmentZ / tags / items / ice_items.json / ice items (blocks) einfügen / zum recipe
-
 - Spawner not breaking / update !
 
-- Crab Claw acts like sheer / try custom item 
-
 - Drink Beer reworked missing textures / Loading Time long / maybe original mod?
-
-- Disable Phantoms / Gamerule
-
-- Remove Code from latest.log
 
 *****
 ## Others
 
+- Disable Phantoms / Gamerule
 - No permission for openpac-parties command
 
 *****
