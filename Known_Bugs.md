@@ -28,7 +28,7 @@
 - Is milk bucket dehydration hard coded? or overwriteable with a datapack?
 - Water protection 
 
-### RPG Difficulty
+### RPG Difficulty / Nameplate
 - per Dimension Datapack -> Starting Location (xyz)
 - Baby Zombie always Lvl 1
 - BetterEnd Slime Lvl 1 or Lvl 460 ^^
