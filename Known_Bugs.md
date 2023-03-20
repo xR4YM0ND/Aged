@@ -111,12 +111,21 @@
 - [Extended Drawers](https://beta.curseforge.com/minecraft/mc-mods/extended-drawers)
 - [Immersive Aircraft](https://beta.curseforge.com/minecraft/mc-mods/immersive-aircraft)
 - [Structure Essentials](https://beta.curseforge.com/minecraft/mc-mods/structure-essentials-forge-fabric)
-- [Let Them Despawn](https://beta.curseforge.com/minecraft/mc-mods/let-me-despawn) *Server sided*
+- [Let Them Despawn](https://beta.curseforge.com/minecraft/mc-mods/let-me-despawn) *Server sided
+- Change Better Advancements \(Advancements Enlarger maybe)
+- Change Beer mod \(Brewin and Chewin maybe)
+- Chefs Delight \(Numismatic Overhaul works??)
+- Farmers Respite \(what does this mod do?)
+- [Aquatic Torches](https://www.curseforge.com/minecraft/mc-mods/aquatic-torches)
+- [Saturn](https://www.curseforge.com/minecraft/mc-mods/saturn)
 
 ### Maybe mods for Aged
-* [Dimension Mutability](https://beta.curseforge.com/minecraft/mc-mods/dimension-mutability)
-* [Xaeros Minimap Fair Play Edition](https://beta.curseforge.com/minecraft/mc-mods/xaeros-minimap-fair-play-edition) (*only for other people to use on the server, not for the modpack itself*)
-* [Vanity Slots](https://beta.curseforge.com/minecraft/mc-mods/vanityslots)
+- [Dimension Mutability](https://beta.curseforge.com/minecraft/mc-mods/dimension-mutability)
+- [Xaeros Minimap Fair Play Edition](https://beta.curseforge.com/minecraft/mc-mods/xaeros-minimap-fair-play-edition) (*only for other people to use on the server, not for the modpack itself*)
+- [Vanity Slots](https://beta.curseforge.com/minecraft/mc-mods/vanityslots)
+- [Craftify](https://www.curseforge.com/minecraft/mc-mods/craftify)
+- [Accurate Maps](https://www.curseforge.com/minecraft/mc-mods/accurate-maps)
+- [Immersive Weathering](https://www.curseforge.com/minecraft/mc-mods/immersive-weathering-fabric)
 
 ### Mod Ideas
 

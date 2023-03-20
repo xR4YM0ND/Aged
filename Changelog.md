@@ -13,7 +13,7 @@
 ## Changed:
 - Lowered season length to 12 real time hours
 - Doubled crop growth from 0.3 best to 0.6 best \( you can harvest up to 13 times in the right season )
-- Increased spawn rate \( Necromancer / Summoner / Shaman / Amethyst Golem )
+- Increased spawn rate \(Necromancer / Summoner / Shaman / Amethyst Golem)
 - Extended the range of scarecrows
 - Now you can buy more claims from any Villager
 - Iron Golem don't drop iron ingots
@@ -23,6 +23,7 @@
 - Enabled Netherite Shield
 - Added coin drops to pillager type entities
 - Reworked Villager Trades
+- New levelz restrictions
 - Changed many miscellaneous things
 
 ## Removed:
