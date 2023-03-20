@@ -81,8 +81,6 @@
 
 - Spawner not breaking / update !
 
-- Drink Beer reworked missing textures / Loading Time long / maybe original mod?
-
 *****
 ## Others
 
