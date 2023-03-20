@@ -81,6 +81,10 @@
 
 - Spawner not breaking / update !
 
+- implement Farmers Respite in Jobs / Dehydration / Levelz / EnvironmentZ
+- implement Nether Delgights in Jobs / Dehydration / Levelz / EnvironmentZ
+- implement Brewin and Chewin in Jobs / Dehydration / Levelz / EnvironmentZ
+
 *****
 ## Others
 
@@ -99,23 +103,18 @@
 ### Mods for Aged
 
 - [Savage Ender Dragon](https://beta.curseforge.com/minecraft/mc-mods/savage-ender-dragon)
-- [Ambient Sounds](https://beta.curseforge.com/minecraft/mc-mods/ambientsounds)
-- [Extended Drawers](https://beta.curseforge.com/minecraft/mc-mods/extended-drawers)
-- [Immersive Aircraft](https://beta.curseforge.com/minecraft/mc-mods/immersive-aircraft)
 - [Structure Essentials](https://beta.curseforge.com/minecraft/mc-mods/structure-essentials-forge-fabric)
-- [Let Them Despawn](https://beta.curseforge.com/minecraft/mc-mods/let-me-despawn) *Server sided
-- Change Beer mod \(Brewin and Chewin maybe)
 - Chefs Delight \(Numismatic Overhaul works??)
-- Farmers Respite \(what does this mod do?)
-- [Aquatic Torches](https://www.curseforge.com/minecraft/mc-mods/aquatic-torches)
 
 ### Maybe mods for Aged
 - [Dimension Mutability](https://beta.curseforge.com/minecraft/mc-mods/dimension-mutability)
 - [Xaeros Minimap Fair Play Edition](https://beta.curseforge.com/minecraft/mc-mods/xaeros-minimap-fair-play-edition) (*only for other people to use on the server, not for the modpack itself*)
 - [Vanity Slots](https://beta.curseforge.com/minecraft/mc-mods/vanityslots)
 - [Craftify](https://www.curseforge.com/minecraft/mc-mods/craftify)
-- [Accurate Maps](https://www.curseforge.com/minecraft/mc-mods/accurate-maps)
+- [Accurate Maps](https://www.curseforge.com/minecraft/mc-mods/accurate-maps) *BETA , some bugs*
 - [Immersive Weathering](https://www.curseforge.com/minecraft/mc-mods/immersive-weathering-fabric)
+- [Extended Drawers](https://beta.curseforge.com/minecraft/mc-mods/extended-drawers)
+- [Immersive Aircraft](https://beta.curseforge.com/minecraft/mc-mods/immersive-aircraft)
 
 ### Mod Ideas
 

@@ -51,6 +51,7 @@
 - XP Obelisk
 
 ## Added:
+- Ambient Sounds
 - Angel Block Renewed
 - Aquatic Torches
 - Awesome Dungeon The End Edition
@@ -58,8 +59,9 @@
 - Better End
 - Better Nether
 - Better Villages
-- Chipped
 - Brewin And Chewin
+- Chipped
+- Creative Core
 - CTM
 - ewewukek's Musket mod
 - Experience Bottler
@@ -70,6 +72,7 @@
 - Horse Expert
 - Immediately Fast
 - It Takes a Pillage
+- Let Me Despawn
 - Library Ferret
 - Nethers Delight
 - Resourceful Lib
