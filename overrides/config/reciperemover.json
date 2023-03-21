@@ -1,6 +1,7 @@
 {
   "printErrorMessage": true,
-  "recipe_list": [
+  "printRecipesAndAdvancements": false,
+  "recipeList": [
     "customportals:white_portal_catalyst",
     "customportals:orange_portal_catalyst",
     "customportals:magenta_portal_catalyst",
@@ -37,5 +38,8 @@
     "mcwdoors:garage_silver_door",
     "mcwdoors:garage_gray_door",
     "mcwdoors:garage_black_door"
+  ],
+  "advancementList": [
+    "byg:biomepedia_gift"
   ]
 }

@@ -14,7 +14,9 @@
     },
     "thrust": {
       "enable_thrust": false,
-      "max_thrust": 1.0
+      "max_thrust": 1.0,
+      "thrust_acceleration": 0.1,
+      "thrust_particles": true
     }
   },
   "sensitivity": {

@@ -7,5 +7,6 @@
 	"backgroundOpacity": 0.699999988079071,
 	"backgroundRed": 1.0,
 	"backgroundGreen": 1.0,
-	"backgroundBlue": 1.0
+	"backgroundBlue": 1.0,
+	"showOwnBubble": false
 }

@@ -32,13 +32,13 @@ simulationDistance:10
 entityDistanceScaling:1.0
 guiScale:2
 particles:0
-maxFps:260
+maxFps:170
 graphicsMode:1
 ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:4
 renderClouds:"false"
-resourcePacks:["vanilla","Fabric Mods","lambdabettergrass/default","continuity/default","continuity/glass_pane_culling_fix","loadmyresources.hiddenpack","file/Better-Leaves-7.1-1.19+.zip","file/EclecticTrove-noconfig-1.19-1.2.0.zip","file/resourcepack"]
+resourcePacks:["vanilla","Fabric Mods","lambdabettergrass/default","continuity/default","continuity/glass_pane_culling_fix","loadmyresources.hiddenpack","file/EclecticTrove-noconfig-1.19-1.2.0.zip","cullleaves/smartleaves"]
 incompatibleResourcePacks:["loadmyresources.hiddenpack"]
 lastServer:
 lang:en_us
