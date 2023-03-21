@@ -33,6 +33,7 @@
 - Cosmetic Armor
 - Drink Beer
 - Farmer's Knives
+- Global Packs
 - Loot Integrations
 - Macaw's Bridges
 - Macaw's Doors
@@ -75,6 +76,7 @@
 - Let Me Despawn
 - Library Ferret
 - Nethers Delight
+- Paxi
 - Resourceful Lib
 - Simple Voice Chat
 - Snow Under Trees

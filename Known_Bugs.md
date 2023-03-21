@@ -84,11 +84,29 @@
 - implement Nether Delights in Jobs / Dehydration / Levelz / EnvironmentZ
 - implement Brewin and Chewin in Jobs / Dehydration / Levelz / EnvironmentZ
 
+- give effect comfort on startup
+- adjust effect status bar
+
+- disable food blocks recipes
+
+- adjust loading screen
+
+- add changelog
+
+- update all mods
+
 *****
 ## Others
 
 - Disable Phantoms / Gamerule
 - No permission for openpac-parties command
+
+### On update
+
+- change version numbers in
+ - Main Menu
+ - Loading Screen
+ - Aged Window
 
 *****
 ## Ideas:
