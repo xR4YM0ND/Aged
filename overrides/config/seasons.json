@@ -5,8 +5,7 @@
     "lockedSeason": "SPRING"
   },
   "dimensionWhitelist": [
-    "minecraft:overworld",
-    "another:world"
+    "minecraft:overworld"
   ],
   "doTemperatureChanges": true,
   "isSeasonTiedWithSystemTime": false,

@@ -40,6 +40,10 @@
 	// 90 = 3 bubbles
 	"botte_air_amount": 90,
 	"flame_arrow_burn": true,
+	// Set entity on fire
+	"magma_cube_fire_ticks": 20,
+	// Heal passive entity 2hp every ticks
+	"heal_passive_entity_over_time_ticks": 1200,
 	"passive_entity_modifications": true,
 	"passiveEntityConfig": {
 		// Default = -24000

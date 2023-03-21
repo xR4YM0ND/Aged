@@ -1,4 +1,4 @@
 {
   "shadowyness_percent": 85,
-  "only_affect_path_blocks": false
+  "only_affect_path_blocks": true
 }
