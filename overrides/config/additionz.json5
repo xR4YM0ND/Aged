@@ -42,8 +42,12 @@
 	"flame_arrow_burn": true,
 	// Set entity on fire
 	"magma_cube_fire_ticks": 20,
+	// 20 ticks = 1 second
+	"shield_blocking_cooldown": 60,
 	// Heal passive entity 2hp every ticks
 	"heal_passive_entity_over_time_ticks": 1200,
+	// Change slot highlight to texture
+	"change_slot_highlight": false,
 	"passive_entity_modifications": true,
 	"passiveEntityConfig": {
 		// Default = -24000

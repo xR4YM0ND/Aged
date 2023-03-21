@@ -1,0 +1,8 @@
+# The configuration file for Log Begone
+
+[logbegone]
+# If a log message has one of these phrases, it will be filtered out from logging
+phrases = ["the_aether","This line is printed by the mod mixin!","Unable to resolve texture reference: #missing in drinkbeer:","[emi] Recipe loaded with duplicate id:","This makes sure Expanded Delight mixins are loaded","Initializing bushierflowers Mixins"]
+
+# If a log message matches one of these regex patterns, it will be filtered out from logging. EX: 
+regex = []
