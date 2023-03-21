@@ -1,6 +1,6 @@
 {
   "cropsDie": true,
-  "waterRange": 1,
+  "waterRange": 2,
   "growthReductor": 5,
   "boneMealReductor": 0,
   "farmlandDryingRate": 25,

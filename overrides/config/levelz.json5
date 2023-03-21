@@ -1,9 +1,4 @@
 {
-	"test0": 0,
-	"test1": 0,
-	"test2": 0,
-	"test3": 0,
-	"test4": 0,
 	// Maximum level per skills
 	"maxLevel": 30,
 	// Maximum level: 0 = disabled
@@ -107,13 +102,15 @@
 	"inventoryButton": true,
 	// Highlight locked blocks in red.
 	"highlightLocked": false,
-	"showLockedBlockInfo": false,
 	"sortCraftingRecipesBySkill": false,
 	"inventorySkillLevel": true,
 	"showLevelList": true,
 	"showLevel": true,
 	// Switch levelz screen instead of closing with inventory key
 	"switch_screen": true,
+	"showLockedBlockInfo": true,
+	"lockedBlockInfoPosX": 0,
+	"lockedBlockInfoPosY": 0,
 	"miningProgression": true,
 	"itemProgression": true,
 	"blockProgression": true,

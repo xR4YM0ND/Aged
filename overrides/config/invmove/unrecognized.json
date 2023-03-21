@@ -50,7 +50,8 @@
     "com.nhoryzon.mc.farmersdelight.client.screen.CookingPotScreen": true,
     "com.ianm1647.expandeddelight.util.inventory.screen.JuicerScreen": true,
     "lekavar.lma.drinkbeer.screen.TradeBoxScreen": true,
-    "lekavar.lma.drinkbeer.screen.BeerBarrelScreen": true
+    "lekavar.lma.drinkbeer.screen.BeerBarrelScreen": true,
+    "com.glisco.numismaticoverhaul.client.gui.PiggyBankScreen": true
   },
   "hideBackground": {
     "net.minecraft.class_5522": true,

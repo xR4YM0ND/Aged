@@ -1,6 +1,8 @@
 {
   "printErrorMessage": false,
   "printRecipesAndAdvancements": false,
+  "removeAllVanillaAdvancements": false,
+  "removeAllAdvancements": false,
   "recipeList": [
     "customportals:white_portal_catalyst",
     "customportals:orange_portal_catalyst",
