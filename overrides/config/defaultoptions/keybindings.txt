@@ -66,9 +66,13 @@ key_key.mousewheelie.sort_inventory:key.keyboard.unknown:NONE
 key_key.mousewheelie.scroll_up:key.amecsapi.mouse.scroll.up:NONE
 key_key.mousewheelie.scroll_down:key.amecsapi.mouse.scroll.down:NONE
 key_key.mousewheelie.pick_tool:key.keyboard.unknown:NONE
+key_key.nbttooltip.copy:key.keyboard.right:NONE
+key_key.nbttooltip.toggle:key.keyboard.left:NONE
+key_key.nbttooltip.scroll_down:key.keyboard.down:NONE
+key_key.nbttooltip.scroll_up:key.keyboard.up:NONE
 key_key.openNotes:key.keyboard.n:NONE
 key_gui.xaero_pac_key_open_menu:key.keyboard.apostrophe:NONE
-key_presencefootsteps.settings.key:key.keyboard.f10:NONE
+key_key.presencefootsteps.settings:key.keyboard.f10:NONE
 key_gui.xaero_open_map:key.keyboard.m:NONE
 key_gui.xaero_open_settings:key.keyboard.right.bracket:NONE
 key_gui.xaero_map_zoom_in:key.keyboard.unknown:NONE

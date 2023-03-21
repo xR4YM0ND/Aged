@@ -1,0 +1,70 @@
+type = hud
+
+customization-meta {
+  randomgroup = 1
+  keepaspectratio = false
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+  backgroundcolor = #2d2d2d
+}
+
+customization {
+  action = editprogressbar
+  y = -40
+  barcolor = #a8d58f
+}
+
+customization {
+  visible = false
+  action = editlogo
+}
+
+customization {
+  path = resources/aged/textures/others/aged.png
+  orientation = mid-centered
+  x = -130
+  width = 80
+  action = addtexture
+  actionid = 6b49c92d-e8c1-4b15-8131-d55e571bff781672502313893
+  y = -5
+  height = 80
+}
+
+customization {
+  path = resources/aged/textures/others/aged_text_stonecrafter_big.png
+  orientation = mid-centered
+  x = 41
+  width = 262
+  action = addtexture
+  actionid = 24c2fbaf-c844-4955-87f8-ddd577eae3491672503809905
+  y = -1
+  height = 70
+}
+
+customization {
+  orientation = mid-centered
+  shadow = true
+  x = 0
+  textcolor = #a8d58f
+  action = addtext
+  actionid = 37d0fb62-ea12-4eac-94ea-8710f7bbf42b1672503606839
+  y = 48
+  scale = 1.0
+  alignment = left
+  value = by SpigotDE & Globox_Z
+}
+
+customization {
+  orientation = bottom-centered
+  shadow = true
+  x = 0
+  textcolor = #ebebeb
+  action = addtext
+  actionid = a4c487b4-dc2a-4fb6-b81a-8f3e562af34d1672504691998
+  y = -23
+  scale = 1.0
+  alignment = left
+  value = %playername% | RAM: %percentram% | %loadedmods% mods loaded
+}
+

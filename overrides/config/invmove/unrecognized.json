@@ -54,7 +54,13 @@
     "com.glisco.numismaticoverhaul.client.gui.PiggyBankScreen": true,
     "vazkii.patchouli.client.book.gui.GuiBookCategory": true,
     "potionstudios.byg.client.gui.screen.HypogealImperiumScreen": true,
-    "vazkii.patchouli.client.book.gui.GuiBookWriter": true
+    "vazkii.patchouli.client.book.gui.GuiBookWriter": true,
+    "codes.ztereohype.nicerskies.gui.ConfigScreen": true,
+    "com.nebspacefarer.stendhal.screens.SymbolsScreen": true,
+    "betteradvancements.gui.BetterAdvancementsScreen": true,
+    "net.additionz.misc.FletchingScreen": true,
+    "net.partyaddon.gui.TestScreen": true,
+    "net.partyaddon.gui.PartyScreen": true
   },
   "hideBackground": {
     "net.minecraft.class_5522": true,
@@ -82,6 +88,9 @@
     "lekavar.lma.drinkbeer.screen.TradeBoxScreen": true,
     "lekavar.lma.drinkbeer.screen.BeerBarrelScreen": true,
     "potionstudios.byg.client.gui.screen.HypogealImperiumScreen": true,
-    "vazkii.patchouli.client.book.gui.GuiBookWriter": true
+    "vazkii.patchouli.client.book.gui.GuiBookWriter": true,
+    "net.additionz.misc.FletchingScreen": true,
+    "net.partyaddon.gui.TestScreen": true,
+    "net.partyaddon.gui.PartyScreen": true
   }
 }

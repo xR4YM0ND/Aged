@@ -20,6 +20,11 @@
     }
   },
   "sensitivity": {
+    "smoothing": {
+      "smoothing_pitch": 1.0,
+      "smoothing_yaw": 0.4,
+      "smoothing_roll": 1.0
+    },
     "desktop": {
       "pitch": 1.0,
       "yaw": 0.4,

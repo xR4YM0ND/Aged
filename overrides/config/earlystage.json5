@@ -4,5 +4,9 @@
 	// Generate flint stones in the overworld
 	"generateFlint": true,
 	// Time in ticks
-	"redstoneSieveTicks": 30
+	"redstoneSieveTicks": 30,
+	// Min hits to craft item + random 50% of value
+	"craftRockCraftHits": 5,
+	// Max hits before breaking rock 
+	"craftRockMaxCraftHits": 70
 }

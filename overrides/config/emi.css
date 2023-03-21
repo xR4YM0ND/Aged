@@ -9,7 +9,7 @@
 	/**
 	 * Whether cheating in items is enabled.
 	 */
-	cheat-mode: true;
+	cheat-mode: false;
 
 	/**
 	 * Whether normal search queries should include the tooltip.

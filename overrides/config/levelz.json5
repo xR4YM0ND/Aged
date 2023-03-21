@@ -6,13 +6,13 @@
 	// Applies if bonus chest world setting is enabled
 	"startPoints": 0,
 	// Enables starter points for SERVER only
-	"enableStartPoints": true,
+	"enableStartPoints": false,
 	"pointsPerLevel": 1,
 	// If true will reset stats on death
 	"hardMode": false,
 	"disableMobFarms": true,
 	// Amount of allowed mob kills in a chunk
-	"mobKillCount": 5,
+	"mobKillCount": 10,
 	// Only for Devs
 	"devMode": false,
 	// Attribute values - Bonus for each lvl

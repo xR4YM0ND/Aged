@@ -21,7 +21,7 @@
 		saturation: saturation
 		// Sets whether the food history should be cleaned at death
 		// default: false
-		reset-history: true
+		reset-history: false
 		// Sets whether the player's maximum hearts should be reset in carrot mode after death
 		// default: false
 		reset-carrot-mode: false

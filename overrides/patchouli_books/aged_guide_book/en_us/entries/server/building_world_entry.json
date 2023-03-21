@@ -1,0 +1,22 @@
+{
+    "name": "Building World",
+    "icon": "minecraft:bricks",
+    "category": "patchouli:server_category",
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:image",
+            "images": ["aged:textures/gui/entries/building_world_spawn.png"],
+            "text": "This is the spawn in the Building World"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Building World",
+            "text": "$(li)PVP disabled$(li)Claims enabled$(li)Claim Trader at Spawn$(li)Mining World Portal at Spawn"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Wander around till you find your place to build.$(br2)Press $(l)M$() to open the World Map.$(br2)Hold right-click and select the area you want to claim.$(br2)Click $(l)Claim Selected$()$(br2)You can buy more Chunks from the $(l)Claim Trader$(). (Found at Spawn in Build World)"
+        }
+    ]
+}

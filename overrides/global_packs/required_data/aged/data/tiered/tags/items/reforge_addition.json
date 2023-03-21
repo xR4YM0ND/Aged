@@ -1,0 +1,9 @@
+{
+    "replace": true,
+    "values": [
+        "minecraft:amethyst_shard",
+        "byg:subzero_crystal_shard",
+        "byg:therium_shard",
+        "geodes:gypsum_shard"
+    ]
+}

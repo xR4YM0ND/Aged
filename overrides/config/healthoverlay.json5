@@ -37,7 +37,16 @@
 		"health_frozen_colors": [
 			"#3E70E6",
 			"#873EE6"
-		]
+		],
+		"gui": {
+			/* A point coordinates should be relative to.
+			   NOTE: moving towards left or top from a point always requires negative coordinates!
+			   Allowed Values: TOP_LEFT, TOP_MIDDLE, TOP_RIGHT, MIDDLE_LEFT, MIDDLE, MIDDLE_RIGHT, BOTTOM_LEFT, BOTTOM_MIDDLE, BOTTOM_RIGHT
+			*/
+			"relative_to": "BOTTOM_MIDDLE",
+			"x": -91,
+			"y": -39
+		}
 	},
 	"absorption": {
 		// Show vanilla hearts
@@ -71,7 +80,16 @@
 		"absorption_frozen_colors": [
 			"#90D136",
 			"#36D183"
-		]
+		],
+		"gui": {
+			/* A point coordinates should be relative to.
+			   NOTE: moving towards left or top from a point always requires negative coordinates!
+			   Allowed Values: TOP_LEFT, TOP_MIDDLE, TOP_RIGHT, MIDDLE_LEFT, MIDDLE, MIDDLE_RIGHT, BOTTOM_LEFT, BOTTOM_MIDDLE, BOTTOM_RIGHT
+			*/
+			"relative_to": "BOTTOM_MIDDLE",
+			"x": -91,
+			"y": -49
+		}
 	},
 	"qol": {
 		/* Display absorption in the same row as health

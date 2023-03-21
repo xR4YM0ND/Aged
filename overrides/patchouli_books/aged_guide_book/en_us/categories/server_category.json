@@ -1,0 +1,6 @@
+{
+    "name": "Server",
+    "description": "Find your way on the Aged Modpack Server.$(br2)IP: 176.9.37.250:25565",
+    "icon": "minecraft:player_head{SkullOwner:Globox_Z}",
+    "sortnum": 6
+}

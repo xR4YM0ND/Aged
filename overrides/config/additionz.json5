@@ -49,6 +49,10 @@
 	"heal_passive_entity_over_time_ticks": 1200,
 	// Change slot highlight to texture
 	"change_slot_highlight": false,
+	"fletching_table_use": true,
+	"show_nbt_tooltip": false,
+	// Repair trident with prismarine shards
+	"repair_trident": true,
 	"passive_entity_modifications": true,
 	"passiveEntityConfig": {
 		// Default = -24000

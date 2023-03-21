@@ -6,6 +6,8 @@
 	"thermometer_icon_x": 255,
 	"thermometer_icon_y": 32,
 	"show_thermometer": true,
+	// Heating stones and ice pack only use while holding in hand
+	"hand_only_comforting_items": true,
 	// Below this biome temp - start undercooling
 	"biome_cold_temp": 0.4000000059604645,
 	// Below this biome temp - start freezing
