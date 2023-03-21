@@ -93,5 +93,7 @@
     "npc edit equipment"
   ],
   "// Whether to allow Taterzens to fight players in peaceful mode as well.": "",
-  "combat_in_peaceful": true
+  "combat_in_peaceful": true,
+  "// Whether give fake glowing effect to Taterzen when selected.": "",
+  "glow_selected_npc": true
 }

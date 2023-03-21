@@ -39,7 +39,10 @@
     "mcp.mobius.waila.gui.screen.HomeScreen": true,
     "mcp.mobius.waila.gui.screen.WailaConfigScreen": true,
     "mcp.mobius.waila.gui.screen.PluginConfigScreen": true,
-    "mcp.mobius.waila.gui.screen.PluginConfigScreen$1": true
+    "mcp.mobius.waila.gui.screen.PluginConfigScreen$1": true,
+    "com.glisco.disenchanter.client.DisenchanterScreen": true,
+    "slexom.vf.animal_feeding_trough.screen.FeedingTroughScreen": true,
+    "com.glisco.numismaticoverhaul.client.gui.ShopScreen": true
   },
   "hideBackground": {
     "net.minecraft.class_5522": true,
@@ -56,6 +59,8 @@
     "com.glisco.numismaticoverhaul.client.gui.shop.ShopScreen": true,
     "net.mehvahdjukaar.supplementaries.client.screens.SackGui": true,
     "net.jobsaddon.gui.JobsScreen": true,
-    "com.glisco.isometricrenders.screen.RenderScreen": true
+    "com.glisco.isometricrenders.screen.RenderScreen": true,
+    "com.glisco.disenchanter.client.DisenchanterScreen": true,
+    "slexom.vf.animal_feeding_trough.screen.FeedingTroughScreen": true
   }
 }

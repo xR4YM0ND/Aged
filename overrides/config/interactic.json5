@@ -13,9 +13,9 @@
 	// Whether Interactic should override Minecraft's default item rendering with a more fancy version. Highly recommended
 	"fancyItemRendering": true,
 	// Whether Interactic should render the tooltips of items under the crosshair
-	"renderItemTooltips": true,
+	"renderItemTooltips": false,
 	// Whether Interactic should render the full tooltip of items
-	"renderFullTooltip": true,
+	"renderFullTooltip": false,
 	// Whether your arms should swing when dropping items
 	"swingArm": true,
 	// Whether block items should lay flat on the ground

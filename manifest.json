@@ -10,7 +10,7 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "Aged 1.0.1",
+  "name": "Aged 1.0.2",
   "version": "1.19.2",
   "author": "SpigotDE",
   "files": [
@@ -460,11 +460,6 @@
       "required": true
     },
     {
-      "projectID": 308769,
-      "fileID": 4030849,
-      "required": true
-    },
-    {
       "projectID": 369254,
       "fileID": 4031400,
       "required": true
@@ -705,11 +700,6 @@
       "required": true
     },
     {
-      "projectID": 446499,
-      "fileID": 3904344,
-      "required": true
-    },
-    {
       "projectID": 550916,
       "fileID": 3825962,
       "required": true
@@ -830,11 +820,6 @@
       "required": true
     },
     {
-      "projectID": 306612,
-      "fileID": 4033180,
-      "required": true
-    },
-    {
       "projectID": 482834,
       "fileID": 4061213,
       "required": true
@@ -910,11 +895,6 @@
       "required": true
     },
     {
-      "projectID": 317780,
-      "fileID": 4026544,
-      "required": true
-    },
-    {
       "projectID": 417510,
       "fileID": 4058315,
       "required": true
@@ -942,6 +922,41 @@
     {
       "projectID": 657481,
       "fileID": 4070237,
+      "required": true
+    },
+    {
+      "projectID": 306612,
+      "fileID": 4073289,
+      "required": true
+    },
+    {
+      "projectID": 308769,
+      "fileID": 4075244,
+      "required": true
+    },
+    {
+      "projectID": 542478,
+      "fileID": 3998293,
+      "required": true
+    },
+    {
+      "projectID": 548463,
+      "fileID": 4074619,
+      "required": true
+    },
+    {
+      "projectID": 665526,
+      "fileID": 4030091,
+      "required": true
+    },
+    {
+      "projectID": 446499,
+      "fileID": 4073927,
+      "required": true
+    },
+    {
+      "projectID": 317780,
+      "fileID": 4074104,
       "required": true
     },
     {
