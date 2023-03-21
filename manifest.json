@@ -10,7 +10,7 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "Aged 1.2.1",
+  "name": "Aged 1.2.2",
   "version": "1.19.2",
   "author": "SpigotDE",
   "files": [
@@ -865,11 +865,6 @@
       "required": true
     },
     {
-      "projectID": 306612,
-      "fileID": 4256084,
-      "required": true
-    },
-    {
       "projectID": 416796,
       "fileID": 4271110,
       "required": true
@@ -1032,6 +1027,11 @@
     {
       "projectID": 659920,
       "fileID": 4327784,
+      "required": true
+    },
+    {
+      "projectID": 306612,
+      "fileID": 4302462,
       "required": true
     }
   ],
