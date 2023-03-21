@@ -27,8 +27,8 @@ screenEffectScale:1.0
 fovEffectScale:1.0
 darknessEffectScale:1.0
 gamma:0.5
-renderDistance:12
-simulationDistance:12
+renderDistance:10
+simulationDistance:10
 entityDistanceScaling:1.0
 guiScale:3
 particles:0
@@ -38,7 +38,7 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"false"
-resourcePacks:["vanilla","Fabric Mods","lambdabettergrass/default","continuity/default","continuity/glass_pane_culling_fix","loadmyresources.hiddenpack"]
+resourcePacks:["vanilla","Fabric Mods","lambdabettergrass/default","continuity/default","continuity/glass_pane_culling_fix","loadmyresources.hiddenpack","file/Better-Leaves-7.1-1.19+.zip","file/EclecticTrove-noconfig-1.19-1.2.0.zip"]
 incompatibleResourcePacks:["loadmyresources.hiddenpack"]
 lastServer:
 lang:en_us

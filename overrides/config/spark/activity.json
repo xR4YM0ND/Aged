@@ -1,0 +1,93 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "SpigotDE",
+      "uniqueId": "51ee8b76-3479-41b6-84c4-671509d97687"
+    },
+    "time": 1668183456513,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/fLSHzu0TBu"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "SpigotDE",
+      "uniqueId": "51ee8b76-3479-41b6-84c4-671509d97687"
+    },
+    "time": 1668182679527,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/FnUj2IUlGA"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "SpigotDE",
+      "uniqueId": "51ee8b76-3479-41b6-84c4-671509d97687"
+    },
+    "time": 1668180191373,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/Rv1EW5YtXU"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "SpigotDE",
+      "uniqueId": "51ee8b76-3479-41b6-84c4-671509d97687"
+    },
+    "time": 1668179736419,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/FioJvwuZm3"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "SpigotDE",
+      "uniqueId": "51ee8b76-3479-41b6-84c4-671509d97687"
+    },
+    "time": 1668179399897,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/233xfA6VKv"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "SpigotDE",
+      "uniqueId": "51ee8b76-3479-41b6-84c4-671509d97687"
+    },
+    "time": 1668179256655,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/cLY3unFpH9"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "SpigotDE",
+      "uniqueId": "51ee8b76-3479-41b6-84c4-671509d97687"
+    },
+    "time": 1668178823462,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/8sZPgcl12O"
+    }
+  }
+]

@@ -71,13 +71,6 @@
             },
             {
                 "type": "numismatic-overhaul:sell_map",
-                "structure": "graveyard:haunted_house",
-                "price": 900,
-                "villager_experience": 25,
-                "max_uses": 1
-            },
-            {
-                "type": "numismatic-overhaul:sell_map",
                 "structure": "minecraft:monument",
                 "price": 1000,
                 "villager_experience": 25,
@@ -102,13 +95,6 @@
                     "count": 1
                 },
                 "max_uses": 8
-            },
-            {
-                "type": "numismatic-overhaul:sell_map",
-                "structure": "graveyard:crypt",
-                "price": 9000,
-                "villager_experience": 20,
-                "max_uses": 1
             },
             {
                 "type": "numismatic-overhaul:sell_map",

@@ -6,7 +6,7 @@
   },
   "dimensionWhitelist": [
     "minecraft:overworld",
-    "mining:mining_world"
+    "another:world"
   ],
   "doTemperatureChanges": true,
   "isSeasonTiedWithSystemTime": false,
@@ -165,13 +165,6 @@
       "springModifier": 0.05,
       "summerModifier": 0.15,
       "fallModifier": 0.3,
-      "winterModifier": 0.0
-    },
-    {
-      "cropIdentifier": "supplementaries:flax",
-      "springModifier": 0.3,
-      "summerModifier": 0.15,
-      "fallModifier": 0.0,
       "winterModifier": 0.0
     },
     {
