@@ -1,11 +1,11 @@
 {
     "values": [
-        "colorful-azaleas:fiss_azalea_stairs",
-        "colorful-azaleas:titanium_azalea_stairs",
-        "colorful-azaleas:walnut_azalea_stairs",
-        "colorful-azaleas:roze_azalea_stairs",
-        "colorful-azaleas:bright_azalea_stairs",
-        "colorful-azaleas:tecal_azalea_stairs",
-        "colorful-azaleas:azule_azalea_stairs"
+        "colorfulazaleas:fiss_azalea_stairs",
+        "colorfulazaleas:titanium_azalea_stairs",
+        "colorfulazaleas:walnut_azalea_stairs",
+        "colorfulazaleas:roze_azalea_stairs",
+        "colorfulazaleas:bright_azalea_stairs",
+        "colorfulazaleas:tecal_azalea_stairs",
+        "colorfulazaleas:azule_azalea_stairs"
     ]
 }

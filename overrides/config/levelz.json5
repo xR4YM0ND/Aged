@@ -13,6 +13,10 @@
 	"disableMobFarms": true,
 	// Amount of allowed mob kills in a chunk
 	"mobKillCount": 10,
+	// Strange potion resets all stats instead of one
+	"opStrangePotion": false,
+	// restrict hand usage when item not unlocked
+	"lockedHandUsage": false,
 	// Only for Devs
 	"devMode": false,
 	// Attribute values - Bonus for each lvl
@@ -48,7 +52,7 @@
 	"staminaFoodBonus": 0.30000001192092896,
 	// Price reduction in %
 	"tradeBonus": 1.0,
-	"tradeXPBonus": 0.5,
+	"tradeXPBonus": 0.20000000298023224,
 	// Disables bad reputation possibility at max lvl
 	"tradeReputation": true,
 	"smithingCostBonus": 0.014999999664723873,
@@ -82,7 +86,7 @@
 	// XP equation: lvl^exponent * multiplicator + base
 	"xpCostMultiplicator": 0.10000000149011612,
 	"xpExponent": 2,
-	"xpBaseCost": 50,
+	"xpBaseCost": 20,
 	// 0 = no experience cap
 	"xpMaxCost": 0,
 	"resetCurrentXP": true,
@@ -96,7 +100,7 @@
 	"fishingXPMultiplier": 0.800000011920929,
 	"furnaceXPMultiplier": 0.10000000149011612,
 	"oreXPMultiplier": 1.0,
-	"tradingXPMultiplier": 0.30000001192092896,
+	"tradingXPMultiplier": 0.18000000715255737,
 	"mobXPMultiplier": 1.0,
 	// Show the skill gui button in the inventory
 	"inventoryButton": true,

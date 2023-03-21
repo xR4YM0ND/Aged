@@ -14,14 +14,14 @@
 		// Expression that determines the hunger level after a fresh respawn
 		// default: max(14, hunger)
 		// 	Must be a valid expression
-		hunger: max(14, hunger)
+		hunger: max(20, hunger)
 		// Expression that determines the saturation level after a fresh respawn
 		// default: saturation
 		// 	Must be a valid expression
 		saturation: saturation
 		// Sets whether the food history should be cleaned at death
 		// default: false
-		reset-history: false
+		reset-history: true
 		// Sets whether the player's maximum hearts should be reset in carrot mode after death
 		// default: false
 		reset-carrot-mode: false
@@ -48,7 +48,7 @@
 		// Sets the amount of last eaten foods to use for the calculations in this category
 		// default: 20
 		// 	Must be greater or equal to 0
-		history-length: 16
+		history-length: 8
 	}
 	// The good ol' carrot style.
 	// Carrot style means, that you start with a certain amount of hearts and gain more by eating unique foods.

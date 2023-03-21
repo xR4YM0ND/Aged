@@ -4,6 +4,7 @@
   "wanderingTraderSellsFDItems": true,
   "richSoilBoostChance": 0.2,
   "cuttingBoardFortuneBonus": 0.1,
+  "enableRopeReeling": true,
   "canvasSignDarkBackgroundList": [
     "gray",
     "purple",
@@ -13,9 +14,18 @@
     "red",
     "black"
   ],
+  "defaultTomatoVineRope": "farmersdelight:rope",
+  "enableTomatoVineClimbingTaggedRopes": true,
   "vanillaSoupExtraEffects": true,
   "rabbitStewJumpBoost": true,
   "dispenserToolsCuttingBoard": true,
+  "enableStackableSoupSize": false,
+  "soupItemList": [
+    "minecraft:mushroom_stew",
+    "minecraft:beetroot_soup",
+    "minecraft:rabbit_stew"
+  ],
+  "overrideAllSoupItems": false,
   "generateFDChestLoot": true,
   "generateVillageCompostHeaps": true,
   "generateWildCabbages": true,

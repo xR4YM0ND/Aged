@@ -8,6 +8,6 @@
 	// Min hits to craft item + random 50% of value
 	"craftRockCraftHits": 5,
 	// Max hits before breaking rock 
-	"craftRockMaxCraftHits": 70,
+	"craftRockMaxCraftHits": 10,
 	"info_tooltips": true
 }

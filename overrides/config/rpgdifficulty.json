@@ -15,7 +15,7 @@
   "extraXp": true,
   "maxXPFactor": 3.0,
   "startingFactor": 1.0,
-  "startingDistance": 0,
+  "startingDistance": 200,
   "startingTime": 0,
   "startingHeight": 62,
   "positiveHeightIncreasion": true,
