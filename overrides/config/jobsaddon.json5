@@ -23,6 +23,7 @@
 	"minerXP": 7,
 	"smitherXP": 8,
 	"warriorXP": 5,
+	"xpMultiplicator": 1,
 	"levelZXPMultiplicator": 2,
 	// Numismatic Overhaul compat lvl * multiplicator
 	"moneyMultiplicator": 20,

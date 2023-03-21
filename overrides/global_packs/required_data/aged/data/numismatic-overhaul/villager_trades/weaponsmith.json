@@ -4,17 +4,19 @@
         "novice": [
             {
                 "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 1,
                 "max_uses": 4,
+                "price": 10,
                 "buy": {
                   "item": "minecraft:charcoal",
                   "count": 8
-                },
-                "price": 10
+                }
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
-                "price": 2,
+                "villager_experience": 1,
                 "max_uses": 7,
+                "price": 2,
                 "sell": {
                     "item": "minecraft:wooden_sword",
                     "count": 1
@@ -22,8 +24,9 @@
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
-                "price": 3,
+                "villager_experience": 1,
                 "max_uses": 7,
+                "price": 3,
                 "sell": {
                     "item": "medievalweapons:wooden_small_axe",
                     "count": 1
@@ -31,8 +34,9 @@
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
-                "price": 4,
+                "villager_experience": 1,
                 "max_uses": 7,
+                "price": 4,
                 "sell": {
                     "item": "medievalweapons:wooden_long_sword",
                     "count": 1
@@ -40,8 +44,9 @@
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
-                "price": 1,
+                "villager_experience": 1,
                 "max_uses": 7,
+                "price": 1,
                 "sell": {
                     "item": "medievalweapons:wooden_dagger",
                     "count": 1
@@ -49,8 +54,9 @@
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
-                "price": 1,
+                "villager_experience": 1,
                 "max_uses": 7,
+                "price": 1,
                 "sell": {
                     "item": "medievalweapons:wooden_francisca",
                     "count": 1
@@ -58,8 +64,9 @@
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
-                "price": 3,
+                "villager_experience": 1,
                 "max_uses": 7,
+                "price": 3,
                 "sell": {
                     "item": "medievalweapons:wooden_big_axe",
                     "count": 1
@@ -67,8 +74,9 @@
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
-                "price": 4,
+                "villager_experience": 1,
                 "max_uses": 7,
+                "price": 4,
                 "sell": {
                     "item": "medievalweapons:wooden_mace",
                     "count": 1
@@ -76,8 +84,9 @@
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
-                "price": 2,
+                "villager_experience": 1,
                 "max_uses": 7,
+                "price": 2,
                 "sell": {
                     "item": "medievalweapons:wooden_ninjato",
                     "count": 1
@@ -85,8 +94,9 @@
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
-                "price": 2,
+                "villager_experience": 1,
                 "max_uses": 7,
+                "price": 2,
                 "sell": {
                     "item": "medievalweapons:wooden_rapier",
                     "count": 1
@@ -96,17 +106,19 @@
         "apprentice": [
             {
                 "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 2,
                 "max_uses": 4,
+                "price": 40,
                 "buy": {
                   "item": "minecraft:coal",
                   "count": 8
-                },
-                "price": 40
+                }
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
-                "price": 20,
+                "villager_experience": 2,
                 "max_uses": 5,
+                "price": 20,
                 "sell": {
                     "item": "minecraft:stone_sword",
                     "count": 1
@@ -114,8 +126,9 @@
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
-                "price": 30,
+                "villager_experience": 2,
                 "max_uses": 5,
+                "price": 30,
                 "sell": {
                     "item": "medievalweapons:stone_small_axe",
                     "count": 1
@@ -123,8 +136,9 @@
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
-                "price": 40,
+                "villager_experience": 2,
                 "max_uses": 5,
+                "price": 40,
                 "sell": {
                     "item": "medievalweapons:stone_long_sword",
                     "count": 1
@@ -132,8 +146,9 @@
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
-                "price": 10,
+                "villager_experience": 2,
                 "max_uses": 5,
+                "price": 10,
                 "sell": {
                     "item": "medievalweapons:stone_dagger",
                     "count": 1
@@ -141,8 +156,9 @@
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
-                "price": 10,
+                "villager_experience": 2,
                 "max_uses": 5,
+                "price": 10,
                 "sell": {
                     "item": "medievalweapons:stone_francisca",
                     "count": 1
@@ -150,8 +166,9 @@
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
-                "price": 30,
+                "villager_experience": 2,
                 "max_uses": 5,
+                "price": 30,
                 "sell": {
                     "item": "medievalweapons:stone_big_axe",
                     "count": 1
@@ -159,8 +176,9 @@
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
-                "price": 40,
+                "villager_experience": 2,
                 "max_uses": 5,
+                "price": 40,
                 "sell": {
                     "item": "medievalweapons:stone_mace",
                     "count": 1
@@ -168,8 +186,9 @@
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
-                "price": 20,
+                "villager_experience": 2,
                 "max_uses": 5,
+                "price": 20,
                 "sell": {
                     "item": "medievalweapons:stone_ninjato",
                     "count": 1
@@ -177,8 +196,9 @@
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
-                "price": 20,
+                "villager_experience": 2,
                 "max_uses": 5,
+                "price": 20,
                 "sell": {
                     "item": "medievalweapons:stone_rapier",
                     "count": 1
@@ -188,17 +208,19 @@
         "journeyman": [
             {
                 "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 3,
                 "max_uses": 4,
+                "price": 200,
                 "buy": {
                   "item": "minecraft:gold_ingot",
                   "count": 4
-                },
-                "price": 200
+                }
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
-                "price": 2000,
+                "villager_experience": 3,
                 "max_uses": 5,
+                "price": 2000,
                 "sell": {
                     "item": "minecraft:golden_sword",
                     "count": 1
@@ -206,8 +228,9 @@
             },
             {
                 "type": "numismatic-overhaul:buy_item",
-                "price": 100,
+                "villager_experience": 3,
                 "max_uses": 5,
+                "price": 100,
                 "buy": {
                     "item": "minecraft:golden_sword",
                     "count": 1
@@ -215,8 +238,9 @@
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
-                "price": 3000,
+                "villager_experience": 3,
                 "max_uses": 5,
+                "price": 3000,
                 "sell": {
                     "item": "medievalweapons:golden_small_axe",
                     "count": 1
@@ -224,8 +248,9 @@
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
-                "price": 4000,
+                "villager_experience": 3,
                 "max_uses": 5,
+                "price": 4000,
                 "sell": {
                     "item": "medievalweapons:golden_long_sword",
                     "count": 1
@@ -233,8 +258,9 @@
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
-                "price": 1000,
+                "villager_experience": 3,
                 "max_uses": 5,
+                "price": 1000,
                 "sell": {
                     "item": "medievalweapons:golden_dagger",
                     "count": 1
@@ -242,8 +268,9 @@
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
-                "price": 1000,
+                "villager_experience": 3,
                 "max_uses": 5,
+                "price": 1000,
                 "sell": {
                     "item": "medievalweapons:golden_francisca",
                     "count": 1
@@ -251,8 +278,9 @@
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
-                "price": 3000,
+                "villager_experience": 3,
                 "max_uses": 5,
+                "price": 3000,
                 "sell": {
                     "item": "medievalweapons:golden_big_axe",
                     "count": 1
@@ -260,8 +288,9 @@
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
-                "price": 4000,
+                "villager_experience": 3,
                 "max_uses": 5,
+                "price": 4000,
                 "sell": {
                     "item": "medievalweapons:golden_mace",
                     "count": 1
@@ -269,8 +298,9 @@
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
-                "price": 2000,
+                "villager_experience": 3,
                 "max_uses": 5,
+                "price": 2000,
                 "sell": {
                     "item": "medievalweapons:golden_ninjato",
                     "count": 1
@@ -278,8 +308,9 @@
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
-                "price": 2000,
+                "villager_experience": 3,
                 "max_uses": 5,
+                "price": 2000,
                 "sell": {
                     "item": "medievalweapons:golden_rapier",
                     "count": 1
@@ -289,17 +320,19 @@
         "expert": [
             {
                 "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 4,
                 "max_uses": 4,
+                "price": 200,
                 "buy": {
                   "item": "minecraft:iron_ingot",
                   "count": 8
-                },
-                "price": 200
+                }
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
-                "price": 1000,
+                "villager_experience": 4,
                 "max_uses": 3,
+                "price": 1000,
                 "sell": {
                     "item": "minecraft:iron_sword",
                     "count": 1
@@ -307,8 +340,9 @@
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
-                "price": 1500,
+                "villager_experience": 4,
                 "max_uses": 3,
+                "price": 1500,
                 "sell": {
                     "item": "medievalweapons:iron_small_axe",
                     "count": 1
@@ -316,8 +350,9 @@
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
-                "price": 2000,
+                "villager_experience": 4,
                 "max_uses": 3,
+                "price": 2000,
                 "sell": {
                     "item": "medievalweapons:iron_long_sword",
                     "count": 1
@@ -325,8 +360,9 @@
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
-                "price": 500,
+                "villager_experience": 4,
                 "max_uses": 3,
+                "price": 500,
                 "sell": {
                     "item": "medievalweapons:iron_dagger",
                     "count": 1
@@ -334,8 +370,9 @@
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
-                "price": 500,
+                "villager_experience": 4,
                 "max_uses": 3,
+                "price": 500,
                 "sell": {
                     "item": "medievalweapons:iron_francisca",
                     "count": 1
@@ -343,8 +380,9 @@
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
-                "price": 1500,
+                "villager_experience": 4,
                 "max_uses": 3,
+                "price": 1500,
                 "sell": {
                     "item": "medievalweapons:iron_big_axe",
                     "count": 1
@@ -352,8 +390,9 @@
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
-                "price": 2000,
+                "villager_experience": 4,
                 "max_uses": 3,
+                "price": 2000,
                 "sell": {
                     "item": "medievalweapons:iron_mace",
                     "count": 1
@@ -361,8 +400,9 @@
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
-                "price": 1000,
+                "villager_experience": 4,
                 "max_uses": 3,
+                "price": 1000,
                 "sell": {
                     "item": "medievalweapons:iron_ninjato",
                     "count": 1
@@ -370,8 +410,9 @@
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
-                "price": 1000,
+                "villager_experience": 4,
                 "max_uses": 3,
+                "price": 1000,
                 "sell": {
                     "item": "medievalweapons:iron_rapier",
                     "count": 1
@@ -381,26 +422,33 @@
         "master": [
             {
                 "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 5,
                 "max_uses": 4,
+                "price": 1000,
                 "buy": {
                   "item": "minecraft:diamond",
                   "count": 2
-                },
-                "price": 1000
+                }
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
-                "price": 10000,
+                "villager_experience": 5,
                 "max_uses": 1,
+                "price": 10000,
                 "sell": {
                     "item": "minecraft:diamond_sword",
                     "count": 1
                 }
             },
             {
-                "type": "numismatic-overhaul:sell_stack",
-                "price": 15000,
+                "type": "numismatic-overhaul:process_item",
+                "villager_experience": 5,
                 "max_uses": 1,
+                "price": 10000,
+                "buy": {
+                    "item": "numismatic-overhaul:silver_coin",
+                    "count": 50
+                },
                 "sell": {
                     "item": "medievalweapons:diamond_small_axe",
                     "count": 1
@@ -408,8 +456,9 @@
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
-                "price": 20000,
+                "villager_experience": 5,
                 "max_uses": 1,
+                "price": 20000,
                 "sell": {
                     "item": "medievalweapons:diamond_long_sword",
                     "count": 1
@@ -417,8 +466,9 @@
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
-                "price": 5000,
+                "villager_experience": 5,
                 "max_uses": 1,
+                "price": 5000,
                 "sell": {
                     "item": "medievalweapons:diamond_dagger",
                     "count": 1
@@ -426,8 +476,9 @@
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
-                "price": 5000,
+                "villager_experience": 5,
                 "max_uses": 1,
+                "price": 5000,
                 "sell": {
                     "item": "medievalweapons:diamond_francisca",
                     "count": 1
@@ -435,8 +486,13 @@
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
-                "price": 15000,
+                "villager_experience": 5,
                 "max_uses": 1,
+                "price": 10000,
+                "buy": {
+                    "item": "numismatic-overhaul:silver_coin",
+                    "count": 50
+                },
                 "sell": {
                     "item": "medievalweapons:diamond_big_axe",
                     "count": 1
@@ -444,8 +500,9 @@
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
-                "price": 20000,
+                "villager_experience": 5,
                 "max_uses": 1,
+                "price": 20000,
                 "sell": {
                     "item": "medievalweapons:diamond_mace",
                     "count": 1
@@ -453,8 +510,9 @@
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
-                "price": 10000,
+                "villager_experience": 5,
                 "max_uses": 1,
+                "price": 10000,
                 "sell": {
                     "item": "medievalweapons:diamond_ninjato",
                     "count": 1
@@ -462,8 +520,9 @@
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
-                "price": 10000,
+                "villager_experience": 5,
                 "max_uses": 1,
+                "price": 10000,
                 "sell": {
                     "item": "medievalweapons:diamond_rapier",
                     "count": 1

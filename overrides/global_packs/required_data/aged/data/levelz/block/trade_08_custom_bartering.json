@@ -1,0 +1,7 @@
+{
+    "replace": true,
+    "skill": "trade",
+    "level": 8,
+    "block": "minecraft:custom_block",
+    "object": "drinkbeer:trade_box_normal"
+}

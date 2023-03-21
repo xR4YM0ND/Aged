@@ -1,0 +1,7 @@
+{
+    "replace": true,
+    "skill": "trade",
+    "level": 6,
+    "block": "minecraft:custom_block",
+    "object": "numismatic-overhaul:piggy_bank"
+}

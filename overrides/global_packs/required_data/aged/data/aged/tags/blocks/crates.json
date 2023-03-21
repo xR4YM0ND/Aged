@@ -1,0 +1,16 @@
+{
+    "values": [
+        "farmersdelight:carrot_crate",
+        "farmersdelight:potato_crate",
+        "farmersdelight:beetroot_crate",
+        "farmersdelight:cabbage_crate",
+        "farmersdelight:tomato_crate",
+        "farmersdelight:onion_crate",
+        "farmersdelight:rice_bale",
+        "farmersdelight:rice_bag",
+        "expandeddelight:asparagus_crate",
+        "expandeddelight:sweet_potato_crate",
+        "expandeddelight:chili_pepper_crate",
+        "minecraft:hay_block"
+    ]
+}

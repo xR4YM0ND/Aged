@@ -1,0 +1,233 @@
+{
+    "1": {
+        "replace": true,
+        "items": [
+            "minecraft:grass",
+            "minecraft:tall_grass",
+            "minecraft:seagrass",
+            "minecraft:fern",
+            "minecraft:large_fern",
+            "byg:wailing_grass",
+            "byg:scorched_grass",
+            "byg:tall_ether_grass",
+            "byg:ether_grass",
+            "byg:tall_prairie_grass",
+            "byg:prairie_grass",
+            "byg:beach_grass",
+            "expandeddelight:cheese_slice",
+            "expandeddelight:apple_juice",
+            "expandeddelight:sweet_berry_juice",
+            "expandeddelight:glow_berry_juice",
+            "expandeddelight:sweet_berry_jelly",
+            "expandeddelight:glow_berry_jelly",
+            "farmersdelight:cabbage_leaf",
+            "farmersdelight:minced_beef",
+            "farmersdelight:chicken_cuts",
+            "farmersdelight:bacon",
+            "farmersdelight:cod_slice",
+            "farmersdelight:salmon_slice",
+            "farmersdelight:mutton_chops"
+        ],
+        "crafting": [
+            "byg:cooked_white_puffball_cap",
+            "byg:aloe_vera_juice",
+            "minecraft:dried_kelp",
+            "minecraft:cookie",
+            "expandeddelight:chocolate_cookie",
+            "expandeddelight:sugar_cookie",
+            "expandeddelight:snickerdoodle",
+            "expandeddelight:cheese_sandwich",
+            "expandeddelight:peanut_butter",
+            "farmersdelight:sweet_berry_cookie",
+            "farmersdelight:honey_cookie",
+            "farmersdelight:wheat_dough",
+            "farmersdelight:raw_pasta",
+            "farmersdelight:pie_crust",
+            "farmersdelight:milk_bottle",
+            "farmersdelight:melon_juice",
+            "missingwilds:roasted_polypore_mushroom"
+        ]
+    },
+    "2": {
+        "replace": true,
+        "items": [
+            "byg:baobab_fruit",
+            "byg:green_apple",
+            "byg:crimson_berries",
+            "byg:nightshade_berries",
+            "byg:blueberries",
+            "minecraft:wheat",
+            "minecraft:carrot",
+            "minecraft:potato",
+            "minecraft:beetroot",
+            "minecraft:sweet_berries",
+            "minecraft:nether_wart",
+            "minecraft:brown_mushroom",
+            "minecraft:red_mushroom",
+            "minecraft:pumpkin",
+            "minecraft:melon_slice",
+            "expandeddelight:asparagus",
+            "expandeddelight:sweet_potato",
+            "expandeddelight:chili_pepper",
+            "expandeddelight:peanut",
+            "farmersdelight:cabbage",
+            "farmersdelight:tomato",
+            "farmersdelight:onion",
+            "farmersdelight:rice_panicle",
+            "farmersdelight:rice",
+            "farmersdelight:rotten_tomato",
+            "farmersdelight:dog_food"
+        ],
+        "crafting": [
+            "minecraft:baked_potato",
+            "expandeddelight:baked_sweet_potato",
+            "expandeddelight:grilled_cheese",
+            "expandeddelight:peanut_butter_sandwich",
+            "expandeddelight:peanut_butter_honey_sandwich",
+            "expandeddelight:sweet_roll",
+            "expandeddelight:berry_sweet_roll",
+            "expandeddelight:glow_berry_sweet_roll",
+            "farmersdelight:fried_egg",
+            "farmersdelight:tomato_sauce",
+            "farmersdelight:beef_patty",
+            "farmersdelight:cooked_chicken_cuts",
+            "farmersdelight:cooked_bacon",
+            "farmersdelight:cooked_cod_slice",
+            "farmersdelight:cooked_salmon_slice",
+            "farmersdelight:cooked_mutton_chops",
+            "farmersdelight:melon_popsicle",
+            "farmersdelight:horse_feed"
+        ]
+    },
+    "3": {
+        "replace": true,
+        "items": [
+            "expandeddelight:cinnamon_rice",
+            "expandeddelight:cinnamon_apples",
+            "farmersdelight:ham",
+            "farmersdelight:cabbage_rolls",
+            "farmersdelight:kelp_roll_slice",
+            "farmersdelight:cooked_rice"
+        ],
+        "crafting": [
+            "naturalist:cooked_venison",
+            "adventurez:cooked_venison",
+            "adventurez:cooked_warthog_meat",
+            "byg:green_apple_pie",
+            "byg:crimson_berry_pie",
+            "byg:nightshade_berry_pie",
+            "byg:blueberry_pie",
+            "minecraft:beetroot_soup",
+            "minecraft:mushroom_stew",
+            "minecraft:cooked_chicken",
+            "minecraft:cooked_rabbit",
+            "minecraft:cooked_mutton",
+            "minecraft:cooked_salmon",
+            "minecraft:cooked_cod",
+            "minecraft:golden_carrot",
+            "minecraft:suspicious_stew",
+            "expandeddelight:sweet_berry_jelly_sandwich",
+            "expandeddelight:glow_berry_jelly_sandwich",
+            "expandeddelight:peanut_salad",
+            "expandeddelight:sweet_potato_salad",
+            "farmersdelight:fruit_salad",
+            "farmersdelight:mixed_salad",
+            "farmersdelight:nether_salad",
+            "farmersdelight:salmon_roll",
+            "farmersdelight:cod_roll"
+        ]
+    },
+    "4": {
+        "replace": true,
+        "items": [
+            "expandeddelight:cheese_wheel",
+            "expandeddelight:asparagus_soup",
+            "expandeddelight:asparagus_soup_creamy",
+            "expandeddelight:peanut_honey_soup",
+            "expandeddelight:mac_and_cheese",
+            "farmersdelight:glow_berry_custard",
+            "farmersdelight:dumplings",
+            "farmersdelight:bone_broth"
+        ],
+        "crafting": [
+            "adventurez:cooked_ender_whale_meat",
+            "adventurez:cooked_rhino_meat",
+            "byg:white_puffball_stew",
+            "minecraft:cooked_beef",
+            "minecraft:cooked_porkchop",
+            "minecraft:pumpkin_pie",
+            "minecraft:cake",
+            "farmersdelight:barbecue_stick",
+            "farmersdelight:egg_sandwich",
+            "farmersdelight:apple_pie",
+            "farmersdelight:sweet_berry_cheesecake",
+            "farmersdelight:chocolate_pie"
+        ]
+    },
+    "5": {
+        "replace": true,
+        "items": [
+            "farmersdelight:ratatouille",
+            "expandeddelight:asparagus_and_bacon_cheesy",
+            "expandeddelight:peperonata"
+        ],
+        "crafting": [
+            "minecraft:rabbit_stew",
+            "farmersdelight:smoked_ham",
+            "farmersdelight:chicken_sandwich",
+            "farmersdelight:bacon_sandwich",
+            "farmersdelight:stuffed_potato",
+            "farmersdelight:bacon_and_eggs",
+            "ecologics:tropical_stew"
+        ]
+    },
+    "6": {
+        "replace": true,
+        "items": [
+            "farmersdelight:beef_stew",
+            "farmersdelight:vegetable_soup",
+            "farmersdelight:fish_stew",
+            "farmersdelight:pasta_with_meatballs",
+            "farmersdelight:pasta_with_mutton_chop",
+            "farmersdelight:mushroom_rice"
+        ],
+        "crafting": [
+            "farmersdelight:hamburger",
+            "farmersdelight:mutton_wrap",
+            "farmersdelight:kelp_roll",
+            "farmersdelight:steak_and_potatoes"
+        ]
+    },
+    "7": {
+        "replace": true,
+        "items": [
+            "farmersdelight:chicken_soup",
+            "farmersdelight:fried_rice",
+            "farmersdelight:pumpkin_soup",
+            "farmersdelight:baked_cod_stew",
+            "farmersdelight:noodle_soup",
+            "farmersdelight:vegetable_noodles",
+            "farmersdelight:squid_ink_pasta",
+            "farmersdelight:roast_chicken",
+            "farmersdelight:stuffed_pumpkin",
+            "farmersdelight:honey_glazed_ham",
+            "farmersdelight:shepherds_pie",
+            "farmersdelight:stuffed_pumpkin_block"
+        ],
+        "crafting": [
+            "farmersdelight:roasted_mutton_chops",
+            "farmersdelight:grilled_salmon",
+            "farmersdelight:roast_chicken_block",
+            "farmersdelight:honey_glazed_ham_block",
+            "farmersdelight:shepherds_pie_block",
+            "farmersdelight:rice_roll_medley_block"
+        ]
+    },
+    "10": {
+        "replace": true,
+        "crafting": [
+            "minecraft:golden_apple",
+            "minecraft:enchanted_golden_apple"
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "3": {
+        "replace": true,
+        "crafting": [
+            "minecraft:fishing_rod"
+        ]
+    },
+    "4": {
+        "replace": true,
+        "entities": [
+            "minecraft:tadpole"
+        ]
+    },
+    "5": {
+        "replace": true,
+        "items": [
+            "minecraft:cod",
+            "minecraft:salmon",
+            "minecraft:pufferfish",
+            "minecraft:tropical_fish"
+        ],
+        "entities": [
+            "minecraft:cod",
+            "minecraft:frog",
+            "minecraft:salmon",
+            "minecraft:tropical_fish",
+            "minecraft:pufferfish",
+            "minecraft:glow_squid",
+            "minecraft:squid"
+        ]
+    },
+    "10": {
+        "replace": true,
+        "items": [],
+        "entities": []
+    },
+    "15": {
+        "replace": true,
+        "items": [
+            "minecraft:enchanted_book",
+            "minecraft:saddle",
+            "minecraft:nautilus_shell",
+            "minecraft:name_tag"
+        ]
+    }
+}

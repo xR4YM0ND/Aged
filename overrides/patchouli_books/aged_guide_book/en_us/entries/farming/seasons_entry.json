@@ -1,0 +1,42 @@
+{
+    "name": "Seasons",
+    "icon": "seasons:season_calendar",
+    "category": "patchouli:farming_category",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "seasons:season_calendar",
+            "title": "Seasons",
+            "text": "Each Seasons lasts 3 real time days. Watch out for your crops & saplings. They won't grow in all seasons."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "seasons:season_calendar",
+            "recipe2": "seasons:season_detector"
+        },
+        {
+            "type": "patchouli:image",
+            "images": ["aged:textures/gui/entries/spring.png"],
+            "title": "Spring",
+            "text": ""
+        },
+        {
+            "type": "patchouli:image",
+            "images": ["aged:textures/gui/entries/summer.png"],
+            "title": "Summer",
+            "text": ""
+        },
+        {
+            "type": "patchouli:image",
+            "images": ["aged:textures/gui/entries/fall.png"],
+            "title": "Fall",
+            "text": ""
+        },
+        {
+            "type": "patchouli:image",
+            "images": ["aged:textures/gui/entries/winter.png"],
+            "title": "Winter",
+            "text": ""
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "values": [
+        "mcwbridges:iron_bridge",
+        "#mcwbridges:log_bridges",
+        "#mcwbridges:rope_bridges",
+        "#mcwbridges:stone_bridges",
+        "#mcwbridges:rail_bridges",
+        "#mcwbridges:bamboo_bridges",
+        "mcwbridges:iron_bridge_pier",
+        "#mcwbridges:wooden_piers",
+        "#mcwbridges:stone_piers",
+        "#mcwbridges:bamboo_piers",
+        "mcwbridges:iron_bridge_stair",
+        "#mcwbridges:log_stairs",
+        "#mcwbridges:rope_stairs",
+        "#mcwbridges:stone_stairs",
+        "#mcwbridges:bamboo_stairs"
+    ]
+}

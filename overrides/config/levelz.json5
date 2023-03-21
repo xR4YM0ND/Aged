@@ -7,7 +7,7 @@
 	"startPoints": 0,
 	// Enables starter points for SERVER only
 	"enableStartPoints": true,
-	"pointsPerLevel": 3,
+	"pointsPerLevel": 1,
 	// If true will reset stats on death
 	"hardMode": false,
 	"disableMobFarms": true,
@@ -104,6 +104,8 @@
 	"highlightLocked": false,
 	"sortCraftingRecipesBySkill": false,
 	"inventorySkillLevel": true,
+	"inventorySkillLevelPosX": 0,
+	"inventorySkillLevelPosY": 62,
 	"showLevelList": true,
 	"showLevel": true,
 	// Switch levelz screen instead of closing with inventory key

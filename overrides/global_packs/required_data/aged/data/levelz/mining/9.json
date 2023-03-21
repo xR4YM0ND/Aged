@@ -21,6 +21,18 @@
         "minecraft:polished_diorite_slab",
         "universal_ores:diorite_coal_ore",
         "universal_ores:diorite_copper_ore",
-        "universal_ores:diorite_gold_ore"
+        "universal_ores:diorite_gold_ore",
+        "byg:travertine",
+        "byg:travertine_stairs",
+        "byg:travertine_slab",
+        "byg:travertine_wall",
+        "byg:polished_travertine",
+        "byg:polished_travertine_stairs",
+        "byg:polished_travertine_slab",
+        "byg:polished_travertine_wall",
+        "byg:chiseled_travertine",
+        "byg:chiseled_travertine_stairs",
+        "byg:chiseled_travertine_slab",
+        "byg:chiseled_travertine_wall"
     ]
 }

@@ -1,0 +1,20 @@
+{
+    "name": "Blackstone Golem",
+    "icon": "adventurez:spawn_stone_golem",
+    "category": "patchouli:fight_category",
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "adventurez:stone_golem",
+            "scale": 0.7,
+            "text": ""
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "adventurez:handbook",
+            "title": "More Infos",
+            "text": "Check out the AdventureZ Handbook for more Infos."
+        }
+    ]
+}

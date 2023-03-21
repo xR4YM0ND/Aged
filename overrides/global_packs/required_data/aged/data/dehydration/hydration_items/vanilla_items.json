@@ -1,0 +1,107 @@
+{
+    "1": {
+        "replace": true,
+        "items": [
+            "minecraft:apple",
+            "minecraft:melon_slice",
+            "minecraft:honey_bottle",
+            "minecraft:chorus_fruit",
+            "byg:green_apple",
+            "byg:joshua_fruit",
+            "ecologics:coconut_slice",
+            "ecologics:prickly_pear",
+            "farmersdelight:tomato",
+            "farmersdelight:pumpkin_slice"
+        ]
+    },
+    "2": {
+        "replace": true,
+        "items": [
+            "minecraft:potion",
+            "expandeddelight:sweet_berry_jelly",
+            "expandeddelight:glow_berry_jelly",
+            "expandeddelight:mac_and_cheese",
+            "farmersdelight:milk_bottle",
+            "farmersdelight:tomato_sauce",
+            "farmersdelight:nether_salad",
+            "farmersdelight:dumplings",
+            "minecraft:suspicious_stew",
+            "minecraft:mushroom_stew",
+            "minecraft:beetroot_soup",
+            "xps:xp_berries"
+        ]
+    },
+    "3": {
+        "replace": true,
+        "items": [
+            "overweight_farming:melon_juice",
+            "byg:aloe_vera_juice",
+            "farmersdelight:melon_popsicle",
+            "farmersdelight:glow_berry_custard",
+            "farmersdelight:mixed_salad"
+        ]
+    },
+    "4": {
+        "replace": true,
+        "items": [
+            "minecraft:rabbit_stew",
+            "ecologics:tropical_stew",
+            "farmersdelight:fruit_salad",
+            "farmersdelight:beef_stew",
+            "farmersdelight:chicken_soup"
+        ]
+    },
+    "5": {
+        "replace": true,
+        "items": [
+            "minecraft:milk_bucket",
+            "expandeddelight:asparagus_soup",
+            "expandeddelight:asparagus_soup_creamy",
+            "expandeddelight:peanut_honey_soup"
+        ]
+    },
+    "6": {
+        "replace": true,
+        "items": [
+            "minecraft:golden_apple",
+            "byg:white_puffball_stew",
+            "expandeddelight:apple_juice",
+            "expandeddelight:sweet_berry_juice",
+            "expandeddelight:glow_berry_juice",
+            "farmersdelight:apple_cider",
+            "farmersdelight:melon_juice",
+            "farmersdelight:vegetable_soup",
+            "farmersdelight:fish_stew",
+            "farmersdelight:baked_cod_stew"
+        ]
+    },
+    "7": {
+        "replace": true,
+        "items": [
+            "drinkbeer:mixed_beer",
+            "drinkbeer:beer_mug",
+            "drinkbeer:beer_mug_blaze_stout",
+            "drinkbeer:beer_mug_blaze_milk_stout",
+            "drinkbeer:beer_mug_apple_lambic",
+            "drinkbeer:beer_mug_sweet_berry_kriek",
+            "drinkbeer:beer_mug_haars_icey_pale_lager",
+            "drinkbeer:beer_mug_pumpkin_kvass",
+            "drinkbeer:beer_mug_night_howl_kvass",
+            "drinkbeer:beer_mug_frothy_pink_eggnog",
+            "farmersdelight:pumpkin_soup",
+            "farmersdelight:noodle_soup"
+        ]
+    },
+    "8": {
+        "replace": true,
+        "items": [
+            "farmersdelight:hot_cocoa"
+        ]
+    },
+    "18": {
+        "replace": true,
+        "items": [
+            "minecraft:enchanted_golden_apple"
+        ]
+    }
+}

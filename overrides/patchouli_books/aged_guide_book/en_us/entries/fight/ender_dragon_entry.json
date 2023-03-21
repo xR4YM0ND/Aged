@@ -1,0 +1,15 @@
+{
+    "name": "Ender Dragon",
+    "icon": "adventurez:spawn_dragon",
+    "category": "patchouli:fight_category",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:ender_dragon",
+            "scale": 1.3,
+            "offset": -5,
+            "text": ""
+        }
+    ]
+}

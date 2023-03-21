@@ -14,6 +14,12 @@
         "twigs:polished_schist_brick_stairs",
         "twigs:polished_schist_brick_slab",
         "twigs:polished_schist_brick_wall",
+        "geodes:budding_gypsum",
+        "geodes:gypsum_crystal_block",
+        "geodes:gypsum_rose",
+        "geodes:large_gypsum_bud",
+        "geodes:medium_gypsum_bud",
+        "geodes:small_gypsum_bud",
         "minecraft:sponge",
         "minecraft:wet_sponge"
     ]

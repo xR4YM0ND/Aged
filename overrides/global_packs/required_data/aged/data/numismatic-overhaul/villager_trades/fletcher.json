@@ -4,42 +4,47 @@
         "novice": [
             {
                 "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "max_uses": 16,
                 "price": 20,
                 "sell": {
                     "item": "minecraft:feather",
                     "count": 1
-                },
-                "max_uses": 16
+                }
             },
             {
                 "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 1,
+                "max_uses": 16,
                 "price": 3,
                 "buy": {
                     "item": "minecraft:feather",
                     "count": 1
-                },
-                "max_uses": 16
+                }
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "max_uses": 16,
                 "price": 20,
                 "sell": {
                     "item": "minecraft:flint",
                     "count": 1
-                },
-                "max_uses": 16
+                }
             },
             {
                 "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 1,
+                "max_uses": 16,
                 "price": 4,
                 "buy": {
                     "item": "minecraft:flint",
                     "count": 1
-                },
-                "max_uses": 16
+                }
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
                 "max_uses": 16,
                 "price": 4,
                 "sell": {
@@ -49,6 +54,7 @@
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
                 "max_uses": 16,
                 "price": 4,
                 "sell": {
@@ -60,24 +66,27 @@
         "apprentice": [
             {
                 "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "max_uses": 12,
                 "price": 60,
                 "sell": {
                     "item": "minecraft:arrow",
                     "count": 8
-                },
-                "max_uses": 12
+                }
             },
             {
                 "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 2,
+                "max_uses": 12,
                 "price": 12,
                 "buy": {
                     "item": "minecraft:arrow",
                     "count": 8
-                },
-                "max_uses": 12
+                }
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
                 "max_uses": 12,
                 "price": 12,
                 "sell": {
@@ -87,6 +96,7 @@
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
                 "max_uses": 12,
                 "price": 12,
                 "sell": {
@@ -98,6 +108,7 @@
         "journeyman": [
             {
                 "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 3,
                 "max_uses": 8,
                 "price": 50,
                 "sell": {
@@ -107,6 +118,7 @@
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 3,
                 "max_uses": 8,
                 "price": 50,
                 "sell": {
@@ -116,6 +128,7 @@
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 3,
                 "max_uses": 8,
                 "price": 60,
                 "sell": {
@@ -125,6 +138,7 @@
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 3,
                 "max_uses": 8,
                 "price": 60,
                 "sell": {
@@ -136,26 +150,29 @@
         "expert": [
             {
                 "type": "numismatic-overhaul:enchant_item",
+                "villager_experience": 4,
                 "max_uses": 6,
+                "base_price": 2000,
                 "level": 30,
                 "allow_treasure": false,
                 "item": {
                   "item": "minecraft:bow"
-                },
-                "base_price": 2000
+                }
             },
             {
                 "type": "numismatic-overhaul:enchant_item",
+                "villager_experience": 4,
                 "max_uses": 6,
+                "base_price": 2000,
                 "level": 30,
                 "allow_treasure": false,
                 "item": {
                   "item": "minecraft:crossbow"
-                },
-                "base_price": 2000
+                }
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 4,
                 "max_uses": 6,
                 "price": 40,
                 "sell": {
@@ -165,6 +182,7 @@
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 4,
                 "max_uses": 6,
                 "price": 45,
                 "sell": {
@@ -176,44 +194,49 @@
         "master": [
             {
                 "type": "numismatic-overhaul:enchant_item",
+                "villager_experience": 5,
                 "max_uses": 4,
+                "base_price": 7000,
                 "level": 30,
                 "allow_treasure": false,
                 "item": {
                   "item": "medievalweapons:long_bow"
-                },
-                "base_price": 7000
+                }
             },
             {
                 "type": "numismatic-overhaul:enchant_item",
+                "villager_experience": 5,
                 "max_uses": 4,
+                "base_price": 7000,
                 "level": 30,
                 "allow_treasure": false,
                 "item": {
                   "item": "medievalweapons:recurve_bow"
-                },
-                "base_price": 7000
+                }
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 5,
+                "max_uses": 4,
                 "price": 10000,
                 "sell": {
                     "item": "minecraft:spectral_arrow",
                     "count": 32
-                },
-                "max_uses": 4
+                }
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 5,
+                "max_uses": 4,
                 "price": 20000,
                 "sell": {
                     "item": "adventurez:ivory_arrow",
                     "count": 32
-                },
-                "max_uses": 4
+                }
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 5,
                 "max_uses": 4,
                 "price": 500,
                 "sell": {
@@ -223,6 +246,7 @@
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 5,
                 "max_uses": 4,
                 "price": 500,
                 "sell": {

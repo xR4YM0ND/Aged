@@ -1,0 +1,31 @@
+{
+    "replace": true,
+    "values": [
+        "#c:ores",
+        "minecraft:ancient_debris",
+        "minecraft:amethyst_block",
+        "minecraft:budding_amethyst",
+        "minecraft:amethyst_cluster",
+        "minecraft:gilded_blackstone",
+        "geodes:emerald_geode",
+        "geodes:budding_emerald",
+        "geodes:emerald_cluster",
+        "geodes:quartz_geode",
+        "geodes:budding_quartz",
+        "geodes:quartz_cluster",
+        "geodes:diamond_geode",
+        "geodes:diamond_cluster",
+        "geodes:echo_block",
+        "geodes:budding_echo_block",
+        "geodes:echo_cluster",
+        "geodes:lapis_crystal_block",
+        "geodes:budding_lapis",
+        "geodes:lapis_cluster",
+        "geodes:gypsum_crystal_block",
+        "geodes:budding_gypsum",
+        "geodes:gypsum_rose",
+        "byg:subzero_crystal_block",
+        "byg:budding_subzero_crystal",
+        "byg:subzero_crystal_cluster"
+    ]
+}

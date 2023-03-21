@@ -1,12 +1,15 @@
 enableSodiumMenu = true
+cloudCulling = true
+signTextCulling = true
 useBlockStateCulling = true
 useCustomItemFrameRenderer = true
+itemFrameMapCulling = true
 useItemFrameLOD = true
 itemFrameLODRange = 384
 useItemFrame3FaceCulling = true
 itemFrame3FaceCullingRange = 12.0
 leavesCullingMode = "DEFAULT"
-leavesCullingDepth = 2
+leavesCullingAmount = 2
 includeMangroveRoots = true
 powderSnowCulling = true
 useOnModdedBlocksByDefault = true

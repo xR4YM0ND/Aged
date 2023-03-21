@@ -27,6 +27,12 @@
         "universal_ores:granite_lapis_ore",
         "universal_ores:diorite_lapis_ore",
         "universal_ores:andesite_lapis_ore",
-        "minecraft:lapis_block"
+        "minecraft:lapis_block",
+        "geodes:budding_lapis",
+        "geodes:lapis_crystal_block",
+        "geodes:lapis_cluster",
+        "geodes:large_lapis_bud",
+        "geodes:medium_lapis_bud",
+        "geodes:small_lapis_bud"
     ]
 }

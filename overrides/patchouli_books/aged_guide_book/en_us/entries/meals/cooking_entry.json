@@ -1,0 +1,54 @@
+{
+    "name": "Cooking",
+    "icon": "farmersdelight:cooking_pot",
+    "category": "patchouli:meals_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Before you cook!$()$(br2)You have to do different steps.$(br2)Follow this Guide to learn the basics that lead you to a master chef."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "Step 1",
+            "item": "farmersdelight:flint_knife",
+            "text": "Craft a Knife!$(br2)Knifes are helpful for:$(br)$(li)Secondary Animal Drops$(li)Yield Straw$(li)Melee Weaon$(li)Cutting$(li)Portioning Ingredients"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "Step 2",
+            "item": "farmersdelight:wild_onions",
+            "text": "$(l)Gather Ingredients$()$(br2)Harvest wild Crops with a knife or otherwise.$(br2)Harvest Animals with a Knife or otherwise.$(br2)Read more about $(l:patchouli:farming/plants_entry)Wild Crops$(/l)."
+        },
+        {
+            "type": "patchouli:crafting",
+            "title": "Step 3",
+            "recipe": "farmersdelight:cooking_pot",
+            "text": "Craft a $(l)Cooking Pot$() and place it above a heat source:$(br)$(li)Campfire$(li)Open Flames$(li)Lava$(li)Stove"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Cooking Infos",
+            "text": "Start to fill up the 6 Slots with Food Items.$(br2)If you break the Cooking Pot, the Food stays. So you can carry your dishes around.$(br2)Most Meals need a container to be served on, such as Bowls."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "farmersdelight:stove",
+            "text": "Just in case you don't know the Stove Recipe."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "farmersdelight:cutting_board",
+            "text": "You can chop down most meat and other ingredients to recieve smaller portions.$(br2)Use your Knife."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "farmersdelight:skillet",
+            "text": "Cook on the fly with the Skillet.$(br2)Just stay near a heat source and hold the ingredient in your offhand."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "More Infos",
+            "text": "Check the Advancements by pressing L on your keyboard.$(br2)Hop over to Farmer's Delight Tab.$(br2)Read the Advancements and go from there."
+        }
+    ]
+}

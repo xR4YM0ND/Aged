@@ -1,0 +1,19 @@
+{
+    "name": "Body Temperature",
+    "icon": "environmentz:wolf_chestplate",
+    "category": "patchouli:temperature_category",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:image",
+            "images": ["aged:textures/gui/entries/burning_body_temperature.png", "aged:textures/gui/entries/hot_body_temperature.png", "aged:textures/gui/entries/normal_body_temperature.png", "aged:textures/gui/entries/cold_body_temperature.png", "aged:textures/gui/entries/freezing_body_temperature.png"],
+            "title": "5 Body Stages",
+            "text": "Burning | Hot | Normal | Cold | Freezing"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Infos",
+            "text": "The Body Temperature consists of these factors:$(br)$(li)Environment Temperature$(li)Standing on blocks$(li)Standing near heat Sources$(li)Standing in Liquid$(li)Using Items"
+        }
+    ]
+}

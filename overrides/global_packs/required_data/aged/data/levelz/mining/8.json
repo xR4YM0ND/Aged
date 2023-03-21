@@ -22,6 +22,10 @@
         "universal_ores:tuff_gold_ore",
         "universal_ores:basalt_gold_ore",
         "minecraft:raw_gold_block",
-        "minecraft:gold_block"
+        "minecraft:gold_block",
+        "geodes:pyrite",
+        "geodes:pyrite_stairs",
+        "geodes:pyrite_slab",
+        "geodes:pyrite_wall"
     ]
 }

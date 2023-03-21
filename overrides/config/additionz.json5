@@ -33,6 +33,7 @@
 	// No trading when villager has no space
 	"villager_needs_space": false,
 	"path_block_under_gates": true,
+	"shovel_undo_farmland": true,
 	// If top is banner, player has to wear shield with same pattern
 	"beacon_shield_pattern": true,
 	// 0 = disabled

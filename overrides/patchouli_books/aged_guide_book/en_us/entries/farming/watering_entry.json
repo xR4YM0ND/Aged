@@ -1,0 +1,39 @@
+{
+    "name": "Watering",
+    "icon": "moisturization:sprinkler",
+    "category": "patchouli:farming_category",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:water_bucket",
+            "title": "Watering",
+            "text": "$(o)You can use the Bucket at $(l)Farming Level 10.$()$(br2)The Farmland dry's out faster than usual. Keep your Farmland hydrated."
+        },
+        {
+            "type": "patchouli:image",
+            "images": ["aged:textures/gui/entries/watering_range.png"],
+            "title": "Hydration Range",
+            "text": "$(l)Water Hydration Range:$()$(li)2 Blocks"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "moisturization:sprinkler",
+            "text": "$(br)$(l)Watering Range:$()$(li)3 block radius"
+        },
+        {
+            "type": "patchouli:image",
+            "images": ["aged:textures/gui/entries/sprinkler.png"],
+            "title": "Normal Range"
+        },
+        {
+            "type": "patchouli:smithing",
+            "recipe": "moisturization:netherite_sprinkler",
+            "text": "$(br)$(l)Watering Range:$()$(li)7 block radius"
+        },
+        {
+            "type": "patchouli:image",
+            "images": ["aged:textures/gui/entries/netherite_sprinkler.png"],
+            "title": "Netherite Range"
+        }
+    ]
+}

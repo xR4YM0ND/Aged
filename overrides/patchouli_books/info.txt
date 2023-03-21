@@ -1,0 +1,66 @@
+Get Started
+    Skills
+        GUI Screen ( k ) - always check your skills & mining tab
+        XP kriegt man wenn man normale vanilla xp bekommt ( mobs, ores, ... )
+        link zu jobs
+    Food
+        Ausgewogene Ernährung
+        #Farming
+        ???
+    Drinks
+        Sneak right click ( bei flüssen chance geringer)
+        Food (Soups, ...)
+        Bottle of water (campfire, furnace) abkochen
+        Regenwasser sammeln mit Copper Cauldron
+        Pictures from cauldron over lagerfeuer
+        Pump
+        Flasks
+
+Environment
+    Cold
+        Campfire / Lava / Furnace
+        Heating Stones
+        Wolf Armor / Leather Armor
+        Armor Insulate -> Fur -> Polar Bear
+    Hot
+        No Armor
+        Non open Air ( Roof over you head )
+        Drinks
+        Ice Packs
+
+Farming
+    Plants
+    Seeds
+    Seasons
+    Watering
+
+Coins
+    Jobs
+        Screenshot GUI Screen 
+        2 Jobs max ( 50 / 50 )
+        Cooldown 1 hour
+    Trading
+        Screenshot Villager
+    Claims
+        Screenshot World Map mit Claims
+        Screenshot Villager Claim Trader
+
+Fight
+    Ender Dragon
+    Wither
+    Blackstone Golem
+    The Eye
+    Void Shadow
+
+The Nether
+    Skills
+
+The End
+    The Lost Castle / Stronghold
+    12 Eyes
+    Skills
+
+
+Unicodes:
+✘ ✔
+

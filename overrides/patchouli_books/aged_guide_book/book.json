@@ -1,0 +1,7 @@
+{
+    "name": "Aged Guide Book",
+    "landing_text": "Welcome to your first Aged Adventure!$(br2)Hop on our $(l:https://discord.gg/WXdSYn4yHB)Discord$(/l) for even more support.",
+    "version": 1,
+    "book_texture": "patchouli:textures/gui/book_brown.png",
+    "text_overflow_mode": "resize"
+}

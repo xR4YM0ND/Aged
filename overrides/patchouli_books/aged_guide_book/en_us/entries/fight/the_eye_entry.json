@@ -1,0 +1,21 @@
+{
+    "name": "The Eye",
+    "icon": "adventurez:spawn_the_eye",
+    "category": "patchouli:fight_category",
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "adventurez:the_eye",
+            "scale": 0.9,
+            "offset": 0.5,
+            "text": ""
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "adventurez:handbook",
+            "title": "More Infos",
+            "text": "Check out the AdventureZ Handbook for more Infos."
+        }
+    ]
+}
