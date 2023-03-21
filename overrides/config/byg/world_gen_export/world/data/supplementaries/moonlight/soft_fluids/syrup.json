@@ -1,0 +1,8 @@
+{
+	"color": "8e3f26",
+	"flowing_texture": "moonlight:soft_fluids/potion_flow",
+	"from_mod": "autumnity",
+	"still_texture": "moonlight:soft_fluids/honey_liquid",
+	"translation_key": "item.autumnity.syrup",
+	"use_texture_from": "create:honey"
+}

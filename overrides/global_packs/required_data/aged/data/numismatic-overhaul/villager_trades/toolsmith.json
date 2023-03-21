@@ -1,0 +1,222 @@
+{
+    "profession": "toolsmith",
+    "trades": {
+        "novice": [
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "max_uses": 4,
+                "buy": {
+                  "item": "minecraft:charcoal",
+                  "count": 8
+                },
+                "price": 10
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 3,
+                "max_uses": 8,
+                "sell": {
+                    "item": "minecraft:wooden_shovel",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 3,
+                "max_uses": 8,
+                "sell": {
+                    "item": "minecraft:wooden_pickaxe",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 3,
+                "max_uses": 8,
+                "sell": {
+                    "item": "minecraft:wooden_axe",
+                    "count": 1
+                }
+            }
+        ],
+        "apprentice": [
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "max_uses": 4,
+                "buy": {
+                  "item": "minecraft:coal",
+                  "count": 8
+                },
+                "price": 40
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 10,
+                "max_uses": 8,
+                "sell": {
+                    "item": "minecraft:stone_shovel",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 30,
+                "max_uses": 8,
+                "sell": {
+                    "item": "minecraft:stone_pickaxe",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 30,
+                "max_uses": 8,
+                "sell": {
+                    "item": "minecraft:stone_axe",
+                    "count": 1
+                }
+            }
+        ],
+        "journeyman": [
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "max_uses": 4,
+                "buy": {
+                  "item": "minecraft:gold_ingot",
+                  "count": 4
+                },
+                "price": 200
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 1000,
+                "max_uses": 4,
+                "sell": {
+                    "item": "minecraft:golden_shovel",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "price": 50,
+                "max_uses": 4,
+                "buy": {
+                    "item": "minecraft:golden_shovel",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 3000,
+                "max_uses": 4,
+                "sell": {
+                    "item": "minecraft:golden_pickaxe",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "price": 150,
+                "max_uses": 4,
+                "buy": {
+                    "item": "minecraft:golden_pickaxe",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 3000,
+                "max_uses": 4,
+                "sell": {
+                    "item": "minecraft:golden_axe",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "price": 150,
+                "max_uses": 4,
+                "buy": {
+                    "item": "minecraft:golden_axe",
+                    "count": 1
+                }
+            }
+        ],
+        "expert": [
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "max_uses": 4,
+                "buy": {
+                  "item": "minecraft:iron_ingot",
+                  "count": 8
+                },
+                "price": 200
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 500,
+                "max_uses": 5,
+                "sell": {
+                    "item": "minecraft:iron_shovel",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 1500,
+                "max_uses": 5,
+                "sell": {
+                    "item": "minecraft:iron_pickaxe",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 1500,
+                "max_uses": 5,
+                "sell": {
+                    "item": "minecraft:iron_axe",
+                    "count": 1
+                }
+            }
+        ],
+        "master": [
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "max_uses": 4,
+                "buy": {
+                  "item": "minecraft:diamond",
+                  "count": 2
+                },
+                "price": 1000
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 5000,
+                "max_uses": 1,
+                "sell": {
+                    "item": "minecraft:diamond_shovel",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 15000,
+                "max_uses": 1,
+                "sell": {
+                    "item": "minecraft:diamond_pickaxe",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 15000,
+                "max_uses": 1,
+                "sell": {
+                    "item": "minecraft:diamond_axe",
+                    "count": 1
+                }
+            }
+        ]
+    }
+}

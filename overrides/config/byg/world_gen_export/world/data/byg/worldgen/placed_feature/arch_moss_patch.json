@@ -1,0 +1,13 @@
+{
+	"feature": "minecraft:moss_patch",
+	"placement": [
+		{
+			"chance": 350,
+			"type": "minecraft:rarity_filter"
+		},
+		{
+			"heightmap": "MOTION_BLOCKING",
+			"type": "minecraft:heightmap"
+		}
+	]
+}

@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "luck",
+    "level": 15,
+    "item": "minecraft:custom_item",
+    "object": "xps:key"
+}

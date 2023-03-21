@@ -1,0 +1,31 @@
+{
+	"containers": [
+		{
+			"capacity": 4,
+			"empty": "minecraft:air",
+			"empty_sound": "minecraft:block.honey_block.break",
+			"fill_sound": "minecraft:block.honey_block.place",
+			"filled": [
+				"minecraft:honey_block"
+			]
+		},
+		{
+			"capacity": 1,
+			"empty": "minecraft:glass_bottle",
+			"empty_sound": "minecraft:block.honey_block.break",
+			"fill_sound": "minecraft:block.honey_block.place",
+			"filled": [
+				"minecraft:honey_bottle"
+			]
+		}
+	],
+	"flowing_texture": "moonlight:soft_fluids/honey_liquid",
+	"food": {
+		"divider": 1,
+		"item": "minecraft:honey_bottle"
+	},
+	"still_texture": "moonlight:soft_fluids/honey_liquid",
+	"tint_method": "no_tint",
+	"translation_key": "fluid.supplementaries.honey",
+	"use_texture_from": "create:honey"
+}

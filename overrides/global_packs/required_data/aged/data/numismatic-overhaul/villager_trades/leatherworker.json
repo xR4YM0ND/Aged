@@ -1,0 +1,141 @@
+{
+    "profession": "leatherworker",
+    "trades": {
+        "novice": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 5,
+                "sell": {
+                    "item": "rotten:rotten_leather",
+                    "count": 1
+                },
+                "max_uses": 12
+            }
+        ],
+        "apprentice": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 20,
+                "sell": {
+                    "item": "minecraft:leather",
+                    "count": 1
+                },
+                "max_uses": 12
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "price": 5,
+                "buy": {
+                    "item": "minecraft:leather",
+                    "count": 1
+                },
+                "max_uses": 12
+            }
+        ],
+        "journeyman": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 100,
+                "max_uses": 8,
+                "sell": {
+                    "item": "minecraft:leather_helmet",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "price": 25,
+                "max_uses": 8,
+                "buy": {
+                    "item": "minecraft:leather_helmet",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 160,
+                "max_uses": 8,
+                "sell": {
+                    "item": "minecraft:leather_chestplate",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "price": 40,
+                "max_uses": 8,
+                "buy": {
+                    "item": "minecraft:leather_chestplate",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 140,
+                "max_uses": 8,
+                "sell": {
+                    "item": "minecraft:leather_leggings",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "price": 35,
+                "max_uses": 8,
+                "buy": {
+                    "item": "minecraft:leather_leggings",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 80,
+                "max_uses": 8,
+                "sell": {
+                    "item": "minecraft:leather_boots",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "price": 20,
+                "max_uses": 8,
+                "buy": {
+                    "item": "minecraft:leather_boots",
+                    "count": 1
+                }
+            }
+        ],
+        "expert": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 2000,
+                "sell": {
+                    "item": "dehydration:leather_flask",
+                    "count": 1
+                },
+                "max_uses": 12
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 2000,
+                "sell": {
+                    "item": "inmis:frayed_backpack",
+                    "count": 1
+                },
+                "max_uses": 12
+            }
+        ],
+        "master": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 20000,
+                "sell": {
+                    "item": "environmentz:ice_pack",
+                    "count": 1
+                },
+                "max_uses": 12
+            }
+        ]
+    }
+}

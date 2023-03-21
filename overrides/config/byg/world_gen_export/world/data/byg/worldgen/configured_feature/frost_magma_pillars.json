@@ -1,0 +1,11 @@
+{
+	"config": {
+		"block_provider": {
+			"state": {
+				"Name": "byg:frost_magma"
+			},
+			"type": "minecraft:simple_state_provider"
+		}
+	},
+	"type": "byg:pillar"
+}

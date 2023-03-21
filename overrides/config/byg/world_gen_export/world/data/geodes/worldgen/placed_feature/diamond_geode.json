@@ -1,0 +1,27 @@
+{
+	"feature": "geodes:diamond_geode",
+	"placement": [
+		{
+			"chance": 400,
+			"type": "minecraft:rarity_filter"
+		},
+		{
+			"type": "minecraft:in_square"
+		},
+		{
+			"height": {
+				"max_inclusive": {
+					"above_bottom": 60
+				},
+				"min_inclusive": {
+					"above_bottom": 4
+				},
+				"type": "minecraft:uniform"
+			},
+			"type": "minecraft:height_range"
+		},
+		{
+			"type": "minecraft:biome"
+		}
+	]
+}

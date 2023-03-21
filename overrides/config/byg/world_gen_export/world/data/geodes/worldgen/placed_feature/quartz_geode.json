@@ -1,0 +1,27 @@
+{
+	"feature": "geodes:quartz_geode",
+	"placement": [
+		{
+			"chance": 12,
+			"type": "minecraft:rarity_filter"
+		},
+		{
+			"type": "minecraft:in_square"
+		},
+		{
+			"height": {
+				"max_inclusive": {
+					"below_top": 6
+				},
+				"min_inclusive": {
+					"above_bottom": 6
+				},
+				"type": "minecraft:uniform"
+			},
+			"type": "minecraft:height_range"
+		},
+		{
+			"type": "minecraft:biome"
+		}
+	]
+}

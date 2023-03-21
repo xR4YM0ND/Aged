@@ -1,0 +1,29 @@
+{
+    "replace": true,
+    "level": 17,
+    "block": [
+        "minecraft:dark_prismarine",
+        "minecraft:dark_prismarine_stairs",
+        "minecraft:dark_prismarine_slab",
+        "minecraft:prismarine_bricks",
+        "minecraft:prismarine_brick_stairs",
+        "minecraft:prismarine_brick_slab",
+        "minecraft:prismarine",
+        "minecraft:prismarine_stairs",
+        "minecraft:prismarine_slab",
+        "minecraft:prismarine_wall",
+        "geodes:budding_emerald",
+        "geodes:emerald_geode",
+        "geodes:emerald_cluster",
+        "geodes:large_emerald_bud",
+        "geodes:medium_emerald_bud",
+        "geodes:small_emerald_bud",
+        "minecraft:emerald_ore",
+        "universal_ores:calcite_emerald_ore",
+        "universal_ores:tuff_emerald_ore",
+        "universal_ores:granite_emerald_ore",
+        "universal_ores:diorite_emerald_ore",
+        "universal_ores:andesite_emerald_ore",
+        "minecraft:emerald_block"
+    ]
+}

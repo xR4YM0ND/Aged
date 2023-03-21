@@ -1,0 +1,18 @@
+{
+	"config": {
+		"default": {
+			"feature": "byg:pumpkin2",
+			"placement": []
+		},
+		"features": [
+			{
+				"chance": 0.5,
+				"feature": {
+					"feature": "byg:pumpkin1",
+					"placement": []
+				}
+			}
+		]
+	},
+	"type": "minecraft:random_selector"
+}

@@ -1,0 +1,7 @@
+{
+	"processors": [
+		{
+			"processor_type": "graveyard:waterlogged_crypt_processor"
+		}
+	]
+}

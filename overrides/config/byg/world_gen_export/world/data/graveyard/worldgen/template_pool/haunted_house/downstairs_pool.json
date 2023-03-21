@@ -1,0 +1,15 @@
+{
+	"elements": [
+		{
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "graveyard:haunted_house/downstairs_pool/haunted_house_downstairs",
+				"processors": "graveyard:waterlogged_processor_list",
+				"projection": "rigid"
+			},
+			"weight": 1
+		}
+	],
+	"fallback": "minecraft:empty",
+	"name": "graveyard:haunted_house/downstairs_pool"
+}

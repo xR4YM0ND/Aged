@@ -1,0 +1,39 @@
+{
+	"config": {
+		"default": {
+			"feature": "byg:skyris_tree5",
+			"placement": []
+		},
+		"features": [
+			{
+				"chance": 0.2,
+				"feature": {
+					"feature": "byg:skyris_tree1",
+					"placement": []
+				}
+			},
+			{
+				"chance": 0.2,
+				"feature": {
+					"feature": "byg:skyris_tree2",
+					"placement": []
+				}
+			},
+			{
+				"chance": 0.2,
+				"feature": {
+					"feature": "byg:skyris_tree3",
+					"placement": []
+				}
+			},
+			{
+				"chance": 0.2,
+				"feature": {
+					"feature": "byg:skyris_tree4",
+					"placement": []
+				}
+			}
+		]
+	},
+	"type": "minecraft:random_selector"
+}

@@ -1,0 +1,31 @@
+{
+	"feature": "byg:floating_islands",
+	"placement": [
+		{
+			"count": 1,
+			"type": "minecraft:count"
+		},
+		{
+			"chance": 6,
+			"type": "minecraft:rarity_filter"
+		},
+		{
+			"height": {
+				"max_inclusive": {
+					"absolute": 230
+				},
+				"min_inclusive": {
+					"absolute": 200
+				},
+				"type": "minecraft:uniform"
+			},
+			"type": "minecraft:height_range"
+		},
+		{
+			"type": "minecraft:in_square"
+		},
+		{
+			"type": "minecraft:biome"
+		}
+	]
+}

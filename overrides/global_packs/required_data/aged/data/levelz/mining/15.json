@@ -1,0 +1,24 @@
+{
+    "replace": true,
+    "level": 15,
+    "block": [
+        "universal_ores:basalt_quartz_ore",
+        "geodes:budding_quartz",
+        "geodes:quartz_geode",
+        "byg:quartz_crystal",
+        "geodes:quartz_cluster",
+        "geodes:large_quartz_bud",
+        "geodes:medium_quartz_bud",
+        "geodes:small_quartz_bud",
+        "byg:raw_quartz_block",
+        "minecraft:quartz_block",
+        "minecraft:quartz_stairs",
+        "minecraft:quartz_slab",
+        "minecraft:smooth_quartz",
+        "minecraft:smooth_quartz_stairs",
+        "minecraft:smooth_quartz_slab",
+        "minecraft:chiseled_quartz_block",
+        "minecraft:quartz_pillar",
+        "minecraft:quartz_bricks"
+    ]
+}

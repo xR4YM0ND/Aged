@@ -1,0 +1,18 @@
+{
+	"config": {
+		"default": {
+			"feature": "byg:violet_leather_flower",
+			"placement": []
+		},
+		"features": [
+			{
+				"chance": 0.5,
+				"feature": {
+					"feature": "byg:peach_leather_flower",
+					"placement": []
+				}
+			}
+		]
+	},
+	"type": "minecraft:random_selector"
+}

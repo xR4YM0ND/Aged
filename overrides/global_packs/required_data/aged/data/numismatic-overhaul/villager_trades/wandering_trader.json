@@ -1,0 +1,105 @@
+{
+    "profession": "wandering_trader",
+    "trades": {
+        "novice": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 10,
+                "sell": {
+                    "item": "naturalist:teddy_bear",
+                    "count": 1
+                },
+                "max_uses": 1
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 50,
+                "sell": {
+                    "item": "farmersdelight:horse_feed",
+                    "count": 1
+                },
+                "max_uses": 5
+            }
+        ],
+        "apprentice": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 600,
+                "sell": {
+                    "item": "environmentz:wolf_pelt",
+                    "count": 2
+                },
+                "max_uses": 1
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 600,
+                "sell": {
+                    "item": "environmentz:ice_pack",
+                    "count": 1
+                },
+                "max_uses": 1
+            }
+        ],
+        "journeyman": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 5000,
+                "sell": {
+                    "item": "additionz:totem_of_non_breaking",
+                    "count": 1
+                },
+                "max_uses": 1
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 500,
+                "sell": {
+                    "item": "minecraft:experience_bottle",
+                    "count": 8
+                },
+                "max_uses": 1
+            }
+        ],
+        "expert": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 10000,
+                "sell": {
+                    "item": "minecraft:totem_of_undying",
+                    "count": 1
+                },
+                "max_uses": 1
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 1000,
+                "sell": {
+                    "item": "xps:xp_berries_seeds",
+                    "count": 1
+                },
+                "max_uses": 1
+            }
+        ],
+        "master": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 100000,
+                "sell": {
+                    "item": "endrem:evil_eye",
+                    "count": 1
+                },
+                "max_uses": 1
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 30000,
+                "sell": {
+                    "item": "byg:pendorite_ingot",
+                    "count": 1
+                },
+                "max_uses": 1
+            }
+        ]
+    }
+}

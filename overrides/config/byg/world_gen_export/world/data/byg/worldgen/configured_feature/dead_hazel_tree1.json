@@ -1,0 +1,61 @@
+{
+	"config": {
+		"disk_provider": {
+			"state": {
+				"Name": "minecraft:podzol",
+				"Properties": {
+					"snowy": "false"
+				}
+			},
+			"type": "minecraft:simple_state_provider"
+		},
+		"disk_radius": 0,
+		"leaves_provider": {
+			"entries": [
+				{
+					"data": {
+						"Name": "byg:blooming_witch_hazel_leaves",
+						"Properties": {
+							"distance": "7",
+							"persistent": "false",
+							"waterlogged": "false"
+						}
+					},
+					"weight": 1
+				},
+				{
+					"data": {
+						"Name": "byg:witch_hazel_leaves",
+						"Properties": {
+							"distance": "7",
+							"persistent": "false",
+							"waterlogged": "false"
+						}
+					},
+					"weight": 4
+				}
+			],
+			"type": "minecraft:weighted_state_provider"
+		},
+		"max_height": 17,
+		"min_height": 11,
+		"trunk_provider": {
+			"state": {
+				"Name": "byg:witch_hazel_log",
+				"Properties": {
+					"axis": "y"
+				}
+			},
+			"type": "minecraft:simple_state_provider"
+		},
+		"whitelist": [
+			{
+				"Name": "minecraft:grass_block",
+				"Properties": {
+					"snowy": "false"
+				}
+			}
+		]
+	},
+	"type": "byg:dead_hazel_tree1"
+}

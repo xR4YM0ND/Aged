@@ -1,0 +1,37 @@
+{
+	"feature": "byg:large_end_lake",
+	"placement": [
+		{
+			"count": 1,
+			"type": "minecraft:count"
+		},
+		{
+			"type": "minecraft:in_square"
+		},
+		{
+			"heightmap": "WORLD_SURFACE_WG",
+			"type": "minecraft:heightmap"
+		},
+		{
+			"type": "minecraft:biome"
+		},
+		{
+			"heightmap": "OCEAN_FLOOR",
+			"type": "minecraft:heightmap"
+		},
+		{
+			"predicate": {
+				"offset": [
+					0,
+					-1,
+					0
+				],
+				"type": "minecraft:solid"
+			},
+			"type": "minecraft:block_predicate_filter"
+		},
+		{
+			"type": "minecraft:biome"
+		}
+	]
+}

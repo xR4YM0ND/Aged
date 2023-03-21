@@ -1,0 +1,24 @@
+{
+	"config": {
+		"max_length": 11,
+		"min_length": 6,
+		"whitelist": [
+			{
+				"Name": "byg:scoria_stone"
+			}
+		],
+		"x_axis_block_provider": {
+			"state": {
+				"Name": "minecraft:polished_blackstone_bricks"
+			},
+			"type": "minecraft:simple_state_provider"
+		},
+		"z_axis_block_provider": {
+			"state": {
+				"Name": "minecraft:cracked_polished_blackstone_bricks"
+			},
+			"type": "minecraft:simple_state_provider"
+		}
+	},
+	"type": "byg:chain"
+}

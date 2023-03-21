@@ -1,0 +1,20 @@
+{
+	"color": "8f563b",
+	"containers": [
+		{
+			"capacity": 1,
+			"empty": "minecraft:glass_bottle",
+			"filled": [
+				"farmersdelight:hot_cocoa"
+			]
+		}
+	],
+	"flowing_texture": "moonlight:soft_fluids/milk_liquid",
+	"food": {
+		"divider": 1,
+		"item": "farmersdelight:hot_cocoa"
+	},
+	"from_mod": "farmersdelight",
+	"still_texture": "moonlight:soft_fluids/milk_liquid",
+	"translation_key": "item.farmersdelight.hot_cocoa"
+}

@@ -1,0 +1,32 @@
+{
+    "replace": true,
+    "level": 19,
+    "block": [
+        "byg:overgrown_netherrack",
+        "byg:mycelium_netherrack",
+        "minecraft:crimson_nylium",
+        "minecraft:warped_nylium",
+        "byg:sythian_nylium",
+        "minecraft:netherrack",
+        "minecraft:nether_gold_ore",
+        "minecraft:nether_quartz_ore",
+        "byg:emeraldite_ore",
+        "byg:embur_nylium",
+        "byg:blue_netherrack",
+        "byg:blue_nether_gold_ore",
+        "byg:blue_nether_quartz_ore",
+        "byg:wailing_nylium",
+        "twigs:bloodstone",
+        "twigs:bloodstone_stairs",
+        "twigs:bloodstone_slab",
+        "twigs:bloodstone_wall",
+        "twigs:polished_bloodstone",
+        "twigs:polished_bloodstone_stairs",
+        "twigs:polished_bloodstone_slab",
+        "twigs:cracked_polished_bloodstone_bricks",
+        "twigs:polished_bloodstone_bricks",
+        "twigs:polished_bloodstone_brick_stairs",
+        "twigs:polished_bloodstone_brick_slab",
+        "twigs:polished_bloodstone_brick_wall"
+    ]
+}

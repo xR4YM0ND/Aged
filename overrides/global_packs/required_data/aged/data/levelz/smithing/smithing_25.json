@@ -1,0 +1,29 @@
+{
+    "replace": true,
+    "level": 25,
+    "item": [
+        "minecraft:netherite_helmet",
+        "minecraft:netherite_chestplate",
+        "minecraft:netherite_leggings",
+        "minecraft:netherite_boots",
+        "minecraft:netherite_sword",
+        "minecraft:netherite_shovel",
+        "minecraft:netherite_pickaxe",
+        "minecraft:netherite_axe",
+        "minecraft:netherite_hoe",
+        "medievalweapons:netherite_small_axe",
+        "medievalweapons:netherite_long_sword",
+        "medievalweapons:netherite_dagger",
+        "medievalweapons:netherite_francisca",
+        "medievalweapons:netherite_big_axe",
+        "medievalweapons:netherite_javelin",
+        "medievalweapons:netherite_lance",
+        "medievalweapons:netherite_healing_staff",
+        "medievalweapons:netherite_mace",
+        "medievalweapons:netherite_ninjato",
+        "medievalweapons:netherite_sickle",
+        "medievalweapons:netherite_rapier",
+        "farmersdelight:netherite_knife",
+        "dehydration:netherite_leather_flask"
+    ]
+}

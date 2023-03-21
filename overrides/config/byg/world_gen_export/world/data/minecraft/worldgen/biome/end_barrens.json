@@ -1,0 +1,57 @@
+{
+	"carvers": { },
+	"downfall": 0.5,
+	"effects": {
+		"fog_color": 10518688,
+		"mood_sound": {
+			"block_search_extent": 8,
+			"offset": 2.0,
+			"sound": "minecraft:ambient.cave",
+			"tick_delay": 6000
+		},
+		"sky_color": 0,
+		"water_color": 4159204,
+		"water_fog_color": 329011
+	},
+	"features": [
+		[ "byg:global/raw_generation" ],
+		[ "byg:global/lakes" ],
+		[ "byg:global/local_modifications" ],
+		[ "byg:global/underground_structures" ],
+		[ "byg:global/surface_structures" ],
+		[ "byg:global/strongholds" ],
+		[ "byg:global/underground_ores" ],
+		[ "byg:global/underground_decoration" ],
+		[ "byg:global/fluid_springs" ],
+		[ "byg:global/vegetal_decoration", "farmersdelight:carrots", "farmersdelight:onions" ],
+		[ "byg:global/top_layer_modification", "rocks:andesite_rock", "rocks:diorite_rock", "rocks:granite_rock", "rocks:gravel_rock", "rocks:rock" ]
+	],
+	"precipitation": "none",
+	"spawn_costs": { },
+	"spawners": {
+		"ambient": [],
+		"axolotls": [],
+		"creature": [
+			{
+				"maxCount": 1,
+				"minCount": 1,
+				"type": "adventurez:ender_whale",
+				"weight": 5
+			}
+		],
+		"fireflies": [],
+		"misc": [],
+		"monster": [
+			{
+				"maxCount": 4,
+				"minCount": 4,
+				"type": "minecraft:enderman",
+				"weight": 10
+			}
+		],
+		"underground_water_creature": [],
+		"water_ambient": [],
+		"water_creature": []
+	},
+	"temperature": 0.5
+}

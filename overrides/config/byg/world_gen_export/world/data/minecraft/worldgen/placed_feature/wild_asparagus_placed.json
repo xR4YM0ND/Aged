@@ -1,0 +1,19 @@
+{
+	"feature": "minecraft:wild_asparagus_feature",
+	"placement": [
+		{
+			"chance": 48,
+			"type": "minecraft:rarity_filter"
+		},
+		{
+			"type": "minecraft:in_square"
+		},
+		{
+			"heightmap": "MOTION_BLOCKING",
+			"type": "minecraft:heightmap"
+		},
+		{
+			"type": "minecraft:biome"
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+    "replace": true,
+    "values": [
+        "minecraft:wheat",
+        "minecraft:carrot",
+        "minecraft:potato",
+        "minecraft:beetroot",
+        "minecraft:melon_slice",
+        "minecraft:pumpkin",
+        "expandeddelight:asparagus",
+        "expandeddelight:sweet_potato",
+        "expandeddelight:chili_pepper",
+        "expandeddelight:peanut",
+        "farmersdelight:straw",
+        "farmersdelight:cabbage",
+        "farmersdelight:tomato",
+        "farmersdelight:onion",
+        "farmersdelight:rice_panicle"
+    ]
+}

@@ -1,0 +1,55 @@
+{
+	"config": {
+		"max_height": 31,
+		"min_height": 22,
+		"mushroom2_provider": {
+			"state": {
+				"Name": "byg:withering_oak_leaves",
+				"Properties": {
+					"distance": "7",
+					"persistent": "false",
+					"waterlogged": "false"
+				}
+			},
+			"type": "minecraft:simple_state_provider"
+		},
+		"mushroom3_provider": {
+			"state": {
+				"Name": "byg:withering_oak_leaves",
+				"Properties": {
+					"distance": "7",
+					"persistent": "false",
+					"waterlogged": "false"
+				}
+			},
+			"type": "minecraft:simple_state_provider"
+		},
+		"mushroom_provider": {
+			"state": {
+				"Name": "byg:withering_oak_leaves",
+				"Properties": {
+					"distance": "7",
+					"persistent": "false",
+					"waterlogged": "false"
+				}
+			},
+			"type": "minecraft:simple_state_provider"
+		},
+		"pollen_provider": {
+			"state": {
+				"Name": "byg:pollen_block"
+			},
+			"type": "minecraft:simple_state_provider"
+		},
+		"stem_provider": {
+			"state": {
+				"Name": "byg:withering_oak_log",
+				"Properties": {
+					"axis": "y"
+				}
+			},
+			"type": "minecraft:simple_state_provider"
+		}
+	},
+	"type": "byg:withering_oak_tree4"
+}

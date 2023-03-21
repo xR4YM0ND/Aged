@@ -1,0 +1,19 @@
+{
+	"feature": "byg:white_white_mangrove_swamp_water_vegetation",
+	"placement": [
+		{
+			"count": 15,
+			"type": "minecraft:count"
+		},
+		{
+			"type": "minecraft:in_square"
+		},
+		{
+			"heightmap": "WORLD_SURFACE_WG",
+			"type": "minecraft:heightmap"
+		},
+		{
+			"type": "minecraft:biome"
+		}
+	]
+}

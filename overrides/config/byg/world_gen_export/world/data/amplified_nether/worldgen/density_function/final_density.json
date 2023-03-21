@@ -1,0 +1,95 @@
+{
+	"argument1": {
+		"argument": {
+			"argument1": 0.64,
+			"argument2": {
+				"argument": {
+					"argument": {
+						"argument1": {
+							"argument1": {
+								"from_value": 0.0,
+								"from_y": -8,
+								"to_value": 1.0,
+								"to_y": 28,
+								"type": "minecraft:y_clamped_gradient"
+							},
+							"argument2": {
+								"argument1": {
+									"argument1": {
+										"argument1": {
+											"from_value": 1.0,
+											"from_y": 200,
+											"to_value": 0.0,
+											"to_y": 248,
+											"type": "minecraft:y_clamped_gradient"
+										},
+										"argument2": {
+											"argument1": {
+												"input": "amplified_nether:math/sloped_cheese",
+												"max_exclusive": 1.5625,
+												"min_inclusive": -1000000.0,
+												"type": "minecraft:range_choice",
+												"when_in_range": {
+													"argument1": "amplified_nether:math/sloped_cheese",
+													"argument2": {
+														"argument1": "amplified_nether:swiss_cheese",
+														"argument2": {
+															"input": "amplified_nether:math/pillars",
+															"max_exclusive": 0.03,
+															"min_inclusive": -1000000.0,
+															"type": "minecraft:range_choice",
+															"when_in_range": -1000000.0,
+															"when_out_of_range": "amplified_nether:math/pillars"
+														},
+														"type": "minecraft:max"
+													},
+													"type": "minecraft:min"
+												},
+												"when_out_of_range": {
+													"argument1": "amplified_nether:swiss_cheese",
+													"argument2": {
+														"input": "amplified_nether:math/pillars",
+														"max_exclusive": 0.03,
+														"min_inclusive": -1000000.0,
+														"type": "minecraft:range_choice",
+														"when_in_range": -1000000.0,
+														"when_out_of_range": "amplified_nether:math/pillars"
+													},
+													"type": "minecraft:max"
+												}
+											},
+											"argument2": -0.9375,
+											"type": "minecraft:add"
+										},
+										"type": "minecraft:mul"
+									},
+									"argument2": 0.9375,
+									"type": "minecraft:add"
+								},
+								"argument2": -2.5,
+								"type": "minecraft:add"
+							},
+							"type": "minecraft:mul"
+						},
+						"argument2": 2.5,
+						"type": "minecraft:add"
+					},
+					"type": "minecraft:blend_density"
+				},
+				"type": "minecraft:interpolated"
+			},
+			"type": "minecraft:mul"
+		},
+		"type": "minecraft:squeeze"
+	},
+	"argument2": {
+		"argument1": "amplified_nether:web1",
+		"argument2": {
+			"argument1": "amplified_nether:barbed_cave",
+			"argument2": "amplified_nether:web2",
+			"type": "minecraft:min"
+		},
+		"type": "minecraft:min"
+	},
+	"type": "minecraft:min"
+}

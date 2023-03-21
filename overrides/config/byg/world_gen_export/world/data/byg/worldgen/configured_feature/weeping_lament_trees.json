@@ -1,0 +1,25 @@
+{
+	"config": {
+		"default": {
+			"feature": "byg:lament_weeping_tree1",
+			"placement": []
+		},
+		"features": [
+			{
+				"chance": 0.35,
+				"feature": {
+					"feature": "byg:lament_weeping_tree3",
+					"placement": []
+				}
+			},
+			{
+				"chance": 0.35,
+				"feature": {
+					"feature": "byg:lament_weeping_tree2",
+					"placement": []
+				}
+			}
+		]
+	},
+	"type": "minecraft:random_selector"
+}

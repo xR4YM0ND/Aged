@@ -1,0 +1,31 @@
+{
+	"argument1": {
+		"argument1": 4.0,
+		"argument2": {
+			"argument": {
+				"noise": "minecraft:cave_layer",
+				"type": "minecraft:noise",
+				"xz_scale": 0.75,
+				"y_scale": 6.0
+			},
+			"type": "minecraft:square"
+		},
+		"type": "minecraft:mul"
+	},
+	"argument2": {
+		"input": {
+			"argument1": 0.23,
+			"argument2": {
+				"noise": "amplified_nether:math/cave/cheese",
+				"type": "minecraft:noise",
+				"xz_scale": 1.0,
+				"y_scale": 0.6666666666666666
+			},
+			"type": "minecraft:add"
+		},
+		"max": 1.0,
+		"min": -1.0,
+		"type": "minecraft:clamp"
+	},
+	"type": "minecraft:add"
+}

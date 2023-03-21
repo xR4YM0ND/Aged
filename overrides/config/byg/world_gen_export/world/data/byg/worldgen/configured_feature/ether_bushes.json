@@ -1,0 +1,18 @@
+{
+	"config": {
+		"default": {
+			"feature": "byg:ether_bush2",
+			"placement": []
+		},
+		"features": [
+			{
+				"chance": 0.5,
+				"feature": {
+					"feature": "byg:ether_bush1",
+					"placement": []
+				}
+			}
+		]
+	},
+	"type": "minecraft:random_selector"
+}

@@ -1,0 +1,19 @@
+{
+    "replace": true,
+    "level": 14,
+    "block": [
+        "twigs:rhyolite",
+        "twigs:rhyolite_stairs",
+        "twigs:rhyolite_slab",
+        "twigs:rhyolite_wall",
+        "twigs:polished_rhyolite",
+        "twigs:polished_rhyolite_stairs",
+        "twigs:polished_rhyolite_slab",
+        "twigs:cracked_polished_rhyolite_bricks",
+        "twigs:polished_rhyolite_bricks",
+        "twigs:polished_rhyolite_brick_stairs",
+        "twigs:polished_rhyolite_brick_slab",
+        "twigs:polished_rhyolite_brick_wall",
+        "byg:frost_magma"
+    ]
+}

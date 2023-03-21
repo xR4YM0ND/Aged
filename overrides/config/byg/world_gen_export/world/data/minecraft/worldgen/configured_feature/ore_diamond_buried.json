@@ -1,0 +1,72 @@
+{
+	"config": {
+		"discard_chance_on_air_exposure": 1.0,
+		"size": 8,
+		"targets": [
+			{
+				"state": {
+					"Name": "universal_ores:andesite_diamond_ore"
+				},
+				"target": {
+					"block": "minecraft:andesite",
+					"predicate_type": "minecraft:block_match"
+				}
+			},
+			{
+				"state": {
+					"Name": "universal_ores:diorite_diamond_ore"
+				},
+				"target": {
+					"block": "minecraft:diorite",
+					"predicate_type": "minecraft:block_match"
+				}
+			},
+			{
+				"state": {
+					"Name": "universal_ores:granite_diamond_ore"
+				},
+				"target": {
+					"block": "minecraft:granite",
+					"predicate_type": "minecraft:block_match"
+				}
+			},
+			{
+				"state": {
+					"Name": "universal_ores:tuff_diamond_ore"
+				},
+				"target": {
+					"block": "minecraft:tuff",
+					"predicate_type": "minecraft:block_match"
+				}
+			},
+			{
+				"state": {
+					"Name": "universal_ores:calcite_diamond_ore"
+				},
+				"target": {
+					"block": "minecraft:calcite",
+					"predicate_type": "minecraft:block_match"
+				}
+			},
+			{
+				"state": {
+					"Name": "minecraft:diamond_ore"
+				},
+				"target": {
+					"predicate_type": "minecraft:tag_match",
+					"tag": "minecraft:stone_ore_replaceables"
+				}
+			},
+			{
+				"state": {
+					"Name": "minecraft:deepslate_diamond_ore"
+				},
+				"target": {
+					"predicate_type": "minecraft:tag_match",
+					"tag": "minecraft:deepslate_ore_replaceables"
+				}
+			}
+		]
+	},
+	"type": "minecraft:ore"
+}

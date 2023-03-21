@@ -1,0 +1,27 @@
+{
+    "replace": true,
+    "level": 8,
+    "block": [
+        "minecraft:basalt",
+        "minecraft:smooth_basalt",
+        "twigs:smooth_basalt_bricks",
+        "twigs:smooth_basalt_brick_stairs",
+        "twigs:smooth_basalt_brick_slab",
+        "twigs:smooth_basalt_brick_wall",
+        "minecraft:polished_basalt",
+        "twigs:polished_basalt_bricks",
+        "architects_palette:chiseled_basalt_tiles",
+        "architects_palette:cracked_basalt_tiles",
+        "architects_palette:basalt_tiles",
+        "architects_palette:basalt_tile_stairs",
+        "architects_palette:basalt_tile_vertical_slab",
+        "architects_palette:basalt_tile_slab",
+        "architects_palette:basalt_tile_wall",
+        "minecraft:gold_ore",
+        "universal_ores:calcite_gold_ore",
+        "universal_ores:tuff_gold_ore",
+        "universal_ores:basalt_gold_ore",
+        "minecraft:raw_gold_block",
+        "minecraft:gold_block"
+    ]
+}

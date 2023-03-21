@@ -1,0 +1,54 @@
+{
+	"biomes": "#c:in_overworld",
+	"blacklist": [],
+	"max_distance_from_center": 80,
+	"max_height_difference": 5,
+	"project_start_to_heightmap": "WORLD_SURFACE_WG",
+	"size": 4,
+	"spawn_overrides": {
+		"monster": {
+			"bounding_box": "piece",
+			"spawns": [
+				{
+					"maxCount": 1,
+					"minCount": 1,
+					"type": "graveyard:skeleton_creeper",
+					"weight": 35
+				},
+				{
+					"maxCount": 3,
+					"minCount": 1,
+					"type": "graveyard:revenant",
+					"weight": 45
+				},
+				{
+					"maxCount": 3,
+					"minCount": 1,
+					"type": "graveyard:ghoul",
+					"weight": 50
+				}
+			]
+		}
+	},
+	"start_height": {
+		"absolute": 0
+	},
+	"start_pool": "graveyard:large_walled_graveyard/start_pool",
+	"step": "surface_structures",
+	"structure_name": "large_graveyard",
+	"terrain_adaptation": "beard_box",
+	"terrain_check_size": 60,
+	"type": "graveyard:tg_jigsaw",
+	"use_expansion_hack": true,
+	"whitelist": [
+		"minecraft:taiga",
+		"minecraft:snowy_taiga",
+		"#c:plains",
+		"terralith:forested_highlands",
+		"terralith:lush_valley",
+		"terralith:shield",
+		"terralith:shield_clearing",
+		"terralith:wintry_forest",
+		"graveyard_biomes:haunted_forest"
+	]
+}

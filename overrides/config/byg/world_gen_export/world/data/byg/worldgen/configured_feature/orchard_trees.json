@@ -1,0 +1,25 @@
+{
+	"config": {
+		"default": {
+			"feature": "byg:orchard_tree3",
+			"placement": []
+		},
+		"features": [
+			{
+				"chance": 0.33,
+				"feature": {
+					"feature": "byg:orchard_tree1",
+					"placement": []
+				}
+			},
+			{
+				"chance": 0.33,
+				"feature": {
+					"feature": "byg:orchard_tree2",
+					"placement": []
+				}
+			}
+		]
+	},
+	"type": "minecraft:random_selector"
+}

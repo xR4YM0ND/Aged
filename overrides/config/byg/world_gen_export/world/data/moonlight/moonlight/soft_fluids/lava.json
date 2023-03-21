@@ -1,0 +1,21 @@
+{
+	"containers": [
+		{
+			"capacity": 4,
+			"empty": "minecraft:bucket",
+			"empty_sound": "minecraft:item.bucket.empty",
+			"fill_sound": "minecraft:item.bucket.fill",
+			"filled": [
+				"minecraft:lava_bucket"
+			]
+		}
+	],
+	"equivalent_fluids": [
+		"minecraft:lava"
+	],
+	"flowing_texture": "minecraft:block/lava_flow",
+	"luminosity": 15,
+	"still_texture": "minecraft:block/lava_still",
+	"tint_method": "no_tint",
+	"translation_key": "block.minecraft.lava"
+}

@@ -1,0 +1,30 @@
+{
+	"feature": "byg:cryptic_redstone",
+	"placement": [
+		{
+			"count": 8,
+			"type": "minecraft:count"
+		},
+		{
+			"type": "minecraft:in_square"
+		},
+		{
+			"heightmap": "OCEAN_FLOOR",
+			"type": "minecraft:heightmap"
+		},
+		{
+			"type": "minecraft:biome"
+		},
+		{
+			"type": "minecraft:random_offset",
+			"xz_spread": 0,
+			"y_spread": {
+				"type": "minecraft:biased_to_bottom",
+				"value": {
+					"max_inclusive": -2,
+					"min_inclusive": -15
+				}
+			}
+		}
+	]
+}

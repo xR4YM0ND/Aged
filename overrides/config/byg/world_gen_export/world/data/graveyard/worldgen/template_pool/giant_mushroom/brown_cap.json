@@ -1,0 +1,15 @@
+{
+	"elements": [
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"location": "graveyard:giant_mushroom/brown_cap/giant_brown_mushroom_cap_01",
+				"processors": "minecraft:empty",
+				"projection": "rigid"
+			},
+			"weight": 1
+		}
+	],
+	"fallback": "minecraft:empty",
+	"name": "graveyard:giant_mushroom/brown_cap"
+}

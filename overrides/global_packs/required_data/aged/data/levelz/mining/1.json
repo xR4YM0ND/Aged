@@ -1,0 +1,22 @@
+{
+    "replace": true,
+    "level": 1,
+    "block": [
+        "minecraft:calcite",
+        "twigs:calcite_stairs",
+        "twigs:calcite_slab",
+        "twigs:calcite_wall",
+        "twigs:polished_calcite",
+        "twigs:polished_calcite_stairs",
+        "twigs:polished_calcite_slab",
+        "twigs:cracked_polished_calcite_bricks",
+        "twigs:polished_calcite_bricks",
+        "twigs:polished_calcite_brick_stairs",
+        "twigs:polished_calcite_brick_slab",
+        "twigs:polished_calcite_brick_wall",
+        "architects_palette:calcite_lamp",
+        "twigs:rocky_dirt",
+        "minecraft:clay",
+        "expandeddelight:salt_ore"
+    ]
+}

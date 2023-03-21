@@ -1,0 +1,88 @@
+{
+	"feature": {
+		"config": {
+			"to_place": {
+				"entries": [
+					{
+						"data": {
+							"Name": "rocks:warped_stick",
+							"Properties": {
+								"variation": "small"
+							}
+						},
+						"weight": 7
+					},
+					{
+						"data": {
+							"Name": "rocks:warped_stick",
+							"Properties": {
+								"variation": "medium"
+							}
+						},
+						"weight": 5
+					},
+					{
+						"data": {
+							"Name": "rocks:warped_stick",
+							"Properties": {
+								"variation": "large"
+							}
+						},
+						"weight": 1
+					}
+				],
+				"type": "minecraft:weighted_state_provider"
+			}
+		},
+		"type": "minecraft:simple_block"
+	},
+	"placement": [
+		{
+			"count": 90,
+			"type": "minecraft:count"
+		},
+		{
+			"chance": 1,
+			"type": "minecraft:rarity_filter"
+		},
+		{
+			"type": "minecraft:in_square"
+		},
+		{
+			"height": {
+				"max_inclusive": {
+					"below_top": 0
+				},
+				"min_inclusive": {
+					"above_bottom": 0
+				},
+				"type": "minecraft:uniform"
+			},
+			"type": "minecraft:height_range"
+		},
+		{
+			"type": "minecraft:biome"
+		},
+		{
+			"predicate": {
+				"predicates": [
+					{
+						"blocks": "minecraft:air",
+						"type": "minecraft:matching_blocks"
+					},
+					{
+						"blocks": "minecraft:warped_nylium",
+						"offset": [
+							0,
+							-1,
+							0
+						],
+						"type": "minecraft:matching_blocks"
+					}
+				],
+				"type": "minecraft:all_of"
+			},
+			"type": "minecraft:block_predicate_filter"
+		}
+	]
+}

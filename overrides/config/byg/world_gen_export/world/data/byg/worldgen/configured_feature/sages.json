@@ -1,0 +1,18 @@
+{
+	"config": {
+		"default": {
+			"feature": "byg:white_sage",
+			"placement": []
+		},
+		"features": [
+			{
+				"chance": 0.5,
+				"feature": {
+					"feature": "byg:purple_sage",
+					"placement": []
+				}
+			}
+		]
+	},
+	"type": "minecraft:random_selector"
+}

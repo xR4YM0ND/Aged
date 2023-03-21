@@ -1,0 +1,98 @@
+{
+	"carvers": { },
+	"downfall": 0.8,
+	"effects": {
+		"additions_sound": {
+			"sound": "minecraft:ambient.basalt_deltas.additions",
+			"tick_chance": 0.0111
+		},
+		"ambient_sound": "byg:ambient_end_ominous",
+		"fog_color": 8339307,
+		"mood_sound": {
+			"block_search_extent": 8,
+			"offset": 2.0,
+			"sound": "minecraft:ambient.basalt_deltas.mood",
+			"tick_delay": 6000
+		},
+		"music": {
+			"max_delay": 24000,
+			"min_delay": 12000,
+			"replace_current_music": false,
+			"sound": "minecraft:music.end"
+		},
+		"particle": {
+			"options": {
+				"type": "minecraft:witch"
+			},
+			"probability": 0.00428
+		},
+		"sky_color": 8364543,
+		"water_color": 4159204,
+		"water_fog_color": 329011
+	},
+	"features": [
+		[ "byg:ivis_fields_spike", "byg:ivis_fields_column", "byg:global/raw_generation" ],
+		[ "byg:global/lakes" ],
+		[ "byg:global/local_modifications" ],
+		[ "byg:global/underground_structures" ],
+		[ "byg:global/surface_structures" ],
+		[ "byg:global/strongholds" ],
+		[ "byg:global/underground_ores" ],
+		[ "byg:global/underground_decoration", "supplementaries:cave_urns" ],
+		[ "byg:global/fluid_springs" ],
+		[ "byg:ivis_plants", "byg:sparse_anomalies", "byg:sparse_purple_bulbis_trees", "byg:global/vegetal_decoration", "farmersdelight:carrots", "farmersdelight:onions", "farmersdelight:carrots", "farmersdelight:onions" ],
+		[ "byg:global/top_layer_modification", "rocks:gravel_rock", "rocks:gravel_rock" ]
+	],
+	"precipitation": "none",
+	"spawn_costs": { },
+	"spawners": {
+		"ambient": [],
+		"axolotls": [],
+		"creature": [
+			{
+				"maxCount": 1,
+				"minCount": 1,
+				"type": "adventurez:ender_whale",
+				"weight": 5
+			},
+			{
+				"maxCount": 1,
+				"minCount": 1,
+				"type": "adventurez:ender_whale",
+				"weight": 5
+			}
+		],
+		"fireflies": [],
+		"misc": [],
+		"monster": [
+			{
+				"maxCount": 2,
+				"minCount": 1,
+				"type": "minecraft:endermite",
+				"weight": 5
+			},
+			{
+				"maxCount": 3,
+				"minCount": 1,
+				"type": "minecraft:enderman",
+				"weight": 60
+			},
+			{
+				"maxCount": 1,
+				"minCount": 1,
+				"type": "adventurez:enderwarthog",
+				"weight": 1
+			},
+			{
+				"maxCount": 1,
+				"minCount": 1,
+				"type": "adventurez:enderwarthog",
+				"weight": 1
+			}
+		],
+		"underground_water_creature": [],
+		"water_ambient": [],
+		"water_creature": []
+	},
+	"temperature": 0.8
+}

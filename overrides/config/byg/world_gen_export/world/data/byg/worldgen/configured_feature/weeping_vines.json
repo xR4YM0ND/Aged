@@ -1,0 +1,39 @@
+{
+	"config": {
+		"base_block_provider": {
+			"state": {
+				"Name": "minecraft:glowstone"
+			},
+			"type": "minecraft:simple_state_provider"
+		},
+		"block_provider": {
+			"state": {
+				"Name": "minecraft:weeping_vines_plant"
+			},
+			"type": "minecraft:simple_state_provider"
+		},
+		"end_block_provider": {
+			"state": {
+				"Name": "minecraft:weeping_vines",
+				"Properties": {
+					"age": "23"
+				}
+			},
+			"type": "minecraft:simple_state_provider"
+		},
+		"max_length": 9,
+		"min_length": 1,
+		"whitelist": [
+			{
+				"Name": "minecraft:glowstone"
+			},
+			{
+				"Name": "minecraft:blackstone"
+			},
+			{
+				"Name": "minecraft:netherrack"
+			}
+		]
+	},
+	"type": "byg:hanging_feature"
+}

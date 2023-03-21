@@ -1,0 +1,186 @@
+{
+	"elements": [
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"location": "graveyard:large_graveyard/branch_pool/branch_large_grave_01",
+				"processors": "minecraft:empty",
+				"projection": "rigid"
+			},
+			"weight": 10
+		},
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"location": "graveyard:large_graveyard/branch_pool/branch_spider_den",
+				"processors": "minecraft:empty",
+				"projection": "rigid"
+			},
+			"weight": 6
+		},
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"location": "graveyard:large_graveyard/branch_pool/branch_lost_grave",
+				"processors": "minecraft:empty",
+				"projection": "rigid"
+			},
+			"weight": 10
+		},
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"location": "graveyard:large_graveyard/branch_pool/branch_graves_01",
+				"processors": "minecraft:empty",
+				"projection": "rigid"
+			},
+			"weight": 10
+		},
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"location": "graveyard:large_graveyard/branch_pool/branch_graves_02",
+				"processors": "minecraft:empty",
+				"projection": "rigid"
+			},
+			"weight": 10
+		},
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"location": "graveyard:large_graveyard/branch_pool/branch_graves_03",
+				"processors": "minecraft:empty",
+				"projection": "rigid"
+			},
+			"weight": 10
+		},
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"location": "graveyard:large_graveyard/branch_pool/branch_graves_04",
+				"processors": "minecraft:empty",
+				"projection": "rigid"
+			},
+			"weight": 10
+		},
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"location": "graveyard:large_graveyard/branch_pool/branch_graves_05",
+				"processors": "minecraft:empty",
+				"projection": "rigid"
+			},
+			"weight": 10
+		},
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"location": "graveyard:large_graveyard/branch_pool/branch_looted_graves_01",
+				"processors": "minecraft:empty",
+				"projection": "rigid"
+			},
+			"weight": 10
+		},
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"location": "graveyard:large_graveyard/branch_pool/branch_looted_graves_02",
+				"processors": "minecraft:empty",
+				"projection": "rigid"
+			},
+			"weight": 10
+		},
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"location": "graveyard:large_graveyard/branch_pool/branch_willow",
+				"processors": "minecraft:empty",
+				"projection": "rigid"
+			},
+			"weight": 6
+		},
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"location": "graveyard:large_graveyard/branch_pool/branch_large_grave_02",
+				"processors": "minecraft:empty",
+				"projection": "rigid"
+			},
+			"weight": 10
+		},
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"location": "graveyard:large_graveyard/branch_pool/branch_boulder_01",
+				"processors": "minecraft:empty",
+				"projection": "rigid"
+			},
+			"weight": 9
+		},
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"location": "graveyard:large_graveyard/branch_pool/branch_boulder_02",
+				"processors": "minecraft:empty",
+				"projection": "rigid"
+			},
+			"weight": 10
+		},
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"location": "graveyard:large_graveyard/branch_pool/branch_boulder_03",
+				"processors": "minecraft:empty",
+				"projection": "rigid"
+			},
+			"weight": 10
+		},
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"location": "graveyard:large_graveyard/branch_pool/branch_nature_01",
+				"processors": "minecraft:empty",
+				"projection": "rigid"
+			},
+			"weight": 15
+		},
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"location": "graveyard:large_graveyard/branch_pool/branch_nature_02",
+				"processors": "minecraft:empty",
+				"projection": "rigid"
+			},
+			"weight": 15
+		},
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"location": "graveyard:large_graveyard/branch_pool/branch_nature_03",
+				"processors": "minecraft:empty",
+				"projection": "rigid"
+			},
+			"weight": 15
+		},
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"location": "graveyard:large_graveyard/branch_pool/branch_nature_04",
+				"processors": "minecraft:empty",
+				"projection": "rigid"
+			},
+			"weight": 15
+		},
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"location": "graveyard:large_graveyard/branch_pool/branch_nature_05",
+				"processors": "minecraft:empty",
+				"projection": "rigid"
+			},
+			"weight": 15
+		}
+	],
+	"fallback": "minecraft:empty",
+	"name": "graveyard:large_walled_graveyard/branch_pool"
+}

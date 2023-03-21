@@ -1,0 +1,204 @@
+{
+    "profession": "cleric",
+    "trades": {
+        "novice": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 10,
+                "sell": {
+                    "item": "minecraft:sugar",
+                    "count": 1
+                },
+                "max_uses": 16
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "price": 10,
+                "buy": {
+                    "item": "minecraft:rotten_flesh",
+                    "count": 8
+                },
+                "max_uses": 16
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 4,
+                "max_uses": 8,
+                "sell": {
+                    "item": "medievalweapons:wooden_healing_staff",
+                    "count": 1
+                }
+            }
+        ],
+        "apprentice": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 20,
+                "sell": {
+                    "item": "minecraft:glass_bottle",
+                    "count": 3
+                },
+                "max_uses": 12
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 10,
+                "max_uses": 8,
+                "sell": {
+                    "item": "medievalweapons:stone_healing_staff",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "price": 40,
+                "buy": {
+                    "item": "minecraft:redstone",
+                    "count": 16
+                },
+                "max_uses": 12
+            }
+        ],
+        "journeyman": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 200,
+                "sell": {
+                    "item": "minecraft:rabbit_foot",
+                    "count": 3
+                },
+                "max_uses": 8
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 200,
+                "sell": {
+                    "item": "minecraft:emerald",
+                    "count": 1
+                },
+                "max_uses": 8
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "price": 20,
+                "buy": {
+                    "item": "minecraft:emerald",
+                    "count": 1
+                },
+                "max_uses": 8
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 120,
+                "max_uses": 6,
+                "sell": {
+                    "item": "medievalweapons:golden_healing_staff",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 300,
+                "sell": {
+                    "item": "minecraft:experience_bottle",
+                    "count": 3
+                },
+                "max_uses": 8
+            }
+        ],
+        "expert": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 100,
+                "sell": {
+                    "item": "minecraft:gunpowder",
+                    "count": 1
+                },
+                "max_uses": 6
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 200,
+                "sell": {
+                    "item": "minecraft:nether_wart",
+                    "count": 1
+                },
+                "max_uses": 6
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "price": 80,
+                "buy": {
+                    "item": "minecraft:nether_wart",
+                    "count": 8
+                },
+                "max_uses": 6
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 60,
+                "max_uses": 1,
+                "sell": {
+                    "item": "medievalweapons:iron_healing_staff",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "price": 80,
+                "buy": {
+                    "item": "minecraft:glowstone_dust",
+                    "count": 16
+                },
+                "max_uses": 6
+            }
+        ],
+        "master": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 2000,
+                "sell": {
+                    "item": "minecraft:blaze_powder",
+                    "count": 1
+                },
+                "max_uses": 4
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 1000,
+                "sell": {
+                    "item": "minecraft:phantom_membrane",
+                    "count": 1
+                },
+                "max_uses": 4
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 10000,
+                "sell": {
+                    "item": "revive:revival_star",
+                    "count": 1
+                },
+                "max_uses": 2
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 1100,
+                "max_uses": 1,
+                "sell": {
+                    "item": "medievalweapons:diamond_healing_staff",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "price": 100,
+                "buy": {
+                    "item": "minecraft:ender_pearl",
+                    "count": 16
+                },
+                "max_uses": 4
+            }
+        ]
+    }
+}

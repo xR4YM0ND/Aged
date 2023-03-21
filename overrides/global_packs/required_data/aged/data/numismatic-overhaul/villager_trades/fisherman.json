@@ -1,0 +1,171 @@
+{
+    "profession": "fisherman",
+    "trades": {
+        "novice": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 20,
+                "sell": {
+                    "item": "minecraft:cod",
+                    "count": 1
+                },
+                "max_uses": 16
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "price": 4,
+                "buy": {
+                    "item": "minecraft:cod",
+                    "count": 1
+                },
+                "max_uses": 16
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 20,
+                "sell": {
+                    "item": "minecraft:salmon",
+                    "count": 1
+                },
+                "max_uses": 16
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "price": 4,
+                "buy": {
+                    "item": "minecraft:cod",
+                    "count": 1
+                },
+                "max_uses": 16
+            }
+        ],
+        "apprentice": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 20,
+                "sell": {
+                    "item": "minecraft:ink_sac",
+                    "count": 1
+                },
+                "max_uses": 12
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "price": 2,
+                "buy": {
+                    "item": "minecraft:ink_sac",
+                    "count": 1
+                },
+                "max_uses": 12
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 50,
+                "sell": {
+                    "item": "minecraft:fishing_rod",
+                    "count": 1
+                },
+                "max_uses": 12
+            }
+        ],
+        "journeyman": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 100,
+                "sell": {
+                    "item": "minecraft:tropical_fish",
+                    "count": 1
+                },
+                "max_uses": 8
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "price": 20,
+                "buy": {
+                    "item": "minecraft:tropical_fish",
+                    "count": 1
+                },
+                "max_uses": 8
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 200,
+                "sell": {
+                    "item": "minecraft:glow_ink_sac",
+                    "count": 1
+                },
+                "max_uses": 8
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "price": 20,
+                "buy": {
+                    "item": "minecraft:glow_ink_sac",
+                    "count": 1
+                },
+                "max_uses": 8
+            },
+            {
+                "type": "numismatic-overhaul:enchant_item",
+                "level": 14,
+                "base_price": 2000,
+                "max_uses": 1,
+                "allow_treasure": false,
+                "item": {
+                  "item": "minecraft:fishing_rod"
+                }
+            }
+        ],
+        "expert": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 2000,
+                "sell": {
+                    "item": "minecraft:pufferfish",
+                    "count": 1
+                },
+                "max_uses": 6
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "price": 100,
+                "buy": {
+                    "item": "minecraft:pufferfish",
+                    "count": 1
+                },
+                "max_uses": 6
+            },
+            {
+                "type": "numismatic-overhaul:enchant_item",
+                "level": 22,
+                "base_price": 5000,
+                "max_uses": 1,
+                "allow_treasure": false,
+                "item": {
+                  "item": "minecraft:fishing_rod"
+                }
+            }
+        ],
+        "master": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 10000,
+                "sell": {
+                    "item": "farmersdelight:fish_stew",
+                    "count": 1
+                },
+                "max_uses": 4
+            },
+            {
+                "type": "numismatic-overhaul:enchant_item",
+                "level": 30,
+                "base_price": 8000,
+                "max_uses": 1,
+                "allow_treasure": false,
+                "item": {
+                  "item": "minecraft:fishing_rod"
+                }
+            }
+        ]
+    }
+}

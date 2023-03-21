@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "strength",
+    "level": 30,
+    "item": "minecraft:custom_item",
+    "object": "byg:pendorite_battleaxe"
+}

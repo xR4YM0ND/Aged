@@ -1,0 +1,32 @@
+{
+	"config": {
+		"default": {
+			"feature": "byg:dead_hazel_tree2",
+			"placement": []
+		},
+		"features": [
+			{
+				"chance": 0.3,
+				"feature": {
+					"feature": "byg:hazel_tree1",
+					"placement": []
+				}
+			},
+			{
+				"chance": 0.3,
+				"feature": {
+					"feature": "byg:hazel_tree2",
+					"placement": []
+				}
+			},
+			{
+				"chance": 0.2,
+				"feature": {
+					"feature": "byg:dead_hazel_tree1",
+					"placement": []
+				}
+			}
+		]
+	},
+	"type": "minecraft:random_selector"
+}

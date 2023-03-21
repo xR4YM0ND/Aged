@@ -1,0 +1,10 @@
+{
+	// Price per claim
+	"claim_price": 10000,
+	// Current extra claims * this * claim_price = total price
+	"claim_price_modificator": 0.10000000149011612,
+	// Max amount of bonus chunk claims
+	"max_bonus_claims": 200,
+	// If false only villagers with nbt NumismaticClaimTrader = true sell
+	"allow_all_villagers": false
+}

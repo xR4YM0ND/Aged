@@ -1,0 +1,15 @@
+{
+	"feature": "byg:beehives",
+	"placement": [
+		{
+			"count": 2,
+			"type": "minecraft:count"
+		},
+		{
+			"type": "minecraft:in_square"
+		},
+		{
+			"type": "minecraft:biome"
+		}
+	]
+}

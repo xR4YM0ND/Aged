@@ -1,0 +1,38 @@
+{
+	"config": {
+		"base_block_provider": {
+			"state": {
+				"Name": "byg:scoria_stone"
+			},
+			"type": "minecraft:simple_state_provider"
+		},
+		"block_provider": {
+			"state": {
+				"Name": "minecraft:chain",
+				"Properties": {
+					"axis": "y",
+					"waterlogged": "false"
+				}
+			},
+			"type": "minecraft:simple_state_provider"
+		},
+		"end_block_provider": {
+			"state": {
+				"Name": "minecraft:chain",
+				"Properties": {
+					"axis": "y",
+					"waterlogged": "false"
+				}
+			},
+			"type": "minecraft:simple_state_provider"
+		},
+		"max_length": 17,
+		"min_length": 8,
+		"whitelist": [
+			{
+				"Name": "byg:scoria_stone"
+			}
+		]
+	},
+	"type": "byg:hanging_feature"
+}

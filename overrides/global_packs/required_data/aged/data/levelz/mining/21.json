@@ -1,0 +1,28 @@
+{
+    "replace": true,
+    "level": 21,
+    "block": [
+        "minecraft:magma_block",
+        "byg:magmatic_stone",
+        "minecraft:nether_bricks",
+        "minecraft:cracked_nether_bricks",
+        "minecraft:chiseled_nether_bricks",
+        "minecraft:nether_brick_stairs",
+        "minecraft:nether_brick_slab",
+        "minecraft:nether_brick_wall",
+        "minecraft:nether_brick_fence",
+        "minecraft:red_nether_bricks",
+        "minecraft:red_nether_brick_stairs",
+        "minecraft:red_nether_brick_slab",
+        "minecraft:red_nether_brick_wall",
+        "architects_palette:molten_nether_bricks",
+        "byg:yellow_nether_bricks",
+        "byg:yellow_nether_brick_stairs",
+        "byg:yellow_nether_brick_slab",
+        "byg:yellow_nether_brick_wall",
+        "byg:blue_nether_bricks",
+        "byg:blue_nether_brick_stairs",
+        "byg:blue_nether_brick_slab",
+        "byg:blue_nether_brick_wall"
+    ]
+}

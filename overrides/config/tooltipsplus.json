@@ -1,0 +1,12 @@
+{
+  "colors": true,
+  "enchantColors": true,
+  "potionColors": true,
+  "showBees": true,
+  "clockTime": true,
+  "numericalEnchants": false,
+  "maxEnchantPlus": false,
+  "skullTips": true,
+  "showNBT": false,
+  "showRepairCost": true
+}

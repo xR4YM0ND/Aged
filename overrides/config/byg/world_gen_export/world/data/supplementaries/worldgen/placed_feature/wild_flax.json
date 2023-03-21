@@ -1,0 +1,19 @@
+{
+	"feature": "supplementaries:wild_flax",
+	"placement": [
+		{
+			"heightmap": "WORLD_SURFACE_WG",
+			"type": "minecraft:heightmap"
+		},
+		{
+			"chance": 6,
+			"type": "minecraft:rarity_filter"
+		},
+		{
+			"type": "minecraft:in_square"
+		},
+		{
+			"type": "minecraft:biome"
+		}
+	]
+}

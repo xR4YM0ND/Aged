@@ -1,0 +1,29 @@
+{
+	"containers": [
+		{
+			"capacity": 4,
+			"empty": "minecraft:bucket",
+			"empty_sound": "minecraft:item.bucket.empty",
+			"fill_sound": "minecraft:item.bucket.fill",
+			"filled": [
+				"minecraft:milk_bucket"
+			]
+		},
+		{
+			"capacity": 1,
+			"empty": "minecraft:glass_bottle",
+			"filled": [
+				"farmersdelight:milk_bottle"
+			]
+		}
+	],
+	"flowing_texture": "moonlight:soft_fluids/milk_liquid",
+	"food": {
+		"divider": 3,
+		"item": "minecraft:milk_bucket"
+	},
+	"still_texture": "moonlight:soft_fluids/milk_liquid",
+	"tint_method": "no_tint",
+	"translation_key": "fluid.supplementaries.milk",
+	"use_texture_from": "create:milk"
+}

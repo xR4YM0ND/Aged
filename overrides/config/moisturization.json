@@ -1,0 +1,9 @@
+{
+  "cropsDie": true,
+  "waterRange": 1,
+  "growthReductor": 5,
+  "boneMealReductor": 0,
+  "farmlandDryingRate": 10,
+  "sprinklerRadius": 3,
+  "netheriteSprinklerRadius": 7
+}

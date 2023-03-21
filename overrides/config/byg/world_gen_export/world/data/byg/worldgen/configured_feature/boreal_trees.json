@@ -1,0 +1,25 @@
+{
+	"config": {
+		"default": {
+			"feature": "byg:boreal_tree2",
+			"placement": []
+		},
+		"features": [
+			{
+				"chance": 0.3,
+				"feature": {
+					"feature": "byg:birch_yellow_boreal_tree1",
+					"placement": []
+				}
+			},
+			{
+				"chance": 0.3,
+				"feature": {
+					"feature": "byg:birch_boreal_tree1",
+					"placement": []
+				}
+			}
+		]
+	},
+	"type": "minecraft:random_selector"
+}

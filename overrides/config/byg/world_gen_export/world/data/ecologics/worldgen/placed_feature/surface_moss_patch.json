@@ -1,0 +1,32 @@
+{
+	"feature": "ecologics:surface_moss_patch",
+	"placement": [
+		{
+			"count": 256,
+			"type": "minecraft:count"
+		},
+		{
+			"height": {
+				"max_inclusive": {
+					"absolute": 256
+				},
+				"min_inclusive": {
+					"above_bottom": 0
+				},
+				"type": "minecraft:uniform"
+			},
+			"type": "minecraft:height_range"
+		},
+		{
+			"type": "minecraft:in_square"
+		},
+		{
+			"heightmap": "OCEAN_FLOOR_WG",
+			"max_inclusive": -13,
+			"type": "minecraft:surface_relative_threshold_filter"
+		},
+		{
+			"type": "minecraft:biome"
+		}
+	]
+}

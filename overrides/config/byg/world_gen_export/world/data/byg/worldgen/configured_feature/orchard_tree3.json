@@ -1,0 +1,72 @@
+{
+	"config": {
+		"disk_provider": {
+			"state": {
+				"Name": "minecraft:podzol",
+				"Properties": {
+					"snowy": "false"
+				}
+			},
+			"type": "minecraft:simple_state_provider"
+		},
+		"disk_radius": 0,
+		"leaves_provider": {
+			"entries": [
+				{
+					"data": {
+						"Name": "byg:orchard_leaves",
+						"Properties": {
+							"distance": "7",
+							"persistent": "false",
+							"waterlogged": "false"
+						}
+					},
+					"weight": 10
+				},
+				{
+					"data": {
+						"Name": "byg:flowering_orchard_leaves",
+						"Properties": {
+							"distance": "7",
+							"persistent": "false",
+							"waterlogged": "false"
+						}
+					},
+					"weight": 1
+				},
+				{
+					"data": {
+						"Name": "byg:ripe_orchard_leaves",
+						"Properties": {
+							"distance": "7",
+							"persistent": "false",
+							"waterlogged": "false"
+						}
+					},
+					"weight": 1
+				}
+			],
+			"type": "minecraft:weighted_state_provider"
+		},
+		"max_height": 13,
+		"min_height": 9,
+		"trunk_provider": {
+			"state": {
+				"Name": "minecraft:oak_log",
+				"Properties": {
+					"axis": "y"
+				}
+			},
+			"type": "minecraft:simple_state_provider"
+		},
+		"whitelist": [
+			{
+				"Name": "minecraft:grass_block",
+				"Properties": {
+					"snowy": "false"
+				}
+			}
+		]
+	},
+	"type": "byg:orchard_tree3"
+}

@@ -1,0 +1,20 @@
+{
+    "replace": true,
+    "level": 5,
+    "block": [
+        "minecraft:mud_bricks",
+        "minecraft:mud_brick_stairs",
+        "minecraft:mud_brick_slab",
+        "minecraft:mud_brick_wall",
+        "minecraft:bricks",
+        "minecraft:brick_stairs",
+        "minecraft:brick_slab",
+        "minecraft:brick_wall",
+        "twigs:chiseled_bricks",
+        "twigs:cracked_bricks",
+        "twigs:mossy_bricks",
+        "twigs:mossy_brick_stairs",
+        "twigs:mossy_brick_slab",
+        "twigs:mossy_brick_wall"
+    ]
+}

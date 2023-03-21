@@ -1,0 +1,16 @@
+{
+	"config": {
+		"state_provider": {
+			"state": {
+				"Name": "missingwilds:fallen_birch_log",
+				"Properties": {
+					"axis": "y",
+					"mossy": "false",
+					"waterlogged": "false"
+				}
+			},
+			"type": "minecraft:simple_state_provider"
+		}
+	},
+	"type": "missingwilds:fallen_log"
+}

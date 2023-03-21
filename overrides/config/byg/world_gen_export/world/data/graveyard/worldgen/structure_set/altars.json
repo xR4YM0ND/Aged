@@ -1,0 +1,14 @@
+{
+	"placement": {
+		"salt": 1093123913,
+		"separation": 24,
+		"spacing": 30,
+		"type": "minecraft:random_spread"
+	},
+	"structures": [
+		{
+			"structure": "graveyard:altar",
+			"weight": 1
+		}
+	]
+}

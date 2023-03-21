@@ -1,0 +1,35 @@
+{
+	"feature": "byg:dead_ether_trees",
+	"placement": [
+		{
+			"count": 7,
+			"type": "minecraft:count"
+		},
+		{
+			"height": {
+				"max_inclusive": {
+					"absolute": 256
+				},
+				"min_inclusive": {
+					"absolute": 200
+				},
+				"type": "minecraft:uniform"
+			},
+			"type": "minecraft:height_range"
+		},
+		{
+			"heightmap": "MOTION_BLOCKING",
+			"type": "minecraft:heightmap"
+		},
+		{
+			"type": "minecraft:in_square"
+		},
+		{
+			"chance": 2,
+			"type": "minecraft:rarity_filter"
+		},
+		{
+			"type": "minecraft:biome"
+		}
+	]
+}

@@ -1,0 +1,39 @@
+{
+	"config": {
+		"default": {
+			"feature": "byg:maple_tree1",
+			"placement": []
+		},
+		"features": [
+			{
+				"chance": 0.2,
+				"feature": {
+					"feature": "byg:red_maple_tree1",
+					"placement": []
+				}
+			},
+			{
+				"chance": 0.2,
+				"feature": {
+					"feature": "byg:red_maple_tree2",
+					"placement": []
+				}
+			},
+			{
+				"chance": 0.2,
+				"feature": {
+					"feature": "byg:silver_maple_tree1",
+					"placement": []
+				}
+			},
+			{
+				"chance": 0.2,
+				"feature": {
+					"feature": "byg:silver_maple_tree2",
+					"placement": []
+				}
+			}
+		]
+	},
+	"type": "minecraft:random_selector"
+}

@@ -1,0 +1,22 @@
+{
+	"config": {
+		"block_provider": {
+			"entries": [
+				{
+					"data": {
+						"Name": "byg:cryptic_stone"
+					},
+					"weight": 5
+				},
+				{
+					"data": {
+						"Name": "byg:cryptic_magma_block"
+					},
+					"weight": 5
+				}
+			],
+			"type": "minecraft:weighted_state_provider"
+		}
+	},
+	"type": "byg:spike"
+}

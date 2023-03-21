@@ -1,0 +1,27 @@
+{
+	"biomes": "#c:in_overworld",
+	"blacklist": [],
+	"max_distance_from_center": 80,
+	"max_height_difference": 3,
+	"project_start_to_heightmap": "WORLD_SURFACE_WG",
+	"size": 1,
+	"spawn_overrides": {
+		"monster": {
+			"bounding_box": "piece",
+			"spawns": []
+		}
+	},
+	"start_height": {
+		"absolute": 0
+	},
+	"start_pool": "graveyard:small_desert_grave",
+	"step": "surface_structures",
+	"structure_name": "small_desert_grave",
+	"terrain_adaptation": "beard_box",
+	"terrain_check_size": 4,
+	"type": "graveyard:tg_jigsaw",
+	"use_expansion_hack": true,
+	"whitelist": [
+		"#c:desert"
+	]
+}
