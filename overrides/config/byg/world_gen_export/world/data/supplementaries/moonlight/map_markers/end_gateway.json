@@ -1,7 +1,0 @@
-{
-	"rotation": 0.0,
-	"target_block": {
-		"block": "minecraft:end_gateway",
-		"predicate_type": "minecraft:block_match"
-	}
-}

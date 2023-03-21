@@ -564,6 +564,55 @@
       "summerModifier": 0.25,
       "fallModifier": 0.0,
       "winterModifier": 0.0
+    },
+    {
+      "cropIdentifier": "colorful-azaleas:orange_azalea_sapling",
+      "springModifier": 0.30,
+      "summerModifier": 0.1,
+      "fallModifier": 0.0,
+      "winterModifier": 0.0
+    },
+    {
+      "cropIdentifier": "colorful-azaleas:red_azalea_sapling",
+      "springModifier": 0.30,
+      "summerModifier": 0.1,
+      "fallModifier": 0.0,
+      "winterModifier": 0.0
+    },
+    {
+      "cropIdentifier": "colorful-azaleas:blue_azalea_sapling",
+      "springModifier": 0.30,
+      "summerModifier": 0.1,
+      "fallModifier": 0.0,
+      "winterModifier": 0.0
+    },
+    {
+      "cropIdentifier": "colorful-azaleas:yellow_azalea_sapling",
+      "springModifier": 0.30,
+      "summerModifier": 0.1,
+      "fallModifier": 0.0,
+      "winterModifier": 0.0
+    },
+    {
+      "cropIdentifier": "colorful-azaleas:pink_azalea_sapling",
+      "springModifier": 0.30,
+      "summerModifier": 0.1,
+      "fallModifier": 0.0,
+      "winterModifier": 0.0
+    },
+    {
+      "cropIdentifier": "colorful-azaleas:purple_azalea_sapling",
+      "springModifier": 0.30,
+      "summerModifier": 0.1,
+      "fallModifier": 0.0,
+      "winterModifier": 0.0
+    },
+    {
+      "cropIdentifier": "colorful-azaleas:white_azalea_sapling",
+      "springModifier": 0.30,
+      "summerModifier": 0.1,
+      "fallModifier": 0.0,
+      "winterModifier": 0.0
     }
   ],
   "doAnimalsBreedInWinter": false

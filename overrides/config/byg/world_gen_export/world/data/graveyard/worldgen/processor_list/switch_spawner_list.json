@@ -1,7 +1,0 @@
-{
-	"processors": [
-		{
-			"processor_type": "graveyard:switch_spawner_processor"
-		}
-	]
-}

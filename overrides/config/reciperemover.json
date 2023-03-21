@@ -1,5 +1,5 @@
 {
-  "printErrorMessage": true,
+  "printErrorMessage": false,
   "printRecipesAndAdvancements": false,
   "recipeList": [
     "customportals:white_portal_catalyst",

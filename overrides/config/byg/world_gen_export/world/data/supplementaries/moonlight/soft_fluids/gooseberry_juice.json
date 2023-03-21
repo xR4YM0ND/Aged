@@ -1,7 +1,0 @@
-{
-	"color": "bbdf62",
-	"flowing_texture": "moonlight:soft_fluids/potion_flow",
-	"from_mod": "bayou_blues",
-	"still_texture": "moonlight:soft_fluids/potion_still",
-	"translation_key": "item.bayou_blues.gooseberry_juice_bottle"
-}

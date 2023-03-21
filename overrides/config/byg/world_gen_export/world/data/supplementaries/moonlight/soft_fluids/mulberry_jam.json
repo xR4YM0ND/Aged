@@ -1,7 +1,0 @@
-{
-	"flowing_texture": "moonlight:soft_fluids/potion_flow",
-	"from_mod": "upgrade_aquatic",
-	"still_texture": "upgrade_aquatic:block/mulberry_jam_block_top",
-	"tint_method": "flowing",
-	"translation_key": "item.upgrade_aquatic:mulberry_jam_bottle"
-}

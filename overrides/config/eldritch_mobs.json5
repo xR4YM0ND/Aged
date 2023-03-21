@@ -76,7 +76,7 @@
 		"name": "Drowning",
 		"disabled": false,
 		"drowningDamage": 0.009999999776482582,
-		"waterBreatingDuration": 100
+		"waterBreathingDuration": 100
 	},
 	"duplicatorConfig": {
 		"name": "Duplicator",

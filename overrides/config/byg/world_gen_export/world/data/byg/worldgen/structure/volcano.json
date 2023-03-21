@@ -1,6 +1,0 @@
-{
-	"biomes": "#minecraft:is_ocean",
-	"spawn_overrides": { },
-	"step": "raw_generation",
-	"type": "byg:volcano"
-}

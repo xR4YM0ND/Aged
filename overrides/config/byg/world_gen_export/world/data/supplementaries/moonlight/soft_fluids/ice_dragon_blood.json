@@ -1,7 +1,0 @@
-{
-	"color": "1bcffc",
-	"flowing_texture": "moonlight:soft_fluids/potion_flow",
-	"from_mod": "iceandfire",
-	"still_texture": "moonlight:soft_fluids/potion_still",
-	"translation_key": "item.iceandfire.ice_dragon_blood"
-}

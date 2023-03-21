@@ -1,7 +1,0 @@
-{
-	"processors": [
-		{
-			"processor_type": "graveyard:remove_waterlogged_processor"
-		}
-	]
-}

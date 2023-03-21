@@ -6,6 +6,7 @@
   "leafLifespan": 200,
   "leafSpawnRate": 10,
   "coniferLeafSpawnRate": 0,
+  "snowflakeSpawnRate": 15,
   "dropFromPlayerPlacedBlocks": true,
   "leavesOnBlockHit": true,
   "minimumFreeSpaceBelow": 1,
@@ -324,6 +325,90 @@
       "isConiferBlock": false
     },
     "byg:embur_gel_vines": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "colorful-azaleas:yellow_blooming_azalea_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "colorful-azaleas:purple_azalea_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "colorful-azaleas:pink_flowering_azalea_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "colorful-azaleas:orange_blooming_azalea_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "colorful-azaleas:blue_flowering_azalea_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "colorful-azaleas:white_azalea_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "colorful-azaleas:yellow_flowering_azalea_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "colorful-azaleas:orange_flowering_azalea_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "colorful-azaleas:pink_azalea_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "colorful-azaleas:white_flowering_azalea_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "colorful-azaleas:orange_azalea_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "colorful-azaleas:blue_blooming_azalea_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "colorful-azaleas:purple_flowering_azalea_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "colorful-azaleas:white_blooming_azalea_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "colorful-azaleas:red_azalea_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "colorful-azaleas:purple_blooming_azalea_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "colorful-azaleas:red_blooming_azalea_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "colorful-azaleas:yellow_azalea_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "colorful-azaleas:red_flowering_azalea_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "colorful-azaleas:blue_azalea_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "colorful-azaleas:pink_blooming_azalea_leaves": {
       "spawnRateFactor": 1.0,
       "isConiferBlock": false
     }

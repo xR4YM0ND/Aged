@@ -1,7 +1,0 @@
-{
-	"color": "be53f6",
-	"flowing_texture": "moonlight:soft_fluids/potion_flow",
-	"from_mod": "betterendforge",
-	"still_texture": "moonlight:soft_fluids/potion_still",
-	"translation_key": "item.betterendforge.umbrella_cluster_juice"
-}

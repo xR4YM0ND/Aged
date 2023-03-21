@@ -1,7 +1,0 @@
-{
-	"color": "dd9d23",
-	"flowing_texture": "moonlight:soft_fluids/potion_flow",
-	"from_mod": "environmental",
-	"still_texture": "moonlight:soft_fluids/soup_liquid",
-	"translation_key": "item.environmental.scrambled_eggs"
-}

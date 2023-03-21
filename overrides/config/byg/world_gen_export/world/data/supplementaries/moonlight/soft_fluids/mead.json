@@ -1,7 +1,0 @@
-{
-	"color": "c39710",
-	"flowing_texture": "minecraft:block/water_flow",
-	"from_mod": "simplefarming",
-	"still_texture": "minecraft:block/water_still",
-	"translation_key": "item.simplefarming.mead"
-}
