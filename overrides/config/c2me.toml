@@ -84,7 +84,7 @@ defaultGlobalExecutorParallelismExpression = "default"
 	# as this option only affects newly stored chunks 
 	# Invalid values will fall back to vanilla default
 	# 
-	chunkStreamVersion = 1
+	chunkStreamVersion = 2
 	# (Default: false) Whether to use the optimized implementation of IO system
 	replaceImpl = "default"
 	# (Default: 1536) Soft limit for io worker nbt cache

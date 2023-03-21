@@ -4,12 +4,12 @@
 	/**
 	 * Whether EMI is enabled and visible.
 	 */
-	enabled: false;
+	enabled: true;
 
 	/**
 	 * Whether cheating in items is enabled.
 	 */
-	cheat-mode: true;
+	cheat-mode: false;
 }
 
 #ui {
@@ -35,7 +35,7 @@
 	 * Whether to add mod name to item tooltips
 	 * In case another mod provides behavior
 	 */
-	append-item-mod-id: true;
+	append-item-mod-id: false;
 
 	/**
 	 * Whether an empty search should display

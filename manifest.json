@@ -10,7 +10,7 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "Aged 1.0.0",
+  "name": "Aged 1.0.1",
   "version": "1.19.2",
   "author": "SpigotDE",
   "files": [
@@ -280,11 +280,6 @@
       "required": true
     },
     {
-      "projectID": 437712,
-      "fileID": 3969440,
-      "required": true
-    },
-    {
       "projectID": 518319,
       "fileID": 3902698,
       "required": true
@@ -370,11 +365,6 @@
       "required": true
     },
     {
-      "projectID": 411557,
-      "fileID": 3820437,
-      "required": true
-    },
-    {
       "projectID": 341284,
       "fileID": 3820928,
       "required": true
@@ -442,11 +432,6 @@
     {
       "projectID": 576413,
       "fileID": 3995943,
-      "required": true
-    },
-    {
-      "projectID": 504899,
-      "fileID": 4015317,
       "required": true
     },
     {
@@ -552,11 +537,6 @@
     {
       "projectID": 318416,
       "fileID": 4021619,
-      "required": true
-    },
-    {
-      "projectID": 514468,
-      "fileID": 4016290,
       "required": true
     },
     {
@@ -675,11 +655,6 @@
       "required": true
     },
     {
-      "projectID": 417510,
-      "fileID": 3945485,
-      "required": true
-    },
-    {
       "projectID": 317134,
       "fileID": 3950163,
       "required": true
@@ -735,11 +710,6 @@
       "required": true
     },
     {
-      "projectID": 615948,
-      "fileID": 4009269,
-      "required": true
-    },
-    {
       "projectID": 550916,
       "fileID": 3825962,
       "required": true
@@ -777,11 +747,6 @@
     {
       "projectID": 428966,
       "fileID": 3923901,
-      "required": true
-    },
-    {
-      "projectID": 324717,
-      "fileID": 4054977,
       "required": true
     },
     {
@@ -947,6 +912,36 @@
     {
       "projectID": 317780,
       "fileID": 4026544,
+      "required": true
+    },
+    {
+      "projectID": 417510,
+      "fileID": 4058315,
+      "required": true
+    },
+    {
+      "projectID": 437712,
+      "fileID": 4071249,
+      "required": true
+    },
+    {
+      "projectID": 514468,
+      "fileID": 4070821,
+      "required": true
+    },
+    {
+      "projectID": 411557,
+      "fileID": 4070924,
+      "required": true
+    },
+    {
+      "projectID": 559148,
+      "fileID": 4056990,
+      "required": true
+    },
+    {
+      "projectID": 657481,
+      "fileID": 4070237,
       "required": true
     },
     {

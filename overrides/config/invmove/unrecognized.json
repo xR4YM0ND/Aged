@@ -35,7 +35,11 @@
     "eu.ha3.presencefootsteps.PFOptionsScreen": true,
     "com.glisco.isometricrenders.screen.RenderScreen": true,
     "net.coderbot.iris.gui.screen.ShaderPackScreen": true,
-    "net.minecraft.class_5375": true
+    "net.minecraft.class_5375": true,
+    "mcp.mobius.waila.gui.screen.HomeScreen": true,
+    "mcp.mobius.waila.gui.screen.WailaConfigScreen": true,
+    "mcp.mobius.waila.gui.screen.PluginConfigScreen": true,
+    "mcp.mobius.waila.gui.screen.PluginConfigScreen$1": true
   },
   "hideBackground": {
     "net.minecraft.class_5522": true,
