@@ -5,27 +5,27 @@
             {
                 "type": "numismatic-overhaul:sell_stack",
                 "villager_experience": 1,
-                "max_uses": 16,
-                "price": 10,
+                "max_uses": 2,
+                "price": 80,
                 "sell": {
                     "item": "minecraft:sugar",
-                    "count": 1
+                    "count": 8
                 }
             },
             {
                 "type": "numismatic-overhaul:buy_item",
                 "villager_experience": 1,
-                "max_uses": 16,
-                "price": 10,
+                "max_uses": 2,
+                "price": 80,
                 "buy": {
                     "item": "minecraft:rotten_flesh",
-                    "count": 8
+                    "count": 64
                 }
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
                 "villager_experience": 1,
-                "max_uses": 8,
+                "max_uses": 1,
                 "price": 4,
                 "sell": {
                     "item": "medievalweapons:wooden_healing_staff",
@@ -35,19 +35,23 @@
         ],
         "apprentice": [
             {
-                "type": "numismatic-overhaul:sell_stack",
+                "type": "numismatic-overhaul:process_item",
                 "villager_experience": 2,
-                "max_uses": 12,
-                "price": 20,
+                "max_uses": 2,
+                "price": 100,
+                "buy": {
+                    "item": "numismatic-overhaul:bronze_coin",
+                    "count": 60
+                },
                 "sell": {
                     "item": "minecraft:glass_bottle",
-                    "count": 3
+                    "count": 24
                 }
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
                 "villager_experience": 2,
-                "max_uses": 8,
+                "max_uses": 1,
                 "price": 10,
                 "sell": {
                     "item": "medievalweapons:stone_healing_staff",
@@ -57,11 +61,11 @@
             {
                 "type": "numismatic-overhaul:buy_item",
                 "villager_experience": 2,
-                "max_uses": 12,
-                "price": 40,
+                "max_uses": 2,
+                "price": 80,
                 "buy": {
                     "item": "minecraft:redstone",
-                    "count": 16
+                    "count": 32
                 }
             }
         ],
@@ -69,37 +73,37 @@
             {
                 "type": "numismatic-overhaul:sell_stack",
                 "villager_experience": 3,
-                "max_uses": 8,
-                "price": 200,
+                "max_uses": 2,
+                "price": 1600,
                 "sell": {
                     "item": "minecraft:rabbit_foot",
-                    "count": 3
+                    "count": 24
                 }
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
                 "villager_experience": 3,
-                "max_uses": 8,
-                "price": 200,
+                "max_uses": 2,
+                "price": 1600,
                 "sell": {
                     "item": "minecraft:emerald",
-                    "count": 1
+                    "count": 8
                 }
             },
             {
                 "type": "numismatic-overhaul:buy_item",
                 "villager_experience": 3,
-                "max_uses": 8,
-                "price": 20,
+                "max_uses": 2,
+                "price": 160,
                 "buy": {
                     "item": "minecraft:emerald",
-                    "count": 1
+                    "count": 8
                 }
             },
             {
                 "type": "numismatic-overhaul:process_item",
                 "villager_experience": 3,
-                "max_uses": 6,
+                "max_uses": 1,
                 "price": 100,
                 "buy": {
                     "item": "numismatic-overhaul:bronze_coin",
@@ -113,11 +117,11 @@
             {
                 "type": "numismatic-overhaul:sell_stack",
                 "villager_experience": 3,
-                "max_uses": 8,
-                "price": 300,
+                "max_uses": 2,
+                "price": 2400,
                 "sell": {
                     "item": "minecraft:experience_bottle",
-                    "count": 3
+                    "count": 24
                 }
             }
         ],
@@ -125,31 +129,31 @@
             {
                 "type": "numismatic-overhaul:sell_stack",
                 "villager_experience": 4,
-                "max_uses": 6,
-                "price": 100,
+                "max_uses": 3,
+                "price": 800,
                 "sell": {
                     "item": "minecraft:gunpowder",
-                    "count": 2
+                    "count": 16
                 }
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
                 "villager_experience": 4,
-                "max_uses": 6,
-                "price": 200,
+                "max_uses": 2,
+                "price": 1600,
                 "sell": {
                     "item": "minecraft:nether_wart",
-                    "count": 1
+                    "count": 8
                 }
             },
             {
                 "type": "numismatic-overhaul:buy_item",
                 "villager_experience": 4,
-                "max_uses": 6,
-                "price": 80,
+                "max_uses": 2,
+                "price": 640,
                 "buy": {
                     "item": "minecraft:nether_wart",
-                    "count": 8
+                    "count": 64
                 }
             },
             {
@@ -165,11 +169,11 @@
             {
                 "type": "numismatic-overhaul:buy_item",
                 "villager_experience": 4,
-                "max_uses": 6,
-                "price": 80,
+                "max_uses": 2,
+                "price": 160,
                 "buy": {
                     "item": "minecraft:glowstone_dust",
-                    "count": 16
+                    "count": 32
                 }
             }
         ],
@@ -187,17 +191,17 @@
             {
                 "type": "numismatic-overhaul:sell_stack",
                 "villager_experience": 5,
-                "max_uses": 4,
-                "price": 1000,
+                "max_uses": 2,
+                "price": 8000,
                 "sell": {
                     "item": "minecraft:phantom_membrane",
-                    "count": 1
+                    "count": 8
                 }
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
                 "villager_experience": 5,
-                "max_uses": 2,
+                "max_uses": 1,
                 "price": 10000,
                 "sell": {
                     "item": "revive:revival_star",
@@ -217,7 +221,7 @@
             {
                 "type": "numismatic-overhaul:buy_item",
                 "villager_experience": 5,
-                "max_uses": 4,
+                "max_uses": 2,
                 "price": 100,
                 "buy": {
                     "item": "minecraft:ender_pearl",

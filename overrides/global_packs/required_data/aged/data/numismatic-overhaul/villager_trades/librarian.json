@@ -5,20 +5,20 @@
             {
                 "type": "numismatic-overhaul:sell_stack",
                 "villager_experience": 1,
-                "max_uses": 16,
-                "price": 20,
+                "max_uses": 2,
+                "price": 100,
                 "sell": {
                     "item": "minecraft:paper",
-                    "count": 1
+                    "count": 10
                 }
             },
             {
-                "type": "numismatic-overhaul:buy_item",
-                "villager_experience": 1,
-                "max_uses": 16,
-                "price": 4,
-                "buy": {
-                    "item": "minecraft:paper",
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "max_uses": 2,
+                "price": 200,
+                "sell": {
+                    "item": "minecraft:map",
                     "count": 1
                 }
             }
@@ -27,27 +27,27 @@
             {
                 "type": "numismatic-overhaul:sell_stack",
                 "villager_experience": 2,
-                "max_uses": 12,
-                "price": 50,
+                "max_uses": 2,
+                "price": 400,
                 "sell": {
                     "item": "minecraft:book",
-                    "count": 1
+                    "count": 8
                 }
             },
             {
                 "type": "numismatic-overhaul:buy_item",
                 "villager_experience": 2,
-                "max_uses": 12,
-                "price": 10,
+                "max_uses": 2,
+                "price": 100,
                 "buy": {
                     "item": "minecraft:book",
-                    "count": 1
+                    "count": 10
                 }
             },
             {
                 "type": "numismatic-overhaul:enchant_item",
                 "villager_experience": 2,
-                "max_uses": 4,
+                "max_uses": 1,
                 "base_price": 1000,
                 "level": 8,
                 "allow_treasure": false,
@@ -60,7 +60,7 @@
             {
                 "type": "numismatic-overhaul:enchant_item",
                 "villager_experience": 3,
-                "max_uses": 3,
+                "max_uses": 1,
                 "base_price": 3000,
                 "level": 16,
                 "allow_treasure": false,
@@ -71,11 +71,11 @@
             {
                 "type": "numismatic-overhaul:buy_item",
                 "villager_experience": 3,
-                "max_uses": 8,
-                "price": 280,
+                "max_uses": 2,
+                "price": 2240,
                 "buy": {
                     "item": "minecraft:bookshelf",
-                    "count": 1
+                    "count": 8
                 }
             }
         ],
@@ -83,7 +83,7 @@
             {
                 "type": "numismatic-overhaul:enchant_item",
                 "villager_experience": 4,
-                "max_uses": 2,
+                "max_uses": 1,
                 "base_price": 5000,
                 "level": 22,
                 "allow_treasure": false,
@@ -94,7 +94,7 @@
             {
                 "type": "numismatic-overhaul:enchant_item",
                 "villager_experience": 4,
-                "max_uses": 2,
+                "max_uses": 1,
                 "base_price": 5000,
                 "level": 22,
                 "allow_treasure": false,
@@ -114,7 +114,7 @@
             {
                 "type": "numismatic-overhaul:enchant_item",
                 "villager_experience": 5,
-                "max_uses": 2,
+                "max_uses": 1,
                 "base_price": 10000,
                 "level": 30,
                 "allow_treasure": false,
@@ -125,7 +125,7 @@
             {
                 "type": "numismatic-overhaul:enchant_item",
                 "villager_experience": 5,
-                "max_uses": 2,
+                "max_uses": 1,
                 "base_price": 10000,
                 "level": 30,
                 "allow_treasure": false,

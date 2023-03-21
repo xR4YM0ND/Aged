@@ -16,6 +16,7 @@
         },
         {
             "type": "patchouli:text",
+            "title": "Claiming",
             "text": "Wander around till you find your place to build.$(br2)Press $(l)M$() to open the World Map.$(br2)Hold right-click and select the area you want to claim.$(br2)Click $(l)Claim Selected$()$(br2)You can buy more Chunks from the $(l)Claim Trader$(). (Found at Spawn in Build World)"
         }
     ]

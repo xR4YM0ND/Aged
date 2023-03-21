@@ -3,19 +3,19 @@
     "trades": {
         "novice": [
             {
-                "type": "numismatic-overhaul:buy_item",
+                "type": "numismatic-overhaul:sell_stack",
                 "villager_experience": 1,
-                "max_uses": 16,
-                "price": 18,
-                "buy": {
+                "max_uses": 2,
+                "price": 100,
+                "sell": {
                     "item": "minecraft:paper",
-                    "count": 9
+                    "count": 10
                 }
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
                 "villager_experience": 2,
-                "max_uses": 16,
+                "max_uses": 2,
                 "price": 200,
                 "sell": {
                     "item": "minecraft:map",
@@ -27,27 +27,27 @@
             {
                 "type": "numismatic-overhaul:sell_stack",
                 "villager_experience": 2,
-                "max_uses": 12,
-                "price": 100,
+                "max_uses": 2,
+                "price": 400,
                 "sell": {
                     "item": "minecraft:book",
-                    "count": 1
+                    "count": 4
                 }
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
                 "villager_experience": 2,
-                "max_uses": 12,
-                "price": 50,
+                "max_uses": 2,
+                "price": 200,
                 "sell": {
                     "item": "minecraft:white_banner",
-                    "count": 1
+                    "count": 4
                 }
             },
             {
                 "type": "numismatic-overhaul:buy_item",
                 "villager_experience": 3,
-                "max_uses": 12,
+                "max_uses": 2,
                 "price": 100,
                 "buy": {
                     "item": "minecraft:writable_book",
@@ -59,7 +59,7 @@
             {
                 "type": "numismatic-overhaul:sell_stack",
                 "villager_experience": 3,
-                "max_uses": 8,
+                "max_uses": 2,
                 "price": 400,
                 "sell": {
                     "item": "minecraft:compass",
@@ -69,7 +69,7 @@
             {
                 "type": "numismatic-overhaul:process_item",
                 "villager_experience": 3,
-                "max_uses": 8,
+                "max_uses": 2,
                 "price": 300,
                 "buy": {
                     "item": "numismatic-overhaul:bronze_coin",
@@ -90,11 +90,11 @@
             {
                 "type": "numismatic-overhaul:buy_item",
                 "villager_experience": 4,
-                "max_uses": 8,
-                "price": 280,
+                "max_uses": 2,
+                "price": 840,
                 "buy": {
                     "item": "minecraft:bookshelf",
-                    "count": 1
+                    "count": 3
                 }
             }
         ],
@@ -102,7 +102,7 @@
             {
                 "type": "numismatic-overhaul:sell_stack",
                 "villager_experience": 4,
-                "max_uses": 8,
+                "max_uses": 2,
                 "price": 4000,
                 "sell": {
                     "item": "seasons:season_calendar",
@@ -119,7 +119,7 @@
             {
                 "type": "numismatic-overhaul:buy_item",
                 "villager_experience": 5,
-                "max_uses": 6,
+                "max_uses": 2,
                 "price": 1000,
                 "buy": {
                     "item": "minecraft:name_tag",
@@ -131,7 +131,7 @@
             {
                 "type": "numismatic-overhaul:sell_stack",
                 "villager_experience": 5,
-                "max_uses": 4,
+                "max_uses": 2,
                 "price": 20000,
                 "sell": {
                     "item": "seasons:season_detector",

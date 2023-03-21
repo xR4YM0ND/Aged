@@ -15,7 +15,7 @@
             {
                 "type": "numismatic-overhaul:sell_stack",
                 "villager_experience": 2,
-                "max_uses": 5,
+                "max_uses": 2,
                 "price": 50,
                 "sell": {
                     "item": "farmersdelight:horse_feed",
@@ -25,7 +25,7 @@
             {
                 "type": "numismatic-overhaul:sell_stack",
                 "villager_experience": 2,
-                "max_uses": 5,
+                "max_uses": 2,
                 "price": 50,
                 "sell": {
                     "item": "farmersdelight:dog_food",
@@ -37,7 +37,7 @@
             {
                 "type": "numismatic-overhaul:sell_stack",
                 "villager_experience": 3,
-                "max_uses": 6,
+                "max_uses": 2,
                 "price": 600,
                 "sell": {
                     "item": "environmentz:wolf_pelt",
@@ -57,21 +57,21 @@
             {
                 "type": "numismatic-overhaul:sell_stack",
                 "villager_experience": 3,
-                "max_uses": 16,
-                "price": 200,
+                "max_uses": 2,
+                "price": 1600,
                 "sell": {
                     "item": "architects_palette:sunstone",
-                    "count": 6
+                    "count": 48
                 }
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
                 "villager_experience": 3,
-                "max_uses": 16,
-                "price": 200,
+                "max_uses": 2,
+                "price": 1600,
                 "sell": {
                     "item": "architects_palette:moonstone",
-                    "count": 6
+                    "count": 48
                 }
             }
         ],
@@ -90,10 +90,10 @@
                 "type": "numismatic-overhaul:sell_stack",
                 "villager_experience": 10,
                 "max_uses": 1,
-                "price": 500,
+                "price": 4000,
                 "sell": {
                     "item": "minecraft:experience_bottle",
-                    "count": 8
+                    "count": 64
                 }
             }
         ],

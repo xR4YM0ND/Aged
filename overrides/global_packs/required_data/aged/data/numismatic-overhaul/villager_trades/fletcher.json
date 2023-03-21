@@ -5,47 +5,47 @@
             {
                 "type": "numismatic-overhaul:sell_stack",
                 "villager_experience": 1,
-                "max_uses": 16,
-                "price": 20,
+                "max_uses": 2,
+                "price": 640,
                 "sell": {
                     "item": "minecraft:feather",
-                    "count": 1
+                    "count": 32
                 }
             },
             {
                 "type": "numismatic-overhaul:buy_item",
                 "villager_experience": 1,
-                "max_uses": 16,
-                "price": 3,
+                "max_uses": 2,
+                "price": 96,
                 "buy": {
                     "item": "minecraft:feather",
-                    "count": 1
+                    "count": 32
                 }
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
                 "villager_experience": 1,
-                "max_uses": 16,
-                "price": 20,
+                "max_uses": 2,
+                "price": 200,
                 "sell": {
                     "item": "minecraft:flint",
-                    "count": 1
+                    "count": 10
                 }
             },
             {
                 "type": "numismatic-overhaul:buy_item",
                 "villager_experience": 1,
-                "max_uses": 16,
-                "price": 4,
+                "max_uses": 2,
+                "price": 40,
                 "buy": {
                     "item": "minecraft:flint",
-                    "count": 1
+                    "count": 10
                 }
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
                 "villager_experience": 1,
-                "max_uses": 16,
+                "max_uses": 1,
                 "price": 4,
                 "sell": {
                     "item": "medievalweapons:wooden_javelin",
@@ -55,7 +55,7 @@
             {
                 "type": "numismatic-overhaul:sell_stack",
                 "villager_experience": 1,
-                "max_uses": 16,
+                "max_uses": 1,
                 "price": 4,
                 "sell": {
                     "item": "medievalweapons:wooden_lance",
@@ -67,27 +67,27 @@
             {
                 "type": "numismatic-overhaul:sell_stack",
                 "villager_experience": 2,
-                "max_uses": 12,
-                "price": 60,
+                "max_uses": 2,
+                "price": 480,
                 "sell": {
                     "item": "minecraft:arrow",
-                    "count": 8
+                    "count": 64
                 }
             },
             {
                 "type": "numismatic-overhaul:buy_item",
                 "villager_experience": 2,
-                "max_uses": 12,
-                "price": 12,
+                "max_uses": 2,
+                "price": 96,
                 "buy": {
                     "item": "minecraft:arrow",
-                    "count": 8
+                    "count": 64
                 }
             },
             {
                 "type": "numismatic-overhaul:sell_stack",
                 "villager_experience": 2,
-                "max_uses": 12,
+                "max_uses": 1,
                 "price": 12,
                 "sell": {
                     "item": "medievalweapons:stone_javelin",
@@ -97,7 +97,7 @@
             {
                 "type": "numismatic-overhaul:sell_stack",
                 "villager_experience": 2,
-                "max_uses": 12,
+                "max_uses": 1,
                 "price": 12,
                 "sell": {
                     "item": "medievalweapons:stone_lance",
@@ -109,7 +109,7 @@
             {
                 "type": "numismatic-overhaul:sell_stack",
                 "villager_experience": 3,
-                "max_uses": 8,
+                "max_uses": 1,
                 "price": 50,
                 "sell": {
                     "item": "minecraft:bow",
@@ -119,7 +119,7 @@
             {
                 "type": "numismatic-overhaul:sell_stack",
                 "villager_experience": 3,
-                "max_uses": 8,
+                "max_uses": 1,
                 "price": 50,
                 "sell": {
                     "item": "minecraft:crossbow",
@@ -129,7 +129,7 @@
             {
                 "type": "numismatic-overhaul:sell_stack",
                 "villager_experience": 3,
-                "max_uses": 8,
+                "max_uses": 1,
                 "price": 60,
                 "sell": {
                     "item": "medievalweapons:golden_javelin",
@@ -139,7 +139,7 @@
             {
                 "type": "numismatic-overhaul:sell_stack",
                 "villager_experience": 3,
-                "max_uses": 8,
+                "max_uses": 1,
                 "price": 60,
                 "sell": {
                     "item": "medievalweapons:golden_lance",
@@ -151,7 +151,7 @@
             {
                 "type": "numismatic-overhaul:enchant_item",
                 "villager_experience": 4,
-                "max_uses": 6,
+                "max_uses": 1,
                 "base_price": 2000,
                 "level": 30,
                 "allow_treasure": false,
@@ -162,7 +162,7 @@
             {
                 "type": "numismatic-overhaul:enchant_item",
                 "villager_experience": 4,
-                "max_uses": 6,
+                "max_uses": 1,
                 "base_price": 2000,
                 "level": 30,
                 "allow_treasure": false,
@@ -173,7 +173,7 @@
             {
                 "type": "numismatic-overhaul:sell_stack",
                 "villager_experience": 4,
-                "max_uses": 6,
+                "max_uses": 1,
                 "price": 40,
                 "sell": {
                     "item": "medievalweapons:iron_javelin",
@@ -183,7 +183,7 @@
             {
                 "type": "numismatic-overhaul:sell_stack",
                 "villager_experience": 4,
-                "max_uses": 6,
+                "max_uses": 1,
                 "price": 45,
                 "sell": {
                     "item": "medievalweapons:iron_lance",
@@ -195,7 +195,7 @@
             {
                 "type": "numismatic-overhaul:enchant_item",
                 "villager_experience": 5,
-                "max_uses": 4,
+                "max_uses": 1,
                 "base_price": 7000,
                 "level": 30,
                 "allow_treasure": false,
@@ -206,7 +206,7 @@
             {
                 "type": "numismatic-overhaul:enchant_item",
                 "villager_experience": 5,
-                "max_uses": 4,
+                "max_uses": 1,
                 "base_price": 7000,
                 "level": 30,
                 "allow_treasure": false,
@@ -217,7 +217,7 @@
             {
                 "type": "numismatic-overhaul:sell_stack",
                 "villager_experience": 5,
-                "max_uses": 4,
+                "max_uses": 1,
                 "price": 10000,
                 "sell": {
                     "item": "minecraft:spectral_arrow",
@@ -227,7 +227,7 @@
             {
                 "type": "numismatic-overhaul:sell_stack",
                 "villager_experience": 5,
-                "max_uses": 4,
+                "max_uses": 1,
                 "price": 20000,
                 "sell": {
                     "item": "adventurez:ivory_arrow",
@@ -237,7 +237,7 @@
             {
                 "type": "numismatic-overhaul:sell_stack",
                 "villager_experience": 5,
-                "max_uses": 4,
+                "max_uses": 1,
                 "price": 500,
                 "sell": {
                     "item": "medievalweapons:diamond_javelin",
@@ -247,7 +247,7 @@
             {
                 "type": "numismatic-overhaul:sell_stack",
                 "villager_experience": 5,
-                "max_uses": 4,
+                "max_uses": 1,
                 "price": 500,
                 "sell": {
                     "item": "medievalweapons:diamond_lance",
