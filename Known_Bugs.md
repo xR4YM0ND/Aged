@@ -25,7 +25,6 @@
 - Sneak Right click with flask actually fills cauldrons & campfire cauldron
 - Sneak Right click with Vanilla Water bottles emptys the bottle
 - Dirty Water Bottle smeltable in Furnace & Campfire (lot of people mentioned that)
-- Is milk bucket dehydration hard coded? or overwriteable with a datapack?
 - Water protection 
 
 ### RPG Difficulty / Nameplate
@@ -82,7 +81,7 @@
 - Spawner not breaking / update !
 
 - implement Farmers Respite in Jobs / Dehydration / Levelz / EnvironmentZ
-- implement Nether Delgights in Jobs / Dehydration / Levelz / EnvironmentZ
+- implement Nether Delights in Jobs / Dehydration / Levelz / EnvironmentZ
 - implement Brewin and Chewin in Jobs / Dehydration / Levelz / EnvironmentZ
 
 *****
