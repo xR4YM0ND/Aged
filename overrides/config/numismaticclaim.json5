@@ -13,5 +13,7 @@
 	"overworldPlayerSpecificItemUse": true,
 	"overworldMobGrief": true,
 	"overworldRaids": true,
-	"overworldCropTrample": true
+	"overworldCropTrample": true,
+	"overworldExplosion": true,
+	"overworldWitherSpawn": true
 }

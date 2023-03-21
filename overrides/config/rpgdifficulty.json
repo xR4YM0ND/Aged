@@ -31,7 +31,9 @@
   "levelZLevelFactor": 0.0,
   "levelZPlayerRadius": 100.0,
   "hudTesting": false,
-  "excludedEntity": [],
+  "excludedEntity": [
+    "minecraft:warden"
+  ],
   "allowSpecialZombie": true,
   "bigZombieChance": 10,
   "bigZombieSlownessFactor": 0.7,

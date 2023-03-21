@@ -18,7 +18,7 @@ renderArrow:true
 displayZoom:true
 worldmapWaypointsScale:1.0
 openMapAnimation:true
-reloadVersion:0
+reloadVersion:1
 reloadEverything:false
 zoomButtons:true
 waypointBackgrounds:true
@@ -32,7 +32,9 @@ arrowColour:-2
 minimapRadar:true
 renderWaypoints:true
 partialYTeleportation:true
+displayStainedGlass:true
 pacPlayers:true
 displayClaims:true
-claimsOpacity:80
+claimsFillOpacity:46
+claimsBorderOpacity:80
 globalVersion:1

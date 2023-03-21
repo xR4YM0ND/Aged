@@ -45,6 +45,11 @@
 	show-hover-overlay: false;
 
 	/**
+	 * Whether to add mod name to tooltips
+	 */
+	append-mod-id: true;
+
+	/**
 	 * Whether to add mod name to item tooltips, in case another mod provides behavior
 	 */
 	append-item-mod-id: false;
@@ -186,6 +191,23 @@
 	vertical-margin: 20;
 
 	/**
+	 * The minimum width of the recipe screen in pixels. Controls how many tabs there
+	 * can be, and where the page switching buttons go. The default is 176, the width
+	 * of most screens.
+	 */
+	minimum-recipe-screen-width: 176;
+
+	/**
+	 * Where to show workstations in the recipe screen
+	 */
+	workstation-location: left;
+
+	/**
+	 * Display cost per batch when hovering a recipe output
+	 */
+	show-cost-per-batch: true;
+
+	/**
 	 * Prevents recipes being quick crafted from shifting around under the cursor.
 	 */
 	miscraft-prevention: true;
@@ -200,11 +222,6 @@
 	 * incompatibilities with shaders or other mods.
 	 */
 	use-batched-renderer: true;
-
-	/**
-	 * Display cost per batch when hovering a recipe output
-	 */
-	show-cost-per-batch: true;
 
 	/**
 	 * Whether recipes should have a button to set as default.
@@ -365,6 +382,11 @@
 	 * Whether to log untranslated tags as warnings.
 	 */
 	log-untranslated-tags: false;
+
+	/**
+	 * Whether to log ingredients that don't have a representative tag as warnings.
+	 */
+	log-non-tag-ingredients: false;
 
 	/**
 	 * Whether hovering the output of a recipe should show the recipe's EMI ID.

@@ -91,7 +91,7 @@
 	// 0.01 = 1% more xp per lvl
 	"basedOnMultiplier": 0.009999999776482582,
 	"breedingXPMultiplier": 1.0,
-	"bottleXPMultiplier": 1.0,
+	"bottleXPMultiplier": 0.0,
 	"dragonXPMultiplier": 0.5,
 	"fishingXPMultiplier": 0.800000011920929,
 	"furnaceXPMultiplier": 0.10000000149011612,

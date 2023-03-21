@@ -1,6 +1,7 @@
 enableSodiumMenu = true
 cloudCulling = true
 signTextCulling = true
+rainCulling = true
 useBlockStateCulling = true
 useCustomItemFrameRenderer = true
 itemFrameMapCulling = true
