@@ -51,8 +51,9 @@
 - same for armor in armor stands on generation
 
 ### SpoiledZ
-- Food Blocks you place down ( Cake , Apple Pie(Vinery Mod) , other modded ) dont get spoiled ig
-- Crash with [Farmers Respite](https://beta.curseforge.com/minecraft/mc-mods/farmers-respite-fabric) -> [latest.log](https://gist.github.com/SpigotDE/1d055f0e746194d5c284b9ef9bd99ef7)
+- \(Cooking folder) - Bowl use on Blocks - Stuffed Pumpkin Block from Farmer's Delight not spoiled
+- Food Blocks you place down ( Cake , Apple Pie(Vinery Mod) , other modded ) dont get spoiled
+- Crash with [Farmers Respite "Rose Hip Pie"](https://beta.curseforge.com/minecraft/mc-mods/farmers-respite-fabric) -> [latest.log](https://gist.github.com/SpigotDE/1d055f0e746194d5c284b9ef9bd99ef7) -> [updated latest.log with xaero ?](https://gist.github.com/SpigotDE/67ff7c6e4791a89cce6aa7342dce8d23)
 
 ### Unknown
 - Allow different mobs in different biomes to spawn \(*Enderman / Endermite / Stray / Skeleton / Soul Reaper / Withered Necromancer / Wither Puppet / ..*)
@@ -80,18 +81,15 @@
 
 - Spawner not breaking / update !
 
-- implement Farmers Respite in Jobs / Dehydration / Levelz / EnvironmentZ
-- implement Nether Delights in Jobs / Dehydration / Levelz / EnvironmentZ
-- implement Brewin and Chewin in Jobs / Dehydration / Levelz / EnvironmentZ
-
 - give effect comfort on startup
+
 - adjust effect status bar
 
-- disable food blocks recipes
+- change brewing levelz restrictions (Brewing Stand Lvl 12)
 
-- adjust loading screen
+- add seasons ice / snow to play the right sounds when walking on
 
-- add changelog
+- add changelog to menu screen's
 
 - update all mods
 
@@ -103,10 +101,10 @@
 
 ### On update
 
-- change version numbers in
- - Main Menu
- - Loading Screen
- - Aged Window
+change version numbers in
+- Main Menu
+- Loading Screen
+- Aged Window
 
 *****
 ## Ideas:
