@@ -79,11 +79,7 @@
 *****
 ## Datapack
 
-- Spawner not breaking / update !
-
 - give effect comfort on startup
-
-- adjust effect status bar
 
 - change brewing levelz restrictions (Brewing Stand Lvl 12)
 
@@ -91,7 +87,14 @@
 
 - add changelog to menu screen's
 
-- update all mods
+- aged guide book - try all fat
+- update aged guide book
+
+- update to 0.14.18
+
+- implement new vinery items
+
+- update C2ME or change for other mods
 
 *****
 ## Others
