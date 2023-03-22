@@ -17,13 +17,15 @@
 - Extended the range of scarecrows
 - Now you can buy more claims from any Villager
 - Iron Golem don't drop iron ingots
-- Now budding geodes are not silktouchable
+- Now budding geodes aren't silktouchable
 - Added gypsum shard and emerald shard as alternative for reforging
 - Added Sharks!
 - Enabled Netherite Shield
 - Added coin drops to pillager type entities
 - Reworked Villager Trades
 - New levelz restrictions
+- Added 1 LevelZ startpoint
+- spawners get disabled instead of breaking
 - Changed many miscellaneous things
 
 ## Removed:
@@ -32,6 +34,7 @@
 - Colorful Azaleas
 - Cosmetic Armor
 - Drink Beer
+- Enhanced Block Entities
 - Farmer's Knives
 - Global Packs
 - Loot Integrations
@@ -52,7 +55,7 @@
 - XP Obelisk
 
 ## Added:
-- Ambient Sounds
+- Ambient Sounds (thx @Vybex)
 - Angel Block Renewed
 - Aquatic Torches
 - Awesome Dungeon The End Edition
@@ -64,6 +67,9 @@
 - Chipped
 - Creative Core
 - CTM
+- EMIffect
+- EMI Loot
+- EMI Trades
 - ewewukek's Musket mod
 - Experience Bottler
 - Fabric Shield Lib
@@ -77,6 +83,7 @@
 - Library Ferret
 - Nethers Delight
 - Paxi
+- Resourceful Config
 - Resourceful Lib
 - Simple Voice Chat
 - Snow Under Trees
@@ -95,23 +102,52 @@
 
 ## Updated:
 - **Fabric-Loader 0.14.17**
+- AdditionZ
+- Attribute Fix
 - Balm
+- Better Combat
 - Better Statistics Screen
+- Bookshelf
+- Collective
+- Combat Roll
+- Continuity
 - Corgi Lib
 - Creeper Overhaul
+- Custom Portals
 - Default Options
 - Early Stage
+- EMI
 - Enchanted Vertical Slabs
+- EnvironmentZ
 - Expanded Delight
 - Fabric API
+- Fabric Language Kotlin
 - Gecko Lib
+- Immediately Fast
 - Jobs Addon
+- LevelZ
+- Lithium
+- Log Begone
+- Make Bubbles Pop
 - Medieval Weapons
+- Memory Leak Fix
 - Moonlight Lib
+- More Culling
+- Nameplate
 - Nether Portal Fix
 - Numismatic Claim
+- Open Parties and Claims
+- Player Animator
+- RpgDifficulty
+- Spark
+- Starter Kit
 - Target Dummy
+- TieredZ
+- Tom's Simple Storage Mod
 - Tree Chop
+- Trinkets Curios Theme
+- Visuality
+- Xaero's World Map
 
 *****
 # Aged 1.3.1
