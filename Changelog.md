@@ -12,8 +12,8 @@
 
 ## Changed:
 - Lowered season length to 12 real time hours
-- Doubled crop growth from 0.3 best to 0.6 best \( you can harvest up to 13 times in the right season )
-- Increased spawn rate \(Necromancer / Summoner / Shaman / Amethyst Golem)
+- Doubled crop growth from 0.3 best to 0.6 best \(*you can harvest up to 13 times in the right season*)
+- Increased spawn rate \(*Necromancer / Summoner / Shaman / Amethyst Golem*)
 - Extended the range of scarecrows
 - Now you can buy more claims from any Villager
 - Iron Golem don't drop iron ingots
@@ -25,18 +25,22 @@
 - Reworked Villager Trades
 - New levelz restrictions
 - Added 1 LevelZ startpoint
-- spawners get disabled instead of breaking
+- Spawners get disabled instead of breaking
+- Added brewing restrictions
 - Changed many miscellaneous things
 
 ## Removed:
 - Amplified Nether
 - Architects Palette
 - Colorful Azaleas
+- Concurrent Chunk Management Engine
 - Cosmetic Armor
+- Cull Leaves
 - Drink Beer
 - Enhanced Block Entities
 - Farmer's Knives
 - Global Packs
+- Hold That Chunk
 - Loot Integrations
 - Macaw's Bridges
 - Macaw's Doors
@@ -44,7 +48,7 @@
 - Missing Wilds
 - Mouse Wheelie
 - Oh The Biomes You'll Go Refabricated
-- Spice of Fabric \(temporarily)
+- Spice of Fabric \(*temporarily*)
 - Status Effect Bars
 - Taterzens
 - TerraBlender
@@ -55,16 +59,19 @@
 - XP Obelisk
 
 ## Added:
-- Ambient Sounds (thx @Vybex)
+- Ambient Sounds \(thx to @Vybex)
 - Angel Block Renewed
 - Aquatic Torches
 - Awesome Dungeon The End Edition
 - BCLib
 - Better End
+- Better FPS Render Distance
 - Better Nether
 - Better Villages
 - Brewin And Chewin
 - Chipped
+- Chunk Sending
+- Connectivity
 - Creative Core
 - CTM
 - EMIffect
@@ -81,13 +88,16 @@
 - It Takes a Pillage
 - Let Me Despawn
 - Library Ferret
+- Memory Settings
 - Nethers Delight
 - Paxi
 - Resourceful Config
 - Resourceful Lib
 - Simple Voice Chat
+- Smooth Chunk Save
 - Snow Under Trees
 - SpoiledZ
+- Structure Essentials
 - Traveler's Titles
 - Variety Aquatics
 - Vinery - Let's do Wine!
@@ -158,7 +168,7 @@
 - Disabled missing Recipes
 - Changed path speed from 0.03 to 0.02
 - Updated Aged_Guide_Book
-- Fixed Aged Datapack \(bronze_item / property sell issue)
+- Fixed Aged Datapack \(*bronze_item / property sell issue*)
 
 ## Added:
 - Toms Simple Storage
