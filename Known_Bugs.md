@@ -7,8 +7,8 @@
 - Milk Bottle - Does not remove Effects
 
 ### Spice of Fabric
-- New Beta Version makes all Food Items 0 Nutrition
-- Food doesnt regenerate nutrition.. sometimes it shows it does but it doesnt
+- AppleSkin Saturation (yellow borders) don't show with Beta 4 version
+- test on server (Beta 4)
 
 ### EnvironmentZ
 - Armor that saves Water Level \(for hot biomes)
@@ -26,6 +26,7 @@
 - Sneak Right click with Vanilla Water bottles emptys the bottle
 - Dirty Water Bottle smeltable in Furnace & Campfire (lot of people mentioned that)
 - Water protection 
+- Brewing Charcoal with Dirty Water (nomrla water bottles) to Purified Water Bottles
 
 ### RPG Difficulty / Nameplate
 - per Dimension Datapack -> Starting Location (xyz)
@@ -81,19 +82,13 @@
 
 - give effect comfort on startup
 
-- add seasons ice / snow to play the right sounds when walking on
-
 - add changelog to menu screen's
-
-- aged guide book - try all fat
 
 - update aged guide book
 
 - update to 0.14.18
 
-- remove bags of apple conversion (levelz xp)
-
-- add revival potion to wandering trader
+- add wythers biomes to earlystage tags rock spawn
 
 *****
 ## Others
@@ -120,7 +115,6 @@ change version numbers in
 ### Mods for Aged
 
 - [Savage Ender Dragon](https://beta.curseforge.com/minecraft/mc-mods/savage-ender-dragon)
-- [Structure Essentials](https://beta.curseforge.com/minecraft/mc-mods/structure-essentials-forge-fabric)
 - Chefs Delight \(Numismatic Overhaul works??)
 
 ### Maybe mods for Aged
