@@ -46,9 +46,9 @@
 - Macaw's Doors
 - Macaw's Trapdoors
 - Missing Wilds
+- Mob Scarecrows
 - Mouse Wheelie
 - Oh The Biomes You'll Go Refabricated
-- Spice of Fabric \(*temporarily*)
 - Status Effect Bars
 - Taterzens
 - TerraBlender
@@ -96,7 +96,6 @@
 - Simple Voice Chat
 - Smooth Chunk Save
 - Snow Under Trees
-- SpoiledZ
 - Structure Essentials
 - Traveler's Titles
 - Variety Aquatics
@@ -111,7 +110,7 @@
 - Yung's Better Strongholds
 
 ## Updated:
-- **Fabric-Loader 0.14.17**
+- **Fabric-Loader 0.14.18**
 - AdditionZ
 - Attribute Fix
 - Balm
@@ -125,6 +124,7 @@
 - Creeper Overhaul
 - Custom Portals
 - Default Options
+- Discerning Furnace
 - Early Stage
 - EMI
 - Enchanted Vertical Slabs
@@ -150,6 +150,7 @@
 - Player Animator
 - RpgDifficulty
 - Spark
+- Spice of Fabric
 - Starter Kit
 - Target Dummy
 - TieredZ
