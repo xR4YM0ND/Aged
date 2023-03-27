@@ -88,6 +88,7 @@
 - It Takes a Pillage
 - Let Me Despawn
 - Library Ferret
+- LibZ
 - Memory Settings
 - Nethers Delight
 - Paxi
@@ -96,6 +97,7 @@
 - Simple Voice Chat
 - Smooth Chunk Save
 - Snow Under Trees
+- SpoiledZ
 - Structure Essentials
 - Traveler's Titles
 - Variety Aquatics
@@ -112,6 +114,7 @@
 ## Updated:
 - **Fabric-Loader 0.14.18**
 - AdditionZ
+- Anvil Display
 - Attribute Fix
 - Balm
 - Better Combat
@@ -134,6 +137,7 @@
 - Fabric Language Kotlin
 - Gecko Lib
 - Immediately Fast
+- Inmis Addon
 - Jobs Addon
 - LevelZ
 - Lithium
