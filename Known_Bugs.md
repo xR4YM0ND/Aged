@@ -18,9 +18,6 @@
 - Allow flask any time
 - Allow purified water bottles any time
 
-### Jobs Addon
-- Warrior
-
 ### Dehydration
 - Sneak Right click with flask actually fills cauldrons & campfire cauldron
 - Sneak Right click with Vanilla Water bottles emptys the bottle
@@ -29,13 +26,9 @@
 - Brewing Charcoal with Dirty Water (nomrla water bottles) to Purified Water Bottles
 
 ### RPG Difficulty / Nameplate
-- per Dimension Datapack -> Starting Location (xyz)
-- Baby Zombie always Lvl 1
-- BetterEnd Slime Lvl 1 or Lvl 460 ^^
-- Wandering Trader has lvl's 
-- Wandering Trader Lama's only Lvl 1
+- per Dimension Datapack -> Starting Location (xyz) 
+- Wandering Trader has lvl's
 - Nameplate / Give Traders their Level (/ Novice / Apprentice / Journeyman / Expert / Master)
-- Nameplate / Spawner mobs lvl 1
 
 ### Medieval Weapons
 - Better Combat -> Lance ausgangsposition nach vorne gerichtet nicht nach oben
@@ -57,6 +50,7 @@
 - Crash with [Farmers Respite "Rose Hip Pie"](https://beta.curseforge.com/minecraft/mc-mods/farmers-respite-fabric) -> [latest.log](https://gist.github.com/SpigotDE/1d055f0e746194d5c284b9ef9bd99ef7) -> [updated latest.log with xaero ?](https://gist.github.com/SpigotDE/67ff7c6e4791a89cce6aa7342dce8d23)
 
 ### Unknown
+- give effect comfort on startup
 - Allow different mobs in different biomes to spawn \(*Enderman / Endermite / Stray / Skeleton / Soul Reaper / Withered Necromancer / Wither Puppet / ..*)
 
 ```
@@ -79,8 +73,6 @@
 ```
 *****
 ## Datapack
-
-- give effect comfort on startup
 
 - add changelog to menu screen's
 
