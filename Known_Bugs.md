@@ -29,6 +29,7 @@
 - per Dimension Datapack -> Starting Location (xyz) 
 - Wandering Trader has lvl's
 - Nameplate / Give Traders their Level (/ Novice / Apprentice / Journeyman / Expert / Master)
+- Variety Aquatics compat (shark that spawns normally is level 1 (30 health))
 
 ### Medieval Weapons
 - Better Combat -> Lance ausgangsposition nach vorne gerichtet nicht nach oben
