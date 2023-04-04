@@ -19,7 +19,6 @@
 - Iron Golem don't drop iron ingots
 - Now budding geodes aren't silktouchable
 - Added gypsum shard and emerald shard as alternative for reforging
-- Added Sharks!
 - Enabled Netherite Shield
 - Added coin drops to pillager type entities
 - Reworked Villager Trades
@@ -100,7 +99,6 @@
 - SpoiledZ
 - Structure Essentials
 - Traveler's Titles
-- Variety Aquatics
 - Vinery - Let's do Wine!
 - William Wythers' Overhauled Overworld
 - Yung's API
