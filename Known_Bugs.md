@@ -30,11 +30,9 @@
 - Boss phases (Boss is damage 2/3 , monsters spawn & you have to kill all mobs first to damage the Boss again) (like different stages for the boss fight)
 
 ### RPG Difficulty / Nameplate
-
 - per Dimension Datapack -> Starting Location (xyz) - Done
 - Wandering Trader has lvl's - ??? Needs testing
 - Nameplate / Give Traders their Level (/ Novice / Apprentice / Journeyman / Expert / Master) - Needs testing
-- Variety Aquatics compat (shark that spawns normally is level 1 (30 health)) - Closed source + ARR -> Remove?
 
 ### Medieval Weapons
 - Better Combat -> Lance ausgangsposition nach vorne gerichtet nicht nach oben - Imo current is better for view
