@@ -31,13 +31,13 @@
 
 ### RPG Difficulty / Nameplate
 
-- per Dimension Datapack -> Starting Location (xyz) <span style="color:#FFCCCB"> - Done </span>
-- Wandering Trader has lvl's <span style="color:#FFCCCB"> - ??? Needs testing </span>
-- Nameplate / Give Traders their Level (/ Novice / Apprentice / Journeyman / Expert / Master) <span style="color:#FFCCCB"> - Needs testing </span>
-- Variety Aquatics compat (shark that spawns normally is level 1 (30 health)) <span style="color:#FFCCCB"> - Closed source + ARR -> Remove? </span>
+- per Dimension Datapack -> Starting Location (xyz) - Done
+- Wandering Trader has lvl's - ??? Needs testing
+- Nameplate / Give Traders their Level (/ Novice / Apprentice / Journeyman / Expert / Master) - Needs testing
+- Variety Aquatics compat (shark that spawns normally is level 1 (30 health)) - Closed source + ARR -> Remove?
 
 ### Medieval Weapons
-- Better Combat -> Lance ausgangsposition nach vorne gerichtet nicht nach oben <span style="color:#FFCCCB"> - Imo current is better for view </span>
+- Better Combat -> Lance ausgangsposition nach vorne gerichtet nicht nach oben - Imo current is better for view
 - Better Combat -> Javelin das selbe
 
 ### LevelZ
@@ -48,8 +48,8 @@
 - Shield Cooldown compatible with the mod Guarding ? - Needs testing
 
 ### TieredZ
-- Items (Swords/Axes/..) that are placed in item frames on generation (BetterDungeons / BetterDesertTemples / ..) are vanilla , they dont have tiers <span style="color:#FFCCCB"> - Done </span>
-- same for armor in armor stands on generation <span style="color:#FFCCCB"> - Done </span>
+- Items (Swords/Axes/..) that are placed in item frames on generation (BetterDungeons / BetterDesertTemples / ..) are vanilla , they dont have tiers - Done
+- same for armor in armor stands on generation - Done
 
 ### SpoiledZ
 - \(Cooking folder) - Bowl use on Blocks - Stuffed Pumpkin Block from Farmer's Delight not spoiled
