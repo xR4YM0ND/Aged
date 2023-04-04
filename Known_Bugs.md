@@ -11,7 +11,8 @@
 - test on server (Beta 4)
 
 ### EnvironmentZ
-- Armor that saves Water Level \(for hot biomes)
+- [Idea] Armor that saves Water Level \(for hot biomes)
+- [Idea] In the desert water drys out \(sandstone cracks)
 
 ### OPAC
 - Doors / Fencegates only open when empty handed, when functional item in hand it doesnt work
@@ -24,6 +25,9 @@
 - Dirty Water Bottle smeltable in Furnace & Campfire (lot of people mentioned that)
 - Water protection 
 - Brewing Charcoal with Dirty Water (nomrla water bottles) to Purified Water Bottles
+
+### DungeonZ
+- Boss phases (Boss is damage 2/3 , monsters spawn & you have to kill all mobs first to damage the Boss again) (like different stages for the boss fight)
 
 ### RPG Difficulty / Nameplate
 - per Dimension Datapack -> Starting Location (xyz) 
@@ -40,6 +44,7 @@
 
 ### AdditionZ
 - Shield Cooldown compatible with the mod Guarding ?
+- [Idea] TNT Tennis (2023 April Fools update)
 
 ### TieredZ
 - Items (Swords/Axes/..) that are placed in item frames on generation (BetterDungeons / BetterDesertTemples / ..) are vanilla , they dont have tiers
@@ -83,6 +88,8 @@
 
 - add wythers biomes to earlystage tags rock spawn
 
+- chew on bark ( willow ) to get medical benefits
+
 *****
 ## Others
 
@@ -109,6 +116,7 @@ change version numbers in
 
 - [Savage Ender Dragon](https://beta.curseforge.com/minecraft/mc-mods/savage-ender-dragon)
 - Chefs Delight \(Numismatic Overhaul works??)
+- [Grass Overhaul](https://www.curseforge.com/minecraft/mc-mods/grass-overhaul) - remove grass slabs from vinery mod
 
 ### Maybe mods for Aged
 - [Dimension Mutability](https://beta.curseforge.com/minecraft/mc-mods/dimension-mutability)
