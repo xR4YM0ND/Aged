@@ -82,6 +82,7 @@
 - Farmers Respite
 - Flintl0cks \(*Resourcepack*)
 - Go Fish
+- Grass Overhaul
 - Horse Expert
 - Immediately Fast
 - It Takes a Pillage
@@ -125,6 +126,7 @@
 - Creeper Overhaul
 - Custom Portals
 - Default Options
+- Dehydration
 - Discerning Furnace
 - Early Stage
 - EMI
@@ -133,6 +135,7 @@
 - Expanded Delight
 - Fabric API
 - Fabric Language Kotlin
+- Fancy Menu
 - Gecko Lib
 - Immediately Fast
 - Inmis Addon
