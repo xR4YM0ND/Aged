@@ -20,11 +20,11 @@
 - Allow purified water bottles any time
 
 ### Dehydration
-- Sneak Right click with flask actually fills cauldrons & campfire cauldron
-- Sneak Right click with Vanilla Water bottles emptys the bottle
-- Dirty Water Bottle smeltable in Furnace & Campfire (lot of people mentioned that)
-- Water protection 
-- Brewing Charcoal with Dirty Water (nomrla water bottles) to Purified Water Bottles
+- Sneak Right click with flask actually fills cauldrons & campfire cauldron - Done
+- Sneak Right click with Vanilla Water bottles emptys the bottle - Done
+- Dirty Water Bottle smeltable in Furnace & Campfire (lot of people mentioned that) - Removed furnace info
+- Water protection - Done
+- Brewing Charcoal with Dirty Water (nomrla water bottles) to Purified Water Bottles - Done
 
 ### DungeonZ
 - Boss phases (Boss is damage 2/3 , monsters spawn & you have to kill all mobs first to damage the Boss again) (like different stages for the boss fight)
