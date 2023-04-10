@@ -128,6 +128,7 @@
 - Default Options
 - Dehydration
 - Discerning Furnace
+- Drippy Loading Screen
 - Early Stage
 - EMI
 - Enchanted Vertical Slabs
@@ -138,7 +139,9 @@
 - Fancy Menu
 - Gecko Lib
 - Immediately Fast
+- Immersive Armors
 - Inmis Addon
+- Iris Shaders
 - Jobs Addon
 - LevelZ
 - Lithium
