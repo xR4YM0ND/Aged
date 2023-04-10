@@ -27,7 +27,7 @@
 - Brewing Charcoal with Dirty Water (nomrla water bottles) to Purified Water Bottles - Done
 
 ### DungeonZ
-- Boss phases (Boss is damage 2/3 , monsters spawn & you have to kill all mobs first to damage the Boss again) (like different stages for the boss fight)
+- [Idea] Boss phases (Boss is damage 2/3 , monsters spawn & you have to kill all mobs first to damage the Boss again) (like different stages for the boss fight)
 
 ### RPG Difficulty / Nameplate
 - per Dimension Datapack -> Starting Location (xyz) - Done
@@ -40,6 +40,7 @@
 
 ### LevelZ
 - Max Mobs kill drops in a chunk (exlude some mobs (ender dragon / bosses / ...))
+- add hoe (3.Item (5 different not 4 different, you forgot the hoe))
 
 ### AdditionZ
 - [Idea] TNT Tennis (2023 April Fools update)
@@ -48,6 +49,7 @@
 ### TieredZ
 - Items (Swords/Axes/..) that are placed in item frames on generation (BetterDungeons / BetterDesertTemples / ..) are vanilla , they dont have tiers - Done
 - same for armor in armor stands on generation - Done
+- Extra slot in Anvil (Addition Slot -> items for rarity that get used once when place in (1 item always makes rare on upgrade, other always epic, etc..))
 
 ### SpoiledZ
 - \(Cooking folder) - Bowl use on Blocks - Stuffed Pumpkin Block from Farmer's Delight not spoiled
@@ -79,15 +81,17 @@
 *****
 ## Datapack
 
+- lower Grapes propability
+
+- lower loot chests from fishing propability + loot tables
+
 - add changelog to menu screen's
 
 - update aged guide book
 
-- update to 0.14.18
+- update to 0.14.19
 
 - add wythers biomes to earlystage tags rock spawn
-
-- chew on bark ( willow ) to get medical benefits
 
 *****
 ## Others
@@ -105,32 +109,41 @@ change version numbers in
 *****
 ## Ideas:
 
-- \Early Stage / EnvironmentZ - place 1 rock on campfire -> Heating Stone ( schwächer als heating stones )
-- \Juwlery ( Rings / Necklace / Gloves / .. ) - Different Sets: Farmer , Boat Speed , Dodge Chance , Walk Speed
 - \AdditionZ -> Campfire scare agressive wolfs ( maybe such a mechanic for other entitys as well )
 - \AdditionZ -> Max Iron Golem from the same Villagers
-- \Schriftrollen (teleport zum spawn nach 10 sec ohne damage)
+- chew on bark ( willow ) to get medical benefits
 
 ### Mods for Aged
 
 - [Savage Ender Dragon](https://beta.curseforge.com/minecraft/mc-mods/savage-ender-dragon)
-- Chefs Delight \(Numismatic Overhaul works??)
-- [Grass Overhaul](https://www.curseforge.com/minecraft/mc-mods/grass-overhaul) - remove grass slabs from vinery mod
+- [Grass Overhaul](https://www.curseforge.com/minecraft/mc-mods/grass-overhaul) \(*remove grass slabs from vinery mod*)
+- [Handcrafted](https://www.curseforge.com/minecraft/mc-mods/handcrafted)
+- [Beautify Refabricated](https://www.curseforge.com/minecraft/mc-mods/beautify-refabricated)
 
 ### Maybe mods for Aged
 - [Dimension Mutability](https://beta.curseforge.com/minecraft/mc-mods/dimension-mutability)
-- [Xaeros Minimap Fair Play Edition](https://beta.curseforge.com/minecraft/mc-mods/xaeros-minimap-fair-play-edition) (*only for other people to use on the server, not for the modpack itself*)
+- [Xaeros Minimap Fair Play Edition](https://beta.curseforge.com/minecraft/mc-mods/xaeros-minimap-fair-play-edition) \(*only for other people to use on the server, not for the modpack itself*)
 - [Vanity Slots](https://beta.curseforge.com/minecraft/mc-mods/vanityslots)
 - [Craftify](https://www.curseforge.com/minecraft/mc-mods/craftify)
-- [Accurate Maps](https://www.curseforge.com/minecraft/mc-mods/accurate-maps) *BETA , some bugs*
+- [Accurate Maps](https://www.curseforge.com/minecraft/mc-mods/accurate-maps) \(*BETA , some bugs*)
 - [Immersive Weathering](https://www.curseforge.com/minecraft/mc-mods/immersive-weathering-fabric)
 - [Extended Drawers](https://beta.curseforge.com/minecraft/mc-mods/extended-drawers)
 - [Immersive Aircraft](https://beta.curseforge.com/minecraft/mc-mods/immersive-aircraft)
+- [Show me your skin](https://www.curseforge.com/minecraft/mc-mods/show-me-your-skin)
+- [Vulkan Render](https://www.curseforge.com/minecraft/mc-mods/vulkanmod) \(*instead of Sodium / needs testing / beta*)
+- [DropZ](https://www.curseforge.com/minecraft/mc-mods/dropz) \(*instead of Interactic / 1.19.2 version ??*)
+- [Chefs Delight](https://www.curseforge.com/minecraft/mc-mods/chefs-delight-fabric) \(Numismatic Overhaul works??)
 
 ### Mod Ideas
 
-- Elfen
-- Zwerge
+- \Schriftrollen \(*teleport zum spawn nach 10 sec ohne damage*)
+
+- \Juwlery ( Rings / Necklace / Gloves / .. ) - Different Sets: Farmer , Boat Speed , Dodge Chance , Walk Speed
+
+- Time Control Mod \(*Change the length of day/night time individually*)
+
+- Elfs
+- Dwarfs
 - Lord of the Rings
-- Iwas mit Pferden
+- Horses
 - Goblins
