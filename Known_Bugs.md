@@ -11,8 +11,8 @@
 - test on server (Beta 4)
 
 ### EnvironmentZ
-- [Idea] Armor that saves Water Level \(for hot biomes)
-- [Idea] In the desert water drys out \(sandstone cracks)
+- **[Idea]** Armor that saves Water Level \(for hot biomes)
+- **[Idea]** In the desert water drys out \(sandstone cracks)
 
 ### OPAC
 - Doors / Fencegates only open when empty handed, when functional item in hand it doesnt work
@@ -27,7 +27,7 @@
 - Brewing Charcoal with Dirty Water (nomrla water bottles) to Purified Water Bottles - Done
 
 ### DungeonZ
-- [Idea] Boss phases (Boss is damage 2/3 , monsters spawn & you have to kill all mobs first to damage the Boss again) (like different stages for the boss fight)
+- **[Idea]** Boss phases (Boss is damage 2/3 , monsters spawn & you have to kill all mobs first to damage the Boss again) (like different stages for the boss fight)
 
 ### RPG Difficulty / Nameplate
 - per Dimension Datapack -> Starting Location (xyz) - Done
@@ -43,7 +43,7 @@
 - add hoe (3.Item (5 different not 4 different, you forgot the hoe))
 
 ### AdditionZ
-- [Idea] TNT Tennis (2023 April Fools update)
+- **[Idea]** TNT Tennis (2023 April Fools update)
 - Shield Cooldown compatible with the mod Guarding ? - Needs testing
 
 ### TieredZ
@@ -55,6 +55,7 @@
 - \(Cooking folder) - Bowl use on Blocks - Stuffed Pumpkin Block from Farmer's Delight not spoiled
 - Food Blocks you place down ( Cake , Apple Pie(Vinery Mod) , other modded ) dont get spoiled
 - Crash with [Farmers Respite "Rose Hip Pie"](https://beta.curseforge.com/minecraft/mc-mods/farmers-respite-fabric) -> [latest.log](https://gist.github.com/SpigotDE/1d055f0e746194d5c284b9ef9bd99ef7) -> [updated latest.log with xaero ?](https://gist.github.com/SpigotDE/67ff7c6e4791a89cce6aa7342dce8d23)
+- Smelting meat doesnt stack in the smoker / furnace
 
 ### Unknown
 - give effect comfort on startup
@@ -81,17 +82,16 @@
 *****
 ## Datapack
 
-- lower Grapes propability
+- lower Grapes propability (punching grass)
 
-- lower loot chests from fishing propability + loot tables
+- gofish -> lower loot chests from fishing propability + change loot tables
+- gofish -> biomes have to be valid
 
 - add changelog to menu screen's
 
 - update aged guide book
 
 - update to 0.14.19
-
-- add wythers biomes to earlystage tags rock spawn
 
 *****
 ## Others
@@ -107,18 +107,9 @@ change version numbers in
 - Aged Window
 
 *****
-## Ideas:
-
-- \AdditionZ -> Campfire scare agressive wolfs ( maybe such a mechanic for other entitys as well )
-- \AdditionZ -> Max Iron Golem from the same Villagers
-- chew on bark ( willow ) to get medical benefits
-
 ### Mods for Aged
 
-- [Savage Ender Dragon](https://beta.curseforge.com/minecraft/mc-mods/savage-ender-dragon)
-- [Grass Overhaul](https://www.curseforge.com/minecraft/mc-mods/grass-overhaul) \(*remove grass slabs from vinery mod*)
-- [Handcrafted](https://www.curseforge.com/minecraft/mc-mods/handcrafted)
-- [Beautify Refabricated](https://www.curseforge.com/minecraft/mc-mods/beautify-refabricated)
+- null
 
 ### Maybe mods for Aged
 - [Dimension Mutability](https://beta.curseforge.com/minecraft/mc-mods/dimension-mutability)
@@ -126,7 +117,6 @@ change version numbers in
 - [Vanity Slots](https://beta.curseforge.com/minecraft/mc-mods/vanityslots)
 - [Craftify](https://www.curseforge.com/minecraft/mc-mods/craftify)
 - [Accurate Maps](https://www.curseforge.com/minecraft/mc-mods/accurate-maps) \(*BETA , some bugs*)
-- [Immersive Weathering](https://www.curseforge.com/minecraft/mc-mods/immersive-weathering-fabric)
 - [Extended Drawers](https://beta.curseforge.com/minecraft/mc-mods/extended-drawers)
 - [Immersive Aircraft](https://beta.curseforge.com/minecraft/mc-mods/immersive-aircraft)
 - [Show me your skin](https://www.curseforge.com/minecraft/mc-mods/show-me-your-skin)
@@ -136,14 +126,24 @@ change version numbers in
 
 ### Mod Ideas
 
-- \Schriftrollen \(*teleport zum spawn nach 10 sec ohne damage*)
+- Schriftrollen \(*teleport zum spawn nach 10 sec ohne damage*)
 
-- \Juwlery ( Rings / Necklace / Gloves / .. ) - Different Sets: Farmer , Boat Speed , Dodge Chance , Walk Speed
+- Juwlery ( Rings / Necklace / Gloves / .. ) - Different Sets: Farmer , Boat Speed , Dodge Chance , Walk Speed
 
 - Time Control Mod \(*Change the length of day/night time individually*)
 
 - Elfs
+
 - Dwarfs
+
 - Lord of the Rings
+
 - Horses
+
 - Goblins
+
+- AdditionZ -> Campfire scare agressive wolfs ( maybe such a mechanic for other entitys as well )
+
+- AdditionZ -> Max Iron Golem from the same Villagers
+
+- chew on bark ( willow ) to get medical benefits

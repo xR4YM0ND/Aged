@@ -63,6 +63,7 @@
 - Aquatic Torches
 - Awesome Dungeon The End Edition
 - BCLib
+- Beautify Refabricated
 - Better End
 - Better FPS Render Distance
 - Better Nether
@@ -83,6 +84,7 @@
 - Flintl0cks \(*Resourcepack*)
 - Go Fish
 - Grass Overhaul
+- Handcrafted
 - Horse Expert
 - Immediately Fast
 - It Takes a Pillage
@@ -94,6 +96,7 @@
 - Paxi
 - Resourceful Config
 - Resourceful Lib
+- Savage Ender Dragon
 - Simple Voice Chat
 - Smooth Chunk Save
 - Snow Under Trees
