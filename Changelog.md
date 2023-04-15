@@ -163,6 +163,7 @@
 - Spark
 - Spice of Fabric
 - Starter Kit
+- Suggestion Tweaker
 - Target Dummy
 - TieredZ
 - Tom's Simple Storage Mod
