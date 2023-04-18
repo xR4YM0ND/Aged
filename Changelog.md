@@ -148,6 +148,7 @@
 - Immediately Fast
 - Immersive Armors
 - Inmis Addon
+- Inv Move
 - Iris Shaders
 - Jobs Addon
 - LevelZ
