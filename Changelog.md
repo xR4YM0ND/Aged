@@ -11,22 +11,25 @@
 > - create a **new world**
 
 ## Changed:
-- Lowered season length to 12 real time hours
-- Doubled crop growth from 0.3 best to 0.6 best \(*you can harvest up to 13 times in the right season*)
-- Increased spawn rate \(*Necromancer / Summoner / Shaman / Amethyst Golem*)
-- Extended the range of scarecrows
-- Now you can buy more claims from any Villager
-- Iron Golem don't drop iron ingots
-- Now budding geodes aren't silktouchable
-- Added gypsum shard and emerald shard as alternative for reforging
-- Enabled Netherite Shield
-- Added coin drops to pillager type entities
-- Reworked Villager Trades
-- New levelz restrictions
-- Added 1 LevelZ startpoint
-- Spawners get disabled instead of breaking
-- Added brewing restrictions
-- Changed many miscellaneous things
+- Seasons
+- - Lowered season length to 12 hours \(*real time*)
+- - Doubled crop growth from 0.3 best to 0.6 best \(*you can harvest up to 13 times in the right season*)
+- Entities
+- - Increased spawn rate \(*Necromancer / Summoner / Shaman / Amethyst Golem*)
+- - Reworked Villager Trades
+- - Now you can buy more claims from any Villager
+- - Added coin drops to pillager type entities
+- - Iron Golem don't drop iron ingots
+- Levelz
+- - New levelz restrictions
+- - Added brewing restrictions
+- - Added 1 LevelZ startpoint
+- Miscellaneous
+- - Now budding geodes aren't silktouchable
+- - Added gypsum shard and emerald shard as alternative for reforging
+- - Enabled Netherite Shield
+- - Spawners get disabled instead of breaking
+- - Changed many miscellaneous things
 
 ## Removed:
 - Amplified Nether
