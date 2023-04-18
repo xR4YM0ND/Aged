@@ -35,6 +35,7 @@
 - Concurrent Chunk Management Engine
 - Cosmetic Armor
 - Cull Leaves
+- Discerning Furnace
 - Drink Beer
 - Enhanced Block Entities
 - Farmer's Knives
@@ -99,7 +100,6 @@
 - Savage Ender Dragon
 - Simple Voice Chat
 - Smooth Chunk Save
-- Snow Under Trees
 - SpoiledZ
 - Structure Essentials
 - Traveler's Titles
@@ -114,7 +114,7 @@
 - Yung's Better Strongholds
 
 ## Updated:
-- **Fabric-Loader 0.14.18**
+- **Fabric-Loader 0.14.19**
 - AdditionZ
 - Anvil Display
 - Attribute Fix
@@ -139,6 +139,7 @@
 - Expanded Delight
 - Fabric API
 - Fabric Language Kotlin
+- Fabric Seasons
 - Fancy Menu
 - Gecko Lib
 - Immediately Fast

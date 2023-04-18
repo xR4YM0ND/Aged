@@ -84,14 +84,7 @@
 
 - lower Grapes propability (punching grass)
 
-- gofish -> lower loot chests from fishing propability + change loot tables
-- gofish -> biomes have to be valid
-
-- add changelog to menu screen's
-
 - update aged guide book
-
-- update to 0.14.19
 
 *****
 ## Others
@@ -105,6 +98,10 @@ change version numbers in
 - Main Menu
 - Loading Screen
 - Aged Window
+
+change Changelog in
+- Loading Screen
+- Main Menu
 
 *****
 ### Mods for Aged
@@ -125,6 +122,7 @@ change version numbers in
 - [Chefs Delight](https://www.curseforge.com/minecraft/mc-mods/chefs-delight-fabric) \(Numismatic Overhaul works??)
 
 ### Mod Ideas
+- Snow under Trees (snow falls through leaves and lands on the ground & ontop of leaves)
 
 - Schriftrollen \(*teleport zum spawn nach 10 sec ohne damage*)
 
