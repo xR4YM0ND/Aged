@@ -11,27 +11,28 @@
 > - create a **new world**
 
 ## Changed:
-- Seasons
-- - Lowered season length to 12 hours \(*real time*)
-- - Doubled crop growth from 0.3 best to 0.6 best \(*you can harvest up to 13 times in the right season*)
-- Entities
-- - Increased spawn rate \(*Necromancer / Summoner / Shaman / Amethyst Golem*)
-- - Reworked Villager Trades
-- - Now you can buy more claims from any Villager
-- - Added coin drops to pillager type entities
-- - Iron Golem don't drop iron ingots
-- Levelz
-- - New levelz restrictions
-- - Added brewing restrictions
-- - Added 1 LevelZ startpoint
-- Miscellaneous
-- - Now budding geodes aren't silktouchable
-- - Added gypsum shard and emerald shard as alternative for reforging
-- - Enabled Netherite Shield
-- - Spawners get disabled instead of breaking
-- - Changed many miscellaneous things
+### Seasons
+- Lowered season length to 12 hours \(*real time*)
+- Doubled crop growth from 0.3 best to 0.6 best \(*you can harvest up to 13 times in the right season*)
+### Entities
+- Increased spawn rate \(*Necromancer / Summoner / Shaman / Amethyst Golem*)
+- Reworked Villager Trades
+- Now you can buy more claims from any Villager
+- Added coin drops to pillager type entities
+- Iron Golem don't drop iron ingots
+### Levelz
+- New levelz restrictions
+- Added brewing restrictions
+- Added 1 LevelZ startpoint
+### Miscellaneous
+- Now budding geodes aren't silktouchable
+- Added gypsum shard and emerald shard as alternative for reforging
+- Enabled Netherite Shield
+- Spawners get disabled instead of breaking
+- Changed many miscellaneous things
 
 ## Removed:
+- Accurate Block Placement
 - Amplified Nether
 - Architects Palette
 - Colorful Azaleas
@@ -70,17 +71,23 @@
 - Beautify Refabricated
 - Better End
 - Better FPS Render Distance
+- Better Ladders
 - Better Nether
 - Better Villages
+- Blockstates \(*Resourcepack*)
 - Brewin And Chewin
 - Chipped
 - Chunk Sending
 - Connectivity
 - Creative Core
 - CTM
-- EMIffect
+- Dynamic Crosshair
+- Dynamic Crosshair Compat
+- EMI Compat
+- EMI Effect
 - EMI Loot
 - EMI Trades
+- Entity Collision FPS Fix
 - ewewukek's Musket mod
 - Experience Bottler
 - Fabric Shield Lib
@@ -90,6 +97,7 @@
 - Grass Overhaul
 - Handcrafted
 - Horse Expert
+- Ice Boat Nerf
 - Immediately Fast
 - It Takes a Pillage
 - Let Me Despawn

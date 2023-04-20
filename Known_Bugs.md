@@ -40,7 +40,8 @@
 
 ### LevelZ
 - Max Mobs kill drops in a chunk (exlude some mobs (ender dragon / bosses / ...))
-- add hoe (3.Item (5 different not 4 different, you forgot the hoe))
+- add hoe in github readme (3.Item (5 different not 4 different, you forgot the hoe))
+- clicking in sub categorys on the name (upper left) takes you back to the main levelz screen (same as pressing "E")
 
 ### AdditionZ
 - **[Idea]** TNT Tennis (2023 April Fools update)
@@ -64,7 +65,7 @@
 ```
 {
     "entitys_in_other_biomes": {
-        "minecraft:the_end": [
+        "modid:biome_id": [
             {
                 "entity": "minecraft:stray",
                 "weight": 8,
@@ -81,6 +82,8 @@
 ```
 *****
 ## Datapack
+
+- seasons config on server
 
 - lower Grapes propability (punching grass)
 
@@ -120,8 +123,14 @@ change Changelog in
 - [Vulkan Render](https://www.curseforge.com/minecraft/mc-mods/vulkanmod) \(*instead of Sodium / needs testing / beta*)
 - [DropZ](https://www.curseforge.com/minecraft/mc-mods/dropz) \(*instead of Interactic / 1.19.2 version ??*)
 - [Chefs Delight](https://www.curseforge.com/minecraft/mc-mods/chefs-delight-fabric) \(Numismatic Overhaul works??)
+- [Convenient Decor](https://modrinth.com/mod/convenient-decor)
+- [Damage Tilt](https://www.curseforge.com/minecraft/mc-mods/damage-tilt)
 
 ### Mod Ideas
+- Continue Breaking a Block when you shortly lift \(~3sec)
+
+- Take Fall Damage while in a Boat \(cause in vanilla boats are OP af)
+
 - Snow under Trees (snow falls through leaves and lands on the ground & ontop of leaves)
 
 - Schriftrollen \(*teleport zum spawn nach 10 sec ohne damage*)
@@ -140,8 +149,8 @@ change Changelog in
 
 - Goblins
 
-- AdditionZ -> Campfire scare agressive wolfs ( maybe such a mechanic for other entitys as well )
+- Campfire scare agressive wolfs ( maybe such a mechanic for other entitys as well )
 
-- AdditionZ -> Max Iron Golem from the same Villagers
+- Max Iron Golem from the same Villagers
 
 - chew on bark ( willow ) to get medical benefits
