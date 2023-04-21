@@ -1,3 +1,5 @@
+the following is effective in all branches in this repo
+
 MIT License
 
 Copyright (c) 2023 xR4YM0ND
