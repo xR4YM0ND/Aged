@@ -156,3 +156,18 @@ change Changelog in
 - Max Iron Golem from the same Villagers
 
 - chew on bark ( willow ) to get medical benefits
+
+### Mods which Globox does not like in the modpack
+- Angel Block Renewed
+- Aquatic Torches
+- Better Ladders
+- Better Statistics Screen
+- Better Than Mending
+- Clickable Advancements
+- Craftable Invisible Item Frames
+- Display Case
+- Experience Bottler
+- Horse Expert
+- Ice Boat Nerf
+- On Soul Fire
+- Suggestion Tweaker
