@@ -125,6 +125,8 @@ change Changelog in
 - [Chefs Delight](https://www.curseforge.com/minecraft/mc-mods/chefs-delight-fabric) \(Numismatic Overhaul works??)
 - [Convenient Decor](https://modrinth.com/mod/convenient-decor)
 - [Damage Tilt](https://www.curseforge.com/minecraft/mc-mods/damage-tilt)
+- [Awesome Dungeon Ocean Edition](https://www.curseforge.com/minecraft/mc-mods/awesome-dungeon-edition-ocean-fabric)
+- [Neruina - Ticking Entity Fixer](https://modrinth.com/mod/neruina)
 
 ### Mod Ideas
 - Continue Breaking a Block when you shortly lift \(~3sec)

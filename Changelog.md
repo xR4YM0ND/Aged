@@ -64,21 +64,17 @@
 
 ## Added:
 - Ambient Sounds \(thx to @Vybex)
-- Angel Block Renewed
 - Aquatic Torches
 - Awesome Dungeon The End Edition
 - BCLib
 - Beautify Refabricated
 - Better End
-- Better FPS Render Distance
 - Better Ladders
 - Better Nether
 - Better Villages
 - Blockstates \(*Resourcepack*)
 - Brewin And Chewin
 - Chipped
-- Chunk Sending
-- Connectivity
 - Creative Core
 - CTM
 - Dynamic Crosshair
@@ -90,6 +86,7 @@
 - Entity Collision FPS Fix
 - ewewukek's Musket mod
 - Experience Bottler
+- Fabric Seasons Extras
 - Fabric Shield Lib
 - Farmers Respite
 - Flintl0cks \(*Resourcepack*)
@@ -108,11 +105,8 @@
 - Paxi
 - Resourceful Config
 - Resourceful Lib
-- Savage Ender Dragon
 - Simple Voice Chat
-- Smooth Chunk Save
 - SpoiledZ
-- Structure Essentials
 - Traveler's Titles
 - Vinery - Let's do Wine!
 - William Wythers' Overhauled Overworld
