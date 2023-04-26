@@ -29,6 +29,7 @@
 - Added gypsum shard and emerald shard as alternative for reforging
 - Enabled Netherite Shield
 - Spawners get disabled instead of breaking
+- Thermometer has now a better position
 - Changed many miscellaneous things
 
 ## Removed:
