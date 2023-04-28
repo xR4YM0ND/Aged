@@ -66,13 +66,11 @@
 
 ## Added:
 - Ambient Sounds \(thx to @Vybex)
-- Awesome Dungeon The End Edition
 - BCLib
 - Beautify Refabricated
 - Better End
 - Better Ladders
 - Better Nether
-- Better Villages
 - Blockstates \(*Resourcepack*)
 - Brewin And Chewin
 - Chipped
@@ -99,7 +97,6 @@
 - Immediately Fast
 - It Takes a Pillage
 - Let Me Despawn
-- Library Ferret
 - LibZ
 - Memory Settings
 - Nethers Delight
