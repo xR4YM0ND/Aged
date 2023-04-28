@@ -7,7 +7,6 @@
 - Milk Bottle - Does not remove Effects
 
 ### Spice of Fabric
-- AppleSkin Saturation (yellow borders) don't show with Beta 4 version
 - test on server (Beta 4)
 
 ### EnvironmentZ
@@ -83,8 +82,6 @@
 *****
 ## Datapack
 
-- seasons config on server
-
 - lower Grapes propability (punching grass)
 
 - update aged guide book
@@ -133,7 +130,9 @@ change Changelog in
 
 - Take Fall Damage while in a Boat \(cause in vanilla boats are OP af)
 
-- Snow under Trees (snow falls through leaves and lands on the ground & ontop of leaves)
+- Ice Boat Nerf
+
+- Campfires get unlit when it rains
 
 - Schriftrollen \(*teleport zum spawn nach 10 sec ohne damage*)
 
@@ -158,14 +157,10 @@ change Changelog in
 - chew on bark ( willow ) to get medical benefits
 
 ### Mods which Globox does not like in the modpack
-- Angel Block Renewed
-- Aquatic Torches
 - Better Ladders
 - Better Statistics Screen
 - Better Than Mending
-- Clickable Advancements
 - Craftable Invisible Item Frames
-- Display Case
 - Experience Bottler
 - Horse Expert
 - Ice Boat Nerf

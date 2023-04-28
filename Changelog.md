@@ -20,6 +20,7 @@
 - Now you can buy more claims from any Villager
 - Added coin drops to pillager type entities
 - Iron Golem don't drop iron ingots
+- Void Shadow can now respawn
 ### Levelz
 - New levelz restrictions
 - Added brewing restrictions
@@ -65,7 +66,6 @@
 
 ## Added:
 - Ambient Sounds \(thx to @Vybex)
-- Aquatic Torches
 - Awesome Dungeon The End Edition
 - BCLib
 - Beautify Refabricated
@@ -104,6 +104,7 @@
 - Memory Settings
 - Nethers Delight
 - Paxi
+- RAY's 3D Ladders \(*Resourcepack*)
 - Resourceful Config
 - Resourceful Lib
 - Simple Voice Chat
@@ -122,7 +123,6 @@
 ## Updated:
 - **Fabric-Loader 0.14.19**
 - AdditionZ
-- Anvil Display
 - Attribute Fix
 - Balm
 - Better Combat
@@ -136,7 +136,6 @@
 - Custom Portals
 - Default Options
 - Dehydration
-- Discerning Furnace
 - Drippy Loading Screen
 - Early Stage
 - EMI
