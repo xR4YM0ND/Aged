@@ -27,6 +27,7 @@
 
 ### DungeonZ
 - **[Idea]** Boss phases (Boss is damage 2/3 , monsters spawn & you have to kill all mobs first to damage the Boss again) (like different stages for the boss fight)
+- **[Idea]** Add barrels as separate loot table
 
 ### RPG Difficulty / Nameplate
 - per Dimension Datapack -> Starting Location (xyz) - Done
