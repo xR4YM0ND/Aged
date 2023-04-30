@@ -56,6 +56,7 @@
 - Mouse Wheelie
 - Oh The Biomes You'll Go Refabricated
 - Status Effect Bars
+- Talk Bubbles
 - Taterzens
 - TerraBlender
 - Terralith
@@ -159,6 +160,7 @@
 - Moonlight Lib
 - More Culling
 - Nameplate
+- Naturalist
 - Nether Portal Fix
 - Numismatic Claim
 - Open Parties and Claims
