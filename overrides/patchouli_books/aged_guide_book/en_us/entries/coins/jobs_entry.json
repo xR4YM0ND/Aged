@@ -1,0 +1,19 @@
+{
+    "name": "Jobs",
+    "icon": "numismatic-overhaul:bronze_coin",
+    "category": "patchouli:coins_category",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:image",
+            "images": ["aged:textures/gui/entries/open_jobs_screen.png", "aged:textures/gui/entries/jobs_screen.png"],
+            "title": "Jobs Screen",
+            "text": "Earn XP and get Coins from Jobs."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Infos",
+            "text": "Choose your Job's wisely.$(br2)You can have a maxium of 2 Jobs.$(br2)When you leave a job, you have to wait 60 min to enter a new job."
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "replace": false,
+    "level": 17,
+    "skill": "farming",
+    "item": [
+        "minecraft:diamond_axe",
+        "minecraft:diamond_hoe",
+        "farmersdelight:diamond_knife"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "level": 21,
+    "skill": "agility",
+    "item": [
+        "immersive_armors:prismarine_helmet",
+        "immersive_armors:prismarine_chestplate",
+        "immersive_armors:prismarine_leggings",
+        "immersive_armors:prismarine_boots"
+    ]
+}

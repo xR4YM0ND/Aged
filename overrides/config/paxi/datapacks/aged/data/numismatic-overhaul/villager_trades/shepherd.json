@@ -1,0 +1,1653 @@
+{
+    "profession": "shepherd",
+    "trades": {
+        "novice": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 27,
+                "sell": {
+                    "item": "minecraft:white_dye",
+                    "count": 27
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 9,
+                "buy": {
+                    "item": "minecraft:white_dye",
+                    "count": 27
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 27,
+                "sell": {
+                    "item": "minecraft:orange_dye",
+                    "count": 27
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 9,
+                "buy": {
+                    "item": "minecraft:orange_dye",
+                    "count": 27
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 27,
+                "sell": {
+                    "item": "minecraft:magenta_dye",
+                    "count": 27
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 9,
+                "buy": {
+                    "item": "minecraft:magenta_dye",
+                    "count": 27
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 27,
+                "sell": {
+                    "item": "minecraft:light_blue_dye",
+                    "count": 27
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 9,
+                "buy": {
+                    "item": "minecraft:light_blue_dye",
+                    "count": 27
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 27,
+                "sell": {
+                    "item": "minecraft:yellow_dye",
+                    "count": 27
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 9,
+                "buy": {
+                    "item": "minecraft:yellow_dye",
+                    "count": 27
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 27,
+                "sell": {
+                    "item": "minecraft:lime_dye",
+                    "count": 27
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 9,
+                "buy": {
+                    "item": "minecraft:lime_dye",
+                    "count": 27
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 27,
+                "sell": {
+                    "item": "minecraft:pink_dye",
+                    "count": 27
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 9,
+                "buy": {
+                    "item": "minecraft:pink_dye",
+                    "count": 27
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 27,
+                "sell": {
+                    "item": "minecraft:gray_dye",
+                    "count": 27
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 9,
+                "buy": {
+                    "item": "minecraft:gray_dye",
+                    "count": 27
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 27,
+                "sell": {
+                    "item": "minecraft:light_gray_dye",
+                    "count": 27
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 9,
+                "buy": {
+                    "item": "minecraft:light_gray_dye",
+                    "count": 27
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 27,
+                "sell": {
+                    "item": "minecraft:cyan_dye",
+                    "count": 27
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 9,
+                "buy": {
+                    "item": "minecraft:cyan_dye",
+                    "count": 27
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 27,
+                "sell": {
+                    "item": "minecraft:purple_dye",
+                    "count": 27
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 9,
+                "buy": {
+                    "item": "minecraft:purple_dye",
+                    "count": 27
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 27,
+                "sell": {
+                    "item": "minecraft:blue_dye",
+                    "count": 27
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 9,
+                "buy": {
+                    "item": "minecraft:blue_dye",
+                    "count": 27
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 27,
+                "sell": {
+                    "item": "minecraft:brown_dye",
+                    "count": 27
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 9,
+                "buy": {
+                    "item": "minecraft:brown_dye",
+                    "count": 27
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 27,
+                "sell": {
+                    "item": "minecraft:green_dye",
+                    "count": 27
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 9,
+                "buy": {
+                    "item": "minecraft:green_dye",
+                    "count": 27
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 27,
+                "sell": {
+                    "item": "minecraft:red_dye",
+                    "count": 27
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 9,
+                "buy": {
+                    "item": "minecraft:red_dye",
+                    "count": 27
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 27,
+                "sell": {
+                    "item": "minecraft:black_dye",
+                    "count": 27
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 9,
+                "buy": {
+                    "item": "minecraft:black_dye",
+                    "count": 27
+                }
+            }
+        ],
+        "apprentice": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 24,
+                "sell": {
+                    "item": "minecraft:white_wool",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 4,
+                "buy": {
+                    "item": "minecraft:white_wool",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 24,
+                "sell": {
+                    "item": "minecraft:orange_wool",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 4,
+                "buy": {
+                    "item": "minecraft:orange_wool",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 24,
+                "sell": {
+                    "item": "minecraft:magenta_wool",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 4,
+                "buy": {
+                    "item": "minecraft:magenta_wool",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 24,
+                "sell": {
+                    "item": "minecraft:light_blue_wool",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 4,
+                "buy": {
+                    "item": "minecraft:light_blue_wool",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 24,
+                "sell": {
+                    "item": "minecraft:yellow_wool",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 4,
+                "buy": {
+                    "item": "minecraft:yellow_wool",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 24,
+                "sell": {
+                    "item": "minecraft:lime_wool",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 4,
+                "buy": {
+                    "item": "minecraft:lime_wool",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 24,
+                "sell": {
+                    "item": "minecraft:pink_wool",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 4,
+                "buy": {
+                    "item": "minecraft:pink_wool",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 24,
+                "sell": {
+                    "item": "minecraft:gray_wool",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 4,
+                "buy": {
+                    "item": "minecraft:gray_wool",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 24,
+                "sell": {
+                    "item": "minecraft:light_gray_wool",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 4,
+                "buy": {
+                    "item": "minecraft:light_gray_wool",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 24,
+                "sell": {
+                    "item": "minecraft:cyan_wool",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 4,
+                "buy": {
+                    "item": "minecraft:cyan_wool",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 24,
+                "sell": {
+                    "item": "minecraft:purple_wool",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 4,
+                "buy": {
+                    "item": "minecraft:purple_wool",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 24,
+                "sell": {
+                    "item": "minecraft:blue_wool",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 4,
+                "buy": {
+                    "item": "minecraft:blue_wool",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 24,
+                "sell": {
+                    "item": "minecraft:brown_wool",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 4,
+                "buy": {
+                    "item": "minecraft:brown_wool",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 24,
+                "sell": {
+                    "item": "minecraft:green_wool",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 4,
+                "buy": {
+                    "item": "minecraft:green_wool",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 24,
+                "sell": {
+                    "item": "minecraft:red_wool",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 4,
+                "buy": {
+                    "item": "minecraft:red_wool",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 24,
+                "sell": {
+                    "item": "minecraft:black_wool",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 4,
+                "buy": {
+                    "item": "minecraft:black_wool",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 300,
+                "sell": {
+                    "item": "minecraft:shears",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 100,
+                "buy": {
+                    "item": "minecraft:shears",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 10,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 1250,
+                "sell": {
+                    "item": "minecraft:enchanted_book",
+                    "count": 1,
+                    "tag": {
+                        "StoredEnchantments": [
+                            {
+                                "id": "minecraft:feather_falling",
+                                "lvl": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        ],
+        "journeyman": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 18,
+                "sell": {
+                    "item": "minecraft:white_bed",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 3,
+                "buy": {
+                    "item": "minecraft:white_bed",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 18,
+                "sell": {
+                    "item": "minecraft:orange_bed",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 3,
+                "buy": {
+                    "item": "minecraft:orange_bed",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 18,
+                "sell": {
+                    "item": "minecraft:magenta_bed",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 3,
+                "buy": {
+                    "item": "minecraft:magenta_bed",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 18,
+                "sell": {
+                    "item": "minecraft:light_blue_bed",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 3,
+                "buy": {
+                    "item": "minecraft:light_blue_bed",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 18,
+                "sell": {
+                    "item": "minecraft:yellow_bed",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 3,
+                "buy": {
+                    "item": "minecraft:yellow_bed",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 18,
+                "sell": {
+                    "item": "minecraft:lime_bed",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 3,
+                "buy": {
+                    "item": "minecraft:lime_bed",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 18,
+                "sell": {
+                    "item": "minecraft:pink_bed",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 3,
+                "buy": {
+                    "item": "minecraft:pink_bed",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 18,
+                "sell": {
+                    "item": "minecraft:gray_bed",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 3,
+                "buy": {
+                    "item": "minecraft:gray_bed",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 18,
+                "sell": {
+                    "item": "minecraft:light_gray_bed",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 3,
+                "buy": {
+                    "item": "minecraft:light_gray_bed",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 18,
+                "sell": {
+                    "item": "minecraft:cyan_bed",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 3,
+                "buy": {
+                    "item": "minecraft:cyan_bed",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 18,
+                "sell": {
+                    "item": "minecraft:purple_bed",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 3,
+                "buy": {
+                    "item": "minecraft:purple_bed",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 18,
+                "sell": {
+                    "item": "minecraft:blue_bed",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 3,
+                "buy": {
+                    "item": "minecraft:blue_bed",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 18,
+                "sell": {
+                    "item": "minecraft:brown_bed",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 3,
+                "buy": {
+                    "item": "minecraft:brown_bed",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 18,
+                "sell": {
+                    "item": "minecraft:green_bed",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 3,
+                "buy": {
+                    "item": "minecraft:green_bed",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 18,
+                "sell": {
+                    "item": "minecraft:red_bed",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 3,
+                "buy": {
+                    "item": "minecraft:red_bed",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 18,
+                "sell": {
+                    "item": "minecraft:black_bed",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 3,
+                "buy": {
+                    "item": "minecraft:black_bed",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 6,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 246,
+                "sell": {
+                    "item": "naturalist:teddy_bear",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 15,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 2500,
+                "sell": {
+                    "item": "minecraft:enchanted_book",
+                    "count": 1,
+                    "tag": {
+                        "StoredEnchantments": [
+                            {
+                                "id": "minecraft:feather_falling",
+                                "lvl": 2
+                            }
+                        ]
+                    }
+                }
+            }
+        ],
+        "expert": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 112,
+                "sell": {
+                    "item": "minecraft:painting",
+                    "count": 16
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 4,
+                "price": 12,
+                "sell": {
+                    "item": "minecraft:white_carpet",
+                    "count": 3
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 4,
+                "price": 2,
+                "buy": {
+                    "item": "minecraft:white_carpet",
+                    "count": 3
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 4,
+                "price": 12,
+                "sell": {
+                    "item": "minecraft:orange_carpet",
+                    "count": 3
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 4,
+                "price": 2,
+                "buy": {
+                    "item": "minecraft:orange_carpet",
+                    "count": 3
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 4,
+                "price": 12,
+                "sell": {
+                    "item": "minecraft:magenta_carpet",
+                    "count": 3
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 4,
+                "price": 2,
+                "buy": {
+                    "item": "minecraft:magenta_carpet",
+                    "count": 3
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 4,
+                "price": 12,
+                "sell": {
+                    "item": "minecraft:light_blue_carpet",
+                    "count": 3
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 4,
+                "price": 2,
+                "buy": {
+                    "item": "minecraft:light_blue_carpet",
+                    "count": 3
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 4,
+                "price": 12,
+                "sell": {
+                    "item": "minecraft:yellow_carpet",
+                    "count": 3
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 4,
+                "price": 2,
+                "buy": {
+                    "item": "minecraft:yellow_carpet",
+                    "count": 3
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 4,
+                "price": 12,
+                "sell": {
+                    "item": "minecraft:lime_carpet",
+                    "count": 3
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 4,
+                "price": 2,
+                "buy": {
+                    "item": "minecraft:lime_carpet",
+                    "count": 3
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 4,
+                "price": 12,
+                "sell": {
+                    "item": "minecraft:pink_carpet",
+                    "count": 3
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 4,
+                "price": 2,
+                "buy": {
+                    "item": "minecraft:pink_carpet",
+                    "count": 3
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 4,
+                "price": 12,
+                "sell": {
+                    "item": "minecraft:gray_carpet",
+                    "count": 3
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 4,
+                "price": 2,
+                "buy": {
+                    "item": "minecraft:gray_carpet",
+                    "count": 3
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 4,
+                "price": 12,
+                "sell": {
+                    "item": "minecraft:light_gray_carpet",
+                    "count": 3
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 4,
+                "price": 2,
+                "buy": {
+                    "item": "minecraft:light_gray_carpet",
+                    "count": 3
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 4,
+                "price": 12,
+                "sell": {
+                    "item": "minecraft:cyan_carpet",
+                    "count": 3
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 4,
+                "price": 2,
+                "buy": {
+                    "item": "minecraft:cyan_carpet",
+                    "count": 3
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 4,
+                "price": 12,
+                "sell": {
+                    "item": "minecraft:purple_carpet",
+                    "count": 3
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 4,
+                "price": 2,
+                "buy": {
+                    "item": "minecraft:purple_carpet",
+                    "count": 3
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 4,
+                "price": 12,
+                "sell": {
+                    "item": "minecraft:blue_carpet",
+                    "count": 3
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 4,
+                "price": 2,
+                "buy": {
+                    "item": "minecraft:blue_carpet",
+                    "count": 3
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 4,
+                "price": 12,
+                "sell": {
+                    "item": "minecraft:brown_carpet",
+                    "count": 3
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 4,
+                "price": 2,
+                "buy": {
+                    "item": "minecraft:brown_carpet",
+                    "count": 3
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 4,
+                "price": 12,
+                "sell": {
+                    "item": "minecraft:green_carpet",
+                    "count": 3
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 4,
+                "price": 2,
+                "buy": {
+                    "item": "minecraft:green_carpet",
+                    "count": 3
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 4,
+                "price": 12,
+                "sell": {
+                    "item": "minecraft:red_carpet",
+                    "count": 3
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 4,
+                "price": 2,
+                "buy": {
+                    "item": "minecraft:red_carpet",
+                    "count": 3
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 4,
+                "price": 12,
+                "sell": {
+                    "item": "minecraft:black_carpet",
+                    "count": 3
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 4,
+                "price": 2,
+                "buy": {
+                    "item": "minecraft:black_carpet",
+                    "count": 3
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 4,
+                "price": 12,
+                "sell": {
+                    "item": "minecraft:moss_carpet",
+                    "count": 3
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 4,
+                "price": 2,
+                "buy": {
+                    "item": "minecraft:moss_carpet",
+                    "count": 3
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 8,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 1200,
+                "sell": {
+                    "item": "betternether:cincinnasite_shears",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 8,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 400,
+                "buy": {
+                    "item": "betternether:cincinnasite_shears",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 20,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 5000,
+                "sell": {
+                    "item": "minecraft:enchanted_book",
+                    "count": 1,
+                    "tag": {
+                        "StoredEnchantments": [
+                            {
+                                "id": "minecraft:feather_falling",
+                                "lvl": 3
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 240,
+                "sell": {
+                    "item": "naturalist:bear_fur",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 80,
+                "buy": {
+                    "item": "naturalist:bear_fur",
+                    "count": 4
+                }
+            }
+        ],
+        "master": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 10,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 70,
+                "sell": {
+                    "item": "chipped:loom_table",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 10,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 910,
+                "sell": {
+                    "item": "toms_storage:ts.paint_kit",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 25,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 10000,
+                "sell": {
+                    "item": "minecraft:enchanted_book",
+                    "count": 1,
+                    "tag": {
+                        "StoredEnchantments": [
+                            {
+                                "id": "minecraft:feather_falling",
+                                "lvl": 4
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 5,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 1000,
+                "sell": {
+                    "item": "minecraft:phantom_membrane",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 5,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 100,
+                "buy": {
+                    "item": "minecraft:phantom_membrane",
+                    "count": 1
+                }
+            }
+        ]
+    }
+}

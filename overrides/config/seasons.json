@@ -1,0 +1,18 @@
+{
+  "seasonLength": 864000,
+  "seasonLock": {
+    "isSeasonLocked": false,
+    "lockedSeason": "SPRING"
+  },
+  "dimensionAllowlist": [
+    "minecraft:overworld"
+  ],
+  "doTemperatureChanges": true,
+  "biomeDenylist": [],
+  "isSeasonTiedWithSystemTime": false,
+  "isInNorthHemisphere": true,
+  "isSeasonMessingCrops": true,
+  "isSeasonMessingBonemeal": true,
+  "doCropsGrowsNormallyUnderground": false,
+  "doAnimalsBreedInWinter": false
+}

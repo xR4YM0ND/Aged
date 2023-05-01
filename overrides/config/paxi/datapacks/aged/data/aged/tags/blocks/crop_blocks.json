@@ -1,0 +1,20 @@
+{
+    "values": [
+        "minecraft:beetroots",
+        "minecraft:carrots",
+        "minecraft:cocoa",
+        "minecraft:melon_stem",
+        "minecraft:potatoes",
+        "minecraft:pumpkin_stem",
+        "minecraft:sweet_berry_bush",
+        "minecraft:wheat",
+        "farmersdelight:budding_tomatoes",
+        "farmersdelight:cabbages",
+        "farmersdelight:onions",
+        "farmersdelight:tomatoes",
+        "expandeddelight:asparagus_crop",
+        "expandeddelight:chili_pepper_crop",
+        "expandeddelight:peanut_crop",
+        "expandeddelight:sweet_potatoes_crop"
+    ]
+}

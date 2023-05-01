@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "level": 10,
+    "skill": "health",
+    "item": [
+        "toms_storage:ts.storage_terminal"
+    ]
+}

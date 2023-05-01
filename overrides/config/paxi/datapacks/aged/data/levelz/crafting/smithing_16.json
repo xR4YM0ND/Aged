@@ -1,0 +1,20 @@
+{
+    "replace": false,
+    "level": 16,
+    "skill": "smithing",
+    "item": [
+        "betterend:terminite_anvil",
+        "medievalweapons:terminite_small_axe",
+        "medievalweapons:terminite_long_sword",
+        "medievalweapons:terminite_dagger",
+        "medievalweapons:terminite_big_axe",
+        "medievalweapons:terminite_lance",
+        "medievalweapons:terminite_healing_staff",
+        "medievalweapons:terminite_mace",
+        "medievalweapons:terminite_francisca",
+        "medievalweapons:terminite_javelin",
+        "medievalweapons:terminite_ninjato",
+        "medievalweapons:terminite_sickle",
+        "medievalweapons:terminite_rapier"
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "smithing",
+    "level": 24,
+    "item": "minecraft:custom_item",
+    "object": "betterend:aeternium_hammer"
+}

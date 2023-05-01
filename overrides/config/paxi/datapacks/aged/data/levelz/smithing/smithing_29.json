@@ -1,0 +1,10 @@
+{
+    "replace": true,
+    "level": 29,
+    "item": [
+        "betterend:aeternium_helmet",
+        "betterend:aeternium_chestplate",
+        "betterend:aeternium_leggings",
+        "betterend:aeternium_boots"
+    ]
+}

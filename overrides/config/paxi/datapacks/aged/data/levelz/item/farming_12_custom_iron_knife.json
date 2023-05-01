@@ -1,0 +1,7 @@
+{
+    "replace": true,
+    "skill": "farming",
+    "level": 12,
+    "item": "minecraft:custom_item",
+    "object": "farmersdelight:iron_knife"
+}

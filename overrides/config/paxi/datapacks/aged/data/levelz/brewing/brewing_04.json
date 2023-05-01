@@ -1,0 +1,8 @@
+{
+    "replace": true,
+    "level": 4,
+    "item": [
+        "minecraft:fermented_spider_eye",
+        "gofish:charfish"
+    ]
+}

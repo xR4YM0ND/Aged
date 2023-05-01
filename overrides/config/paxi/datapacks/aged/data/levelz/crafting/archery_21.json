@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "level": 21,
+    "skill": "archery",
+    "item": [
+        "musketmod:pistol"
+    ]
+}

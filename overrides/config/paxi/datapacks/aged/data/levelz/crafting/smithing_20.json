@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "level": 20,
+    "skill": "smithing",
+    "item": [
+        "chipped:tinkering_table"
+    ]
+}

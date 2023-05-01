@@ -1,0 +1,289 @@
+{
+  "replace": true,
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 81,
+          "name": "minecraft:gold_nugget",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 9
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 9,
+          "name": "minecraft:raw_gold",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 9,
+          "name": "minecraft:gold_ingot",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:raw_gold_block",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:gold_block",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "conditions": [
+        {
+          "condition": "random_chance",
+          "chance": 0.1
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:golden_sword"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:golden_shovel"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:golden_pickaxe"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:golden_axe"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:golden_hoe"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "medievalweapons:golden_small_axe"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "medievalweapons:golden_long_sword"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "medievalweapons:golden_dagger"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "medievalweapons:golden_francisca"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "medievalweapons:golden_big_axe"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "medievalweapons:golden_javelin"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "medievalweapons:golden_lance"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "medievalweapons:golden_healing_staff"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "medievalweapons:golden_mace"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "medievalweapons:golden_ninjato"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "medievalweapons:golden_sickle"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "medievalweapons:golden_rapier"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:golden_helmet"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:golden_chestplate"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:golden_leggings"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:golden_boots"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "farmersdelight:golden_knife"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "betterend:golden_hammer"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "nethersdelight:golden_machete"
+        }
+      ]
+    },
+    {
+      "rolls": {
+        "min": 0,
+        "max": 1
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 36,
+          "name": "minecraft:golden_carrot",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 12,
+          "name": "spiceoffabric:lunch_box"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 8,
+          "name": "minecraft:clock"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 4,
+          "name": "minecraft:bell"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "betterend:gold_chandelier"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:golden_horse_armor"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "conditions": [
+        {
+          "condition": "random_chance",
+          "chance": 0.05
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 36,
+          "name": "minecraft:golden_apple"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 12,
+          "name": "gofish:golden_fish"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 8,
+          "name": "numismatic-overhaul:gold_coin"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 4,
+          "name": "minecraft:enchanted_golden_apple"
+        }
+      ]
+    }
+  ]
+}

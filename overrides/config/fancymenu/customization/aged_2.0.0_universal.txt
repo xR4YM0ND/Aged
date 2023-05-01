@@ -1,0 +1,61 @@
+type = menu
+
+customization-meta {
+  identifier = %fancymenu:universal_layout%
+  randomgroup = 1
+  renderorder = background
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  advanced_height = {"placeholder":"guiheight"}
+  orientation = top-left
+  shape = rectangle
+  color = #252526
+  advanced_posx = 0
+  advanced_width = {"placeholder":"guiwidth"}
+  advanced_posy = 0
+  x = 0
+  width = 854
+  action = addshape
+  actionid = cd71ebfb-2f85-431a-af41-dbdff411336e1678914168471
+  y = 0
+  height = 457
+}
+
+customization {
+  advanced_height = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"}","decimal":"true"}}
+  orientation = top-left
+  shape = rectangle
+  color = #1e1e1e
+  x = 0
+  width = 213
+  action = addshape
+  actionid = 5c724158-2deb-43ad-9bac-dc690bd9def71678903179446
+  y = 0
+  advanced_posx = 0
+  advanced_width = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"} / 4","decimal":"true"}}
+  height = 457
+}
+
+customization {
+  advanced_height = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"}","decimal":"true"}}
+  orientation = top-left
+  shape = rectangle
+  color = #1e1e1e
+  x = 0
+  width = 213
+  action = addshape
+  actionid = 34a34f66-21b2-4d87-a877-8687a3058df11678904527457
+  y = 0
+  advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"} - {"placeholder":"elementwidth","values":{"id":"34a34f66-21b2-4d87-a877-8687a3058df11678904527457"}}","decimal":"true"}}
+  advanced_width = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"} / 4","decimal":"true"}}
+  height = 457
+}
+

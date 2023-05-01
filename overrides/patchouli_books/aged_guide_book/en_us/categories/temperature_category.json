@@ -1,0 +1,6 @@
+{
+    "name": "Temperature",
+    "description": "What is the difference between Environment & Body Temperature ?",
+    "icon": "minecraft:powder_snow_bucket",
+    "sortnum": 3
+}

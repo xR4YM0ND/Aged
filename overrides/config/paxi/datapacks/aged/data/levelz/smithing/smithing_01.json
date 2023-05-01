@@ -1,0 +1,10 @@
+{
+    "replace": true,
+    "level": 1,
+    "item": [
+        "minecraft:leather",
+        "adventurez:mammoth_fur",
+        "environmentz:polar_bear_fur",
+        "naturalist:bear_fur"
+    ]
+}
