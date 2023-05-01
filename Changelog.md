@@ -26,9 +26,10 @@
 - Added brewing restrictions
 - Added 1 LevelZ startpoint
 ### Miscellaneous
+- Reworked EnvironmentZ datapack  \(*winter should be playable now*)
 - Now budding geodes aren't silktouchable
 - Added gypsum shard and emerald shard as alternative for reforging
-- Enabled Netherite Shield
+- Enabled netherite shield
 - Spawners get disabled instead of breaking
 - Thermometer has now a better position
 - Changed many miscellaneous things
@@ -75,6 +76,7 @@
 - Blockstates \(*Resourcepack*)
 - Brewin And Chewin
 - Chipped
+- Craft Presence
 - Creative Core
 - CTM
 - Dynamic Crosshair
@@ -151,6 +153,7 @@
 - Inv Move
 - Iris Shaders
 - Jobs Addon
+- Konkrete
 - LevelZ
 - Lithium
 - Log Begone
@@ -159,6 +162,7 @@
 - Memory Leak Fix
 - Moonlight Lib
 - More Culling
+- More Geodes
 - Nameplate
 - Naturalist
 - Nether Portal Fix
