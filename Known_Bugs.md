@@ -127,6 +127,10 @@ change Changelog in
 - [Neruina - Ticking Entity Fixer](https://modrinth.com/mod/neruina)
 
 ### Mod Ideas
+- Potion that takes you to your last death
+
+- If you die X times in a X period of time you get a health boost or armor boost or both for a x amount of time (like a status effect maybe)
+
 - Continue Breaking a Block when you shortly lift \(~3sec)
 
 - Take Fall Damage while in a Boat \(cause in vanilla boats are OP af)
