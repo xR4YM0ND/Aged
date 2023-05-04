@@ -1,4 +1,23 @@
 *****
+# Aged 2.0.1
+
+## Fixed:
+- No sound on default settings
+
+## Changed:
+
+## Updated:
+- Charm of Undying
+- Elytra Slot
+- Fabric Seasons
+- Fabric Seasons Extras
+- HT's Tree Chop
+- Log Begone
+- Tom's Simple Storage
+- Vinery
+- Xaero's World Map
+
+*****
 # Aged 2.0.0
 
 ! WARNING !
