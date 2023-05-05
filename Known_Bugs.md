@@ -161,13 +161,10 @@ change Changelog in
 
 - chew on bark ( willow ) to get medical benefits
 
-### Mods which Globox does not like in the modpack
-- Better Ladders
-- Better Statistics Screen
-- Better Than Mending
-- Craftable Invisible Item Frames
-- Experience Bottler
-- Horse Expert
-- Ice Boat Nerf
-- On Soul Fire
-- Suggestion Tweaker
+### Mods which Globox disables
+- Smooth Swapping
+- Legendary Tooltips
+- EquipmentCompare
+- AdvancementPlaques
+- DynamicCrossair
+- DynamicCrosshairCompat
