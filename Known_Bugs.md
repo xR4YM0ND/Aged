@@ -98,13 +98,17 @@
 ### On update
 
 change version numbers in
-- Main Menu
-- Loading Screen
+- Main Menu x2
+- Loading Screen x2
 - Aged Window
 
 change Changelog in
 - Loading Screen
 - Main Menu
+
+## Only Server configs
+- Numismatic Claim
+- voicechat/voicechat-server.properties
 
 *****
 ### Mods for Aged
@@ -187,10 +191,7 @@ change Changelog in
 ## General
 - Breaking Animation of 3D leaves is to big
 - if you break 3D leaves connection to wood source, the rest has no 3D textures
-- View Bobbing need to be on
 - Baby Zombie fast af boy
 
 ## Server
-- Simple Voice Chat need way more distance
-- set "chunk_claim_ticker": 172800,
-- change numismatic claim to false
+- luckperms promote doesnt work?

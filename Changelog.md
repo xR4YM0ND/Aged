@@ -3,6 +3,7 @@
 
 ## Fixed:
 - No sound on default settings
+- Enabled view-bobbing
 
 ## Changed:
 - Added way more biomes for rocks / flints to generate on \(thx to TheMoonlightSystem)
