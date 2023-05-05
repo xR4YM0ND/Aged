@@ -5,6 +5,8 @@
 - No sound on default settings
 
 ## Changed:
+- Added way more biomes for rocks / flints to generate on \(thx to TheMoonlightSystem)
+- Added more block types rocks / flint can spawn on
 
 ## Updated:
 - Charm of Undying
