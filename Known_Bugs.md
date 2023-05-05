@@ -174,6 +174,14 @@ change Changelog in
 - On Soul Fire
 - Suggestion Tweaker
 
+### Mods which Globox disables
+- Smooth Swapping
+- Legendary Tooltips
+- EquipmentCompare
+- AdvancementPlaques
+- DynamicCrossair
+- DynamicCrosshairCompat
+- ExtraSounds
 
 ### Aged 2.0.0 Bugs
 ## General
@@ -186,11 +194,3 @@ change Changelog in
 - Simple Voice Chat need way more distance
 - set "chunk_claim_ticker": 172800,
 - change numismatic claim to false
-### Mods which Globox disables
-- Smooth Swapping
-- Legendary Tooltips
-- EquipmentCompare
-- AdvancementPlaques
-- DynamicCrossair
-- DynamicCrosshairCompat
-- ExtraSounds
