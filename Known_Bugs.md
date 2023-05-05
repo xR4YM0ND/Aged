@@ -87,6 +87,8 @@
 
 - update aged guide book
 
+- which mod adds 3D leaves?
+
 *****
 ## Others
 
@@ -171,3 +173,16 @@ change Changelog in
 - Ice Boat Nerf
 - On Soul Fire
 - Suggestion Tweaker
+
+
+### Aged 2.0.0 Bugs
+## General
+- Breaking Animation of 3D leaves is to big
+- if you break 3D leaves connection to wood source, the rest has no 3D textures
+- View Bobbing need to be on
+- Baby Zombie fast af boy
+
+## Server
+- Simple Voice Chat need way more distance
+- set "chunk_claim_ticker": 172800,
+- change numismatic claim to false
