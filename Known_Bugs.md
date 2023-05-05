@@ -168,3 +168,4 @@ change Changelog in
 - AdvancementPlaques
 - DynamicCrossair
 - DynamicCrosshairCompat
+- ExtraSounds
