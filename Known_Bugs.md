@@ -191,7 +191,6 @@ change Changelog in
 ## General
 - Breaking Animation of 3D leaves is to big
 - if you break 3D leaves connection to wood source, the rest has no 3D textures
-- Baby Zombie fast af boy
 
 ## Server
 - luckperms promote doesnt work?

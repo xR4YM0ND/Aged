@@ -8,14 +8,20 @@
 ## Changed:
 - Added way more biomes for rocks / flints to generate on \(thx to TheMoonlightSystem)
 - Added more block types rocks / flint can spawn on
+- Baby Zombies are now not affected from speed boost
 
 ## Updated:
+- AdditionZ
+- Better Combat
 - Charm of Undying
+- Dyed
 - Elytra Slot
 - Fabric Seasons
 - Fabric Seasons Extras
 - HT's Tree Chop
 - Log Begone
+- RPG Difficulty
+- Simple Voice Chat
 - Tom's Simple Storage
 - Vinery
 - Xaero's World Map
