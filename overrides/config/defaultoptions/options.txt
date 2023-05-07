@@ -16,7 +16,7 @@ showSubtitles:false
 directionalAudio:false
 touchscreen:false
 fullscreen:false
-bobView:false
+bobView:true
 toggleCrouch:false
 toggleSprint:false
 darkMojangStudiosBackground:false
@@ -78,7 +78,7 @@ showAutosaveIndicator:true
 allowServerListing:true
 chatPreview:1
 onlyShowSecureChat:false
-soundCategory_master:0.0
+soundCategory_master:0.50441843
 soundCategory_music:0.0
 soundCategory_record:0.95384574
 soundCategory_weather:0.4055898
