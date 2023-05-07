@@ -24,6 +24,7 @@
 - Entity Texture Features
 - Fresh Animations \(*Resourcepack*)
 - Not Enough Animations
+- Time and Wind
 - Xali's Bushy Leaves \(*Resourcepack*)
 - Xali's Enhanced Vanilla \(*Resourcepack*)
 
