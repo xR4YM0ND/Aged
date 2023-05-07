@@ -106,9 +106,13 @@ change Changelog in
 - Loading Screen
 - Main Menu
 
+is LICENSE.md there?
+
 ## Only Server configs
-- Numismatic Claim
+- numismaticclaim.json
 - voicechat/voicechat-server.properties
+- time-and-wind/time-data.json
+- seasons.json
 
 *****
 ### Mods for Aged

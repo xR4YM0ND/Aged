@@ -4,14 +4,30 @@
 ## Fixed:
 - No sound on default settings
 - Enabled view-bobbing
-
-## Changed:
-- Added way more biomes for rocks / flints to generate on \(thx to TheMoonlightSystem)
-- Added more block types rocks / flint can spawn on
 - Baby Zombies are now not affected from speed boost
 
+## Changed:
+- A day takes now 20 min (24000 t) & a night takes now 10 min (12000 t)
+- Added way more biomes for rocks / flints to generate on \(*thx to TheMoonlightSystem*)
+- Added more block types rocks / flint can spawn on
+- Increased season length to 18 hours instead of 12 hours
+
+## Removed:
+- BlockStates+ \(*Resourcepack*)
+- Reroll
+
+## Added:
+- Auto Third Person
+- Cave Dust
+- Easy Magic
+- Entity Model Features
+- Entity Texture Features
+- Fresh Animations \(*Resourcepack*)
+- Not Enough Animations
+- Xali's Bushy Leaves \(*Resourcepack*)
+- Xali's Enhanced Vanilla \(*Resourcepack*)
+
 ## Updated:
-- AdditionZ
 - Better Combat
 - Charm of Undying
 - Dyed
@@ -24,6 +40,7 @@
 - Simple Voice Chat
 - Tom's Simple Storage
 - Vinery
+- William Wythers Overhauled Overworld
 - Xaero's World Map
 
 *****
