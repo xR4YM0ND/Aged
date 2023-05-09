@@ -3,6 +3,11 @@
 *****
 ## Mods
 
+### Another World
+- Disable Nether Portal creation (diable flint/steel on portal frame, disable creation (from nether to another:world))
+- deny outgoing nether portal connection
+- deny incoming nether portal connection
+
 ### Farmers Delight
 - Milk Bottle - Does not remove Effects
 
@@ -12,6 +17,7 @@
 ### EnvironmentZ
 - **[Idea]** Armor that saves Water Level \(for hot biomes)
 - **[Idea]** In the desert water drys out \(sandstone cracks)
+- New update -> default datapack is everything "replace": true,
 
 ### OPAC
 - Doors / Fencegates only open when empty handed, when functional item in hand it doesnt work
@@ -87,7 +93,7 @@
 
 - update aged guide book
 
-- which mod adds 3D leaves?
+- Villager Trade dark texture
 
 *****
 ## Others

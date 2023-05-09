@@ -1,4 +1,12 @@
 *****
+# Aged 2.0.2
+
+## Added:
+- Dungeons and Taverns
+- Geophilic
+- Hopo Better Underwater Ruins
+
+*****
 # Aged 2.0.1
 
 ## Fixed:
