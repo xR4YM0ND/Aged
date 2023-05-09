@@ -1,10 +1,22 @@
 *****
 # Aged 2.0.2
 
+## Removed:
+- Enhanced Celestials
+
 ## Added:
+- Chunks Fade In
 - Dungeons and Taverns
 - Geophilic
 - Hopo Better Underwater Ruins
+- Modern Fix
+
+## Updated:
+- AdditionZ
+- AdventureZ
+- EnvironmentZ
+- Simple Voice Chat
+- SpoiledZ
 
 *****
 # Aged 2.0.1
