@@ -35,10 +35,8 @@
 - **[Idea]** Boss phases (Boss is damage 2/3 , monsters spawn & you have to kill all mobs first to damage the Boss again) (like different stages for the boss fight)
 - **[Idea]** Add barrels as separate loot table
 
-### RPG Difficulty / Nameplate
-- per Dimension Datapack -> Starting Location (xyz) - Done
-- Wandering Trader has lvl's - ??? Needs testing
-- Nameplate / Give Traders their Level (/ Novice / Apprentice / Journeyman / Expert / Master) - Needs testing
+### RPG Difficulty
+- Summon Sheep only level 1 sheep, but normally level 2 or higher
 
 ### Medieval Weapons
 - Better Combat -> Lance ausgangsposition nach vorne gerichtet nicht nach oben - Imo current is better for view
