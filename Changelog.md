@@ -14,6 +14,9 @@
 ## Updated:
 - AdditionZ
 - AdventureZ
+- EMI Loot
+- Entity Model Features
+- Entity Texture Features
 - EnvironmentZ
 - Simple Voice Chat
 - SpoiledZ
