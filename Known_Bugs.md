@@ -42,6 +42,7 @@
 
 ### RPG Difficulty
 - Summon Sheep only level 1 sheep, but normally level 2 or higher
+- Issue with x,y,z?
 
 ### Medieval Weapons
 - Better Combat -> Lance ausgangsposition nach vorne gerichtet nicht nach oben - Imo current is better for view
