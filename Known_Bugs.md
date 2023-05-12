@@ -6,6 +6,7 @@
 ### AdditionZ
 - Normal Oxidization (when placed normal 1 next to another 1 should be same speed as vanilla 1 block 3 air 1 block)
 - Fast Oxidization (with lava & water - should be 4x of the vanilla 1 block 3 space 1 block speed)
+- Stray's don't start to burn when in winter biome & direct sunlight
 
 ### Another World
 - Disable Nether Portal creation (diable flint/steel on portal frame, disable creation (from nether to another:world))
