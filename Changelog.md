@@ -1,6 +1,9 @@
 *****
 # Aged 2.0.2
 
+## Changed:
+- Mobs get stronger over a shorter distance
+
 ## Removed:
 - Enhanced Celestials
 
@@ -10,16 +13,28 @@
 - Geophilic
 - Hopo Better Underwater Ruins
 - Modern Fix
+- RAY's 3D Rails \(*Resourcepack*)
+- Shoulder Surfing Reloaded
 
 ## Updated:
 - AdditionZ
 - AdventureZ
+- Better Combat
+- Better Statistics Screen
+- Dynamic Crosshair
 - EMI Loot
 - Entity Model Features
 - Entity Texture Features
 - EnvironmentZ
+- Fabric Seasons
+- Fabric Seasons Extras
+- Jobs Addon
+- LevelZ
+- Moonlight Lib
 - Simple Voice Chat
 - SpoiledZ
+- Tom's Simple Storage
+- Xaero's World Map
 
 *****
 # Aged 2.0.1
