@@ -42,6 +42,7 @@
 
 ### RPG Difficulty
 - Summon Sheep only level 1 sheep, but normally level 2 or higher
+- Issue with x,y,z?
 
 ### Medieval Weapons
 - Better Combat -> Lance ausgangsposition nach vorne gerichtet nicht nach oben - Imo current is better for view
@@ -66,6 +67,7 @@
 - Food Blocks you place down ( Cake , Apple Pie(Vinery Mod) , other modded ) dont get spoiled
 - Crash with [Farmers Respite "Rose Hip Pie"](https://beta.curseforge.com/minecraft/mc-mods/farmers-respite-fabric) -> [latest.log](https://gist.github.com/SpigotDE/1d055f0e746194d5c284b9ef9bd99ef7) -> [updated latest.log with xaero ?](https://gist.github.com/SpigotDE/67ff7c6e4791a89cce6aa7342dce8d23)
 - Smelting meat doesnt stack in the smoker / furnace -> NBT Crafting
+- Crash with vinery
 
 ### Unknown
 - give effect comfort on startup
@@ -179,17 +181,6 @@ is LICENSE.md there?
 - Max Iron Golem from the same Villagers
 
 - chew on bark ( willow ) to get medical benefits
-
-### Mods which Globox does not like in the modpack
-- Better Ladders
-- Better Statistics Screen
-- Better Than Mending
-- Craftable Invisible Item Frames
-- Experience Bottler
-- Horse Expert
-- Ice Boat Nerf
-- On Soul Fire
-- Suggestion Tweaker
 
 ### Mods which Globox disables
 - Smooth Swapping

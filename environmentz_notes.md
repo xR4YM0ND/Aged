@@ -6,14 +6,6 @@ Cooling Effect doesn't work with ice_pack over 1 durabiltiy
 Heating Effect doesn't work with heating_stones over 1 durability
 
 
-## Nether
-
-Default datapack minecraft:nether is wrong / doesn't work
-should be minecraft:the_nether
-
-no acclimatization when too cold (it just stops at -240)
-
-
 ## End
 
 in the end you can't go over +240 or under -240
