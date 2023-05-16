@@ -7,6 +7,8 @@
 - Normal Oxidization (when placed normal 1 next to another 1 should be same speed as vanilla 1 block 3 air 1 block)
 - Fast Oxidization (with lava & water - should be 4x of the vanilla 1 block 3 space 1 block speed)
 - Stray's don't start to burn when in winter biome & direct sunlight
+- **[Idea]** TNT Tennis (2023 April Fools update)
+- Shield Cooldown compatible with the mod Guarding ? - Needs testing
 
 ### Another World
 - Disable Nether Portal creation (diable flint/steel on portal frame, disable creation (from nether to another:world))
@@ -18,11 +20,6 @@
 
 ### Spice of Fabric
 - test on server (Beta 4)
-
-### EnvironmentZ
-- **[Idea]** Armor that saves Water Level \(for hot biomes)
-- **[Idea]** In the desert water drys out \(sandstone cracks)
-- New update -> default datapack is everything "replace": true,
 
 ### OPAC
 - Doors / Fencegates only open when empty handed, when functional item in hand it doesnt work
@@ -40,22 +37,13 @@
 - **[Idea]** Boss phases (Boss is damage 2/3 , monsters spawn & you have to kill all mobs first to damage the Boss again) (like different stages for the boss fight)
 - **[Idea]** Add barrels as separate loot table
 
-### RPG Difficulty
-- Summon Sheep only level 1 sheep, but normally level 2 or higher
-- Issue with x,y,z?
-
 ### Medieval Weapons
-- Better Combat -> Lance ausgangsposition nach vorne gerichtet nicht nach oben - Imo current is better for view
-- Better Combat -> Javelin das selbe
+- Give Rapier downsides (currently by far the best item in this mod (by damage per minute))
 
 ### LevelZ
 - Max Mobs kill drops in a chunk (exlude some mobs (ender dragon / bosses / ...))
 - add hoe in github readme (3.Item (5 different not 4 different, you forgot the hoe))
 - clicking in sub categorys on the name (upper left) takes you back to the main levelz screen (same as pressing "E")
-
-### AdditionZ
-- **[Idea]** TNT Tennis (2023 April Fools update)
-- Shield Cooldown compatible with the mod Guarding ? - Needs testing
 
 ### TieredZ
 - Items (Swords/Axes/..) that are placed in item frames on generation (BetterDungeons / BetterDesertTemples / ..) are vanilla , they dont have tiers - Done
@@ -193,8 +181,5 @@ is LICENSE.md there?
 
 ### Aged 2.0.0 Bugs
 ## General
-- Breaking Animation of 3D leaves is to big
-- if you break 3D leaves connection to wood source, the rest has no 3D textures
 
 ## Server
-- luckperms promote doesnt work?
