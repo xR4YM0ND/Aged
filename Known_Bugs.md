@@ -6,7 +6,6 @@
 ### AdditionZ
 - Normal Oxidization (when placed normal 1 next to another 1 should be same speed as vanilla 1 block 3 air 1 block)
 - Fast Oxidization (with lava & water - should be 4x of the vanilla 1 block 3 space 1 block speed)
-- Stray's don't start to burn when in winter biome & direct sunlight
 - **[Idea]** TNT Tennis (2023 April Fools update)
 - Shield Cooldown compatible with the mod Guarding ? - Needs testing
 
@@ -27,15 +26,11 @@
 - Allow purified water bottles any time
 
 ### Dehydration
-- Sneak Right click with flask actually fills cauldrons & campfire cauldron - Done
-- Sneak Right click with Vanilla Water bottles emptys the bottle - Done
 - Dirty Water Bottle smeltable in Furnace & Campfire (lot of people mentioned that) - Removed furnace info
-- Water protection - Done
-- Brewing Charcoal with Dirty Water (nomrla water bottles) to Purified Water Bottles - Done
 
 ### DungeonZ
 - **[Idea]** Boss phases (Boss is damage 2/3 , monsters spawn & you have to kill all mobs first to damage the Boss again) (like different stages for the boss fight)
-- **[Idea]** Add barrels as separate loot table
+- **[Idea]** Add barrels as separate loot table \(eg. *Food Supply*)
 
 ### Medieval Weapons
 - Give Rapier downsides (currently by far the best item in this mod (by damage per minute))
@@ -92,7 +87,7 @@
 ## Others
 
 - Disable Phantoms / Gamerule
-- No permission for openpac-parties command
+- No permission for openpac-parties command ?
 
 ### On update
 
@@ -112,6 +107,7 @@ is LICENSE.md there?
 - voicechat/voicechat-server.properties
 - time-and-wind/time-data.json
 - seasons.json
+- another world rpgdifficulty datapack
 
 *****
 ### Mods for Aged
@@ -146,13 +142,9 @@ is LICENSE.md there?
 
 - Ice Boat Nerf
 
-- Campfires get unlit when it rains
-
 - Schriftrollen \(*teleport zum spawn nach 10 sec ohne damage*)
 
 - Juwlery ( Rings / Necklace / Gloves / .. ) - Different Sets: Farmer , Boat Speed , Dodge Chance , Walk Speed
-
-- Time Control Mod \(*Change the length of day/night time individually*)
 
 - Elfs
 
