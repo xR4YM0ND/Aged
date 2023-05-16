@@ -1,0 +1,14 @@
+{
+  "name": "minecraft:illager_mansion/illager_mansion_base_dark_oak",
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:feature_pool_element",
+        "feature": "minecraft:illager_mansion_base_dark_oak",
+        "projection": "rigid"
+      },
+      "weight": 6
+    }
+  ],
+  "fallback": "minecraft:empty"
+}

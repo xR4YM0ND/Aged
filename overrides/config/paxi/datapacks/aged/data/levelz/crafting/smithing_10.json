@@ -1,0 +1,20 @@
+{
+    "replace": false,
+    "level": 10,
+    "skill": "smithing",
+    "item": [
+        "betterend:thallasium_anvil",
+        "medievalweapons:thallasium_small_axe",
+        "medievalweapons:thallasium_long_sword",
+        "medievalweapons:thallasium_dagger",
+        "medievalweapons:thallasium_big_axe",
+        "medievalweapons:thallasium_lance",
+        "medievalweapons:thallasium_healing_staff",
+        "medievalweapons:thallasium_mace",
+        "medievalweapons:thallasium_francisca",
+        "medievalweapons:thallasium_javelin",
+        "medievalweapons:thallasium_ninjato",
+        "medievalweapons:thallasium_sickle",
+        "medievalweapons:thallasium_rapier"
+    ]
+}

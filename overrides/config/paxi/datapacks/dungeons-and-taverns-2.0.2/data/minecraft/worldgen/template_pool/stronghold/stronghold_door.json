@@ -1,0 +1,186 @@
+{
+  "name": "minecraft:stronghold/stronghold_door",
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:stronghold/jail/stronghold_jail_door1",
+        "processors": "minecraft:stronghold_jail_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:stronghold/jail/stronghold_jail_door2",
+        "processors": "minecraft:stronghold_jail_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:stronghold/jail/stronghold_jail_door3",
+        "processors": "minecraft:stronghold_jail_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:stronghold/jail/stronghold_jail_door4",
+        "processors": "minecraft:stronghold_jail_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:stronghold/jail/stronghold_jail_door5",
+        "processors": "minecraft:stronghold_jail_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:stronghold/library/stronghold_library_door1",
+        "processors": "minecraft:stronghold_library_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:stronghold/library/stronghold_library_door2",
+        "processors": "minecraft:stronghold_library_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:stronghold/library/stronghold_library_door3",
+        "processors": "minecraft:stronghold_library_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:stronghold/library/stronghold_library_door4",
+        "processors": "minecraft:stronghold_library_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:stronghold/library/stronghold_library_door5",
+        "processors": "minecraft:stronghold_library_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:stronghold/generic/stronghold_generic_door1",
+        "processors": "minecraft:stronghold_generic_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:stronghold/generic/stronghold_generic_door2",
+        "processors": "minecraft:stronghold_generic_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:stronghold/generic/stronghold_generic_door3",
+        "processors": "minecraft:stronghold_generic_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:stronghold/generic/stronghold_generic_door4",
+        "processors": "minecraft:stronghold_generic_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:stronghold/generic/stronghold_generic_door5",
+        "processors": "minecraft:stronghold_generic_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:stronghold/nether/stronghold_nether_door1",
+        "processors": "minecraft:stronghold_nether_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:stronghold/nether/stronghold_nether_door2",
+        "processors": "minecraft:stronghold_nether_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:stronghold/nether/stronghold_nether_door3",
+        "processors": "minecraft:stronghold_nether_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:stronghold/nether/stronghold_nether_door4",
+        "processors": "minecraft:stronghold_nether_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:stronghold/nether/stronghold_nether_door5",
+        "processors": "minecraft:stronghold_nether_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    }
+  ],
+  "fallback": "minecraft:empty"
+}

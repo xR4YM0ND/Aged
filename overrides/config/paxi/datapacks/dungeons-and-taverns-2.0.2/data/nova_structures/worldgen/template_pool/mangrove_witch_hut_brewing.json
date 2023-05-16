@@ -1,0 +1,60 @@
+{
+	"name": "nova_structures:mangrove_witch_hut_brewing",
+	"fallback": "minecraft:empty",
+	"elements": [
+		{
+			"weight": 3,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:mangrove_witch_hut/mangrove_witch_hut_brewingstand_1",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 3,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:mangrove_witch_hut/mangrove_witch_hut_brewingstand_2",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 3,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:mangrove_witch_hut/mangrove_witch_hut_brewingstand_3",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 3,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:mangrove_witch_hut/mangrove_witch_hut_brewingstand_4",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 3,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:mangrove_witch_hut/mangrove_witch_hut_brewingstand_5",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 3,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:mangrove_witch_hut/mangrove_witch_hut_brewingstand_6",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		}
+	]
+}

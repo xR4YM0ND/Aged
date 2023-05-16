@@ -1,0 +1,373 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "minecraft:spyglass"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "minecraft:map"
+        }
+      ]
+    },
+    {
+      "rolls": 3.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1.0,
+                "max": 2.0
+              },
+              "add": false
+            }
+          ],
+          "name": "minecraft:paper"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "minecraft:map"
+        }
+      ]
+    },
+    {
+      "rolls": 3,
+      "entries": [
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:firework_rocket",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1.0,
+                "max": 2.0
+              },
+              "add": false
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Fireworks:{Flight:3b,Explosions:[{Type:0,Colors:[I;11743532]}]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:firework_rocket",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1.0,
+                "max": 2.0
+              },
+              "add": false
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Fireworks:{Flight:3b,Explosions:[{Type:0,Colors:[I;2437522]}]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:firework_rocket",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1.0,
+                "max": 2.0
+              },
+              "add": false
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Fireworks:{Flight:3b,Explosions:[{Type:0,Colors:[I;4312372]}]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:firework_rocket",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1.0,
+                "max": 2.0
+              },
+              "add": false
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Fireworks:{Flight:3b,Explosions:[{Type:0,Colors:[I;14602026]}]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:firework_rocket",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1.0,
+                "max": 2.0
+              },
+              "add": false
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Fireworks:{Flight:3b,Explosions:[{Type:0,Colors:[I;3887386]}]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:firework_rocket",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1.0,
+                "max": 2.0
+              },
+              "add": false
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Fireworks:{Flight:3b,Explosions:[{Type:0,Colors:[I;15435844]}]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:firework_rocket",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1.0,
+                "max": 2.0
+              },
+              "add": false
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Fireworks:{Flight:3b,Explosions:[{Type:0,Colors:[I;14188952]}]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:firework_rocket",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1.0,
+                "max": 2.0
+              },
+              "add": false
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Fireworks:{Flight:3b,Explosions:[{Type:0,Colors:[I;6719955]}]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:firework_rocket",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1.0,
+                "max": 2.0
+              },
+              "add": false
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Fireworks:{Flight:3b,Explosions:[{Type:0,Colors:[I;5320730]}]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:firework_rocket",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1.0,
+                "max": 2.0
+              },
+              "add": false
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Fireworks:{Flight:3b,Explosions:[{Type:0,Colors:[I;15790320]}]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:firework_rocket",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1.0,
+                "max": 2.0
+              },
+              "add": false
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Fireworks:{Flight:3b,Explosions:[{Type:0,Colors:[I;12801229]}]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:firework_rocket",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1.0,
+                "max": 2.0
+              },
+              "add": false
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Fireworks:{Flight:3b,Explosions:[{Type:0,Colors:[I;8073150]}]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:firework_rocket",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1.0,
+                "max": 2.0
+              },
+              "add": false
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Fireworks:{Flight:3b,Explosions:[{Type:0,Colors:[I;1973019]}]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:firework_rocket",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1.0,
+                "max": 2.0
+              },
+              "add": false
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Fireworks:{Flight:3b,Explosions:[{Type:0,Colors:[I;4408131]}]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:firework_rocket",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1.0,
+                "max": 2.0
+              },
+              "add": false
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Fireworks:{Flight:3b,Explosions:[{Type:0,Colors:[I;2651799]}]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:firework_rocket",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1.0,
+                "max": 2.0
+              },
+              "add": false
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Fireworks:{Flight:3b,Explosions:[{Type:0,Colors:[I;11250603]}]}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

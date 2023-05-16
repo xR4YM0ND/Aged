@@ -1,0 +1,357 @@
+{
+	"name": "nova_structures:ruin_town",
+	"fallback": "minecraft:empty",
+	"elements": [
+		{
+			"weight": 5,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:ruin_town/ruin_town_event_1",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 1,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:ruin_town/ruin_town_event_2",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 1,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:ruin_town/ruin_town_event_3",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 1,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:ruin_town/ruin_town_event_4",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 1,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:ruin_town/ruin_town_event_5",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 1,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:ruin_town/ruin_town_event_6",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 1,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:ruin_town/ruin_town_event_7",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 1,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:ruin_town/ruin_town_event_8",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 1,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:ruin_town/ruin_town_event_9",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 1,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:ruin_town/ruin_town_event_10",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 1,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:ruin_town/ruin_town_event_11",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 1,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:ruin_town/ruin_town_event_12",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 1,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:ruin_town/ruin_town_event_13",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 1,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:ruin_town/ruin_town_event_14",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 1,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:ruin_town/ruin_town_event_15",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 1,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:ruin_town/ruin_town_event_16",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 4,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:ruin_town/ruin_town_house_large_1",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 3,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:ruin_town/ruin_town_house_large_2",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 2,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:ruin_town/ruin_town_house_large_3",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 1,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:ruin_town/ruin_town_house_large_4",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 4,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:ruin_town/ruin_town_house_medium_1",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 3,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:ruin_town/ruin_town_house_medium_2",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 2,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:ruin_town/ruin_town_house_medium_3",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 1,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:ruin_town/ruin_town_house_medium_4",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 4,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:ruin_town/ruin_town_house_small_1",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 3,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:ruin_town/ruin_town_house_small_2",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 2,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:ruin_town/ruin_town_house_small_3",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 1,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:ruin_town/ruin_town_house_small_4",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 20,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:ruin_town/ruin_town_road_1",
+				"projection": "terrain_matching",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 20,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:ruin_town/ruin_town_road_2",
+				"projection": "terrain_matching",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 30,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:ruin_town/ruin_town_road_3",
+				"projection": "terrain_matching",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 4,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:ruin_town/ruin_town_small_tower_1",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 3,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:ruin_town/ruin_town_small_tower_2",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 2,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:ruin_town/ruin_town_small_tower_3",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 1,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:ruin_town/ruin_town_small_tower_4",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 4,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:ruin_town/ruin_town_tower_1",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 3,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:ruin_town/ruin_town_tower_2",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 2,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:ruin_town/ruin_town_tower_3",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 1,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:ruin_town/ruin_town_tower_4",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		}
+	]
+}

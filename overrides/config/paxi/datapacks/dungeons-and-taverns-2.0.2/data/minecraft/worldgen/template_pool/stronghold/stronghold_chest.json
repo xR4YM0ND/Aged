@@ -1,0 +1,96 @@
+{
+  "name": "minecraft:stronghold/stronghold_chest",
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:stronghold/chest/stronghold_generic_chest",
+        "processors": "minecraft:stronghold_generic_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:stronghold/chest/stronghold_surface_chest",
+        "processors": "minecraft:stronghold_surface_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:stronghold/chest/stronghold_nether_chest",
+        "processors": "minecraft:stronghold_nether_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:stronghold/chest/stronghold_library_chest",
+        "processors": "minecraft:stronghold_sewer_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:stronghold/chest/stronghold_sewer_chest",
+        "processors": "minecraft:stronghold_sewer_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:stronghold/chest/stronghold_library_bookshelf1",
+        "processors": "minecraft:stronghold_sewer_degradation",
+        "projection": "rigid"
+      },
+      "weight": 3
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:stronghold/chest/stronghold_library_bookshelf2",
+        "processors": "minecraft:stronghold_sewer_degradation",
+        "projection": "rigid"
+      },
+      "weight": 50
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:stronghold/chest/stronghold_library_bookshelf3",
+        "processors": "minecraft:stronghold_sewer_degradation",
+        "projection": "rigid"
+      },
+      "weight": 20
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:stronghold/chest/stronghold_jail_chest",
+        "processors": "minecraft:stronghold_generic_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:stronghold/chest/silverfish_spawner",
+        "processors": "minecraft:stronghold_generic_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    }
+  ],
+  "fallback": "minecraft:empty"
+}

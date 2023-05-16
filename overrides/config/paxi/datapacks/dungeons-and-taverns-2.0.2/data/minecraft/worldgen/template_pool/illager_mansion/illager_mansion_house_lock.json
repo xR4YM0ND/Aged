@@ -1,0 +1,17 @@
+{
+	"name": "minecraft:illager_mansion/illager_mansion_house_lock",
+	"fallback": "minecraft:empty",
+	"elements": [
+		{
+      "weight": 1,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_house_lock",
+        "processors": {
+          "processors": []
+        },
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+	]
+}

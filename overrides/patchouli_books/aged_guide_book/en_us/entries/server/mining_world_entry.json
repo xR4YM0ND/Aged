@@ -1,0 +1,23 @@
+{
+    "name": "Mining World",
+    "icon": "minecraft:diamond_pickaxe",
+    "category": "patchouli:server_category",
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "patchouli:image",
+            "images": ["aged:textures/gui/entries/mining_world_portal.png"],
+            "text": "Go through the Portal to enter the Mining World."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Mining World",
+            "text": "$(li)PVP enabled$(li)Claims disabled$(li)Access through Portal$(br2)Gets resetted from time to time!$(br2)Don't save your items hear nor logout for a longer time in this Dimension!"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Info",
+            "text": "In this Dimension you can actually break / place blocks and get Resources.$(br2)Start in this Dimension and get back to the Build World if you feel you have enough for a Starter Base."
+        }
+    ]
+}

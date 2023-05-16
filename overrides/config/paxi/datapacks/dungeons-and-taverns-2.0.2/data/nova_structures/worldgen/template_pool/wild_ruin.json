@@ -1,0 +1,267 @@
+{
+	"name": "nova_structures:wild_ruin",
+	"fallback": "minecraft:empty",
+	"elements": [
+		{
+			"weight": 3,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:wild_ruin/wild_ruin_1",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 3,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:wild_ruin/wild_ruin_1a",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 3,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:wild_ruin/wild_ruin_2",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 3,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:wild_ruin/wild_ruin_2b",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 3,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:wild_ruin/wild_ruin_3",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 3,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:wild_ruin/wild_ruin_3b",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 3,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:wild_ruin/wild_ruin_4",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 3,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:wild_ruin/wild_ruin_4b",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 3,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:wild_ruin/wild_ruin_5",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 3,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:wild_ruin/wild_ruin_5b",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 3,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:wild_ruin/wild_ruin_6",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 3,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:wild_ruin/wild_ruin_6b",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 3,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:wild_ruin/wild_ruin_7",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 3,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:wild_ruin/wild_ruin_7b",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 3,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:wild_ruin/wild_ruin_8",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 3,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:wild_ruin/wild_ruin_8b",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 3,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:wild_ruin/wild_ruin_9",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 3,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:wild_ruin/wild_ruin_9b",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 3,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:wild_ruin/wild_ruin_10",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 3,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:wild_ruin/wild_ruin_10b",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 3,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:wild_ruin/wild_ruin_11",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 3,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:wild_ruin/wild_ruin_11b",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 3,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:wild_ruin/wild_ruin_12",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 3,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:wild_ruin/wild_ruin_13",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 3,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:wild_ruin/wild_ruin_14",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 3,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:wild_ruin/wild_ruin_15",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 3,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:wild_ruin/wild_ruin_16",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 3,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:wild_ruin/wild_ruin_17",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 3,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:wild_ruin/wild_ruin_18",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		}
+	]
+}

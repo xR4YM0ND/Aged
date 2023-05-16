@@ -1,0 +1,127 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "type": "minecraft:uniform",
+                "min": -1.0,
+                "max": 5.0
+              },
+              "treasure": false
+            },
+            {
+              "function": "set_damage",
+              "damage": {
+                "type": "minecraft:uniform",
+                "min": 0.5,
+                "max": 1.1
+              }
+            }
+          ],
+          "name": "minecraft:fishing_rod"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:nautilus_shell"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 3,
+              "add": false
+            }
+          ],
+          "name": "minecraft:scute"
+        }
+      ]
+    },
+    {
+      "rolls": 2,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 7,
+                "max": 8
+              },
+              "add": false
+            }
+          ],
+          "name": "minecraft:cod"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 7,
+                "max": 8
+              },
+              "add": false
+            }
+          ],
+          "name": "minecraft:salmon"
+        }
+      ]
+    },
+    {
+      "rolls": 2,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 4,
+                "max": 6
+              },
+              "add": false
+            }
+          ],
+          "name": "minecraft:cooked_cod"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 3.5,
+                "max": 5
+              },
+              "add": false
+            }
+          ],
+          "name": "minecraft:cooked_salmon"
+        }
+      ]
+    }
+  ]
+}

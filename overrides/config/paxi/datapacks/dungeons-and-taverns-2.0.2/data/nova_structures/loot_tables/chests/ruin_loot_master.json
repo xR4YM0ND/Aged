@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "nova_structures:chests/dungeon_1"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "nova_structures:chests/dungeon_2"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "nova_structures:chests/dungeon_3"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "nova_structures:chests/dungeon_4"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "nova_structures:chests/dungeon_5"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "nova_structures:chests/dungeon_6"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "nova_structures:chests/dungeon_7"
+        }
+      ]
+    }
+  ]
+}

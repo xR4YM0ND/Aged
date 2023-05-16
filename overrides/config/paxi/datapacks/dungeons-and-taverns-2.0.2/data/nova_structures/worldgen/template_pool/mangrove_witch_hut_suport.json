@@ -1,0 +1,15 @@
+{
+	"name": "nova_structures:mangrove_witch_hut_suport",
+	"fallback": "minecraft:empty",
+	"elements": [
+		{
+			"weight": 3,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:mangrove_witch_hut/mangrove_witch_hut_suport",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		}
+	]
+}

@@ -1,0 +1,40 @@
+
+# If you would like to specify manual borders, add a new manual_borders section at the bottom of the file.
+# The format for each color of border is 'color = ["modid:item1", "modid:item2"]"]'. Replace the color with either a color name (like red or blue), or a RGB / ARGB hex color code like 0xFFFFFF or 0xFF00FFFF.
+# Here is a sample you can copy / paste and edit as needed:
+#[client.options.manual_borders]
+#	red = ["minecraft:torch", "minecraft:stick"]
+[client]
+
+	[client.options]
+		# If the hotbar should display item borders.
+		hotbar = true
+		# If item borders should show for common items.
+		show_for_common = false
+		# If the borders should have square corners.
+		square_corners = true
+		# If the borders should fully envelop item slots (otherwise they will only show on the bottom portion of the slot).
+		full_border = true
+		# If the borders draw over items instead of under.
+		over_items = false
+		# If the borders should have a more prominent glow.
+		extra_glow = false
+		# If automatic borders (based on item rarity) should be enabled.
+		auto_borders = false
+
+		# Custom border colors for specific items. Format: { <color> = ["list of selectors"] }. Selectors supported:
+		#    Item name - Use item name for vanilla items or include mod name for modded items.  Examples: minecraft:stick, iron_ore
+		#    Tag - $ followed by tag name.  Examples: $forge:stone or $planks
+		#    Mod name - @ followed by mod identifier.  Examples: @spoiledeggs
+		#    Rarity - ! followed by item's rarity.  This is ONLY vanilla rarities.  Examples: !uncommon, !rare, !epic
+		#    Item name color - # followed by color hex code, the hex code must match exactly.  Examples: #23F632
+		#    Display name - % followed by any text.  Will match any item with this text in its tooltip display name.  Examples: %[Uncommon]
+		#    Tooltip text - ^ followed by any text.  Will match any item with this text anywhere in the tooltip text (besides the name).  Examples: ^Rarity: Legendary
+		[client.options.manual_borders]
+			FDFEFE = ["&Tier=tiered:common_armor_1", "&Tier=tiered:common_armor_2", "&Tier=tiered:common_armor_3", "&Tier=tiered:common_armor_4", "&Tier=tiered:common_tool_1", "&Tier=tiered:common_tool_2", "&Tier=tiered:common_tool_3", "&Tier=tiered:common_tool_4", "&Tier=tiered:common_fishing_1", "&Tier=tiered:common_fishing_2", "&Tier=tiered:common_melee_1", "&Tier=tiered:common_melee_2", "&Tier=tiered:common_melee_3", "&Tier=tiered:common_melee_4", "&Tier=tiered:common_ranged_1", "&Tier=tiered:common_ranged_2", "&Tier=tiered:common_ranged_3", "&Tier=tiered:common_ranged_4", "&Tier=tiered:common_shield_1", "&Tier=tiered:common_shield_2", "&Tier=tiered:common_shield_3", "&Tier=tiered:common_shield_4"]
+			27AE60 = ["&Tier=tiered:uncommon_armor_1", "&Tier=tiered:uncommon_armor_2", "&Tier=tiered:uncommon_armor_3", "&Tier=tiered:uncommon_armor_4", "&Tier=tiered:uncommon_tool_1", "&Tier=tiered:uncommon_tool_2", "&Tier=tiered:uncommon_tool_3", "&Tier=tiered:uncommon_tool_4", "&Tier=tiered:uncommon_fishing_1", "&Tier=tiered:uncommon_fishing_2", "&Tier=tiered:uncommon_melee_1", "&Tier=tiered:uncommon_melee_2", "&Tier=tiered:uncommon_melee_3", "&Tier=tiered:uncommon_melee_4", "&Tier=tiered:uncommon_ranged_1", "&Tier=tiered:uncommon_ranged_2", "&Tier=tiered:uncommon_ranged_3", "&Tier=tiered:uncommon_ranged_4", "&Tier=tiered:uncommon_shield_1", "&Tier=tiered:uncommon_shield_2", "&Tier=tiered:uncommon_shield_3", "&Tier=tiered:uncommon_shield_4"]
+			2471A3 = ["&Tier=tiered:rare_armor_1", "&Tier=tiered:rare_armor_2", "&Tier=tiered:rare_armor_3", "&Tier=tiered:rare_armor_4", "&Tier=tiered:rare_tool_1", "&Tier=tiered:rare_tool_2", "&Tier=tiered:rare_tool_3", "&Tier=tiered:rare_tool_4", "&Tier=tiered:rare_fishing_1", "&Tier=tiered:rare_fishing_2", "&Tier=tiered:rare_melee_1", "&Tier=tiered:rare_melee_2", "&Tier=tiered:rare_melee_3", "&Tier=tiered:rare_melee_4", "&Tier=tiered:rare_ranged_1", "&Tier=tiered:rare_ranged_2", "&Tier=tiered:rare_ranged_3", "&Tier=tiered:rare_ranged_4", "&Tier=tiered:rare_shield_1", "&Tier=tiered:rare_shield_2", "&Tier=tiered:rare_shield_3", "&Tier=tiered:rare_shield_4"]
+			7D3C98 = ["&Tier=tiered:epic_armor_1", "&Tier=tiered:epic_armor_2", "&Tier=tiered:epic_armor_3", "&Tier=tiered:epic_armor_4", "&Tier=tiered:epic_tool_1", "&Tier=tiered:epic_tool_2", "&Tier=tiered:epic_tool_3", "&Tier=tiered:epic_tool_4", "&Tier=tiered:epic_fishing_1", "&Tier=tiered:epic_fishing_2", "&Tier=tiered:epic_melee_1", "&Tier=tiered:epic_melee_2", "&Tier=tiered:epic_melee_3", "&Tier=tiered:epic_melee_4", "&Tier=tiered:epic_ranged_1", "&Tier=tiered:epic_ranged_2", "&Tier=tiered:epic_ranged_3", "&Tier=tiered:epic_ranged_4", "&Tier=tiered:epic_shield_1", "&Tier=tiered:epic_shield_2", "&Tier=tiered:epic_shield_3", "&Tier=tiered:epic_shield_4"]
+			F1C40F = ["&Tier=tiered:legendary_armor_1", "&Tier=tiered:legendary_armor_2", "&Tier=tiered:legendary_armor_3", "&Tier=tiered:legendary_armor_4", "&Tier=tiered:legendary_tool_1", "&Tier=tiered:legendary_tool_2", "&Tier=tiered:legendary_tool_3", "&Tier=tiered:legendary_tool_4", "&Tier=tiered:legendary_fishing_1", "&Tier=tiered:legendary_fishing_2", "&Tier=tiered:legendary_melee_1", "&Tier=tiered:legendary_melee_2", "&Tier=tiered:legendary_melee_3", "&Tier=tiered:legendary_melee_4", "&Tier=tiered:legendary_ranged_1", "&Tier=tiered:legendary_ranged_2", "&Tier=tiered:legendary_ranged_3", "&Tier=tiered:legendary_ranged_4", "&Tier=tiered:legendary_shield_1", "&Tier=tiered:legendary_shield_2", "&Tier=tiered:legendary_shield_3", "&Tier=tiered:legendary_shield_4"]
+			DC2367 = ["&Tier=tiered:unique_armor_1", "&Tier=tiered:unique_armor_2", "&Tier=tiered:unique_armor_3", "&Tier=tiered:unique_armor_4", "&Tier=tiered:unique_tool_1", "&Tier=tiered:unique_tool_2", "&Tier=tiered:unique_tool_3", "&Tier=tiered:unique_tool_4", "&Tier=tiered:unique_fishing_1", "&Tier=tiered:unique_fishing_2", "&Tier=tiered:unique_melee_1", "&Tier=tiered:unique_melee_2", "&Tier=tiered:unique_melee_3", "&Tier=tiered:unique_melee_4", "&Tier=tiered:unique_ranged_1", "&Tier=tiered:unique_ranged_2", "&Tier=tiered:unique_ranged_3", "&Tier=tiered:unique_ranged_4", "&Tier=tiered:unique_shield_1", "&Tier=tiered:unique_shield_2", "&Tier=tiered:unique_shield_3", "&Tier=tiered:unique_shield_4"]
+

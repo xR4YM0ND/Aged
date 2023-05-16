@@ -1,0 +1,292 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:goat_horn"
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:set_instrument",
+          "options": "#minecraft:regular_goat_horns"
+        }
+      ]
+    },
+    {
+      "bonus_rolls": 0.0,
+      "rolls": {
+        "type": "minecraft:uniform",
+        "min": 1.0,
+        "max": 2.0
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:exploration_map",
+              "decoration": "mansion",
+              "destination": "nova_structures:illager_hideout",
+              "zoom": 1,
+              "skip_existing_chunks": false
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": "Illager Hideout Map"
+            }
+          ],
+          "name": "minecraft:map",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:exploration_map",
+              "decoration": "mansion",
+              "destination": "nova_structures:pillager_outpost",
+              "zoom": 2,
+              "skip_existing_chunks": false
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": "Pillager Outpost Map"
+            }
+          ],
+          "name": "minecraft:map",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:exploration_map",
+              "decoration": "mansion",
+              "destination": "minecraft:village",
+              "zoom": 1,
+              "skip_existing_chunks": false
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": "Village Map"
+            }
+          ],
+          "name": "minecraft:map"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:exploration_map",
+              "decoration": "mansion",
+              "destination": "minecraft:on_woodland_explorer_maps",
+              "zoom": 3,
+              "skip_existing_chunks": true
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "translate": "filled_map.mansion"
+              }
+            }
+          ],
+          "name": "minecraft:map",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "set_damage",
+              "damage": {
+                "min": 0.05,
+                "max": 0.4
+              }
+            }
+          ],
+          "name": "minecraft:iron_axe",
+          "weight": 15
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "set_damage",
+              "damage": {
+                "min": 0.05,
+                "max": 0.4
+              }
+            }
+          ],
+          "name": "minecraft:crossbow",
+          "weight": 15
+        }
+      ]
+    },
+    {
+      "rolls": 5,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 9.0,
+                "max": 11.0
+              },
+              "add": false
+            }
+          ],
+          "name": "minecraft:iron_ingot"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 9.0,
+                "max": 11.0
+              },
+              "add": false
+            }
+          ],
+          "name": "minecraft:gold_ingot"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 4.0,
+                "max": 6.0
+              },
+              "add": false
+            }
+          ],
+          "name": "minecraft:emerald"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 20.0,
+              "treasure": true
+            }
+          ],
+          "name": "minecraft:book"
+        }
+      ]
+    },
+    {
+      "rolls": 2,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 16,
+              "add": false
+            }
+          ],
+          "name": "minecraft:arrow"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1.5,
+                "max": 2.5
+              },
+              "add": false
+            }
+          ],
+          "name": "minecraft:apple"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 2,
+              "add": false
+            }
+          ],
+          "name": "minecraft:name_tag"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 7.0,
+                "max": 10.0
+              },
+              "add": false
+            }
+          ],
+          "name": "minecraft:bread"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 30.0,
+                "max": 35.0
+              },
+              "add": false
+            }
+          ],
+          "name": "minecraft:dark_oak_log"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 5.0,
+                "max": 8.0
+              },
+              "add": false
+            }
+          ],
+          "name": "minecraft:dark_oak_sapling"
+        }
+      ]
+    }
+  ]
+}

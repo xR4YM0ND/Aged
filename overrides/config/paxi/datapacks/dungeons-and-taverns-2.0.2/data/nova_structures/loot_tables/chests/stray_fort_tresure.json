@@ -1,0 +1,171 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:music_disc_strad"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:skull_banner_pattern"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                  "min": 4,
+                  "max": 18
+              },
+              "add": false
+            }
+          ],
+          "name": "minecraft:emerald"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                  "min": 3,
+                  "max": 12
+              },
+              "add": false
+            },
+            {
+              "function": "minecraft:set_potion",
+              "id": "minecraft:slowness"
+            }
+          ],
+          "name": "minecraft:tipped_arrow"
+        }
+      ]
+    },
+    {
+      "rolls": 2,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                  "min": 3,
+                  "max": 8
+              },
+              "add": false
+            }
+          ],
+          "name": "minecraft:iron_ingot"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                  "min": 4,
+                  "max": 14
+              },
+              "add": false
+            }
+          ],
+          "name": "minecraft:iron_nugget"
+        }
+      ]
+    },
+    {
+      "rolls": 2,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                  "min": 7,
+                  "max": 16
+              },
+              "add": false
+            }
+          ],
+          "name": "minecraft:gold_ingot"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                  "min": 10,
+                  "max": 25
+              },
+              "add": false
+            }
+          ],
+          "name": "minecraft:gold_nugget"
+        }
+      ]
+    },
+    {
+      "rolls": 2,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                  "min": 2,
+                  "max": 6
+              },
+              "add": false
+            }
+          ],
+          "name": "minecraft:golden_carrot"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                  "min": 1,
+                  "max": 3
+              },
+              "add": false
+            }
+          ],
+          "name": "minecraft:rabbit_foot"
+        }
+      ]
+    }
+  ]
+}

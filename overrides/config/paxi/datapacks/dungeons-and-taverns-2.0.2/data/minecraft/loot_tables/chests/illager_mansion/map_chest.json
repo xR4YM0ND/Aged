@@ -1,0 +1,196 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:exploration_map",
+              "decoration": "mansion",
+              "destination": "nova_structures:badlands_miner_outpost",
+              "zoom": 2,
+              "skip_existing_chunks": false
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": "Badlands Miner Outpost Map"
+            }
+          ],
+          "name": "minecraft:map"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:exploration_map",
+              "decoration": "mansion",
+              "destination": "nova_structures:illager_hideout",
+              "zoom": 1,
+              "skip_existing_chunks": false
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": "Illager Hideout Map"
+            }
+          ],
+          "name": "minecraft:map"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:exploration_map",
+              "decoration": "mansion",
+              "destination": "nova_structures:pillager_outpost",
+              "zoom": 2,
+              "skip_existing_chunks": false
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": "Pillager Outpost Map"
+            }
+          ],
+          "name": "minecraft:map"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:exploration_map",
+              "decoration": "mansion",
+              "destination": "minecraft:village",
+              "zoom": 1,
+              "skip_existing_chunks": false
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": "Village Map"
+            }
+          ],
+          "name": "minecraft:map"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:exploration_map",
+              "decoration": "mansion",
+              "destination": "minecraft:on_woodland_explorer_maps",
+              "zoom": 3,
+              "skip_existing_chunks": true
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": "Mansion Map"
+            }
+          ],
+          "name": "minecraft:map"
+        }
+      ]
+    },
+    {
+      "rolls": 3,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "add": false,
+              "count": 12,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:paper"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "add": false,
+              "count": 6,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:book"
+        }
+      ]
+    },
+    {
+      "rolls": 3,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "add": false,
+              "count": 2,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:orange_banner"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "add": false,
+              "count": 2,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:red_banner"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "add": false,
+              "count": 2,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:gray_banner"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "add": false,
+              "count": 2,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:purple_banner"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "add": false,
+              "count": 2,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:yellow_banner"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "add": false,
+              "count": 2,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:blue_banner"
+        }
+      ]
+    }
+  ]
+}

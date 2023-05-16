@@ -1,0 +1,15 @@
+{
+	"name": "nova_structures:illager_hideout_heart",
+	"fallback": "minecraft:empty",
+	"elements": [
+		{
+			"weight": 1,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:illager_hideout/illager_hideout_heart",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		}
+	]
+}

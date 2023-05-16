@@ -1,0 +1,42 @@
+{
+	"name": "nova_structures:stray_fort_path",
+	"fallback": "minecraft:empty",
+	"elements": [
+		{
+			"weight": 3,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:stray_fort/stray_fort_path_1",
+				"projection": "terrain_matching",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 3,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:stray_fort/stray_fort_path_2",
+				"projection": "terrain_matching",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 6,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:stray_fort/stray_fort_path_3",
+				"projection": "terrain_matching",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 1,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:stray_fort/stray_fort_path_4",
+				"projection": "terrain_matching",
+				"processors": "minecraft:empty"
+			}
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"name": "nova_structures:bunker_ladder_room",
+	"fallback": "minecraft:empty",
+	"elements": [
+		{
+			"weight": 1,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:bunker/bunker_underground_ladder_room_1",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 3,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:bunker/bunker_underground_ladder_room_2",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		}
+	]
+}

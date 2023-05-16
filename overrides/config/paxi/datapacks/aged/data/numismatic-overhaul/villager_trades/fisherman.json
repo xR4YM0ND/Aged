@@ -1,0 +1,933 @@
+{
+    "profession": "fisherman",
+    "trades": {
+        "novice": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 5,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 625,
+                "sell": {
+                    "item": "minecraft:enchanted_book",
+                    "count": 1,
+                    "tag": {
+                        "StoredEnchantments": [
+                            {
+                                "id": "minecraft:impaling",
+                                "lvl": 1
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 24,
+                "sell": {
+                    "item": "gofish:smokey_salmon",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 8,
+                "buy": {
+                    "item": "gofish:smokey_salmon",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 24,
+                "sell": {
+                    "item": "minecraft:cod",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 8,
+                "buy": {
+                    "item": "minecraft:cod",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 24,
+                "sell": {
+                    "item": "minecraft:salmon",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 8,
+                "buy": {
+                    "item": "minecraft:salmon",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 24,
+                "sell": {
+                    "item": "minecraft:tropical_fish",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 8,
+                "buy": {
+                    "item": "minecraft:tropical_fish",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 48,
+                "sell": {
+                    "item": "gofish:terrafish",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 16,
+                "buy": {
+                    "item": "gofish:terrafish",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 24,
+                "sell": {
+                    "item": "gofish:seaweed_eel",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 8,
+                "buy": {
+                    "item": "gofish:seaweed_eel",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 48,
+                "sell": {
+                    "item": "gofish:carrot_carp",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 16,
+                "buy": {
+                    "item": "gofish:carrot_carp",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 48,
+                "sell": {
+                    "item": "gofish:oakfish",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 16,
+                "buy": {
+                    "item": "gofish:oakfish",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 24,
+                "sell": {
+                    "item": "gofish:cloudy_crab",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 8,
+                "buy": {
+                    "item": "gofish:cloudy_crab",
+                    "count": 8
+                }
+            }
+        ],
+        "apprentice": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 10,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 1250,
+                "sell": {
+                    "item": "minecraft:enchanted_book",
+                    "count": 1,
+                    "tag": {
+                        "StoredEnchantments": [
+                            {
+                                "id": "minecraft:impaling",
+                                "lvl": 2
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 25,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 10000,
+                "sell": {
+                    "item": "minecraft:enchanted_book",
+                    "count": 1,
+                    "tag": {
+                        "StoredEnchantments": [
+                            {
+                                "id": "gofish:deepfry",
+                                "lvl": 1
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 48,
+                "sell": {
+                    "item": "gofish:bonefish",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 16,
+                "buy": {
+                    "item": "gofish:bonefish",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 72,
+                "sell": {
+                    "item": "gofish:obsidian_halibut",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 24,
+                "buy": {
+                    "item": "gofish:obsidian_halibut",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 96,
+                "sell": {
+                    "item": "gofish:blackstone_trout",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 32,
+                "buy": {
+                    "item": "gofish:blackstone_trout",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 84,
+                "sell": {
+                    "item": "gofish:soul_salmon",
+                    "count": 7
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 28,
+                "buy": {
+                    "item": "gofish:soul_salmon",
+                    "count": 7
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 96,
+                "sell": {
+                    "item": "gofish:icicle_fish",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 32,
+                "buy": {
+                    "item": "gofish:icicle_fish",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 48,
+                "sell": {
+                    "item": "gofish:lilyfish",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 16,
+                "buy": {
+                    "item": "gofish:lilyfish",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 72,
+                "sell": {
+                    "item": "gofish:rainy_bass",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 24,
+                "buy": {
+                    "item": "gofish:rainy_bass",
+                    "count": 8
+                }
+            }
+        ],
+        "journeyman": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 15,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 2500,
+                "sell": {
+                    "item": "minecraft:enchanted_book",
+                    "count": 1,
+                    "tag": {
+                        "StoredEnchantments": [
+                            {
+                                "id": "minecraft:respiration",
+                                "lvl": 1
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 15,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 2500,
+                "sell": {
+                    "item": "minecraft:enchanted_book",
+                    "count": 1,
+                    "tag": {
+                        "StoredEnchantments": [
+                            {
+                                "id": "minecraft:depth_strider",
+                                "lvl": 1
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 15,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 2500,
+                "sell": {
+                    "item": "minecraft:enchanted_book",
+                    "count": 1,
+                    "tag": {
+                        "StoredEnchantments": [
+                            {
+                                "id": "minecraft:impaling",
+                                "lvl": 3
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 96,
+                "sell": {
+                    "item": "gofish:magma_cod",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 32,
+                "buy": {
+                    "item": "gofish:magma_cod",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 96,
+                "sell": {
+                    "item": "gofish:basalt_bass",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 32,
+                "buy": {
+                    "item": "gofish:basalt_bass",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 24,
+                "buy": {
+                    "item": "gofish:spikerfish",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 90,
+                "sell": {
+                    "item": "gofish:gilded_blackstone_carp",
+                    "count": 6
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 30,
+                "buy": {
+                    "item": "gofish:gilded_blackstone_carp",
+                    "count": 6
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 120,
+                "sell": {
+                    "item": "gofish:endfish",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 40,
+                "buy": {
+                    "item": "gofish:endfish",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 72,
+                "sell": {
+                    "item": "gofish:slimefish",
+                    "count": 6
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 24,
+                "buy": {
+                    "item": "gofish:slimefish",
+                    "count": 6
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 96,
+                "sell": {
+                    "item": "gofish:snowball_fish",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 32,
+                "buy": {
+                    "item": "gofish:snowball_fish",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 32,
+                "buy": {
+                    "item": "gofish:blizzard_bass",
+                    "count": 4
+                }
+            }
+        ],
+        "expert": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 20,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 5000,
+                "sell": {
+                    "item": "minecraft:enchanted_book",
+                    "count": 1,
+                    "tag": {
+                        "StoredEnchantments": [
+                            {
+                                "id": "minecraft:respiration",
+                                "lvl": 2
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 20,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 5000,
+                "sell": {
+                    "item": "minecraft:enchanted_book",
+                    "count": 1,
+                    "tag": {
+                        "StoredEnchantments": [
+                            {
+                                "id": "minecraft:depth_strider",
+                                "lvl": 2
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 20,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 5000,
+                "sell": {
+                    "item": "minecraft:enchanted_book",
+                    "count": 1,
+                    "tag": {
+                        "StoredEnchantments": [
+                            {
+                                "id": "minecraft:impaling",
+                                "lvl": 4
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 96,
+                "sell": {
+                    "item": "gofish:ender_eel",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 32,
+                "buy": {
+                    "item": "gofish:ender_eel",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 64,
+                "buy": {
+                    "item": "gofish:omega_floater",
+                    "count": 2
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 64,
+                "buy": {
+                    "item": "gofish:portal_puffer",
+                    "count": 2
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 96,
+                "sell": {
+                    "item": "gofish:lunarfish",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 32,
+                "buy": {
+                    "item": "gofish:lunarfish",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 60,
+                "sell": {
+                    "item": "gofish:starry_salmon",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 20,
+                "buy": {
+                    "item": "gofish:starry_salmon",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 64,
+                "buy": {
+                    "item": "gofish:galaxy_starfish",
+                    "count": 2
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 64,
+                "buy": {
+                    "item": "gofish:nebula_swordfish",
+                    "count": 2
+                }
+            }
+        ],
+        "master": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 25,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 10000,
+                "sell": {
+                    "item": "minecraft:enchanted_book",
+                    "count": 1,
+                    "tag": {
+                        "StoredEnchantments": [
+                            {
+                                "id": "minecraft:respiration",
+                                "lvl": 3
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 25,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 10000,
+                "sell": {
+                    "item": "minecraft:enchanted_book",
+                    "count": 1,
+                    "tag": {
+                        "StoredEnchantments": [
+                            {
+                                "id": "minecraft:aqua_affinity",
+                                "lvl": 1
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 25,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 10000,
+                "sell": {
+                    "item": "minecraft:enchanted_book",
+                    "count": 1,
+                    "tag": {
+                        "StoredEnchantments": [
+                            {
+                                "id": "minecraft:depth_strider",
+                                "lvl": 3
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 25,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 10000,
+                "sell": {
+                    "item": "minecraft:enchanted_book",
+                    "count": 1,
+                    "tag": {
+                        "StoredEnchantments": [
+                            {
+                                "id": "minecraft:impaling",
+                                "lvl": 5
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 5,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 64,
+                "buy": {
+                    "item": "gofish:matrix_fish",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 5,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 128,
+                "buy": {
+                    "item": "gofish:dragonfish",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 5,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 64,
+                "buy": {
+                    "item": "gofish:thundering_bass",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 5,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 256,
+                "buy": {
+                    "item": "gofish:golden_fish",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 5,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 128,
+                "buy": {
+                    "item": "minecraft:heart_of_the_sea",
+                    "count": 1
+                }
+            }
+        ]
+    }
+}

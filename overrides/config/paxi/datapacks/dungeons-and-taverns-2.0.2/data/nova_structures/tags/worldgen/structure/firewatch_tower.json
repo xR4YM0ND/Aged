@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "nova_structures:firewatch_tower_birch",
+    "nova_structures:firewatch_tower_dark_oak",
+    "nova_structures:firewatch_tower_forest",
+    "nova_structures:firewatch_tower_jungle",
+    "nova_structures:firewatch_tower_mangrove",
+    "nova_structures:firewatch_tower_savanna",
+    "nova_structures:firewatch_tower_taiga"
+  ]
+}

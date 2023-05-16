@@ -1,0 +1,22 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 30084232,
+    "separation": 4,
+    "spacing": 27
+  },
+  "structures": [
+    {
+      "structure": "minecraft:fortress",
+      "weight": 1
+    },
+	{
+      "structure": "minecraft:nether_keep",
+      "weight": 1
+    },
+    {
+      "structure": "minecraft:bastion_remnant",
+      "weight": 3
+    }
+  ]
+}

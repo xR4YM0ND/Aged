@@ -1,0 +1,15 @@
+{
+  "name": "minecraft:stronghold/stronghold_complex_entryhall",
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:stronghold/stronghold_complexes/stronghold_enterance_hall",
+        "processors": "minecraft:stronghold_generic_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    }
+  ],
+  "fallback": "minecraft:empty"
+}

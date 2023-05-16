@@ -1,0 +1,18 @@
+{
+    "replace": true,
+    "level": 10,
+    "block": [
+        "universal_ores:granite_coal_ore",
+        "universal_ores:granite_copper_ore",
+        "universal_ores:granite_iron_ore",
+        "minecraft:granite",
+        "minecraft:granite_stairs",
+        "minecraft:granite_slab",
+        "minecraft:granite_wall",
+        "minecraft:polished_granite",
+        "minecraft:polished_granite_stairs",
+        "minecraft:polished_granite_slab",
+        "betterend:granite_pedestal",
+        "betterend:granite_lantern"
+    ]
+}

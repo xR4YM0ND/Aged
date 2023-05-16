@@ -1,0 +1,69 @@
+{
+  "name": "minecraft:nether_fortress/nether_fortress_chest",
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:nether_fortress/chest/nether_fortress_outside_chest",
+        "processors": "minecraft:nether_fortress_generic_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:nether_fortress/chest/nether_fortress_inside_chest",
+        "processors": "minecraft:nether_fortress_generic_degradation",
+        "projection": "rigid"
+      },
+      "weight": 5
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:nether_fortress/chest/nether_fortress_outside_chest_fail",
+        "processors": "minecraft:nether_fortress_generic_degradation",
+        "projection": "rigid"
+      },
+      "weight": 2
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:nether_fortress/chest/nether_fortress_inside_chest_fail",
+        "processors": "minecraft:nether_fortress_generic_degradation",
+        "projection": "rigid"
+      },
+      "weight": 2
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:nether_fortress/chest/nether_fortress_outside_chest_fail2",
+        "processors": "minecraft:nether_fortress_generic_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:nether_fortress/chest/nether_fortress_inside_chest_fail2",
+        "processors": "minecraft:nether_fortress_generic_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:empty",
+        "processors": "minecraft:nether_fortress_generic_degradation",
+        "projection": "rigid"
+      },
+      "weight": 12
+    }
+  ],
+  "fallback": "minecraft:empty"
+}

@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "level": 20,
+    "skill": "stamina",
+    "item": [
+        "endrem:exotic_eye",
+        "chipped:glassblower"
+    ]
+}

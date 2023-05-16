@@ -1,0 +1,15 @@
+{
+  "name": "minecraft:nether_fortress/nether_fortress_core",
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:nether_fortress/stage/nether_fortress_stage2",
+        "processors": "minecraft:nether_fortress_generic_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    }
+  ],
+  "fallback": "minecraft:empty"
+}

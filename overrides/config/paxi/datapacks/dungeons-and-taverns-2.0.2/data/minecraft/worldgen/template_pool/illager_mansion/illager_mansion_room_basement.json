@@ -1,0 +1,240 @@
+{
+  "name": "minecraft:illager_mansion/illager_mansion_room_basement",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 2,
+      "element": {
+        "location": "minecraft/empty",
+        "processors": "illager_manor_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_small_room_basement1",
+        "processors": "illager_manor_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_small_room_basement2",
+        "processors": "illager_manor_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 5,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_small_room_basement3",
+        "processors": "illager_manor_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_small_room_basement4",
+        "processors": "illager_manor_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_small_room_basement5",
+        "processors": "illager_manor_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_small_room_basement6",
+        "processors": "illager_manor_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_small_room_basement7",
+        "processors": "illager_manor_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_small_room_basement8",
+        "processors": "illager_manor_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_small_room_basement9",
+        "processors": "illager_manor_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_small_room_basement10",
+        "processors": "illager_manor_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_small_room_basement11",
+        "processors": "illager_manor_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_small_room_basement12",
+        "processors": "illager_manor_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 5,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_middle_room_basement1",
+        "processors": "illager_manor_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 5,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_middle_room_basement2",
+        "processors": "illager_manor_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 5,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_middle_room_basement3",
+        "processors": "illager_manor_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 5,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_middle_room_basement4",
+        "processors": "illager_manor_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 5,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_middle_room_basement5",
+        "processors": "illager_manor_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 5,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_middle_room_basement6",
+        "processors": "illager_manor_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 5,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_middle_room_basement7",
+        "processors": "illager_manor_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 5,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_middle_room_basement8",
+        "processors": "illager_manor_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 5,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_middle_room_basement9",
+        "processors": "illager_manor_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 5,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_middle_room_basement10",
+        "processors": "illager_manor_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 5,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_middle_room_basement11",
+        "processors": "illager_manor_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 5,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_middle_room_basement12",
+        "processors": "illager_manor_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_middle_room_basement13",
+        "processors": "illager_manor_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

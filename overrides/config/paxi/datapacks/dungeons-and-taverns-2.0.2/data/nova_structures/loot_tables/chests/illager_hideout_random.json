@@ -1,0 +1,54 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "nova_structures:chests/illager_hideout_brewing"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "nova_structures:chests/illager_hideout_fishing"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "nova_structures:chests/illager_hideout_lesser_tresure"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "nova_structures:chests/illager_hideout_library"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "nova_structures:chests/illager_hideout_meat"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "nova_structures:chests/illager_hideout_raw_ores"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "nova_structures:chests/illager_hideout_trash"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "nova_structures:chests/illager_hideout_tresure"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "nova_structures:chests/illager_hideout_utility"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "nova_structures:chests/illager_hideout_vegitarian"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "nova_structures:chests/illager_hideout_weaponry"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "name": "minecraft:stronghold/stronghold_mob_sewer",
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:stronghold/mob/stronghold_sewer_creeper",
+        "processors": "minecraft:stronghold_generic_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:stronghold/mob/stronghold_sewer_skeleton",
+        "processors": "minecraft:stronghold_generic_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:stronghold/mob/stronghold_sewer_drowned",
+        "processors": "minecraft:stronghold_generic_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:stronghold/mob/stronghold_sewer_trident_drowned",
+        "processors": "minecraft:stronghold_generic_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:stronghold/mob/stronghold_sewer_slime",
+        "processors": "minecraft:stronghold_generic_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+		"weight": 30,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:stronghold/mob/stronghold_sewer_void",
+        "processors": "minecraft:stronghold_generic_degradation",
+        "projection": "rigid"
+      }
+    }
+  ],
+  "fallback": "minecraft:empty"
+}

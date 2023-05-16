@@ -1,0 +1,6 @@
+{
+    "replace": true,
+    "skill": "trade",
+    "level": 20,
+    "entity": "minecraft:piglin"
+}

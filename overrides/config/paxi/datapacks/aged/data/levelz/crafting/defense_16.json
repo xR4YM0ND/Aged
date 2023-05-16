@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "level": 16,
+    "skill": "defense",
+    "item": [
+        "immersive_armors:warrior_helmet",
+        "immersive_armors:warrior_chestplate",
+        "immersive_armors:warrior_leggings",
+        "immersive_armors:warrior_boots"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "level": 5,
+    "skill": "farming",
+    "item": [
+        "vinery:grapevine_pot",
+        "farmersdelight:skillet",
+        "vinery:cooking_pot",
+        "moisturization:sprinkler"
+    ]
+}

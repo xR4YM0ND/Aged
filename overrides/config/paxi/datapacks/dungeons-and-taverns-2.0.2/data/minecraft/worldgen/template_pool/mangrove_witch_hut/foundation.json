@@ -1,0 +1,14 @@
+{
+  "name": "minecraft:mangrove_witch_hut/foundation",
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:feature_pool_element",
+        "feature": "minecraft:mangrove_witch_hut_base",
+        "projection": "rigid"
+      },
+      "weight": 6
+    }
+  ],
+  "fallback": "minecraft:empty"
+}

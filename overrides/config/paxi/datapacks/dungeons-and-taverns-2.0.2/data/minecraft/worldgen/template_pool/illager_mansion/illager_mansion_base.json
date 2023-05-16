@@ -1,0 +1,476 @@
+{
+  "name": "minecraft:illager_mansion/illager_mansion_base",
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:feature_pool_element",
+        "feature": "minecraft:illager_mansion_base",
+        "projection": "rigid"
+      },
+      "weight": 6
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_house_lock",
+        "processors": {
+          "processors": []
+        },
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_library_showcase1",
+        "processors": {
+          "processors": []
+        },
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_library_showcase2",
+        "processors": {
+          "processors": []
+        },
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_library_showcase3",
+        "processors": {
+          "processors": []
+        },
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_library_showcase4",
+        "processors": {
+          "processors": []
+        },
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_library_showcase5",
+        "processors": {
+          "processors": []
+        },
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_library_showcase6",
+        "processors": {
+          "processors": []
+        },
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_library_showcase7",
+        "processors": {
+          "processors": []
+        },
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_library_showcase8",
+        "processors": {
+          "processors": []
+        },
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "minecraft/empty",
+        "processors": {
+          "processors": []
+        },
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_small_room1",
+        "processors": {
+          "processors": []
+        },
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_small_room2",
+        "processors": {
+          "processors": []
+        },
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_small_room3",
+        "processors": {
+          "processors": []
+        },
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_secret_room1",
+        "processors": {
+          "processors": []
+        },
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_secret_room2",
+        "processors": {
+          "processors": []
+        },
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_secret_room3",
+        "processors": {
+          "processors": []
+        },
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_secret_room4",
+        "processors": {
+          "processors": []
+        },
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_middle_room1",
+        "processors": {
+          "processors": []
+        },
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_middle_room2",
+        "processors": {
+          "processors": []
+        },
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_large_room1",
+        "processors": {
+          "processors": []
+        },
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_large_room2",
+        "processors": {
+          "processors": []
+        },
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_large_room3",
+        "processors": {
+          "processors": []
+        },
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_large_room4",
+        "processors": {
+          "processors": []
+        },
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_large_room5",
+        "processors": {
+          "processors": []
+        },
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_large_room6",
+        "processors": {
+          "processors": []
+        },
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_large_room7",
+        "processors": {
+          "processors": []
+        },
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_large_room8",
+        "processors": {
+          "processors": []
+        },
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_large_room9",
+        "processors": {
+          "processors": []
+        },
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_large_room10",
+        "processors": {
+          "processors": []
+        },
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_large_room11",
+        "processors": {
+          "processors": []
+        },
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_large_room12",
+        "processors": {
+          "processors": []
+        },
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_large_room13",
+        "processors": {
+          "processors": []
+        },
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_attic_room1",
+        "processors": {
+          "processors": []
+        },
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_attic_room2",
+        "processors": {
+          "processors": []
+        },
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_attic_room3",
+        "processors": {
+          "processors": []
+        },
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_attic_room4",
+        "processors": {
+          "processors": []
+        },
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_attic_room5",
+        "processors": {
+          "processors": []
+        },
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_attic_room6",
+        "processors": {
+          "processors": []
+        },
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_attic_room7",
+        "processors": {
+          "processors": []
+        },
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_attic_room8",
+        "processors": {
+          "processors": []
+        },
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_attic_room9",
+        "processors": {
+          "processors": []
+        },
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "minecraft:illager_mansion/mansion_attic_room10",
+        "processors": {
+          "processors": []
+        },
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ],
+  "fallback": "minecraft:empty"
+}

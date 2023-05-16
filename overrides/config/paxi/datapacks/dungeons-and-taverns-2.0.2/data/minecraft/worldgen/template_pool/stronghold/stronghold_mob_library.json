@@ -1,0 +1,33 @@
+{
+  "name": "minecraft:stronghold/stronghold_mob_library",
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:stronghold/mob/stronghold_library_spider",
+        "processors": "minecraft:stronghold_generic_degradation",
+        "projection": "rigid"
+      },
+      "weight": 2
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:stronghold/mob/stronghold_library_zillager",
+        "processors": "minecraft:stronghold_generic_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+		"weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:stronghold/mob/stronghold_library_void",
+        "processors": "minecraft:stronghold_generic_degradation",
+        "projection": "rigid"
+      }
+    }
+  ],
+  "fallback": "minecraft:empty"
+}

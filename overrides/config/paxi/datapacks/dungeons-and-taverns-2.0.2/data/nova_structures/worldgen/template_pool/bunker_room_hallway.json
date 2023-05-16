@@ -1,0 +1,51 @@
+{
+	"name": "nova_structures:bunker_room_hallway",
+	"fallback": "minecraft:empty",
+	"elements": [
+		{
+			"weight": 5,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:bunker/bunker_underground_hallway_1",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 5,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:bunker/bunker_underground_hallway_2",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 5,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:bunker/bunker_underground_hallway_3",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 5,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:bunker/bunker_underground_hallway_4",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 5,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:bunker/bunker_underground_hallway_5",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		}
+	]
+}

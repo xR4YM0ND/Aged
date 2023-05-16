@@ -1,0 +1,15 @@
+{
+	"name": "nova_structures:tavern_start_mangrove",
+	"fallback": "minecraft:empty",
+	"elements": [
+		{
+			"weight": 1,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:tavern/tavern_house_mangrove",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		}
+	]
+}

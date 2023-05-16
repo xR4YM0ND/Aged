@@ -1,0 +1,157 @@
+{
+  "type": "minecraft:block_column",
+  "config": {
+    "allowed_placement": {
+      "type": "minecraft:matching_blocks",
+      "offset":[
+          0,
+          1,
+          0
+      ],
+      "blocks": [
+          "minecraft:air",
+          "minecraft:lava",
+          "minecraft:brown_mushroom",
+          "minecraft:red_mushroom",
+          "minecraft:crimson_fungus",
+          "minecraft:warped_fungus",
+          "minecraft:twisting_vines",
+          "minecraft:weeping_vines",
+          "minecraft:crimson_roots",
+          "minecraft:warped_roots",
+          "minecraft:nether_sprouts"
+      ]
+    },
+    "prioritize_tip": false,
+    "direction": "down",
+    "layers": [
+      {
+        "height": 15,
+        "provider": {
+          "type": "minecraft:weighted_state_provider",
+          "entries": [
+            {
+              "data": {
+                "Name": "minecraft:nether_bricks"
+              },
+              "weight": 7
+            },
+            {
+              "data": {
+                "Name": "minecraft:cracked_nether_bricks"
+              },
+              "weight": 3
+            }
+          ]
+        }
+      },
+      {
+        "height": 10,
+        "provider": {
+          "type": "minecraft:weighted_state_provider",
+          "entries": [
+            {
+              "data": {
+                "Name": "minecraft:red_nether_bricks"
+              },
+              "weight": 1
+            },
+            {
+              "data": {
+                "Name": "minecraft:nether_bricks"
+              },
+              "weight": 6
+            },
+            {
+              "data": {
+                "Name": "minecraft:cracked_nether_bricks"
+              },
+              "weight": 3
+            }
+          ]
+        }
+      },
+      {
+        "height": 15,
+        "provider": {
+          "type": "minecraft:weighted_state_provider",
+          "entries": [
+            {
+              "data": {
+                "Name": "minecraft:red_nether_bricks"
+              },
+              "weight": 4
+            },
+            {
+              "data": {
+                "Name": "minecraft:nether_bricks"
+              },
+              "weight": 4
+            },
+            {
+              "data": {
+                "Name": "minecraft:cracked_nether_bricks"
+              },
+              "weight": 2
+            }
+          ]
+        }
+      },
+      {
+        "height": 10,
+        "provider": {
+          "type": "minecraft:weighted_state_provider",
+          "entries": [
+            {
+              "data": {
+                "Name": "minecraft:red_nether_bricks"
+              },
+              "weight": 7
+            },
+            {
+              "data": {
+                "Name": "minecraft:nether_bricks"
+              },
+              "weight": 2
+            },
+            {
+              "data": {
+                "Name": "minecraft:cracked_nether_bricks"
+              },
+              "weight": 1
+            }
+          ]
+        }
+      },
+      {
+        "height": 10,
+        "provider": {
+          "type": "minecraft:weighted_state_provider",
+          "entries": [
+            {
+              "data": {
+                "Name": "minecraft:red_nether_bricks"
+              },
+              "weight": 9
+            },
+            {
+              "data": {
+                "Name": "minecraft:cracked_nether_bricks"
+              },
+              "weight": 1
+            }
+          ]
+        }
+      },
+      {
+        "height": 50,
+        "provider": {
+          "type": "minecraft:simple_state_provider",
+          "state": {
+            "Name": "minecraft:red_nether_bricks"
+          }
+        }
+      }
+    ]
+  }
+}

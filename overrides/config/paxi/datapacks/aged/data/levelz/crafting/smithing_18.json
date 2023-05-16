@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "level": 18,
+    "skill": "smithing",
+    "item": [
+        "betternether:cincinnasite_anvil",
+        "betternether:cincinnasite_forge"
+    ]
+}

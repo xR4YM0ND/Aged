@@ -1,0 +1,15 @@
+{
+	"name": "nova_structures:firewatch_tower_taiga",
+	"fallback": "minecraft:empty",
+	"elements": [
+		{
+			"weight": 1,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:firewatch_tower/firewatch_taiga",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		}
+	]
+}

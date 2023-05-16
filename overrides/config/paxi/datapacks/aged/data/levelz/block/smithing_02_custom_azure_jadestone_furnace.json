@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "smithing",
+    "level": 2,
+    "block": "minecraft:custom_block",
+    "object": "betterend:azure_jadestone_furnace"
+}

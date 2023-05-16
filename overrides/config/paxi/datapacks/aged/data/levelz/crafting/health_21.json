@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "level": 21,
+    "skill": "health",
+    "item": [
+        "inmis:blazing_backpack",
+        "gofish:blaze_rod"
+    ]
+}

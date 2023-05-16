@@ -1,0 +1,39 @@
+{
+    "name": "Food",
+    "icon": "minecraft:apple",
+    "category": "patchouli:get_started_category",
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Balanced Nutrition$(br2)You have to eat a variety of Food to stay healthy.$(br2)If you eat only 1 or 2 sorts of dishes you get less and less food out of it."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Wild Plants",
+            "text": "$(br)All over the planet you can find these.$(br2)Harvest them with your Hand, or even better with a Knife to get more outcome."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "overweight_farming:overweight_apple_block",
+            "title": "Overweight Crops",
+            "text": "$(br)Most of these ones can be harvested with a hoe."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "ecologics:coconut_crab",
+            "scale": 0.5,
+            "text": "$(br)You can break the coconut shell`s of them to get Coconuts."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Other Animals",
+            "text": "$(br)Butcher vanilla animals as normal for a good starter supply"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Fishing Supply Crates",
+            "text": "$(br)If you decide to fish in these biomes:$(br)$(li)River$(li)Forest$()$(br2)You have a chance to find supply crates where one of them could be a food supply crate."
+        }
+    ]
+}

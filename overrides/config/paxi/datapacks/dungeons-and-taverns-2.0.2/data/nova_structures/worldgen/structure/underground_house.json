@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:jigsaw",
+  "biomes": "#nova_structures:illager_hideout",
+  "step": "underground_structures",
+  "spawn_overrides": {},
+  "terrain_adaptation": "none",
+  "start_pool": "nova_structures:underground_house",
+  "size": 1,
+  "start_height": {
+    "type": "minecraft:uniform",
+    "min_inclusive": {
+      "absolute": -50
+    },
+    "max_inclusive": {
+      "absolute": 50
+    }
+  },
+  "max_distance_from_center": 8,
+  "use_expansion_hack": false
+}

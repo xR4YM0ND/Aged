@@ -1,0 +1,37 @@
+{
+    "environmentz:ice_pack": {
+        "damage": 1,
+        "temperature": -10,
+        "heat_protection": 2
+    },
+    "minecraft:powder_snow_bucket": {
+        "temperature": -4
+    },
+    "minecraft:ice": {
+        "temperature": -3
+    },
+    "minecraft:packed_ice": {
+        "temperature": -3
+    },
+    "minecraft:blue_ice": {
+        "temperature": -3
+    },
+    "minecraft:snow_block": {
+        "temperature": -2
+    },
+    "minecraft:snow": {
+        "temperature": -1
+    },
+    "minecraft:snowball": {
+        "temperature": -1
+    },
+    "endrem:cold_eye": {
+        "temperature": -2
+    },
+    "gofish:icicle_fish": {
+        "temperature": -3
+    },
+    "gofish:frosted_rod": {
+        "temperature": -3
+    }
+}

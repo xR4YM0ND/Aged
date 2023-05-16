@@ -1,0 +1,67 @@
+{
+    "name": "Water",
+    "icon": "minecraft:potion{Potion:purified_water}",
+    "category": "patchouli:get_started_category",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "title": "How to drink water?",
+            "text": "! Don't do this !$(br2)Just sneak + right click on a water source to drink.$(br2)River Biomes provide the best chance to not get poisoned."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:campfire",
+            "title": "Purified Bottles",
+            "text": "You can place Bottle's of Water on a Campfire to boil them.$(br2)You will recieve Purified Water Bottles."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "dehydration:copper_cauldron",
+            "title": "Collect Rain Water",
+            "text": "You can collect rain water with the copper cauldron.$(br2)It takes some time, but you get fresh & save water out of that."
+        },
+        {
+            "type": "patchouli:smelting",
+            "recipe": "dehydration:purified_water_bucket",
+            "title": "Purified Buckets",
+            "text": "Smelt a Water Bucket in a Furnace to receive Purified Water Bucket.$(br2)$(o)Honestly, idk what to do with these."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "dehydration:campfire_cauldron",
+            "title" : "Boil Water",
+            "text": "Place a Campfire Cauldron over a campfire and fill it with water.$(br2)It takes 100 t / 5 sec."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "dehydration:bamboo_pump",
+            "text": "The pump allows you to place Water Buckets or Bottles.$(br2)It has a timer of 1200 t / 1 min."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Water To-Go",
+            "text": "Different Flasks allow you to carry fresh water with you.$(br2)All different flasks are listed in the upcoming pages."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "dehydration:leather_flask",
+            "recipe2": "dehydration:iron_leather_flask"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "dehydration:golden_leather_flask",
+            "recipe2": "dehydration:diamond_leather_flask"
+        },
+        {
+            "type": "patchouli:smithing",
+            "recipe": "dehydration:netherite_leather_flask"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "dehydration:handbook",
+            "title": "More Infos ?",
+            "text": "Check out the Dehydration Handbook for more infos."
+        }
+    ]
+}

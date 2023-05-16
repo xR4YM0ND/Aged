@@ -1,0 +1,148 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 27,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:gold_ingot",
+          "weight": 8
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:iron_ingot",
+          "weight": 16
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:copper_ingot",
+          "weight": 32
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:emerald",
+          "weight": 32
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:amethyst_shard",
+          "weight": 24
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:milk_bucket"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "effects": [
+                {
+                  "type": "minecraft:night_vision",
+                  "duration": {
+                    "type": "minecraft:uniform",
+                    "max": 10.0,
+                    "min": 7.0
+                  }
+                },
+                {
+                  "type": "minecraft:jump_boost",
+                  "duration": {
+                    "type": "minecraft:uniform",
+                    "max": 10.0,
+                    "min": 7.0
+                  }
+                },
+                {
+                  "type": "minecraft:weakness",
+                  "duration": {
+                    "type": "minecraft:uniform",
+                    "max": 8.0,
+                    "min": 6.0
+                  }
+                },
+                {
+                  "type": "minecraft:blindness",
+                  "duration": {
+                    "type": "minecraft:uniform",
+                    "max": 7.0,
+                    "min": 5.0
+                  }
+                },
+                {
+                  "type": "minecraft:poison",
+                  "duration": {
+                    "type": "minecraft:uniform",
+                    "max": 20.0,
+                    "min": 10.0
+                  }
+                },
+                {
+                  "type": "minecraft:saturation",
+                  "duration": {
+                    "type": "minecraft:uniform",
+                    "max": 10.0,
+                    "min": 7.0
+                  }
+                }
+              ],
+              "function": "minecraft:set_stew_effect"
+            }
+          ],
+          "name": "minecraft:suspicious_stew"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cookie",
+          "weight": 8
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cooked_beef",
+          "weight": 8
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:golden_apple"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:beetroot",
+          "weight": 32
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:beetroot_seeds",
+          "weight": 8
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:dark_oak_sapling",
+          "weight": 8
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:dark_oak_log",
+          "weight": 32
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:name_tag",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:red_candle",
+          "weight": 32
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:flower_pot",
+          "weight": 4
+        }
+      ]
+    }
+  ]
+}

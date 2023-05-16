@@ -1,0 +1,111 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": {
+        "type": "minecraft:uniform",
+        "min": 1.0,
+        "max": 2.0
+      },
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "set_damage",
+              "damage": {
+                "min": 0.25,
+                "max": 0.75
+              }
+            }
+          ],
+          "name": "minecraft:stone_pickaxe"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "set_damage",
+              "damage": {
+                "min": 0.25,
+                "max": 0.75
+              }
+            }
+          ],
+          "name": "minecraft:stone_shovel"
+        }
+      ]
+    },
+    {
+      "rolls": 5,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1.0,
+                "max": 7.0
+              },
+              "add": false
+            }
+          ],
+          "name": "minecraft:gunpowder"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1.0,
+                "max": 10.0
+              },
+              "add": false
+            }
+          ],
+          "name": "minecraft:red_sand"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1.0,
+                "max": 10.0
+              },
+              "add": false
+            }
+          ],
+          "name": "minecraft:torch"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1.0,
+                "max": 10.0
+              },
+              "add": false
+            }
+          ],
+          "name": "minecraft:rail"
+        }
+      ]
+    }
+  ]
+}

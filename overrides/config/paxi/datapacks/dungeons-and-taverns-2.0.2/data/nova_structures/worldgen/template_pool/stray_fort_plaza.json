@@ -1,0 +1,15 @@
+{
+	"name": "nova_structures:stray_fort_enterance",
+	"fallback": "minecraft:empty",
+	"elements": [
+		{
+			"weight": 3,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "nova_structures:stray_fort/stray_fort_plaza",
+				"projection": "terrain_matching",
+				"processors": "minecraft:empty"
+			}
+		}
+	]
+}

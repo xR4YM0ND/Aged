@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "level": 24,
+    "skill": "defense",
+    "item": [
+        "immersive_armors:heavy_helmet",
+        "immersive_armors:heavy_chestplate",
+        "immersive_armors:heavy_leggings",
+        "immersive_armors:heavy_boots"
+    ]
+}

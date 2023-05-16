@@ -1,0 +1,42 @@
+{
+  "name": "minecraft:stronghold/stronghold_mob_jail",
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:stronghold/mob/stronghold_jail_armor_skeleton",
+        "processors": "minecraft:stronghold_generic_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:stronghold/mob/stronghold_jail_full_armor_skeleton",
+        "processors": "minecraft:stronghold_generic_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:stronghold/mob/stronghold_jail_armor_zombie",
+        "processors": "minecraft:stronghold_generic_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+		"weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:stronghold/mob/stronghold_jail_void",
+        "processors": "minecraft:stronghold_generic_degradation",
+        "projection": "rigid"
+      }
+    }
+  ],
+  "fallback": "minecraft:empty"
+}

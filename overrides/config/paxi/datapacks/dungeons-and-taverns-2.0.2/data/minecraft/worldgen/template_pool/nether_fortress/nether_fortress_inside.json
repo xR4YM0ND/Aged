@@ -1,0 +1,204 @@
+{
+  "name": "minecraft:nether_fortress/nether_fortress_inside",
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:nether_fortress/inside/nether_fortress_inside_room1",
+        "processors": "minecraft:nether_fortress_generic_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:nether_fortress/inside/nether_fortress_inside_room2",
+        "processors": "minecraft:nether_fortress_generic_degradation",
+        "projection": "rigid"
+      },
+      "weight": 3
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:nether_fortress/inside/nether_fortress_inside_room3",
+        "processors": "minecraft:nether_fortress_generic_degradation",
+        "projection": "rigid"
+      },
+      "weight": 5
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:nether_fortress/inside/nether_fortress_inside_room4",
+        "processors": "minecraft:nether_fortress_generic_degradation",
+        "projection": "rigid"
+      },
+      "weight": 7
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:nether_fortress/inside/nether_fortress_inside_room5",
+        "processors": "minecraft:nether_fortress_generic_degradation",
+        "projection": "rigid"
+      },
+      "weight": 7
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:nether_fortress/inside/nether_fortress_inside_room6",
+        "processors": "minecraft:nether_fortress_generic_degradation",
+        "projection": "rigid"
+      },
+      "weight": 7
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:nether_fortress/inside/nether_fortress_inside_room_tall1",
+        "processors": "minecraft:nether_fortress_generic_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:nether_fortress/inside/nether_fortress_blaze_room1",
+        "processors": "minecraft:nether_fortress_generic_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:nether_fortress/inside/nether_fortress_blaze_room2",
+        "processors": "minecraft:nether_fortress_generic_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:nether_fortress/inside/nether_fortress_blaze_room3",
+        "processors": "minecraft:nether_fortress_generic_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:nether_fortress/inside/nether_fortress_blaze_room4",
+        "processors": "minecraft:nether_fortress_generic_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:nether_fortress/inside/nether_fortress_inside_wall1",
+        "processors": "minecraft:nether_fortress_generic_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:nether_fortress/inside/nether_fortress_inside_wall2",
+        "processors": "minecraft:nether_fortress_generic_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:nether_fortress/inside/nether_fortress_inside_wall3",
+        "processors": "minecraft:nether_fortress_generic_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:nether_fortress/inside/nether_fortress_inside_wall4",
+        "processors": "minecraft:nether_fortress_generic_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:nether_fortress/inside/nether_fortress_inside_wall5",
+        "processors": "minecraft:nether_fortress_generic_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:nether_fortress/inside/nether_fortress_inside_wall6",
+        "processors": "minecraft:nether_fortress_generic_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:nether_fortress/inside/nether_fortress_inside_door1",
+        "processors": "minecraft:nether_fortress_generic_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:nether_fortress/inside/nether_fortress_inside_door2",
+        "processors": "minecraft:nether_fortress_generic_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:nether_fortress/inside/nether_fortress_inside_door3",
+        "processors": "minecraft:nether_fortress_generic_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:nether_fortress/inside/nether_fortress_inside_door4",
+        "processors": "minecraft:nether_fortress_generic_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:nether_fortress/inside/nether_fortress_inside_door5",
+        "processors": "minecraft:nether_fortress_generic_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    }
+  ],
+  "fallback": "minecraft:empty"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "minecraft:nether_fortress/nether_fortress_lock",
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:nether_fortress/bridge/nether_fortress_bridge_lock",
+        "processors": "minecraft:nether_fortress_generic_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    }
+  ],
+  "fallback": "minecraft:empty"
+}

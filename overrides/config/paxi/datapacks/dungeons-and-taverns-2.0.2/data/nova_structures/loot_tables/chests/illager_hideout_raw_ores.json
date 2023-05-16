@@ -1,0 +1,65 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 12.0,
+                "max": 16.0
+              },
+              "add": false
+            }
+          ],
+          "name": "minecraft:raw_iron"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 20.0,
+                "max": 26.0
+              },
+              "add": false
+            }
+          ],
+          "name": "minecraft:raw_gold"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 35.0,
+                "max": 41.0
+              },
+              "add": false
+            }
+          ],
+          "name": "minecraft:raw_copper"
+        }
+      ]
+    }
+  ]
+}

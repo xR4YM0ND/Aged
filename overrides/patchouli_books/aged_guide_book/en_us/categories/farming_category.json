@@ -1,0 +1,6 @@
+{
+    "name": "Farming 🍖",
+    "description": "Crops grow generally slower than normal.$(br2)They grow slower or don't grow at all in certain seasons.",
+    "icon": "earlystage:flint_hoe",
+    "sortnum": 1
+}

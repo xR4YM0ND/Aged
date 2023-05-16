@@ -1,0 +1,96 @@
+{
+  "name": "minecraft:nether_fortress/nether_fortress_bridge",
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:nether_fortress/bridge/nether_fortress_bridge_cross",
+        "processors": "minecraft:nether_fortress_generic_degradation",
+        "projection": "rigid"
+      },
+      "weight": 3
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:nether_fortress/bridge/nether_fortress_bridge_cross_lantern",
+        "processors": "minecraft:nether_fortress_generic_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:nether_fortress/bridge/nether_fortress_bridge_curve",
+        "processors": "minecraft:nether_fortress_generic_degradation",
+        "projection": "rigid"
+      },
+      "weight": 2
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:nether_fortress/bridge/nether_fortress_bridge_curve_lantern",
+        "processors": "minecraft:nether_fortress_generic_degradation",
+        "projection": "rigid"
+      },
+      "weight": 2
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:nether_fortress/bridge/nether_fortress_bridge_straight",
+        "processors": "minecraft:nether_fortress_generic_degradation",
+        "projection": "rigid"
+      },
+      "weight": 4
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:nether_fortress/bridge/nether_fortress_bridge_straight_lantern",
+        "processors": "minecraft:nether_fortress_generic_degradation",
+        "projection": "rigid"
+      },
+      "weight": 4
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:nether_fortress/bridge/nether_fortress_bridge_t",
+        "processors": "minecraft:nether_fortress_generic_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:nether_fortress/bridge/nether_fortress_bridge_t_lantern",
+        "processors": "minecraft:nether_fortress_generic_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:nether_fortress/bridge/nether_fortress_bridge_upward_left",
+        "processors": "minecraft:nether_fortress_generic_degradation",
+        "projection": "rigid"
+      },
+      "weight": 2
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:nether_fortress/bridge/nether_fortress_bridge_upward_right",
+        "processors": "minecraft:nether_fortress_generic_degradation",
+        "projection": "rigid"
+      },
+      "weight": 2
+    }
+  ],
+  "fallback": "minecraft:nether_fortress/nether_fortress_lock"
+}

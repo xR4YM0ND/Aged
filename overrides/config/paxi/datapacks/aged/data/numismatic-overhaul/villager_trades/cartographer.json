@@ -1,0 +1,450 @@
+{
+    "profession": "cartographer",
+    "trades": {
+        "novice": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 4,
+                "price": 27,
+                "sell": {
+                    "item": "minecraft:paper",
+                    "count": 9
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 315,
+                "sell": {
+                    "item": "minecraft:map",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 104,
+                "buy": {
+                    "item": "minecraft:map",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 5,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 625,
+                "sell": {
+                    "item": "minecraft:enchanted_book",
+                    "count": 1,
+                    "tag": {
+                        "StoredEnchantments": [
+                            {
+                                "id": "combatroll:longfooted",
+                                "lvl": 1
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 5,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 625,
+                "sell": {
+                    "item": "minecraft:enchanted_book",
+                    "count": 1,
+                    "tag": {
+                        "StoredEnchantments": [
+                            {
+                                "id": "combatroll:acrobat",
+                                "lvl": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        ],
+        "apprentice": [
+            {
+                "type": "numismatic-overhaul:sell_map",
+                "villager_experience": 15,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 2500,
+                "structure": "takesapillage:pillager_camp"
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 606,
+                "sell": {
+                    "item": "minecraft:compass",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 201,
+                "buy": {
+                    "item": "minecraft:compass",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 10,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 1250,
+                "sell": {
+                    "item": "minecraft:enchanted_book",
+                    "count": 1,
+                    "tag": {
+                        "StoredEnchantments": [
+                            {
+                                "id": "combatroll:longfooted",
+                                "lvl": 2
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 10,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 1250,
+                "sell": {
+                    "item": "minecraft:enchanted_book",
+                    "count": 1,
+                    "tag": {
+                        "StoredEnchantments": [
+                            {
+                                "id": "combatroll:acrobat",
+                                "lvl": 2
+                            }
+                        ]
+                    }
+                }
+            }
+        ],
+        "journeyman": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 45,
+                "sell": {
+                    "item": "minecraft:spyglass",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 15,
+                "buy": {
+                    "item": "minecraft:spyglass",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_map",
+                "villager_experience": 20,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 5000,
+                "structure": "betteroceanmonuments:ocean_monument"
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 15,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 2500,
+                "sell": {
+                    "item": "minecraft:enchanted_book",
+                    "count": 1,
+                    "tag": {
+                        "StoredEnchantments": [
+                            {
+                                "id": "minecraft:riptide",
+                                "lvl": 1
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 15,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 2500,
+                "sell": {
+                    "item": "minecraft:enchanted_book",
+                    "count": 1,
+                    "tag": {
+                        "StoredEnchantments": [
+                            {
+                                "id": "combatroll:longfooted",
+                                "lvl": 3
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 15,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 2500,
+                "sell": {
+                    "item": "minecraft:enchanted_book",
+                    "count": 1,
+                    "tag": {
+                        "StoredEnchantments": [
+                            {
+                                "id": "combatroll:acrobat",
+                                "lvl": 3
+                            }
+                        ]
+                    }
+                }
+            }
+        ],
+        "expert": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 8,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 420,
+                "sell": {
+                    "item": "chipped:carpenters_table",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_map",
+                "villager_experience": 20,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 5000,
+                "structure": "minecraft:ancient_city"
+            },
+            {
+                "type": "numismatic-overhaul:sell_map",
+                "villager_experience": 20,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 5000,
+                "structure": "minecraft:mansion"
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 1000,
+                "sell": {
+                    "item": "minecraft:phantom_membrane",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 100,
+                "buy": {
+                    "item": "minecraft:phantom_membrane",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 20,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 5000,
+                "sell": {
+                    "item": "minecraft:enchanted_book",
+                    "count": 1,
+                    "tag": {
+                        "StoredEnchantments": [
+                            {
+                                "id": "minecraft:riptide",
+                                "lvl": 2
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 20,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 5000,
+                "sell": {
+                    "item": "minecraft:enchanted_book",
+                    "count": 1,
+                    "tag": {
+                        "StoredEnchantments": [
+                            {
+                                "id": "combatroll:longfooted",
+                                "lvl": 4
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 20,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 5000,
+                "sell": {
+                    "item": "minecraft:enchanted_book",
+                    "count": 1,
+                    "tag": {
+                        "StoredEnchantments": [
+                            {
+                                "id": "combatroll:acrobat",
+                                "lvl": 4
+                            }
+                        ]
+                    }
+                }
+            }
+        ],
+        "master": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 5,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 1086,
+                "sell": {
+                    "item": "minecraft:recovery_compass",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 5,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 361,
+                "buy": {
+                    "item": "minecraft:recovery_compass",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_map",
+                "villager_experience": 25,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 10000,
+                "structure": "tlc:lost_castle"
+            },
+            {
+                "type": "numismatic-overhaul:sell_map",
+                "villager_experience": 25,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 10000,
+                "structure": "takesapillage:bastille"
+            },
+            {
+                "type": "numismatic-overhaul:sell_map",
+                "villager_experience": 25,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 10000,
+                "structure": "minecraft:end_city"
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 25,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 10000,
+                "sell": {
+                    "item": "minecraft:enchanted_book",
+                    "count": 1,
+                    "tag": {
+                        "StoredEnchantments": [
+                            {
+                                "id": "minecraft:riptide",
+                                "lvl": 3
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 25,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 10000,
+                "sell": {
+                    "item": "minecraft:enchanted_book",
+                    "count": 1,
+                    "tag": {
+                        "StoredEnchantments": [
+                            {
+                                "id": "combatroll:longfooted",
+                                "lvl": 5
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 25,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 10000,
+                "sell": {
+                    "item": "minecraft:enchanted_book",
+                    "count": 1,
+                    "tag": {
+                        "StoredEnchantments": [
+                            {
+                                "id": "combatroll:acrobat",
+                                "lvl": 5
+                            }
+                        ]
+                    }
+                }
+            }
+        ]
+    }
+}

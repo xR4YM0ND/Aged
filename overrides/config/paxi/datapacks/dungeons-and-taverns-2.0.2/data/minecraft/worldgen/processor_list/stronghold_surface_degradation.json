@@ -1,0 +1,5248 @@
+{
+  "processors": [
+    {
+      "processor_type": "minecraft:rule",
+      "rules": [
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stone_bricks",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:vine",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:polished_andesite",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:vine",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:spruce_door",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:vine",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stripped_oak_log",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:vine",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_planks",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:vine",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_stairs",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:vine",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_slab",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:vine",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:flower_pot",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:vine",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stone_brick_wall",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:vine",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:red_bed",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:vine",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_trapdoor",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:vine",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stone_brick_stairs",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:vine",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:smooth_stone_slab",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:vine",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:chiseled_stone_bricks",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:vine",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_log",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:vine",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:bookshelf",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:vine",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stone_button",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:vine",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:iron_door",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:vine",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:iron_bars",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:vine",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:white_carpet",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:vine",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:candle",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:vine",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:water",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:vine",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:iron_block",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:vine",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:carved_pumkin",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:vine",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:chain",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:vine",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_fence",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:vine",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:chest",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:vine",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stone_bricks",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:flowering_azalea_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:polished_andesite",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:flowering_azalea_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:spruce_door",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:flowering_azalea_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stripped_oak_log",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:flowering_azalea_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_planks",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:flowering_azalea_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_stairs",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:flowering_azalea_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_slab",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:flowering_azalea_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:flower_pot",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:flowering_azalea_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stone_brick_wall",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:flowering_azalea_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:red_bed",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:flowering_azalea_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_trapdoor",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:flowering_azalea_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stone_brick_stairs",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:flowering_azalea_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:smooth_stone_slab",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:flowering_azalea_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:chiseled_stone_bricks",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:flowering_azalea_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_log",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:flowering_azalea_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:bookshelf",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:flowering_azalea_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stone_button",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:flowering_azalea_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:iron_door",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:flowering_azalea_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:iron_bars",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:flowering_azalea_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:white_carpet",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:flowering_azalea_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:candle",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:flowering_azalea_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:water",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:flowering_azalea_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:iron_block",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:flowering_azalea_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:carved_pumkin",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:flowering_azalea_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:chain",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:flowering_azalea_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_fence",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:flowering_azalea_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:chest",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:flowering_azalea_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stone_bricks",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:azalea_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:polished_andesite",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:azalea_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:spruce_door",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:azalea_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stripped_oak_log",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:azalea_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_planks",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:azalea_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_stairs",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:azalea_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_slab",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:azalea_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:flower_pot",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:azalea_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stone_brick_wall",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:azalea_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:red_bed",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:azalea_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_trapdoor",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:azalea_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stone_brick_stairs",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:azalea_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:smooth_stone_slab",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:azalea_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:chiseled_stone_bricks",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:azalea_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_log",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:azalea_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:bookshelf",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:azalea_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stone_button",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:azalea_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:iron_door",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:azalea_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:iron_bars",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:azalea_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:white_carpet",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:azalea_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:candle",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:azalea_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:water",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:azalea_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:iron_block",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:azalea_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:carved_pumkin",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:azalea_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:chain",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:azalea_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_fence",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:azalea_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:chest",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:azalea_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stone_bricks",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:cherry_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:polished_andesite",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:cherry_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:spruce_door",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:cherry_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stripped_oak_log",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:cherry_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_planks",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:cherry_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_stairs",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:cherry_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_slab",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:cherry_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:flower_pot",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:cherry_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stone_brick_wall",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:cherry_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:red_bed",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:cherry_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_trapdoor",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:cherry_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stone_brick_stairs",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:cherry_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:smooth_stone_slab",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:cherry_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:chiseled_stone_bricks",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:cherry_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_log",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:cherry_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:bookshelf",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:cherry_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stone_button",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:cherry_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:iron_door",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:cherry_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:iron_bars",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:cherry_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:white_carpet",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:cherry_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:candle",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:cherry_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:water",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:cherry_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:iron_block",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:cherry_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:carved_pumkin",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:cherry_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:chain",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:cherry_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_fence",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:cherry_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:chest",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:cherry_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stone_bricks",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:mangrove_roots",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:polished_andesite",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:mangrove_roots",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:spruce_door",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:mangrove_roots",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stripped_oak_log",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:mangrove_roots",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_planks",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:mangrove_roots",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_stairs",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:mangrove_roots",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_slab",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:mangrove_roots",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:flower_pot",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:mangrove_roots",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stone_brick_wall",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:mangrove_roots",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:red_bed",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:mangrove_roots",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_trapdoor",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:mangrove_roots",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stone_brick_stairs",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:mangrove_roots",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:smooth_stone_slab",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:mangrove_roots",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:chiseled_stone_bricks",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:mangrove_roots",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_log",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:mangrove_roots",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:bookshelf",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:mangrove_roots",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stone_button",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:mangrove_roots",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:iron_door",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:mangrove_roots",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:iron_bars",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:mangrove_roots",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:white_carpet",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:mangrove_roots",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:candle",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:mangrove_roots",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:water",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:mangrove_roots",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:iron_block",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:mangrove_roots",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:carved_pumkin",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:mangrove_roots",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:chain",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:mangrove_roots",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_fence",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:mangrove_roots",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:chest",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:mangrove_roots",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stone_bricks",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:mangrove_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:polished_andesite",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:mangrove_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:spruce_door",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:mangrove_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stripped_oak_log",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:mangrove_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_planks",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:mangrove_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_stairs",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:mangrove_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_slab",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:mangrove_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:flower_pot",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:mangrove_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stone_brick_wall",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:mangrove_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:red_bed",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:mangrove_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_trapdoor",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:mangrove_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stone_brick_stairs",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:mangrove_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:smooth_stone_slab",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:mangrove_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:chiseled_stone_bricks",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:mangrove_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_log",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:mangrove_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:bookshelf",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:mangrove_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stone_button",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:mangrove_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:iron_door",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:mangrove_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:iron_bars",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:mangrove_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:white_carpet",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:mangrove_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:candle",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:mangrove_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:water",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:mangrove_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:iron_block",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:mangrove_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:carved_pumkin",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:mangrove_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:chain",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:mangrove_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_fence",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:mangrove_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:chest",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:mangrove_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stone_bricks",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:acacia_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:polished_andesite",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:acacia_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:spruce_door",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:acacia_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stripped_oak_log",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:acacia_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_planks",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:acacia_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_stairs",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:acacia_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_slab",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:acacia_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:flower_pot",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:acacia_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stone_brick_wall",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:acacia_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:red_bed",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:acacia_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_trapdoor",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:acacia_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stone_brick_stairs",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:acacia_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:smooth_stone_slab",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:acacia_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:chiseled_stone_bricks",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:acacia_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_log",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:acacia_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:bookshelf",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:acacia_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stone_button",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:acacia_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:iron_door",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:acacia_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:iron_bars",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:acacia_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:white_carpet",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:acacia_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:candle",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:acacia_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:water",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:acacia_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:iron_block",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:acacia_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:carved_pumkin",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:acacia_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:chain",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:acacia_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_fence",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:acacia_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:chest",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:acacia_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stone_bricks",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:dark_oak_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:polished_andesite",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:dark_oak_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:spruce_door",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:dark_oak_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stripped_oak_log",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:dark_oak_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_planks",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:dark_oak_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_stairs",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:dark_oak_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_slab",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:dark_oak_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:flower_pot",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:dark_oak_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stone_brick_wall",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:dark_oak_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:red_bed",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:dark_oak_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_trapdoor",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:dark_oak_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stone_brick_stairs",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:dark_oak_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:smooth_stone_slab",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:dark_oak_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:chiseled_stone_bricks",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:dark_oak_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_log",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:dark_oak_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:bookshelf",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:dark_oak_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stone_button",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:dark_oak_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:iron_door",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:dark_oak_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:iron_bars",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:dark_oak_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:white_carpet",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:dark_oak_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:candle",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:dark_oak_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:water",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:dark_oak_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:iron_block",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:dark_oak_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:carved_pumkin",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:dark_oak_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:chain",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:dark_oak_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_fence",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:dark_oak_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:chest",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:dark_oak_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stone_bricks",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:jungle_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:polished_andesite",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:jungle_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:spruce_door",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:jungle_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stripped_oak_log",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:jungle_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_planks",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:jungle_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_stairs",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:jungle_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_slab",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:jungle_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:flower_pot",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:jungle_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stone_brick_wall",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:jungle_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:red_bed",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:jungle_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_trapdoor",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:jungle_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stone_brick_stairs",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:jungle_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:smooth_stone_slab",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:jungle_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:chiseled_stone_bricks",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:jungle_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_log",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:jungle_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:bookshelf",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:jungle_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stone_button",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:jungle_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:iron_door",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:jungle_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:iron_bars",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:jungle_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:white_carpet",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:jungle_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:candle",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:jungle_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:water",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:jungle_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:iron_block",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:jungle_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:carved_pumkin",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:jungle_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:chain",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:jungle_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_fence",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:jungle_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:chest",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:jungle_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stone_bricks",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:birch_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:polished_andesite",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:birch_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:spruce_door",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:birch_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stripped_oak_log",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:birch_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_planks",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:birch_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_stairs",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:birch_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_slab",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:birch_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:flower_pot",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:birch_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stone_brick_wall",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:birch_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:red_bed",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:birch_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_trapdoor",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:birch_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stone_brick_stairs",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:birch_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:smooth_stone_slab",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:birch_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:chiseled_stone_bricks",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:birch_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_log",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:birch_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:bookshelf",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:birch_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stone_button",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:birch_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:iron_door",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:birch_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:iron_bars",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:birch_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:white_carpet",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:birch_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:candle",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:birch_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:water",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:birch_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:iron_block",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:birch_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:carved_pumkin",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:birch_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:chain",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:birch_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_fence",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:birch_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:chest",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:birch_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stone_bricks",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:spruce_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:polished_andesite",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:spruce_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:spruce_door",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:spruce_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stripped_oak_log",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:spruce_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_planks",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:spruce_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_stairs",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:spruce_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_slab",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:spruce_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:flower_pot",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:spruce_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stone_brick_wall",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:spruce_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:red_bed",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:spruce_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_trapdoor",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:spruce_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stone_brick_stairs",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:spruce_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:smooth_stone_slab",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:spruce_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:chiseled_stone_bricks",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:spruce_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_log",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:spruce_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:bookshelf",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:spruce_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stone_button",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:spruce_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:iron_door",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:spruce_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:iron_bars",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:spruce_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:white_carpet",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:spruce_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:candle",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:spruce_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:water",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:spruce_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:iron_block",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:spruce_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:carved_pumkin",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:spruce_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:chain",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:spruce_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_fence",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:spruce_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:chest",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:spruce_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stone_bricks",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:oak_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:polished_andesite",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:oak_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:spruce_door",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:oak_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stripped_oak_log",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:oak_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_planks",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:oak_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_stairs",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:oak_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_slab",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:oak_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:flower_pot",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:oak_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stone_brick_wall",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:oak_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:red_bed",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:oak_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_trapdoor",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:oak_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stone_brick_stairs",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:oak_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:smooth_stone_slab",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:oak_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:chiseled_stone_bricks",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:oak_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_log",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:oak_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:bookshelf",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:oak_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stone_button",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:oak_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:iron_door",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:oak_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:iron_bars",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:oak_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:white_carpet",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:oak_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:candle",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:oak_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:water",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:oak_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:iron_block",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:oak_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:carved_pumkin",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:oak_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:chain",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:oak_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_fence",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:oak_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:chest",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:oak_leaves",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stone_bricks",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:air",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:polished_andesite",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:air",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:spruce_door",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:air",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stripped_oak_log",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:air",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_planks",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:air",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_stairs",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:air",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_slab",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:air",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:flower_pot",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:air",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stone_brick_wall",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:air",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:red_bed",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:air",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_trapdoor",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:air",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stone_brick_stairs",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:air",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:smooth_stone_slab",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:air",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:chiseled_stone_bricks",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:air",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_log",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:air",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:bookshelf",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:air",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:stone_button",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:air",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:iron_door",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:air",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:iron_bars",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:air",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:white_carpet",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:air",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:candle",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:air",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:water",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:air",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:iron_block",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:air",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:carved_pumkin",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:air",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:chain",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:air",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_fence",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:air",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:chest",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:air",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:water"
+          },
+          "input_predicate": {
+            "block": "minecraft:stone_bricks",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:water",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:water"
+          },
+          "input_predicate": {
+            "block": "minecraft:polished_andesite",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:water",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:water"
+          },
+          "input_predicate": {
+            "block": "minecraft:spruce_door",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:water",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:water"
+          },
+          "input_predicate": {
+            "block": "minecraft:stripped_oak_log",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:water",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:water"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_planks",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:water",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:water"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_stairs",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:water",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:water"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_slab",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:water",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:water"
+          },
+          "input_predicate": {
+            "block": "minecraft:flower_pot",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:water",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:water"
+          },
+          "input_predicate": {
+            "block": "minecraft:stone_brick_wall",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:water",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:water"
+          },
+          "input_predicate": {
+            "block": "minecraft:red_bed",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:water",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:water"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_trapdoor",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:water",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:water"
+          },
+          "input_predicate": {
+            "block": "minecraft:stone_brick_stairs",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:water",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:water"
+          },
+          "input_predicate": {
+            "block": "minecraft:smooth_stone_slab",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:water",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:water"
+          },
+          "input_predicate": {
+            "block": "minecraft:chiseled_stone_bricks",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:water",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:water"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_log",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:water",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:water"
+          },
+          "input_predicate": {
+            "block": "minecraft:bookshelf",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:water",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:water"
+          },
+          "input_predicate": {
+            "block": "minecraft:stone_button",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:water",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:water"
+          },
+          "input_predicate": {
+            "block": "minecraft:iron_door",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:water",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:water"
+          },
+          "input_predicate": {
+            "block": "minecraft:iron_bars",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:water",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:water"
+          },
+          "input_predicate": {
+            "block": "minecraft:white_carpet",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:water",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:water"
+          },
+          "input_predicate": {
+            "block": "minecraft:candle",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:water",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:water"
+          },
+          "input_predicate": {
+            "block": "minecraft:water",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:water",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:water"
+          },
+          "input_predicate": {
+            "block": "minecraft:iron_block",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:water",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:water"
+          },
+          "input_predicate": {
+            "block": "minecraft:carved_pumkin",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:water",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:water"
+          },
+          "input_predicate": {
+            "block": "minecraft:chain",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:water",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:water"
+          },
+          "input_predicate": {
+            "block": "minecraft:oak_fence",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:water",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:water"
+          },
+          "input_predicate": {
+            "block": "minecraft:chest",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:water",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "minecraft:water"
+          },
+          "input_predicate": {
+            "block": "minecraft:air",
+            "predicate_type": "minecraft:block_match"
+          },
+          "location_predicate": {
+            "block": "minecraft:water",
+            "predicate_type": "minecraft:block_match"
+          }
+        },
+        {
+          "input_predicate": {
+            "block": "minecraft:stone_bricks",
+            "predicate_type": "minecraft:random_block_match",
+            "probability": 0.2
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "output_state": {
+            "Name": "minecraft:cracked_stone_bricks"
+          }
+        },
+		{
+          "input_predicate": {
+            "block": "minecraft:chiseled_stone_bricks",
+            "predicate_type": "minecraft:random_block_match",
+            "probability": 0.2
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "output_state": {
+            "Name": "minecraft:infested_chiseled_stone_bricks"
+          }
+        },
+		{
+          "input_predicate": {
+            "block": "minecraft:stone_bricks",
+            "predicate_type": "minecraft:random_block_match",
+            "probability": 0.1
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "output_state": {
+            "Name": "minecraft:mossy_stone_bricks"
+          }
+        },
+		{
+          "input_predicate": {
+            "block": "minecraft:stone_bricks",
+            "predicate_type": "minecraft:random_block_match",
+            "probability": 0.1
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "output_state": {
+            "Name": "minecraft:infested_stone_bricks"
+          }
+        },
+		{
+          "input_predicate": {
+            "block": "minecraft:stone_bricks",
+            "predicate_type": "minecraft:random_block_match",
+            "probability": 0.1
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "output_state": {
+            "Name": "minecraft:infested_cracked_stone_bricks"
+          }
+        },
+        {
+          "input_predicate": {
+            "block": "minecraft:cobblestone",
+            "predicate_type": "minecraft:random_block_match",
+            "probability": 0.2
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "output_state": {
+            "Name": "minecraft:mossy_cobblestone"
+          }
+        },
+		{
+          "input_predicate": {
+            "block": "minecraft:cobblestone",
+            "predicate_type": "minecraft:random_block_match",
+            "probability": 0.2
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "output_state": {
+            "Name": "minecraft:infested_cobblestone"
+          }
+        },
+		{
+          "input_predicate": {
+            "block": "minecraft:polished_andesite",
+            "predicate_type": "minecraft:random_block_match",
+            "probability": 0.2
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "output_state": {
+            "Name": "minecraft:andesite"
+          }
+        },
+		{
+          "input_predicate": {
+            "block": "minecraft:polished_deepslate",
+            "predicate_type": "minecraft:random_block_match",
+            "probability": 0.2
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "output_state": {
+            "Name": "minecraft:cobbled_deepslate"
+          }
+        },
+		{
+          "input_predicate": {
+            "block": "minecraft:deepslate_bricks",
+            "predicate_type": "minecraft:random_block_match",
+            "probability": 0.2
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "output_state": {
+            "Name": "minecraft:cracked_deepslate_bricks"
+          }
+        },
+		{
+          "input_predicate": {
+            "block": "minecraft:deepslate_bricks",
+            "predicate_type": "minecraft:random_block_match",
+            "probability": 0.2
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "output_state": {
+            "Name": "minecraft:infested_deepslate"
+          }
+        },
+		{
+          "input_predicate": {
+            "block": "minecraft:flower_pot",
+            "predicate_type": "minecraft:random_block_match",
+            "probability": 0.2
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "output_state": {
+            "Name": "minecraft:potted_poppy"
+          }
+        },
+		{
+          "input_predicate": {
+            "block": "minecraft:flower_pot",
+            "predicate_type": "minecraft:random_block_match",
+            "probability": 0.2
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "output_state": {
+            "Name": "minecraft:potted_cornflower"
+          }
+        },
+		{
+          "input_predicate": {
+            "block": "minecraft:flower_pot",
+            "predicate_type": "minecraft:random_block_match",
+            "probability": 0.2
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "output_state": {
+            "Name": "minecraft:potted_dandelion"
+          }
+        },
+		{
+          "input_predicate": {
+            "block": "minecraft:flower_pot",
+            "predicate_type": "minecraft:random_block_match",
+            "probability": 0.2
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "output_state": {
+            "Name": "minecraft:potted_oak_sapling"
+          }
+        },
+		{
+          "input_predicate": {
+            "block": "minecraft:flower_pot",
+            "predicate_type": "minecraft:random_block_match",
+            "probability": 0.2
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "output_state": {
+            "Name": "minecraft:potted_spruce_sapling"
+          }
+        },
+		{
+          "input_predicate": {
+            "block": "minecraft:flower_pot",
+            "predicate_type": "minecraft:random_block_match",
+            "probability": 0.2
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "output_state": {
+            "Name": "minecraft:potted_birch_sapling"
+          }
+        },
+		{
+          "input_predicate": {
+            "block": "minecraft:flower_pot",
+            "predicate_type": "minecraft:random_block_match",
+            "probability": 0.2
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "output_state": {
+            "Name": "minecraft:potted_spruce_sapling"
+          }
+        },
+		{
+          "input_predicate": {
+            "block": "minecraft:flower_pot",
+            "predicate_type": "minecraft:random_block_match",
+            "probability": 0.2
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "output_state": {
+            "Name": "minecraft:potted_dead_bush"
+          }
+        },
+		{
+          "input_predicate": {
+            "block": "minecraft:flower_pot",
+            "predicate_type": "minecraft:random_block_match",
+            "probability": 0.2
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "output_state": {
+            "Name": "minecraft:potted_fern"
+          }
+        },
+		{
+          "input_predicate": {
+            "block": "minecraft:flower_pot",
+            "predicate_type": "minecraft:random_block_match",
+            "probability": 0.2
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "output_state": {
+            "Name": "minecraft:potted_flowering_azalea_bush"
+          }
+        },
+		{
+          "input_predicate": {
+            "block": "minecraft:flower_pot",
+            "predicate_type": "minecraft:random_block_match",
+            "probability": 0.2
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "output_state": {
+            "Name": "minecraft:potted_azalea_bush"
+          }
+        },
+		{
+          "input_predicate": {
+            "block": "minecraft:flower_pot",
+            "predicate_type": "minecraft:random_block_match",
+            "probability": 0.2
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "output_state": {
+            "Name": "minecraft:potted_allium"
+          }
+        },
+		{
+          "input_predicate": {
+            "block": "minecraft:flower_pot",
+            "predicate_type": "minecraft:random_block_match",
+            "probability": 0.2
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "output_state": {
+            "Name": "minecraft:potted_azure_bluet"
+          }
+        }
+      ]
+    }
+  ]
+}

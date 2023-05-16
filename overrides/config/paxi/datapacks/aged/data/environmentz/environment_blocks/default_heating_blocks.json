@@ -1,0 +1,791 @@
+{
+    "minecraft:lava": {
+        "max_count": 3,
+        "0": 4,
+        "1": 3,
+        "2": 2,
+        "3": 1
+    },
+    "minecraft:campfire": {
+        "property": "lit",
+        "max_count": 3,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "minecraft:soul_campfire": {
+        "property": "lit",
+        "max_count": 3,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "minecraft:torch": {
+        "max_count": 1,
+        "0": 1,
+        "1": 0,
+        "2": 0,
+        "3": 0
+    },
+    "minecraft:soul_torch": {
+        "max_count": 1,
+        "0": 1,
+        "1": 0,
+        "2": 0,
+        "3": 0
+    },
+    "minecraft:fire": {
+        "max_count": 2,
+        "0": 4,
+        "1": 3,
+        "2": 2,
+        "3": 1
+    },
+    "minecraft:soul_fire": {
+        "max_count": 3,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "minecraft:magma_block": {
+        "max_count": 2,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "minecraft:lava_cauldron": {
+        "max_count": 2,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "minecraft:furnace": {
+        "property": "lit",
+        "max_count": 3,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "minecraft:blast_furnace": {
+        "property": "lit",
+        "max_count": 3,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "minecraft:smoker": {
+        "property": "lit",
+        "max_count": 3,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "betternether:geyser": {
+        "max_count": 2,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "betternether:smoker": {
+        "property": "lit",
+        "max_count": 3,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "betternether:cincinnasite_fire_bowl": {
+        "property": "fire",
+        "max_count": 2,
+        "0": 4,
+        "1": 3,
+        "2": 2,
+        "3": 1
+    },
+    "betternether:bricks_fire_bowl": {
+        "property": "fire",
+        "max_count": 2,
+        "0": 4,
+        "1": 3,
+        "2": 2,
+        "3": 1
+    },
+    "betternether:netherite_fire_bowl": {
+        "property": "fire",
+        "max_count": 2,
+        "0": 4,
+        "1": 3,
+        "2": 2,
+        "3": 1
+    },
+    "betternether:cincinnasite_fire_bowl_soul": {
+        "property": "fire",
+        "max_count": 2,
+        "0": 4,
+        "1": 3,
+        "2": 2,
+        "3": 1
+    },
+    "betternether:bricks_fire_bowl_soul": {
+        "property": "fire",
+        "max_count": 2,
+        "0": 4,
+        "1": 3,
+        "2": 2,
+        "3": 1
+    },
+    "betternether:netherite_fire_bowl_soul": {
+        "property": "fire",
+        "max_count": 2,
+        "0": 4,
+        "1": 3,
+        "2": 2,
+        "3": 1
+    },
+    "betternether:cincinnasite_forge": {
+        "property": "lit",
+        "max_count": 3,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "betterend:end_stone_furnace": {
+        "property": "lit",
+        "max_count": 3,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "betterend:end_stone_smelter": {
+        "property": "lit",
+        "max_count": 3,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "betternether:blackstone_furnace": {
+        "property": "lit",
+        "max_count": 3,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "betternether:basalt_furnace": {
+        "property": "lit",
+        "max_count": 3,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "betternether:netherrack_furnace": {
+        "property": "lit",
+        "max_count": 3,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "betterend:flavolite_furnace": {
+        "property": "lit",
+        "max_count": 3,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "betterend:violecite_furnace": {
+        "property": "lit",
+        "max_count": 3,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "betterend:sulphuric_rock_furnace": {
+        "property": "lit",
+        "max_count": 3,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "betterend:virid_jadestone_furnace": {
+        "property": "lit",
+        "max_count": 3,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "betterend:azure_jadestone_furnace": {
+        "property": "lit",
+        "max_count": 3,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "betterend:sandy_jadestone_furnace": {
+        "property": "lit",
+        "max_count": 3,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "betterend:umbralith_furnace": {
+        "property": "lit",
+        "max_count": 3,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "farmersdelight:stove": {
+        "property": "lit",
+        "max_count": 3,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "nethersdelight:blackstone_furnace": {
+        "property": "lit",
+        "max_count": 3,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "nethersdelight:blackstone_blast_furnace": {
+        "property": "lit",
+        "max_count": 3,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "nethersdelight:nether_brick_smoker": {
+        "property": "lit",
+        "max_count": 3,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "nethersdelight:blackstone_stove": {
+        "property": "lit",
+        "max_count": 3,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "vinery:stove": {
+        "property": "lit",
+        "max_count": 3,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "vinery:wood_fired_oven": {
+        "property": "lit",
+        "max_count": 3,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "handcrafted:oven": {
+        "property": "lit",
+        "max_count": 3,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "betternether:magma_flower": {
+        "max_count": 3,
+        "0": 2,
+        "1": 1,
+        "2": 0,
+        "3": 0
+    },
+    "chipped:magma_block_bricks": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:magma_block_mini_tiles": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:magma_block_pillar": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:magma_block_pillar_top": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:magma_block_scales": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:angry_magma_block": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:blank_magma_block_carving": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:bordered_magma_block": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:brick_bordered_magma_block": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:carved_magma_block": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:checkered_magma_block_tiles": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:cobbled_magma_block": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:cracked_magma_block_bricks": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:cracked_disordered_magma_block_bricks": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:cracked_flat_magma_block_tiles": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:creeper_magma_block_carving": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:crying_magma_block": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:curly_magma_block_pillar": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:cut_magma_block_column": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:cut_blank_magma_block": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:glad_magma_block": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:duh_magma_block": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:edged_magma_block_bricks": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:engraved_magma_block": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:eroded_magma_block": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:etched_magma_block_bricks": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:fine_magma_block_pillar": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:flat_magma_block_tiles": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:inlayed_magma_block": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:inscribed_magma_block": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:layed_magma_block_bricks": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:loded_magma_block": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:massive_magma_block_bricks": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:offset_magma_block_bricks": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:ornate_magma_block_pillar": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:overlapping_magma_block_tiles": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:pillar_magma_block_bricks": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:polished_magma_block": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:prismal_magma_block_remnants": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:rough_magma_block": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:rounded_magma_block_bricks": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:runic_carved_magma_block": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:sad_magma_block": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:sanded_magma_block": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:simple_magma_block_pillar": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:small_magma_block_bricks": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:smooth_magma_block_column": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:smooth_inlayed_magma_block": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:smooth_ringed_magma_block": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:smoothed_double_inlayed_magma_block": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:spider_magma_block_carving": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:spiraled_magma_block": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:stacked_magma_block_bricks": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:thick_inlayed_magma_block": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:tiled_magma_block": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:tiled_magma_block_column": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:tiled_bordered_magma_block": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:tiny_magma_block_bricks": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:tiny_brick_bordered_magma_block": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:tiny_layered_magma_block_bricks": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:tiny_layered_magma_block_slabs": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:trodden_magma_block": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:unamused_magma_block": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:vertical_cut_magma_block": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:vertical_disordered_magma_block_bricks": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    },
+    "chipped:weathered_magma_block": {
+        "max_count": 1,
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 0
+    }
+}

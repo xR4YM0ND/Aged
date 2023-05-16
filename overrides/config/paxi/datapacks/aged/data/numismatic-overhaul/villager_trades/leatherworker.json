@@ -1,0 +1,367 @@
+{
+    "profession": "leatherworker",
+    "trades": {
+        "novice": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 48,
+                "sell": {
+                    "item": "minecraft:leather",
+                    "count": 16
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 16,
+                "buy": {
+                    "item": "minecraft:leather",
+                    "count": 16
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 6,
+                "sell": {
+                    "item": "minecraft:rabbit_hide",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 2,
+                "buy": {
+                    "item": "minecraft:rabbit_hide",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 12,
+                "sell": {
+                    "item": "minecraft:leather_boots",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 4,
+                "buy": {
+                    "item": "minecraft:leather_boots",
+                    "count": 1
+                }
+            }
+        ],
+        "apprentice": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 21,
+                "sell": {
+                    "item": "minecraft:leather_horse_armor",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 7,
+                "buy": {
+                    "item": "minecraft:leather_horse_armor",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 15,
+                "sell": {
+                    "item": "inmis:baby_backpack",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 5,
+                "buy": {
+                    "item": "inmis:baby_backpack",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 15,
+                "sell": {
+                    "item": "minecraft:leather_helmet",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 5,
+                "buy": {
+                    "item": "minecraft:leather_helmet",
+                    "count": 1
+                }
+            }
+        ],
+        "journeyman": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 64,
+                "sell": {
+                    "item": "minecraft:item_frame",
+                    "count": 16
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 6,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 1050,
+                "sell": {
+                    "item": "minecraft:iron_horse_armor",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 6,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 350,
+                "buy": {
+                    "item": "minecraft:iron_horse_armor",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 15,
+                "sell": {
+                    "item": "minecraft:saddle",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 5,
+                "buy": {
+                    "item": "minecraft:saddle",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 21,
+                "sell": {
+                    "item": "minecraft:leather_leggings",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 7,
+                "buy": {
+                    "item": "minecraft:leather_leggings",
+                    "count": 1
+                }
+            }
+        ],
+        "expert": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 56,
+                "sell": {
+                    "item": "minecraft:glow_item_frame",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 27,
+                "sell": {
+                    "item": "inmis:frayed_backpack",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 9,
+                "buy": {
+                    "item": "inmis:frayed_backpack",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 8,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 1575,
+                "sell": {
+                    "item": "minecraft:golden_horse_armor",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 8,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 525,
+                "buy": {
+                    "item": "minecraft:golden_horse_armor",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 24,
+                "sell": {
+                    "item": "minecraft:leather_chestplate",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 8,
+                "buy": {
+                    "item": "minecraft:leather_chestplate",
+                    "count": 1
+                }
+            }
+        ],
+        "master": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 28,
+                "sell": {
+                    "item": "minecraft:glow_item_frame",
+                    "count": 4,
+                    "tag": {
+                        "Enchantments": [
+                            {
+                                "id": "minecraft:ciif",
+                                "lvl": 1
+                            }
+                        ],
+                        "EntityTag": {
+                            "Invisible": 1
+                        }
+                    }
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 10,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 21000,
+                "sell": {
+                    "item": "minecraft:diamond_horse_armor",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 10,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 7000,
+                "buy": {
+                    "item": "minecraft:diamond_horse_armor",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 6,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 48,
+                "sell": {
+                    "item": "adventurez:dragon_saddle",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 6,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 16,
+                "buy": {
+                    "item": "adventurez:dragon_saddle",
+                    "count": 1
+                }
+            }
+        ]
+    }
+}

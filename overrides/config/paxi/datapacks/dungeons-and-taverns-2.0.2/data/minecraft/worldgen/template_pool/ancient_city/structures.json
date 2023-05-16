@@ -1,0 +1,600 @@
+{
+  "name": "minecraft:ancient_city/structures",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 6,
+      "element": {
+        "location": "minecraft:ancient_city/structures/barracks",
+        "processors": "minecraft:ancient_city_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 6,
+      "element": {
+        "location": "minecraft:ancient_city/structures/barracks_2",
+        "processors": "minecraft:ancient_city_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 6,
+      "element": {
+        "location": "minecraft:ancient_city/structures/barracks_3",
+        "processors": "minecraft:ancient_city_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 6,
+      "element": {
+        "location": "minecraft:ancient_city/structures/chamber_1",
+        "processors": "minecraft:ancient_city_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 6,
+      "element": {
+        "location": "minecraft:ancient_city/structures/chamber_2",
+        "processors": "minecraft:ancient_city_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 6,
+      "element": {
+        "location": "minecraft:ancient_city/structures/chamber_3",
+        "processors": "minecraft:ancient_city_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 6,
+      "element": {
+        "location": "minecraft:ancient_city/structures/sauna_1",
+        "processors": "minecraft:ancient_city_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 6,
+      "element": {
+        "location": "minecraft:ancient_city/structures/sauna_2",
+        "processors": "minecraft:ancient_city_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 6,
+      "element": {
+        "location": "minecraft:ancient_city/structures/sauna_3",
+        "processors": "minecraft:ancient_city_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 6,
+      "element": {
+        "location": "minecraft:ancient_city/structures/sauna_4",
+        "processors": "minecraft:ancient_city_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 6,
+      "element": {
+        "location": "minecraft:ancient_city/structures/sauna_5",
+        "processors": "minecraft:ancient_city_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "minecraft:ancient_city/structures/small_statue",
+        "processors": "minecraft:ancient_city_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "location": "minecraft:ancient_city/structures/large_ruin_1",
+        "processors": "minecraft:ancient_city_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 3,
+      "element": {
+        "location": "minecraft:ancient_city/structures/large_ruin_2",
+        "processors": "minecraft:ancient_city_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 3,
+      "element": {
+        "location": "minecraft:ancient_city/structures/large_ruin_3",
+        "processors": "minecraft:ancient_city_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 3,
+      "element": {
+        "location": "minecraft:ancient_city/structures/large_ruin_4",
+        "processors": "minecraft:ancient_city_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "minecraft:ancient_city/structures/tall_ruin_1",
+        "processors": "minecraft:ancient_city_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "minecraft:ancient_city/structures/tall_ruin_2",
+        "processors": "minecraft:ancient_city_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 4,
+      "element": {
+        "location": "minecraft:ancient_city/structures/tall_ruin_3",
+        "processors": "minecraft:ancient_city_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 4,
+      "element": {
+        "location": "minecraft:ancient_city/structures/tall_ruin_4",
+        "processors": "minecraft:ancient_city_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 4,
+      "element": {
+        "location": "minecraft:ancient_city/structures/tall_ruin_5",
+        "processors": "minecraft:ancient_city_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 4,
+      "element": {
+        "location": "minecraft:ancient_city/structures/tall_ruin_6",
+        "processors": "minecraft:ancient_city_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "location": "minecraft:ancient_city/structures/camp_1",
+        "processors": "minecraft:ancient_city_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 3,
+      "element": {
+        "location": "minecraft:ancient_city/structures/camp_2",
+        "processors": "minecraft:ancient_city_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 3,
+      "element": {
+        "location": "minecraft:ancient_city/structures/camp_3",
+        "processors": "minecraft:ancient_city_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "location": "minecraft:ancient_city/structures/medium_ruin_1",
+        "processors": "minecraft:ancient_city_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "location": "minecraft:ancient_city/structures/medium_ruin_2",
+        "processors": "minecraft:ancient_city_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "location": "minecraft:ancient_city/structures/small_ruin_1",
+        "processors": "minecraft:ancient_city_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "location": "minecraft:ancient_city/structures/small_ruin_2",
+        "processors": "minecraft:ancient_city_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 3,
+      "element": {
+        "location": "minecraft:ancient_city/structures/small_ruin_3",
+        "processors": "minecraft:ancient_city_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 3,
+      "element": {
+        "location": "minecraft:ancient_city/structures/small_ruin_4",
+        "processors": "minecraft:ancient_city_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 3,
+      "element": {
+        "location": "minecraft:ancient_city/structures/small_ruin_5",
+        "processors": "minecraft:ancient_city_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 3,
+      "element": {
+        "location": "minecraft:ancient_city/structures/medium_ruin_1b",
+        "processors": "minecraft:ancient_city_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "location": "minecraft:ancient_city/structures/medium_ruin_2b",
+        "processors": "minecraft:ancient_city_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "location": "minecraft:ancient_city/structures/small_ruin_1b",
+        "processors": "minecraft:ancient_city_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "location": "minecraft:ancient_city/structures/small_ruin_2b",
+        "processors": "minecraft:ancient_city_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 3,
+      "element": {
+        "location": "minecraft:ancient_city/structures/small_ruin_3b",
+        "processors": "minecraft:ancient_city_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 3,
+      "element": {
+        "location": "minecraft:ancient_city/structures/small_ruin_4b",
+        "processors": "minecraft:ancient_city_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 3,
+      "element": {
+        "location": "minecraft:ancient_city/structures/small_ruin_5b",
+        "processors": "minecraft:ancient_city_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "minecraft:ancient_city/structures/large_pillar_1",
+        "processors": "minecraft:ancient_city_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "minecraft:ancient_city/structures/medium_pillar_1",
+        "processors": "minecraft:ancient_city_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "elements": [
+          {
+            "location": "minecraft:ancient_city/structures/ice_box_1",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+          }
+        ],
+        "projection": "rigid",
+        "element_type": "minecraft:list_pool_element"
+      }
+	},
+	{
+      "weight": 3,
+      "element": {
+        "elements": [
+          {
+            "location": "minecraft:ancient_city/structures/ice_box_2",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+          }
+        ],
+        "projection": "rigid",
+        "element_type": "minecraft:list_pool_element"
+      }
+	},
+	  {
+      "weight": 3,
+      "element": {
+        "elements": [
+          {
+            "location": "minecraft:ancient_city/structures/amethyst_box_1",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+          }
+        ],
+        "projection": "rigid",
+        "element_type": "minecraft:list_pool_element"
+      }
+	 },
+	  {
+      "weight": 3,
+      "element": {
+        "elements": [
+          {
+            "location": "minecraft:ancient_city/structures/medium_statue",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+          }
+        ],
+        "projection": "rigid",
+        "element_type": "minecraft:list_pool_element"
+      }
+    },
+	{
+      "weight": 3,
+      "element": {
+        "elements": [
+          {
+            "location": "minecraft:ancient_city/structures/medium_ruin_4b",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+          }
+        ],
+        "projection": "rigid",
+        "element_type": "minecraft:list_pool_element"
+      }
+    },
+	{
+      "weight": 3,
+      "element": {
+        "elements": [
+          {
+            "location": "minecraft:ancient_city/structures/medium_ruin_3b",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+          }
+        ],
+        "projection": "rigid",
+        "element_type": "minecraft:list_pool_element"
+      }
+    },
+	{
+      "weight": 6,
+      "element": {
+        "elements": [
+          {
+            "location": "minecraft:ancient_city/structures/tall_medium_ruin_2",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+          }
+        ],
+        "projection": "rigid",
+        "element_type": "minecraft:list_pool_element"
+      }
+    },
+	{
+      "weight": 6,
+      "element": {
+        "elements": [
+          {
+            "location": "minecraft:ancient_city/structures/tall_medium_ruin_1",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+          }
+        ],
+        "projection": "rigid",
+        "element_type": "minecraft:list_pool_element"
+      }
+    },
+	{
+      "weight": 6,
+      "element": {
+        "elements": [
+          {
+            "location": "minecraft:ancient_city/structures/tall_medium_ruin_2b",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+          }
+        ],
+        "projection": "rigid",
+        "element_type": "minecraft:list_pool_element"
+      }
+    },
+	{
+      "weight": 6,
+      "element": {
+        "elements": [
+          {
+            "location": "minecraft:ancient_city/structures/tall_medium_ruin_1b",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+          }
+        ],
+        "projection": "rigid",
+        "element_type": "minecraft:list_pool_element"
+      }
+    },
+	{
+      "weight": 6,
+      "element": {
+        "elements": [
+          {
+            "location": "minecraft:ancient_city/structures/tall_medium_ruin_2c",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+          }
+        ],
+        "projection": "rigid",
+        "element_type": "minecraft:list_pool_element"
+      }
+    },
+	{
+      "weight": 6,
+      "element": {
+        "elements": [
+          {
+            "location": "minecraft:ancient_city/structures/tall_medium_ruin_1c",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+          }
+        ],
+        "projection": "rigid",
+        "element_type": "minecraft:list_pool_element"
+      }
+    },
+	{
+      "weight": 6,
+      "element": {
+        "location": "minecraft:ancient_city/structures/ritual_room_1",
+        "processors": "minecraft:ancient_city_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 6,
+      "element": {
+        "location": "minecraft:ancient_city/structures/ritual_room_2",
+        "processors": "minecraft:ancient_city_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 6,
+      "element": {
+        "location": "minecraft:ancient_city/structures/ritual_room_3",
+        "processors": "minecraft:ancient_city_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 6,
+      "element": {
+        "location": "minecraft:ancient_city/structures/ritual_room_4",
+        "processors": "minecraft:ancient_city_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 6,
+      "element": {
+        "location": "minecraft:ancient_city/structures/ritual_room_5",
+        "processors": "minecraft:ancient_city_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

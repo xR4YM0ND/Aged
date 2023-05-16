@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "level": 6,
+    "skill": "health",
+    "item": [
+        "inmis:ender_pouch"
+    ]
+}

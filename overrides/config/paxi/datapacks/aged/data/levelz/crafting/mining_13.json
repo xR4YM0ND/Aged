@@ -1,0 +1,18 @@
+{
+    "replace": false,
+    "level": 13,
+    "skill": "mining",
+    "item": [
+        "minecraft:comparator",
+        "minecraft:repeater",
+        "minecraft:redstone_torch",
+        "minecraft:detector_rail",
+        "minecraft:activator_rail",
+        "minecraft:powered_rail",
+        "minecraft:sticky_piston",
+        "minecraft:piston",
+        "minecraft:observer",
+        "minecraft:dropper",
+        "minecraft:dispenser"
+    ]
+}

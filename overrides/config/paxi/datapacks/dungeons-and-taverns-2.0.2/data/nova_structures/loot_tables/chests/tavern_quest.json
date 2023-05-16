@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": {
+        "type": "minecraft:uniform",
+        "min": 1.0,
+        "max": 3.0
+      },
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "nova_structures:chests/tavern_quest/ruin_town"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "nova_structures:chests/tavern_quest/jungle_ruin"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "nova_structures:chests/tavern_quest/illager_hideout"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "nova_structures:chests/tavern_quest/badlands_miner_outpost"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "nova_structures:chests/tavern_quest/undead_crypt"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "nova_structures:chests/tavern_quest/ancient_city"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "nova_structures:chests/tavern_quest/stray_fort"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "minecraft:block_column",
+  "config": {
+    "allowed_placement": {
+      "type": "minecraft:matching_blocks",
+      "offset":[
+          0,
+          1,
+          0
+      ],
+      "blocks": [
+          "minecraft:air",
+          "minecraft:water",
+          "minecraft:lava",
+          "minecraft:dandelion",
+          "minecraft:poppy",
+          "minecraft:brown_mushroom",
+          "minecraft:red_mushroom",
+          "minecraft:grass",
+          "minecraft:fern",
+          "minecraft:tall_grass",
+          "minecraft:large_fern",
+          "minecraft:dead_bush",
+          "minecraft:blue_orchid",
+          "minecraft:allium",
+          "minecraft:azure_bluet",
+          "minecraft:red_tulip",
+          "minecraft:orange_tulip",
+          "minecraft:pink_tulip",
+          "minecraft:white_tulip",
+          "minecraft:oxeye_daisy",
+          "minecraft:lily_of_the_valley",
+          "minecraft:sugar_cane",
+          "minecraft:lilac",
+          "minecraft:rose_bush",
+          "minecraft:peony",
+          "minecraft:oak_leaves",
+          "minecraft:birch_leaves",
+          "minecraft:dark_oak_leaves",
+          "minecraft:azalea_leaves",
+          "minecraft:flowering_azalea_leaves",
+		  "minecraft:grass_block",
+		  "minecraft:dirt",
+		  "minecraft:sand",
+		  "minecraft:stone_bricks"
+      ]
+    },
+    "prioritize_tip": true,
+    "direction": "down",
+    "layers": [
+      {
+        "height": 100,
+        "provider": {
+          "type": "minecraft:simple_state_provider",
+          "state": {
+            "Name": "minecraft:dark_oak_log"
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:jigsaw",
+  "biomes": "#nova_structures:illager_hideout",
+  "step": "underground_structures",
+  "spawn_overrides": {},
+  "terrain_adaptation": "bury",
+  "start_pool": "nova_structures:undead_crypt_spawner",
+  "size": 4,
+  "start_height": {
+    "absolute": 0
+  },
+  "max_distance_from_center": 100,
+  "use_expansion_hack": false
+}

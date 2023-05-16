@@ -1,0 +1,209 @@
+{
+    "profession": "wandering_trader",
+    "trades": {
+        "novice": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 240,
+                "sell": {
+                    "item": "vinery:gloves",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 6,
+                "price_multiplier": 0.0,
+                "max_uses": 4,
+                "price": 500,
+                "sell": {
+                    "item": "minecraft:experience_bottle",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 10,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 4650,
+                "sell": {
+                    "item": "minecraft:anvil",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 10,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 5000,
+                "sell": {
+                    "item": "revive:revival_star",
+                    "count": 1
+                }
+            }
+        ],
+        "apprentice": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 10,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 2000,
+                "sell": {
+                    "item": "minecraft:nautilus_shell",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 20,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 3000,
+                "sell": {
+                    "item": "endrem:undead_soul",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 20,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 10000,
+                "sell": {
+                    "item": "minecraft:totem_of_undying",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 20,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 5000,
+                "buy": {
+                    "item": "minecraft:totem_of_undying",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 20,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 10000,
+                "sell": {
+                    "item": "additionz:totem_of_non_breaking",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 20,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 4200,
+                "sell": {
+                    "item": "levelz:strange_potion",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 20,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 4200,
+                "sell": {
+                    "item": "endrem:evil_eye",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 20000,
+                "sell": {
+                    "item": "minecraft:enchanted_book",
+                    "count": 1,
+                    "tag": {
+                        "StoredEnchantments": [
+                            {
+                                "id": "minecraft:mending",
+                                "lvl": 1
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 50,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 1000000,
+                "sell": {
+                    "item": "minecraft:elytra",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 50,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 20000,
+                "sell": {
+                    "item": "minecraft:nether_star",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 10000,
+                "sell": {
+                    "item": "minecraft:enchanted_book",
+                    "count": 1,
+                    "tag": {
+                        "StoredEnchantments": [
+                            {
+                                "id": "betterend:end_veil",
+                                "lvl": 1
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 10000,
+                "sell": {
+                    "item": "minecraft:enchanted_book",
+                    "count": 1,
+                    "tag": {
+                        "StoredEnchantments": [
+                            {
+                                "id": "additionz:eagle_eyed",
+                                "lvl": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        ]
+    }
+}

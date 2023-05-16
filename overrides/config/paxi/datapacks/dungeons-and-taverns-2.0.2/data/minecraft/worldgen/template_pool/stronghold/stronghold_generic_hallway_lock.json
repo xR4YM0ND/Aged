@@ -1,0 +1,15 @@
+{
+  "name": "minecraft:stronghold/stronghold_generic_hallway_lock",
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:stronghold/generic/stronghold_generic_path_lock",
+        "processors": "minecraft:stronghold_generic_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    }
+  ],
+  "fallback": "minecraft:empty"
+}

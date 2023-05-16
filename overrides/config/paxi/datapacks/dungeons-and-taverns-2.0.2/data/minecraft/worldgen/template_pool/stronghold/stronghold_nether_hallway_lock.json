@@ -1,0 +1,15 @@
+{
+  "name": "minecraft:stronghold/stronghold_nether_hallway_lock",
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:stronghold/nether/stronghold_nether_path_lock",
+        "processors": "minecraft:stronghold_nether_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    }
+  ],
+  "fallback": "minecraft:empty"
+}

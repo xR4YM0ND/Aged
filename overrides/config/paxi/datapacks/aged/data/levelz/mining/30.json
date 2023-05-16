@@ -1,0 +1,15 @@
+{
+    "replace": true,
+    "level": 30,
+    "block": [
+        "betternether:nether_ruby_ore",
+        "betternether:nether_ruby_block",
+        "betternether:nether_ruby_stairs",
+        "betternether:nether_ruby_slab",
+        "betterend:amber_ore",
+        "betterend:flavolite_runed",
+        "betterend:flavolite_runed_eternal",
+        "betterend:eternal_pedestal",
+        "minecraft:beacon"
+    ]
+}

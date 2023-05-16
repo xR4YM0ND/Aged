@@ -1,0 +1,433 @@
+{
+    "profession": "butcher",
+    "trades": {
+        "novice": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 48,
+                "sell": {
+                    "item": "ecologics:crab_meat",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 8,
+                "buy": {
+                    "item": "ecologics:crab_meat",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 4,
+                "price": 18,
+                "sell": {
+                    "item": "minecraft:rotten_flesh",
+                    "count": 30
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 4,
+                "price": 6,
+                "buy": {
+                    "item": "minecraft:rotten_flesh",
+                    "count": 30
+                }
+            }
+        ],
+        "apprentice": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 96,
+                "sell": {
+                    "item": "minecraft:porkchop",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 16,
+                "buy": {
+                    "item": "minecraft:porkchop",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 48,
+                "sell": {
+                    "item": "farmersdelight:bacon",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 8,
+                "buy": {
+                    "item": "farmersdelight:bacon",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 96,
+                "sell": {
+                    "item": "minecraft:chicken",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 16,
+                "buy": {
+                    "item": "minecraft:chicken",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 48,
+                "sell": {
+                    "item": "farmersdelight:chicken_cuts",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 8,
+                "buy": {
+                    "item": "farmersdelight:chicken_cuts",
+                    "count": 8
+                }
+            }
+        ],
+        "journeyman": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 96,
+                "sell": {
+                    "item": "minecraft:beef",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 16,
+                "buy": {
+                    "item": "minecraft:beef",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 48,
+                "sell": {
+                    "item": "farmersdelight:minced_beef",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 8,
+                "buy": {
+                    "item": "farmersdelight:minced_beef",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 96,
+                "sell": {
+                    "item": "minecraft:mutton",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 16,
+                "buy": {
+                    "item": "minecraft:mutton",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 48,
+                "sell": {
+                    "item": "farmersdelight:mutton_chops",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 8,
+                "buy": {
+                    "item": "farmersdelight:mutton_chops",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 192,
+                "sell": {
+                    "item": "adventurez:raw_venison",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 32,
+                "buy": {
+                    "item": "adventurez:raw_venison",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 192,
+                "sell": {
+                    "item": "naturalist:venison",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 32,
+                "buy": {
+                    "item": "naturalist:venison",
+                    "count": 8
+                }
+            }
+        ],
+        "expert": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 96,
+                "sell": {
+                    "item": "minecraft:rabbit",
+                    "count": 6
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 24,
+                "buy": {
+                    "item": "minecraft:rabbit",
+                    "count": 6
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 24,
+                "buy": {
+                    "item": "farmersdelight:ham",
+                    "count": 6
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 84,
+                "sell": {
+                    "item": "adventurez:iguana_meat",
+                    "count": 6
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 18,
+                "buy": {
+                    "item": "adventurez:iguana_meat",
+                    "count": 6
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 192,
+                "sell": {
+                    "item": "adventurez:ender_whale_meat",
+                    "count": 6
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 96,
+                "buy": {
+                    "item": "adventurez:ender_whale_meat",
+                    "count": 6
+                }
+            }
+        ],
+        "master": [
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 5,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 240,
+                "buy": {
+                    "item": "creatures_from_the_snow:beluga_fat",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 5,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 512,
+                "sell": {
+                    "item": "adventurez:warthog_meat",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 5,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 128,
+                "buy": {
+                    "item": "adventurez:warthog_meat",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 5,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 256,
+                "sell": {
+                    "item": "adventurez:mammoth_meat",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 5,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 64,
+                "buy": {
+                    "item": "adventurez:mammoth_meat",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 5,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 256,
+                "sell": {
+                    "item": "adventurez:rhino_meat",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 5,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 64,
+                "buy": {
+                    "item": "adventurez:rhino_meat",
+                    "count": 4
+                }
+            }
+        ]
+    }
+}
