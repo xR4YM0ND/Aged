@@ -31,6 +31,7 @@
 - Jobs Addon
 - LevelZ
 - Moonlight Lib
+- Rpg Difficulty
 - Simple Voice Chat
 - SpoiledZ
 - Tom's Simple Storage

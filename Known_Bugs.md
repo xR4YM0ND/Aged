@@ -25,9 +25,6 @@
 - Allow flask any time
 - Allow purified water bottles any time
 
-### Dehydration
-- Dirty Water Bottle smeltable in Furnace & Campfire (lot of people mentioned that) - Removed furnace info
-
 ### DungeonZ
 - **[Idea]** Boss phases (Boss is damage 2/3 , monsters spawn & you have to kill all mobs first to damage the Boss again) (like different stages for the boss fight)
 - **[Idea]** Add barrels as separate loot table \(eg. *Food Supply*)
