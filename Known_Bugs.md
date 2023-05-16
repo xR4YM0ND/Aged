@@ -56,7 +56,7 @@
 - give effect comfort on startup
 - Allow different mobs in different biomes to spawn \(*Enderman / Endermite / Stray / Skeleton / Soul Reaper / Withered Necromancer / Wither Puppet / ..*)
 
-```
+```json
 {
     "entitys_in_other_biomes": {
         "modid:biome_id": [
@@ -76,21 +76,16 @@
 ```
 *****
 ## Datapack
-
 - lower Grapes propability (punching grass)
-
 - update aged guide book
-
 - Villager Trade dark texture
 
 *****
 ## Others
-
 - Disable Phantoms / Gamerule
 - No permission for openpac-parties command ?
 
 ### On update
-
 change version numbers in
 - Main Menu x2
 - Loading Screen x2
@@ -111,7 +106,6 @@ is LICENSE.md there?
 
 *****
 ### Mods for Aged
-
 - null
 
 ### Maybe mods for Aged
@@ -173,5 +167,7 @@ is LICENSE.md there?
 
 ### Aged 2.0.0 Bugs
 ## General
+- null
 
 ## Server
+- null
