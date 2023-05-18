@@ -14,16 +14,18 @@
 - deny outgoing nether portal connection
 - deny incoming nether portal connection
 
-### Farmers Delight
-- Milk Bottle - Does not remove Effects
+### BackSlot
+- Backslot overlaps with environmentz (move Backslot HUD x coordinate)
 
-### Spice of Fabric
-- test on server (Beta 4)
+### Dehydration without Z
+- [IDEA] combine purified water bottle & flask to fill the flask in crafting table -> bottle gets destroyed
 
-### OPAC
-- Doors / Fencegates only open when empty handed, when functional item in hand it doesnt work
-- Allow flask any time
-- Allow purified water bottles any time
+### Early Stage
+- [IDEA] Clay Bucket (Clay Brick Bucket for lava one time use)
+- [IDEA] Fire Starting Sticks with durability and chance to lit the campfire
+
+### InmisAddon
+- Inmis Addon tab centers mouse when clicked on
 
 ### DungeonZ
 - **[Idea]** Boss phases (Boss is damage 2/3 , monsters spawn & you have to kill all mobs first to damage the Boss again) (like different stages for the boss fight)
@@ -41,6 +43,7 @@
 - Items (Swords/Axes/..) that are placed in item frames on generation (BetterDungeons / BetterDesertTemples / ..) are vanilla , they dont have tiers - Done
 - same for armor in armor stands on generation - Done
 - Extra slot in Anvil (Addition Slot -> items for rarity that get used once when place in (1 item always makes rare on upgrade, other always epic, etc..))
+- TieredZ aint working with Crafting Rock
 
 ### SpoiledZ
 - \(Cooking folder) - Bowl use on Blocks - Stuffed Pumpkin Block from Farmer's Delight not spoiled
@@ -76,6 +79,8 @@
 - lower Grapes propability (punching grass)
 - update aged guide book
 - Villager Trade dark texture
+- Change polymorph position (asked on their dc)
+- change hide to leather (with salt & sugar)
 
 *****
 ## Others

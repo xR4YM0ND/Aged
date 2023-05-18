@@ -1,4 +1,12 @@
 *****
+# Aged 2.0.3
+
+## Fixed:
+- Added iced_armor to environmentz datapack
+- Slowness switching cause of coldness
+- Overhauled environmentz datapack
+
+*****
 # Aged 2.0.2
 
 ## Changed:
