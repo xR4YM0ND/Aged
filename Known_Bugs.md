@@ -38,6 +38,7 @@
 - Max Mobs kill drops in a chunk (exlude some mobs (ender dragon / bosses / ...))
 - add hoe in github readme (3.Item (5 different not 4 different, you forgot the hoe))
 - clicking in sub categorys on the name (upper left) takes you back to the main levelz screen (same as pressing "E")
+- mining locked xp blocks (like calcite coal ore), they don't drop items but xp
 
 ### TieredZ
 - Items (Swords/Axes/..) that are placed in item frames on generation (BetterDungeons / BetterDesertTemples / ..) are vanilla , they dont have tiers - Done
