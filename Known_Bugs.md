@@ -134,10 +134,6 @@ is LICENSE.md there?
 
 - Continue Breaking a Block when you shortly lift \(~3sec)
 
-- Take Fall Damage while in a Boat \(cause in vanilla boats are OP af)
-
-- Ice Boat Nerf
-
 - Schriftrollen \(*teleport zum spawn nach 10 sec ohne damage*)
 
 - Juwlery ( Rings / Necklace / Gloves / .. ) - Different Sets: Farmer , Boat Speed , Dodge Chance , Walk Speed
