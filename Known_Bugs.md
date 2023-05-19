@@ -45,6 +45,8 @@
 - same for armor in armor stands on generation - Done
 - Extra slot in Anvil (Addition Slot -> items for rarity that get used once when place in (1 item always makes rare on upgrade, other always epic, etc..))
 - TieredZ aint working with Crafting Rock
+- Shields don't get modifiers
+- if inventory is full you can see the output modifiers of items before crafting (https://discord.com/channels/745451299713056791/745454651536834630/1108890383594836012)
 
 ### SpoiledZ
 - \(Cooking folder) - Bowl use on Blocks - Stuffed Pumpkin Block from Farmer's Delight not spoiled
