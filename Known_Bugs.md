@@ -165,6 +165,8 @@ is LICENSE.md there?
 - DynamicCrossair
 - DynamicCrosshairCompat
 - ExtraSounds
+- ShoulderSurfing
+- ChunkFadeIn
 
 ### Aged 2.0.0 Bugs
 ## General
