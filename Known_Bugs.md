@@ -48,6 +48,11 @@
 - Shields don't get modifiers
 - if inventory is full you can see the output modifiers of items before crafting (https://discord.com/channels/745451299713056791/745454651536834630/1108890383594836012)
 
+### ToolTipRareness
+- custom names / jsons not working (all jsons empty & replace true -> all items common -> minecraft:stone in a custom json -> still common)
+- Crash after typing /datapack list & clicking enter -> [Crash Report](https://gist.github.com/xR4YM0ND/8bc6a68437b4eb4f92e54249f7409c4f)
+- A lot of lines in the latest.log from @intwined -> [Latest.log](https://gist.github.com/xR4YM0ND/958ddeb35ce6e58ffdb43ce239a2871d) (*Scroll down till the end*)
+
 ### SpoiledZ
 - \(Cooking folder) - Bowl use on Blocks - Stuffed Pumpkin Block from Farmer's Delight not spoiled
 - Food Blocks you place down ( Cake , Apple Pie(Vinery Mod) , other modded ) dont get spoiled
@@ -66,12 +71,12 @@
             {
                 "entity": "minecraft:stray",
                 "weight": 8,
-                "idk": ...
+                "idk": ""
             },
             {
                 "entity": "",
-                "weight": .,
-                "idk": ...
+                "weight": 1,
+                "idk": ""
             }
         ]
     }
