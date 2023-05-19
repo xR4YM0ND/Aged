@@ -17,12 +17,12 @@
 ### BackSlot
 - Backslot overlaps with environmentz (move Backslot HUD x coordinate)
 
-### Dehydration without Z
-- [IDEA] combine purified water bottle & flask to fill the flask in crafting table -> bottle gets destroyed
+### Dehydration
+- **[IDEA]** combine purified water bottle & flask to fill the flask in crafting table -> bottle gets destroyed
 
 ### Early Stage
-- [IDEA] Clay Bucket (Clay Brick Bucket for lava one time use)
-- [IDEA] Fire Starting Sticks with durability and chance to lit the campfire
+- **[IDEA]** Clay Bucket (Clay Brick Bucket for lava one time use)
+- **[IDEA]** Fire Starting Sticks with durability and chance to lit the campfire
 
 ### InmisAddon
 - Inmis Addon tab centers mouse when clicked on
@@ -39,13 +39,17 @@
 - add hoe in github readme (3.Item (5 different not 4 different, you forgot the hoe))
 - clicking in sub categorys on the name (upper left) takes you back to the main levelz screen (same as pressing "E")
 - mining locked xp blocks (like calcite coal ore), they don't drop items but xp
+- Sometimes the Level before the name (over the player) is 0
+
+### JobsAddon
+- Fisher Job not working in Aged Modpack (maybe Gofish mod incompat?)
 
 ### TieredZ
 - Items (Swords/Axes/..) that are placed in item frames on generation (BetterDungeons / BetterDesertTemples / ..) are vanilla , they dont have tiers - Done
 - same for armor in armor stands on generation - Done
 - Extra slot in Anvil (Addition Slot -> items for rarity that get used once when place in (1 item always makes rare on upgrade, other always epic, etc..))
 - TieredZ aint working with Crafting Rock
-- Shields don't get modifiers
+- Wooden shield don't get modifiers
 - if inventory is full you can see the output modifiers of items before crafting (https://discord.com/channels/745451299713056791/745454651536834630/1108890383594836012)
 
 ### ToolTipRareness
