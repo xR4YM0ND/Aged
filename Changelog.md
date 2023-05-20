@@ -5,6 +5,17 @@
 - Added iced_armor to environmentz datapack
 - Slowness switching cause of coldness
 - Overhauled environmentz datapack
+- Seasons now working correctly
+
+## Updated:
+- Better End
+- Better Statistics Screen
+- Brewin and Chewin
+- Corgi Lib
+- Dynamic Crosshair
+- Modern Fix
+- Moonlight Lib
+- Simple Voice Chat
 
 *****
 # Aged 2.0.2
