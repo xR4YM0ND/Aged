@@ -2,12 +2,23 @@
 # Aged 2.0.3
 
 ## Fixed:
-- Added iced_armor to environmentz datapack
+- Missing iced_armor to environmentz datapack
 - Slowness switching cause of coldness
 - Overhauled environmentz datapack
 - Seasons now working correctly
 
+## Changed:
+- Crafting recipe for rotten leather
+- Crafting recipe for prepared hide \(added salt)
+
+## Removed:
+- Xali's Enhanced Vanilla \(*Resourcepack*)
+
+## Added:
+- Party Addon
+
 ## Updated:
+- **Aged Guide Book**
 - Better End
 - Better Statistics Screen
 - Brewin and Chewin

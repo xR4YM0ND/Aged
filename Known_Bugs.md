@@ -38,6 +38,7 @@
 - Max Mobs kill drops in a chunk (exlude some mobs (ender dragon / bosses / ...))
 - add hoe in github readme (3.Item (5 different not 4 different, you forgot the hoe))
 - clicking in sub categorys on the name (upper left) takes you back to the main levelz screen (same as pressing "E")
+- add outline to icons in levelz screen when they are hovered (second icon texture)
 - mining locked xp blocks (like calcite coal ore), they don't drop items but xp
 - Sometimes the Level before the name (over the player) is 0
 
@@ -88,11 +89,7 @@
 ```
 *****
 ## Datapack
-- lower Grapes propability (punching grass)
-- update aged guide book
-- Villager Trade dark texture
 - Change polymorph position (asked on their dc)
-- change hide to leather (with salt & sugar)
 
 *****
 ## Others
