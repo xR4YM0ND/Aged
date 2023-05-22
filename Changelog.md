@@ -15,6 +15,7 @@
 - Xali's Enhanced Vanilla \(*Resourcepack*)
 
 ## Added:
+- DungeonZ
 - Party Addon
 
 ## Updated:

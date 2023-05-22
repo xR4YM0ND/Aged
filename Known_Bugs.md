@@ -8,6 +8,7 @@
 - Fast Oxidization (with lava & water - should be 4x of the vanilla 1 block 3 space 1 block speed)
 - **[Idea]** TNT Tennis (2023 April Fools update)
 - Shield Cooldown compatible with the mod Guarding ? - Needs testing
+- waterbottles can be emptyed underwater (no block facing) -> Purified Water Bottle empty when right click in water instead of consume
 
 ### Another World
 - Disable Nether Portal creation (diable flint/steel on portal frame, disable creation (from nether to another:world))
@@ -23,6 +24,9 @@
 ### Early Stage
 - **[IDEA]** Clay Bucket (Clay Brick Bucket for lava one time use)
 - **[IDEA]** Fire Starting Sticks with durability and chance to lit the campfire
+
+### EnvironmentZ
+- Soaked (water) doesn't work
 
 ### InmisAddon
 - Inmis Addon tab centers mouse when clicked on
@@ -90,6 +94,7 @@
 *****
 ## Datapack
 - Change polymorph position (asked on their dc)
+- doubled fishing rod use in levelz (stamina & farming)
 
 *****
 ## Others
