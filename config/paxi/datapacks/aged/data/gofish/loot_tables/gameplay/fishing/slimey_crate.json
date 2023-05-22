@@ -1,0 +1,79 @@
+{
+  "replace": true,
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 9,
+          "name": "minecraft:slime_ball",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:slime_block"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 6,
+          "name": "gofish:slimefish",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "conditions": [
+        {
+          "condition": "random_chance",
+          "chance": 0.1
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "immersive_armors:slime_helmet"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "immersive_armors:slime_chestplate"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "immersive_armors:slime_leggings"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "immersive_armors:slime_boots"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "gofish:slime_rod"
+        }
+      ]
+    }
+  ]
+}

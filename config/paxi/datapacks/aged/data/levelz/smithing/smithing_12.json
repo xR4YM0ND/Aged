@@ -1,0 +1,27 @@
+{
+    "replace": true,
+    "level": 12,
+    "item": [
+        "minecraft:iron_sword",
+        "minecraft:iron_shovel",
+        "minecraft:iron_pickaxe",
+        "minecraft:iron_axe",
+        "minecraft:iron_hoe",
+        "minecraft:iron_helmet",
+        "minecraft:iron_chestplate",
+        "minecraft:iron_leggings",
+        "minecraft:iron_boots",
+        "medievalweapons:iron_small_axe",
+        "medievalweapons:iron_long_sword",
+        "medievalweapons:iron_dagger",
+        "medievalweapons:iron_francisca",
+        "medievalweapons:iron_big_axe",
+        "medievalweapons:iron_javelin",
+        "medievalweapons:iron_lance",
+        "medievalweapons:iron_healing_staff",
+        "medievalweapons:iron_mace",
+        "medievalweapons:iron_ninjato",
+        "medievalweapons:iron_sickle",
+        "medievalweapons:iron_rapier"
+    ]
+}

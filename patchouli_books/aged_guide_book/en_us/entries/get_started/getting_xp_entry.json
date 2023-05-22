@@ -1,0 +1,23 @@
+{
+    "name": "Getting XP",
+    "icon": "minecraft:experience_bottle",
+    "category": "patchouli:get_started_category",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "title": "Getting XP",
+            "text": "You gain levelz xp the same way as vanilla xp."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Easy Way",
+            "text": "$(br)Kill passive mobs like:$(br)$(li)Cow$(li)Chicken$(li)Sheep$(li)Fish$(br2)Or kill easy mobs like:$(br)$(li)Zombie$(li)Spider"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Stay away from",
+            "text": "$(br)Ranged Mobs:$(br)$(li)Skeleton$(li)Stray$(li)Pillager$(li)Witch$(br2)Strong Mobs:$(br)$(li)Enderman$(li)Creeper"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "replace": true,
+    "level": 30,
+    "item": [
+        "betternether:nether_ruby_sword",
+        "betternether:nether_ruby_pickaxe",
+        "betternether:nether_ruby_shovel",
+        "betternether:nether_ruby_axe",
+        "betternether:nether_ruby_hoe",
+        "medievalweapons:nether_ruby_small_axe",
+        "medievalweapons:nether_ruby_long_sword",
+        "medievalweapons:nether_ruby_dagger",
+        "medievalweapons:nether_ruby_francisca",
+        "medievalweapons:nether_ruby_big_axe",
+        "medievalweapons:nether_ruby_javelin",
+        "medievalweapons:nether_ruby_lance",
+        "medievalweapons:nether_ruby_healing_staff",
+        "medievalweapons:nether_ruby_mace",
+        "medievalweapons:nether_ruby_ninjato",
+        "medievalweapons:nether_ruby_sickle",
+        "medievalweapons:nether_ruby_rapier",
+        "betterend:crystalite_helmet",
+        "betterend:crystalite_chestplate",
+        "betterend:crystalite_leggings",
+        "betterend:crystalite_boots",
+        "betterend:elytra_crystalite"
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "replace": true,
+    "skill": "farming",
+    "level": 15,
+    "block": "minecraft:custom_block",
+    "object": "vinery:wood_fired_oven"
+}

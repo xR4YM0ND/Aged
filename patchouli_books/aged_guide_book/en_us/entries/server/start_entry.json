@@ -1,0 +1,17 @@
+{
+    "name": "Start",
+    "icon": "minecraft:compass",
+    "category": "patchouli:server_category",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "You spawn in the Building World as a Guest.$(br2)Read through this category to become a player."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Dimensions",
+            "text": "$(li)Building World$(li)Mining World$(li)Nether$(li)The End$(li)The Void"
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "mining",
+    "level": 18,
+    "block": "minecraft:custom_block",
+    "object": "geodes:echo_locator"
+}

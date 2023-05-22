@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "trade",
+    "level": 16,
+    "item": "minecraft:custom_item",
+    "object": "gofish:slime_rod"
+}

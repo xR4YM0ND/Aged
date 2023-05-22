@@ -1,0 +1,16 @@
+{
+    "replace": true,
+    "type": "minecraft:fishing",
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "weight": 1,
+                    "name": "gofish:end_crate"
+                }
+            ]
+        }
+    ]
+}

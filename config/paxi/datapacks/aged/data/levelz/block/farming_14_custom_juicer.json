@@ -1,0 +1,7 @@
+{
+    "replace": true,
+    "skill": "farming",
+    "level": 14,
+    "block": "minecraft:custom_block",
+    "object": "expandeddelight:juicer"
+}

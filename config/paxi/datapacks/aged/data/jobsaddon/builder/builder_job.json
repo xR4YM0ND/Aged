@@ -1,0 +1,9 @@
+{
+    "2": {
+        "replace": true,
+        "blocks": [
+            "minecraft:obsidian",
+            "minecraft:crying_obsidian"
+        ]
+    }
+}

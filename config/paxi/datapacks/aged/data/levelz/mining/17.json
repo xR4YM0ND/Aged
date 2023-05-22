@@ -1,0 +1,24 @@
+{
+    "replace": true,
+    "level": 17,
+    "block": [
+        "minecraft:diamond_block",
+        "minecraft:diamond_ore",
+        "universal_ores:andesite_diamond_ore",
+        "universal_ores:diorite_diamond_ore",
+        "universal_ores:granite_diamond_ore",
+        "universal_ores:calcite_diamond_ore",
+        "universal_ores:tuff_diamond_ore",
+        "minecraft:deepslate_diamond_ore",
+        "geodes:diamond_geode",
+        "geodes:diamond_cluster",
+        "minecraft:jukebox",
+        "minecraft:deepslate_tiles",
+        "minecraft:deepslate_tile_stairs",
+        "minecraft:deepslate_tile_slab",
+        "minecraft:deepslate_tile_wall",
+        "minecraft:cracked_deepslate_tiles",
+        "minecraft:chiseled_deepslate",
+        "minecraft:reinforced_deepslate"
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "level": 18,
+    "skill": "alchemy",
+    "item": [
+        "minecraft:enchanting_table"
+    ]
+}

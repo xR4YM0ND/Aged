@@ -1,0 +1,23 @@
+{
+    "name": "Jobz",
+    "icon": "numismatic-overhaul:bronze_coin",
+    "category": "patchouli:get_started_category",
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "patchouli:image",
+            "title": "Take Jobs",
+            "images": ["aged:textures/gui/entries/jobs_screen.png"]
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Infos",
+            "text": "$(br)Jobs give you XP & coins on level up.$(br2)$(li)max 2 jobs$(li)1 hour cooldown$(li)max level 100 per job"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Recommendation",
+            "text": "$(br)$(li)Lumberjack$(li)Warrior$(br)$(li)Miner$(li)Smither"
+        }
+    ]
+}

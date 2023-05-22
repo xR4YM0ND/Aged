@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "rotten:hide"
+        },
+        {
+            "tag": "aged:hide_ingredients"
+        },
+        {
+            "tag": "aged:hide_ingredients"
+        },
+        {
+            "tag": "aged:hide_ingredients"
+        }
+    ],
+    "result": {
+        "item": "rotten:prepared_hide",
+        "count": 1
+    }
+}

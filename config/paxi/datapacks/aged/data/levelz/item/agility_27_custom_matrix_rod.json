@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "agility",
+    "level": 27,
+    "item": "minecraft:custom_item",
+    "object": "gofish:matrix_rod"
+}

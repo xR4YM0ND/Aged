@@ -1,0 +1,14 @@
+{
+    "replace": true,
+    "level": 29,
+    "block": [
+        "betterend:mossy_dragon_bone",
+        "betterend:dragon_bone_block",
+        "betterend:dragon_bone_stairs",
+        "betterend:dragon_bone_slab",
+        "betterend:dragon_tree_log",
+        "betterend:dragon_tree_bark",
+        "betterend:dragon_tree_stripped_log",
+        "betterend:dragon_tree_stripped_bark"
+    ]
+}

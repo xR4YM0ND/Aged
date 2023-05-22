@@ -1,0 +1,105 @@
+{
+  "replace": true,
+  "type": "minecraft:fishing",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 50,
+          "name": "gofish:endfish"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 40,
+          "name": "betterend:end_fish_raw"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "name": "gofish:matrix_fish",
+          "conditions": [
+            {
+              "condition": "gofish:match_biome",
+              "biome": {
+                "valid": [
+                  "betterend:ice_starfield"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 15,
+          "name": "gofish:ender_eel"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 25,
+          "name": "gofish:chorus_cod",
+          "conditions": [
+            {
+              "condition": "gofish:match_biome",
+              "biome": {
+                "valid": [
+                  "betterend:chorus_forest",
+                  "betterend:shadow_forest"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "name": "gofish:dragonfish",
+          "conditions": [
+            {
+              "condition": "gofish:match_biome",
+              "biome": {
+                "valid": [
+                  "betterend:dragon_graveyards"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "gofish:omega_floater",
+          "conditions": [
+            {
+              "condition": "gofish:match_biome",
+              "biome": {
+                "valid": [
+                  "betterend:crystal_mountains",
+                  "betterend:shadow_forest",
+                  "betterend:chorus_forest"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "gofish:portal_puffer",
+          "conditions": [
+            {
+              "condition": "gofish:match_biome",
+              "biome": {
+                "valid": [
+                  "betterend:shadow_forest",
+                  "betterend:umbra_valley"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

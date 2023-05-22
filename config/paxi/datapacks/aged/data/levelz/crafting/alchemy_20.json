@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "level": 20,
+    "skill": "alchemy",
+    "item": [
+        "endrem:witch_eye",
+        "chipped:alchemy_bench"
+    ]
+}

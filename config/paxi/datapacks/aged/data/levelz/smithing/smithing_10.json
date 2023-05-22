@@ -1,0 +1,33 @@
+{
+    "replace": true,
+    "level": 10,
+    "item": [
+        "betterend:thallasium_block",
+        "betterend:thallasium_forged_plate",
+        "betterend:thallasium_shovel_head",
+        "betterend:thallasium_pickaxe_head",
+        "betterend:thallasium_axe_head",
+        "betterend:thallasium_hoe_head",
+        "betterend:thallasium_sword_blade",
+        "betterend:thallasium_sword_handle",
+        "betterend:thallasium_shovel",
+        "betterend:thallasium_sword",
+        "betterend:thallasium_pickaxe",
+        "betterend:thallasium_axe",
+        "betterend:thallasium_hoe",
+        "betterend:thallasium_hammer",
+        "medievalweapons:thallasium_small_axe",
+        "medievalweapons:thallasium_long_sword",
+        "medievalweapons:thallasium_dagger",
+        "medievalweapons:thallasium_francisca",
+        "medievalweapons:thallasium_big_axe",
+        "medievalweapons:thallasium_javelin",
+        "medievalweapons:thallasium_lance",
+        "medievalweapons:thallasium_healing_staff",
+        "medievalweapons:thallasium_mace",
+        "medievalweapons:thallasium_ninjato",
+        "medievalweapons:thallasium_sickle",
+        "medievalweapons:thallasium_rapier",
+        "minecraft:trident"
+    ]
+}

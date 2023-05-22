@@ -1,0 +1,16 @@
+[betterDungeons.general]
+enableHeads = true
+removeVanillaDungeons = true
+enableNetherBlocks = true
+[betterDungeons.zombieDungeon]
+zombieDungeonMaxSurfaceStaircaseLength = 30
+[betterDungeons.smallDungeon]
+bannerMaxCount = 2
+chestMinCount = 0
+chestMaxCount = 3
+enableOreProps = true
+[betterDungeons.smallNetherDungeon]
+enabled = true
+witherSkeletonsDropWitherSkulls = true
+blazesDropBlazeRods = true
+bannerMaxCount = 2

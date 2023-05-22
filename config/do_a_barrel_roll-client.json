@@ -1,0 +1,39 @@
+{
+  "general": {
+    "mod_enabled": true,
+    "controls": {
+      "switch_roll_and_yaw": false,
+      "invert_pitch": false,
+      "momentum_based_mouse": false,
+      "show_momentum_widget": true,
+      "activation_behaviour": "VANILLA"
+    },
+    "banking": {
+      "enable_banking": true,
+      "banking_strength": 20.0
+    },
+    "thrust": {
+      "enable_thrust": false,
+      "max_thrust": 2.0,
+      "thrust_acceleration": 0.01,
+      "thrust_particles": true
+    }
+  },
+  "sensitivity": {
+    "smoothing": {
+      "smoothing_pitch": 1.0,
+      "smoothing_yaw": 0.4,
+      "smoothing_roll": 1.0
+    },
+    "desktop": {
+      "pitch": 1.0,
+      "yaw": 0.4,
+      "roll": 1.0
+    },
+    "controller": {
+      "pitch": 1.0,
+      "yaw": 0.4,
+      "roll": 1.0
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+    "replace": true,
+    "level": 16,
+    "item": [
+        "betterend:terminite_block",
+        "betterend:terminite_ingot",
+        "betterend:terminite_forged_plate",
+        "betterend:terminite_shovel_head",
+        "betterend:terminite_pickaxe_head",
+        "betterend:terminite_axe_head",
+        "betterend:terminite_hoe_head",
+        "betterend:terminite_sword_blade",
+        "betterend:terminite_sword_handle",
+        "betterend:terminite_shovel",
+        "betterend:terminite_sword",
+        "betterend:terminite_pickaxe",
+        "betterend:terminite_axe",
+        "betterend:terminite_hoe",
+        "betterend:terminite_hammer",
+        "medievalweapons:terminite_small_axe",
+        "medievalweapons:terminite_long_sword",
+        "medievalweapons:terminite_dagger",
+        "medievalweapons:terminite_francisca",
+        "medievalweapons:terminite_big_axe",
+        "medievalweapons:terminite_javelin",
+        "medievalweapons:terminite_lance",
+        "medievalweapons:terminite_healing_staff",
+        "medievalweapons:terminite_mace",
+        "medievalweapons:terminite_ninjato",
+        "medievalweapons:terminite_sickle",
+        "medievalweapons:terminite_rapier"
+    ]
+}

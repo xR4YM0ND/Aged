@@ -1,0 +1,81 @@
+{
+    "name": "Fresh Water",
+    "icon": "minecraft:potion{Potion:purified_water}",
+    "category": "patchouli:get_started_category",
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:campfire",
+            "title": "Purified Water Bottles",
+            "text": "Fill bottles with water and place them on a lit campfire.$(br2)They will turn into purified water bottles"
+        },
+        {
+            "type": "patchouli:smelting",
+            "recipe": "minecraft:glass",
+            "title": "More Bottles",
+            "text": "You need level 2 in smithing to use the furnace.$(br2)Gather sand, smelt it into glass & craft more bottles."
+        },
+        {
+            "type": "patchouli:smelting",
+            "recipe": "minecraft:copper_ingot_from_smelting_copper_ore",
+            "title": "Acquire Copper",
+            "text": "You need level 6 in mining to break copper ores.$(br2)This is important for advanced methods of water purification."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "dehydration:copper_cauldron",
+            "recipe2": "dehydration:campfire_cauldron"
+        },
+        {
+            "type": "multiblock",
+            "multiblock": {
+                "pattern": [
+                    [
+                        "P"
+                    ],
+                    [
+                        "0"
+                    ]
+                ],
+                "mapping": {
+                    "0": "minecraft:campfire",
+                    "P": "dehydration:campfire_cauldron"
+                },
+                "symmetrical": true,
+                "offset": [0, 30, 0]
+            }
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Campfire Cauldron",
+            "text": "$(br)Purify Water easily.$(br)This is the best solution early game combined with leather flasks.$(br2)Place the copper cauldron on top of a campfire."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "Collect Rain Water",
+            "item": "dehydration:copper_cauldron",
+            "text": "$(br)The copper cauldron allows you to collect fresh rain water."
+        },
+        {
+            "type": "patchouli:crafting",
+            "title": "Bamboo Pump",
+            "recipe": "dehydration:bamboo_pump",
+            "text": "$(br)Place a bottle, flask or bucket onto it, to fill them with fresh water.$(br)$(li)1 min cooldown"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "dehydration:leather_flask",
+            "recipe2": "dehydration:iron_leather_flask"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "dehydration:golden_leather_flask",
+            "recipe2": "dehydration:diamond_leather_flask"
+        },
+        {
+            "type": "patchouli:smithing",
+            "recipe": "dehydration:netherite_leather_flask"
+        }
+    ]
+}

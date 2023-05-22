@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "level": 29,
+    "skill": "defense",
+    "item": [
+        "betterend:aeternium_helmet",
+        "betterend:aeternium_chestplate",
+        "betterend:aeternium_leggings",
+        "betterend:aeternium_boots"
+    ]
+}

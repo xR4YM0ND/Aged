@@ -1,0 +1,16 @@
+{
+    "replace": true,
+    "level": 8,
+    "item": [
+        "minecraft:iron_ingot",
+        "minecraft:chainmail_helmet",
+        "minecraft:chainmail_chestplate",
+        "minecraft:chainmail_leggings",
+        "minecraft:chainmail_boots",
+        "betterend:thallasium_ingot",
+        "betterend:thallasium_helmet",
+        "betterend:thallasium_chestplate",
+        "betterend:thallasium_leggings",
+        "betterend:thallasium_boots"
+    ]
+}
