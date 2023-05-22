@@ -5,11 +5,15 @@
 - Missing iced_armor to environmentz datapack
 - Slowness switching cause of coldness
 - Overhauled environmentz datapack
-- Seasons now working correctly
+- Seasons now work correctly
+- JobsAddon fisher job now works
+- JobsAddon tab unclickable
 
 ## Changed:
 - Crafting recipe for rotten leather
 - Crafting recipe for prepared hide \(added salt)
+- Reduced overheating exhaustion from 0.5 to 0.075
+- Tweaked Rapier
 
 ## Removed:
 - Xali's Enhanced Vanilla \(*Resourcepack*)
@@ -25,8 +29,10 @@
 - Brewin and Chewin
 - Corgi Lib
 - Dynamic Crosshair
-- Modern Fix
+- Jobs Addon
+- Medieval Weapons
 - Moonlight Lib
+- Rpg Difficulty
 - Simple Voice Chat
 
 *****

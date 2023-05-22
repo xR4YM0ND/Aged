@@ -26,7 +26,7 @@
 - **[IDEA]** Fire Starting Sticks with durability and chance to lit the campfire
 
 ### EnvironmentZ
-- Soaked (water) doesn't work
+- Freeze to death in the nether (no armor / no items / no blocks) [freeze death latest.log](https://gist.github.com/xR4YM0ND/a8e52fa22efa873b7f2920fa367ab026)
 
 ### InmisAddon
 - Inmis Addon tab centers mouse when clicked on
@@ -34,9 +34,6 @@
 ### DungeonZ
 - **[Idea]** Boss phases (Boss is damage 2/3 , monsters spawn & you have to kill all mobs first to damage the Boss again) (like different stages for the boss fight)
 - **[Idea]** Add barrels as separate loot table \(eg. *Food Supply*)
-
-### Medieval Weapons
-- Give Rapier downsides (currently by far the best item in this mod (by damage per minute))
 
 ### LevelZ
 - Max Mobs kill drops in a chunk (exlude some mobs (ender dragon / bosses / ...))
@@ -95,6 +92,7 @@
 ## Datapack
 - Change polymorph position (asked on their dc)
 - doubled fishing rod use in levelz (stamina & farming)
+- no texture ontop / onbottom of book shelfs (cause of modernfix 3.6.0)
 
 *****
 ## Others
