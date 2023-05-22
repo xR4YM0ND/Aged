@@ -4,6 +4,7 @@
 ## Fixed:
 - Missing iced_armor to environmentz datapack
 - Slowness switching cause of coldness
+- Items get doubled environment values
 - Overhauled environmentz datapack
 - Seasons now work correctly
 - JobsAddon fisher job now works
@@ -29,6 +30,7 @@
 - Brewin and Chewin
 - Corgi Lib
 - Dynamic Crosshair
+- EnvironmentZ
 - Jobs Addon
 - Medieval Weapons
 - Moonlight Lib
