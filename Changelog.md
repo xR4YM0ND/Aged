@@ -32,6 +32,7 @@
 - Jobs Addon
 - Medieval Weapons
 - Moonlight Lib
+- Nameplate
 - Rpg Difficulty
 - Simple Voice Chat
 

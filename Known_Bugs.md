@@ -26,7 +26,7 @@
 - **[IDEA]** Fire Starting Sticks with durability and chance to lit the campfire
 
 ### EnvironmentZ
-- Freeze to death in the nether (no armor / no items / no blocks) [freeze death latest.log](https://gist.github.com/xR4YM0ND/a8e52fa22efa873b7f2920fa367ab026)
+- Item value is actually doubled (Ice pack -20, Heating stones +20, ...)
 
 ### InmisAddon
 - Inmis Addon tab centers mouse when clicked on
@@ -43,9 +43,6 @@
 - mining locked xp blocks (like calcite coal ore), they don't drop items but xp
 - Sometimes the Level before the name (over the player) is 0
 
-### JobsAddon
-- Fisher Job not working in Aged Modpack (maybe Gofish mod incompat?)
-
 ### TieredZ
 - Items (Swords/Axes/..) that are placed in item frames on generation (BetterDungeons / BetterDesertTemples / ..) are vanilla , they dont have tiers - Done
 - same for armor in armor stands on generation - Done
@@ -54,17 +51,10 @@
 - Wooden shield don't get modifiers
 - if inventory is full you can see the output modifiers of items before crafting (https://discord.com/channels/745451299713056791/745454651536834630/1108890383594836012)
 
-### ToolTipRareness
-- custom names / jsons not working (all jsons empty & replace true -> all items common -> minecraft:stone in a custom json -> still common)
-- Crash after typing /datapack list & clicking enter -> [Crash Report](https://gist.github.com/xR4YM0ND/8bc6a68437b4eb4f92e54249f7409c4f)
-- A lot of lines in the latest.log from @intwined -> [Latest.log](https://gist.github.com/xR4YM0ND/958ddeb35ce6e58ffdb43ce239a2871d) (*Scroll down till the end*)
-
 ### SpoiledZ
 - \(Cooking folder) - Bowl use on Blocks - Stuffed Pumpkin Block from Farmer's Delight not spoiled
 - Food Blocks you place down ( Cake , Apple Pie(Vinery Mod) , other modded ) dont get spoiled
 - Crash with [Farmers Respite "Rose Hip Pie"](https://beta.curseforge.com/minecraft/mc-mods/farmers-respite-fabric) -> [latest.log](https://gist.github.com/SpigotDE/1d055f0e746194d5c284b9ef9bd99ef7) -> [updated latest.log with xaero ?](https://gist.github.com/SpigotDE/67ff7c6e4791a89cce6aa7342dce8d23)
-- Smelting meat doesnt stack in the smoker / furnace -> NBT Crafting
-- Crash with vinery
 
 ### Unknown
 - give effect comfort on startup
@@ -92,7 +82,6 @@
 ## Datapack
 - Change polymorph position (asked on their dc)
 - doubled fishing rod use in levelz (stamina & farming)
-- no texture ontop / onbottom of book shelfs (cause of modernfix 3.6.0)
 
 *****
 ## Others
