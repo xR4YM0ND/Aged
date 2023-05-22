@@ -10,7 +10,7 @@
 	"show_thermometer": true,
 	// Handle with care!
 	"heat_block_radius": 3,
-	"printInConsole": true,
+	"printInConsole": false,
 	// White overlay while in cold biomes
 	"cold_overlay": true,
 	"shaking_screen_effect": true,
