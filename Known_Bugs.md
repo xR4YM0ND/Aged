@@ -98,6 +98,13 @@ change Changelog in
 - Loading Screen
 - Main Menu
 
+check if config options are disabled
+- environmentz
+- rpgdifficulty
+- nameplate
+- dehydration
+- fancymenu
+
 is LICENSE.md there?
 
 ## Only Server configs

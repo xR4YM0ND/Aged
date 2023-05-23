@@ -1,4 +1,18 @@
 *****
+# Aged 2.0.3 Hotfix
+
+## Fixed:
+- Fishing Rod in wrong levelz category
+- Die when you reach the min body temperature
+
+## Changed:
+- Disabled Backslot HUD \(*Overlap Issue*)
+
+## Updated:
+- EnvironmentZ
+- Nameplate
+
+*****
 # Aged 2.0.3
 
 ## Fixed:
