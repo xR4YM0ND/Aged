@@ -1,0 +1,18 @@
+{
+    "replace": true,
+    "level": 18,
+    "block": [
+        "minecraft:sculk",
+        "minecraft:sculk_vein",
+        "minecraft:sculk_catalyst",
+        "minecraft:sculk_shrieker",
+        "minecraft:sculk_sensor",
+        "geodes:budding_echo_block",
+        "geodes:echo_block",
+        "geodes:echo_cluster",
+        "geodes:large_echo_bud",
+        "geodes:medium_echo_bud",
+        "geodes:small_echo_bud",
+        "geodes:echo_locator"
+    ]
+}

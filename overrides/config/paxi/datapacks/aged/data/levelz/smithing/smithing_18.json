@@ -1,0 +1,25 @@
+{
+    "replace": true,
+    "level": 18,
+    "item": [
+        "betternether:cincinnasite_ingot",
+        "betternether:cincinnasite_sword",
+        "betternether:cincinnasite_pickaxe",
+        "betternether:cincinnasite_shovel",
+        "betternether:cincinnasite_axe",
+        "betternether:cincinnasite_hoe",
+        "medievalweapons:cincinnasite_small_axe",
+        "medievalweapons:cincinnasite_long_sword",
+        "medievalweapons:cincinnasite_dagger",
+        "medievalweapons:cincinnasite_francisca",
+        "medievalweapons:cincinnasite_big_axe",
+        "medievalweapons:cincinnasite_javelin",
+        "medievalweapons:cincinnasite_lance",
+        "medievalweapons:cincinnasite_healing_staff",
+        "medievalweapons:cincinnasite_mace",
+        "medievalweapons:cincinnasite_ninjato",
+        "medievalweapons:cincinnasite_sickle",
+        "medievalweapons:cincinnasite_rapier",
+        "minecraft:elytra"
+    ]
+}

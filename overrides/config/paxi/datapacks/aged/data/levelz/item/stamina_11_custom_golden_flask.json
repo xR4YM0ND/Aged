@@ -1,0 +1,7 @@
+{
+    "replace": true,
+    "skill": "stamina",
+    "level": 11,
+    "item": "minecraft:custom_item",
+    "object": "dehydration:golden_leather_flask"
+}

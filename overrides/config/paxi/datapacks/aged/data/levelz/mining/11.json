@@ -1,0 +1,19 @@
+{
+    "replace": true,
+    "level": 11,
+    "block": [
+        "universal_ores:calcite_coal_ore",
+        "universal_ores:calcite_copper_ore",
+        "universal_ores:calcite_iron_ore",
+        "minecraft:calcite",
+        "geodes:calcite_stairs",
+        "geodes:calcite_slab",
+        "geodes:calcite_wall",
+        "minecraft:budding_amethyst",
+        "minecraft:amethyst_block",
+        "minecraft:amethyst_cluster",
+        "minecraft:large_amethyst_bud",
+        "minecraft:medium_amethyst_bud",
+        "minecraft:small_amethyst_bud"
+    ]
+}

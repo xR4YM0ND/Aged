@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "level": 9,
+    "skill": "mining",
+    "item": [
+        "minecraft:rail",
+        "minecraft:minecart",
+        "minecraft:chest_minecart",
+        "minecraft:furnace_minecart",
+        "minecraft:tnt_minecart",
+        "minecraft:hopper_minecart"
+    ]
+}

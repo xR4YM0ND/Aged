@@ -1,0 +1,7 @@
+{
+    "replace": true,
+    "skill": "luck",
+    "level": 23,
+    "block": "minecraft:custom_block",
+    "object": "disenchanter:disenchanter"
+}

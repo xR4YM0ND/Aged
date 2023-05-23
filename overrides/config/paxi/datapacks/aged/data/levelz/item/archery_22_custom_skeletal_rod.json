@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "archery",
+    "level": 22,
+    "item": "minecraft:custom_item",
+    "object": "gofish:skeletal_rod"
+}

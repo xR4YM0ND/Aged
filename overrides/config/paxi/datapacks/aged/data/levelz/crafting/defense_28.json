@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "level": 28,
+    "skill": "defense",
+    "item": [
+        "betternether:nether_ruby_helmet",
+        "betternether:nether_ruby_chestplate",
+        "betternether:nether_ruby_leggings",
+        "betternether:nether_ruby_boots"
+    ]
+}

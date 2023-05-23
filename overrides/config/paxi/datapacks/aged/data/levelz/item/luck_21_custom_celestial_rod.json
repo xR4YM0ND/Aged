@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "luck",
+    "level": 21,
+    "item": "minecraft:custom_item",
+    "object": "gofish:celestial_rod"
+}

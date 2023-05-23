@@ -1,0 +1,8 @@
+{
+    "replace": true,
+    "level": 25,
+    "item": [
+        "minecraft:pufferfish",
+        "gofish:rainy_bass"
+    ]
+}

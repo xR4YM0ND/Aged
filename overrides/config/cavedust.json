@@ -1,0 +1,16 @@
+{
+  "dimensionMaxX": 5,
+  "dimensionMaxY": 5,
+  "dimensionMaxZ": 5,
+  "dimensionMinX": -5,
+  "dimensionMinY": -5,
+  "dimensionMinZ": -5,
+  "velocityRandomness": 1,
+  "caveDustEnabled": true,
+  "particleName": "white_ash",
+  "seaLevelCheck": true,
+  "superFlatStatus": false,
+  "upperLimit": 64.0,
+  "lowerLimit": -64.0,
+  "particleMultiplier": 1
+}

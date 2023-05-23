@@ -1,0 +1,8 @@
+# The configuration file for Log Begone
+
+[logbegone]
+# If a log message has one of these phrases, it will be filtered out from logging
+phrases = ["This makes sure Expanded Delight mixins are loaded", "This line is printed by the mod mixin!", "Initializing bushierflowers Mixins", "Empty or non-existent pool: minecraft:"]
+
+# If a log message matches one of these regex patterns, it will be filtered out from logging. EX: 
+regex = []

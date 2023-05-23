@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "level": 13,
+    "skill": "alchemy",
+    "item": [
+        "immersive_armors:robe_helmet",
+        "immersive_armors:robe_chestplate",
+        "immersive_armors:robe_leggings",
+        "immersive_armors:robe_boots"
+    ]
+}

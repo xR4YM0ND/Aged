@@ -1,0 +1,754 @@
+{
+    "profession": "farmer",
+    "trades": {
+        "novice": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 12,
+                "sell": {
+                    "item": "minecraft:apple",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 4,
+                "buy": {
+                    "item": "minecraft:apple",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 6,
+                "sell": {
+                    "item": "minecraft:sweet_berries",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 2,
+                "buy": {
+                    "item": "minecraft:sweet_berries",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 12,
+                "sell": {
+                    "item": "minecraft:glow_berries",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 4,
+                "buy": {
+                    "item": "minecraft:glow_berries",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 12,
+                "sell": {
+                    "item": "betternether:black_apple",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 4,
+                "buy": {
+                    "item": "betternether:black_apple",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 24,
+                "sell": {
+                    "item": "betterend:shadow_berry_raw",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 8,
+                "buy": {
+                    "item": "betterend:shadow_berry_raw",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 24,
+                "sell": {
+                    "item": "betterend:blossom_berry",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 8,
+                "buy": {
+                    "item": "betterend:blossom_berry",
+                    "count": 8
+                }
+            }
+        ],
+        "apprentice": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 24,
+                "sell": {
+                    "item": "expandeddelight:salt_rock",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 8,
+                "buy": {
+                    "item": "expandeddelight:salt_rock",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 48,
+                "sell": {
+                    "item": "minecraft:wheat",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 8,
+                "buy": {
+                    "item": "minecraft:wheat",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 48,
+                "sell": {
+                    "item": "minecraft:carrot",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 8,
+                "buy": {
+                    "item": "minecraft:carrot",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 48,
+                "sell": {
+                    "item": "minecraft:potato",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 8,
+                "buy": {
+                    "item": "minecraft:potato",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 48,
+                "sell": {
+                    "item": "minecraft:beetroot",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 8,
+                "buy": {
+                    "item": "minecraft:beetroot",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 8,
+                "sell": {
+                    "item": "ecologics:coconut_slice",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 2,
+                "buy": {
+                    "item": "ecologics:coconut_slice",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 48,
+                "sell": {
+                    "item": "expandeddelight:sweet_potato",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 8,
+                "buy": {
+                    "item": "expandeddelight:sweet_potato",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 48,
+                "sell": {
+                    "item": "farmersdelight:tomato",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 8,
+                "buy": {
+                    "item": "farmersdelight:tomato",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 48,
+                "sell": {
+                    "item": "farmersdelight:cabbage",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 8,
+                "buy": {
+                    "item": "farmersdelight:cabbage",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 48,
+                "sell": {
+                    "item": "farmersdelight:onion",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 8,
+                "buy": {
+                    "item": "farmersdelight:onion",
+                    "count": 8
+                }
+            }
+        ],
+        "journeyman": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 6,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 563,
+                "sell": {
+                    "item": "moisturization:sprinkler",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 4,
+                "buy": {
+                    "item": "minecraft:poisonous_potato",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 24,
+                "sell": {
+                    "item": "vinery:red_grape",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 4,
+                "buy": {
+                    "item": "vinery:red_grape",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 24,
+                "sell": {
+                    "item": "vinery:white_grape",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 4,
+                "buy": {
+                    "item": "vinery:white_grape",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 3,
+                "buy": {
+                    "item": "ecologics:prickly_pear",
+                    "count": 5
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 4,
+                "buy": {
+                    "item": "farmersdelight:rotten_tomato",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 15,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 2500,
+                "sell": {
+                    "item": "minecraft:enchanted_book",
+                    "count": 1,
+                    "tag": {
+                        "StoredEnchantments": [
+                            {
+                                "id": "minecraft:lure",
+                                "lvl": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        ],
+        "expert": [
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 50,
+                "buy": {
+                    "item": "minecraft:honey_bottle",
+                    "count": 2
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 16,
+                "buy": {
+                    "item": "overweight_farming:vegetable_peels",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 48,
+                "sell": {
+                    "item": "vinery:cherry",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 8,
+                "buy": {
+                    "item": "vinery:cherry",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 48,
+                "sell": {
+                    "item": "ecologics:walnut",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 8,
+                "buy": {
+                    "item": "ecologics:walnut",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 48,
+                "sell": {
+                    "item": "expandeddelight:asparagus",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 8,
+                "buy": {
+                    "item": "expandeddelight:asparagus",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 48,
+                "sell": {
+                    "item": "farmersdelight:rice",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 8,
+                "buy": {
+                    "item": "farmersdelight:rice",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 20,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 5000,
+                "sell": {
+                    "item": "minecraft:enchanted_book",
+                    "count": 1,
+                    "tag": {
+                        "StoredEnchantments": [
+                            {
+                                "id": "minecraft:lure",
+                                "lvl": 2
+                            }
+                        ]
+                    }
+                }
+            }
+        ],
+        "master": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 10,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 8063,
+                "sell": {
+                    "item": "moisturization:netherite_sprinkler",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 5,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 40,
+                "sell": {
+                    "item": "chipped:botanist_workbench",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 5,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 96,
+                "sell": {
+                    "item": "expandeddelight:raw_cinnamon",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 5,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 32,
+                "buy": {
+                    "item": "expandeddelight:raw_cinnamon",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 5,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 8,
+                "sell": {
+                    "item": "betterend:amber_root_raw",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 5,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 2,
+                "buy": {
+                    "item": "betterend:amber_root_raw",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 5,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 8,
+                "sell": {
+                    "item": "betterend:chorus_mushroom_raw",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 5,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 2,
+                "buy": {
+                    "item": "betterend:chorus_mushroom_raw",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 5,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 48,
+                "sell": {
+                    "item": "expandeddelight:chili_pepper",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 5,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 8,
+                "buy": {
+                    "item": "expandeddelight:chili_pepper",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 5,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 96,
+                "sell": {
+                    "item": "expandeddelight:peanut",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 5,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 16,
+                "buy": {
+                    "item": "expandeddelight:peanut",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 25,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 10000,
+                "sell": {
+                    "item": "minecraft:enchanted_book",
+                    "count": 1,
+                    "tag": {
+                        "StoredEnchantments": [
+                            {
+                                "id": "minecraft:lure",
+                                "lvl": 3
+                            }
+                        ]
+                    }
+                }
+            }
+        ]
+    }
+}

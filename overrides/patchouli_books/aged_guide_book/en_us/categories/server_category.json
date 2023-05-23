@@ -1,0 +1,6 @@
+{
+    "name": "Server",
+    "description": "Hail fellow, well met.$(br2)IP: 176.9.37.250:25565$(br2)Read through these entries to become a player on the official aged modpack server.",
+    "icon": "minecraft:player_head{SkullOwner:Globox_Z}",
+    "sortnum": 6
+}

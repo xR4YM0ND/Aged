@@ -1,0 +1,8 @@
+{
+    "replace": true,
+    "level": 17,
+    "item": [
+        "minecraft:golden_carrot",
+        "betterend:murkweed"
+    ]
+}

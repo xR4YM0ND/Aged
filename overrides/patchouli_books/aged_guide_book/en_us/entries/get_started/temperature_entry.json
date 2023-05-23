@@ -1,0 +1,70 @@
+{
+    "name": "Temperature",
+    "icon": "endrem:cold_eye",
+    "category": "patchouli:get_started_category",
+    "sortnum": 5,
+    "pages": [
+        {
+            "type": "patchouli:image",
+            "images": ["aged:textures/gui/entries/burning_body_temperature.png", "aged:textures/gui/entries/hot_body_temperature.png", "aged:textures/gui/entries/normal_body_temperature.png", "aged:textures/gui/entries/cold_body_temperature.png", "aged:textures/gui/entries/freezing_body_temperature.png"],
+            "title": "5 Body Stages",
+            "text": "Burning | Hot | Normal | Cold | Freezing"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Body Temperature",
+            "text": "$(br)The Body Temperature consists of these factors:$(br)$(li)Environment temp.$(li)Surrounding blocks$(li)Beeing wet$(li)Using items"
+        },
+        {
+            "type": "patchouli:image",
+            "images": ["aged:textures/gui/entries/hot_environment.png", "aged:textures/gui/entries/normal_environment.png", "aged:textures/gui/entries/cold_environment.png"],
+            "title": "3 Environment Stages",
+            "text": "Hot | Normal | Cold"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Environment Temp.",
+            "text": "$(br)The Environment Temperature consists of these factors:$(br)$(li)Season$(li)Biomes$(li)Time$(li)Height$(li)Dimension$(li)Nearby Blocks"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Too Hot?",
+            "text": "$(li)Wear no or wanderer armor$(li)Avoid direct Sunlight$(li)Drink Water & Drinks$(li)Use Ice Packs$(li)Jump in Water$(li)Stand next to cold blocks$(li)Switch Biomes"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "environmentz:ice_pack",
+            "text": "Enchant them with:$(li)Durability$(li)Mending."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Too Cold?",
+            "text": "$(li)Stay near heat source's$(li)Use Heating Stones$(li)Wear Wolf or Leather Armor$(li)Insulate Armor with:$(li2)Mammoth Fur$(li2)Polar Bear Fur$(li2)Bear Fur"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "environmentz:heating_stones",
+            "text": "Use the Stoncutter & Cleanstone to get them.$(br2)Enchant them with:$(li)Durability$(li)Mending."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "environmentz:wolf_helmet",
+            "recipe2": "environmentz:wolf_chestplate"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "environmentz:wolf_leggings",
+            "recipe2": "environmentz:wolf_boots"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "environmentz:wanderer_helmet",
+            "recipe2": "environmentz:wanderer_chestplate"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "environmentz:wanderer_leggings",
+            "recipe2": "environmentz:wanderer_boots"
+        }
+    ]
+}

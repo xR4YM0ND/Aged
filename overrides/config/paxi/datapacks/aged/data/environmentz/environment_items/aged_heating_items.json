@@ -1,0 +1,11 @@
+{
+    "endrem:nether_eye": {
+        "temperature": 2
+    },
+    "gofish:magma_cod": {
+        "temperature": 3
+    },
+    "gofish:blaze_rod": {
+        "temperature": 2
+    }
+}

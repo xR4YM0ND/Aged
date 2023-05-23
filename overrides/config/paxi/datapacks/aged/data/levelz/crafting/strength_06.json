@@ -1,0 +1,21 @@
+{
+    "replace": false,
+    "level": 6,
+    "skill": "strength",
+    "item": [
+        "minecraft:golden_sword",
+        "nethersdelight:golden_machete",
+        "medievalweapons:golden_small_axe",
+        "medievalweapons:golden_long_sword",
+        "medievalweapons:golden_dagger",
+        "medievalweapons:golden_francisca",
+        "medievalweapons:golden_big_axe",
+        "medievalweapons:golden_javelin",
+        "medievalweapons:golden_lance",
+        "medievalweapons:golden_healing_staff",
+        "medievalweapons:golden_mace",
+        "medievalweapons:golden_ninjato",
+        "medievalweapons:golden_sickle",
+        "medievalweapons:golden_rapier"
+    ]
+}

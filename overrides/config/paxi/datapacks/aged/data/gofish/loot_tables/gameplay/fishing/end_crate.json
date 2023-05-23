@@ -1,0 +1,47 @@
+{
+  "replace": true,
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "name": "gofish:gameplay/fishing/end/fish"
+        }
+      ]
+    },
+    {
+      "rolls": {
+        "min": 0,
+        "max": 1
+      },
+      "entries": [
+        {
+          "type": "loot_table",
+          "name": "gofish:gameplay/fishing/end/treasure"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "conditions": [
+        {
+          "condition": "random_chance",
+          "chance": 0.05
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "name": "gofish:ender_rod"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "gofish:matrix_rod"
+        }
+      ]
+    }
+  ]
+}

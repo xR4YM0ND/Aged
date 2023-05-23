@@ -1,0 +1,12 @@
+{
+    "name": "Finish",
+    "icon": "minecraft:recovery_compass",
+    "category": "patchouli:server_category",
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Finish the Tutorial by typing:$(br2)$(o)/lp user yourname promote tutorial$()$(br2)Congrats you're now a Player and can progress on this Server!"
+        }
+    ]
+}

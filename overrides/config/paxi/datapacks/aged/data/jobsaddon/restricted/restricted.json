@@ -1,0 +1,20 @@
+{
+    "replace": false,
+    "recipes": [
+        "farmersdelight:carrot_from_crate",
+        "farmersdelight:beetroot_from_crate",
+        "farmersdelight:potato_from_crate",
+        "farmersdelight:cabbage",
+        "farmersdelight:onion",
+        "farmersdelight:tomato",
+        "farmersdelight:rice_from_bag",
+        "farmersdelight:rice_panicle",
+        "expandeddelight:asparagus",
+        "expandeddelight:chili_pepper",
+        "expandeddelight:sweet_potato",
+        "vinery:apples",
+        "vinery:cherries",
+        "vinery:red_grape",
+        "vinery:white_grape"
+    ]
+}

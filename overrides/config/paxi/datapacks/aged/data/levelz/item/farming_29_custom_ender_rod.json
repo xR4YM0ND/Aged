@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "farming",
+    "level": 29,
+    "item": "minecraft:custom_item",
+    "object": "gofish:ender_rod"
+}
