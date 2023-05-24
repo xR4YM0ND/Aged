@@ -1,4 +1,11 @@
 *****
+# Aged 2.0.4
+
+## Fixed:
+- Unlimited job xp from blocks & nuggets
+- Added missing reforge_items
+
+*****
 # Aged 2.0.3 Hotfix
 
 ## Fixed:

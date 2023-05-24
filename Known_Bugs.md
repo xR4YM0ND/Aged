@@ -50,6 +50,7 @@
 - TieredZ aint working with Crafting Rock
 - Wooden shield don't get modifiers
 - if inventory is full you can see the output modifiers of items before crafting (https://discord.com/channels/745451299713056791/745454651536834630/1108890383594836012)
+- Extra attributes for elytras (maybe increased rocket duration, durability, speed) cause now they use armor attributes
 
 ### SpoiledZ
 - \(Cooking folder) - Bowl use on Blocks - Stuffed Pumpkin Block from Farmer's Delight not spoiled
@@ -81,7 +82,8 @@
 *****
 ## Datapack
 - Change polymorph position (asked on their dc)
-- doubled fishing rod use in levelz (stamina & farming)
+- (TieredZ) Narwhal Tusk Sword uses tools instead of melee weapons
+- (TieredZ) Hammers don't work ?
 
 *****
 ## Others
