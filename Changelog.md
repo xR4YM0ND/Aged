@@ -3,7 +3,8 @@
 
 ## Fixed:
 - Unlimited job xp from blocks & nuggets
-- Added missing reforge_items
+- Added missing reforge_items to tieredz
+- Added missing shields & weapons to tieredz
 
 *****
 # Aged 2.0.3 Hotfix
