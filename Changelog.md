@@ -6,6 +6,16 @@
 - Added missing reforge_items to tieredz
 - Added missing shields & weapons to tieredz
 
+## Added:
+- Scooty Chimneys
+
+## Updated:
+- Better Statistics Screen
+- Bookshelf
+- Corgi Lib
+- EMI
+- Fabric Seasons
+
 *****
 # Aged 2.0.3 Hotfix
 
