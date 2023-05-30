@@ -6,9 +6,10 @@
 ### AdditionZ
 - Normal Oxidization (when placed normal 1 next to another 1 should be same speed as vanilla 1 block 3 air 1 block)
 - Fast Oxidization (with lava & water - should be 4x of the vanilla 1 block 3 space 1 block speed)
-- **[Idea]** TNT Tennis (2023 April Fools update)
+- **[IDEA]** TNT Tennis (2023 April Fools update)
 - Shield Cooldown compatible with the mod Guarding ? - Needs testing
 - waterbottles can be emptyed underwater (no block facing) -> Purified Water Bottle empty when right click in water instead of consume
+- **[IDEA]** While holding the sprint key you can't jump...
 
 ### Another World
 - Disable Nether Portal creation (diable flint/steel on portal frame, disable creation (from nether to another:world))
@@ -20,6 +21,9 @@
 
 ### Dehydration
 - **[IDEA]** combine purified water bottle & flask to fill the flask in crafting table -> bottle gets destroyed
+- **[IDEA]** Enchantment for Flasks (Purification) -> rare find
+- **[IDEA]** bubbled water (soulsand/magma) gives you purified water
+- **[IDEA]** Copper Cauldron Campfire holds more water
 
 ### Early Stage
 - **[IDEA]** Clay Bucket (Clay Brick Bucket for lava one time use)
