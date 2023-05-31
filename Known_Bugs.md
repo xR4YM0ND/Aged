@@ -28,7 +28,8 @@
 
 ### Early Stage
 - **[IDEA]** Clay Bucket (Clay Brick Bucket for lava one time use)
-- **[IDEA]** Fire Starting Sticks with durability and chance to lit the campfire
+- **[IDEA]** When you stripp log they drop bark which acts as *Zunder* (needed for starting campfires)
+- **[IDEA]** Fire Starting Sticks with durability and chance to lit the campfire (When you place a campfire it's unlit)
 - **[IDEA]** Fire Wood -> 1 Wood gives 4 Fire wood in the stonecutter (1 Firewood smelts the same as 1 Wood)
 - **[IDEA]** Campfires are crafted with Fire wood
 - **[IDEA]** Campfires run out of fire wood after x amount of time
@@ -39,6 +40,9 @@
 
 ### InmisAddon
 - Inmis Addon tab centers mouse when clicked on
+
+### Numismatic Claim
+- **[IDEA]** A Trading Block that acts like a special trader where you can ask outer cities for resources (costs coins and takes time till they answer) (different cities offer/ask different trades which update every x ticks) (like an outer connection trades for boat / harbor)
 
 ### DungeonZ
 - **[Idea]** Boss phases (Boss is damage 2/3 , monsters spawn & you have to kill all mobs first to damage the Boss again) (like different stages for the boss fight)
@@ -81,6 +85,7 @@
 - **[IDEA]** Windwheel
 - **[IDEA]** Waterwheel
 - **[IDEA]** Wildlife can eat crops (Fences / Walls would be a good counter)
+- **[IDEA]** Well (has a x amount of water and fills up a x amount over a x ticks if not full)
 
 ### Unknown
 - give effect comfort on startup
