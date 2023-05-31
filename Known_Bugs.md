@@ -32,6 +32,7 @@
 - **[IDEA]** Fire Wood -> 1 Wood gives 4 Fire wood in the stonecutter (1 Firewood smelts the same as 1 Wood)
 - **[IDEA]** Campfires are crafted with Fire wood
 - **[IDEA]** Campfires run out of fire wood after x amount of time
+- **[IDEA]** Stick scaffolding (with sticks instead of bamboo)
 
 ### EnvironmentZ
 - Item value is actually doubled (Ice pack -20, Heating stones +20, ...)
@@ -56,28 +57,30 @@
 - same for armor in armor stands on generation - Done
 - Extra slot in Anvil (Addition Slot -> items for rarity that get used once when place in (1 item always makes rare on upgrade, other always epic, etc..))
 - TieredZ aint working with Crafting Rock
-- Wooden shield don't get modifiers
+- Wooden shield don't get modifiers (maybe cause of shild tag error with fabric shield lib)
 - if inventory is full you can see the output modifiers of items before crafting (https://discord.com/channels/745451299713056791/745454651536834630/1108890383594836012)
-- Extra attributes for elytras (maybe increased rocket duration, durability, speed) cause now they use armor attributes
+- **[IDEA]** Extra attributes for elytras (maybe increased rocket duration, durability, speed) cause now they use armor attributes
 
 ### SpoiledZ
 - \(Cooking folder) - Bowl use on Blocks - Stuffed Pumpkin Block from Farmer's Delight not spoiled
 - Food Blocks you place down ( Cake , Apple Pie(Vinery Mod) , other modded ) dont get spoiled
 - Crash with [Farmers Respite "Rose Hip Pie"](https://beta.curseforge.com/minecraft/mc-mods/farmers-respite-fabric) -> [latest.log](https://gist.github.com/SpigotDE/1d055f0e746194d5c284b9ef9bd99ef7) -> [updated latest.log with xaero ?](https://gist.github.com/SpigotDE/67ff7c6e4791a89cce6aa7342dce8d23)
-- combine food with salt / sugar (only some foods) to increase the duration upon combining
-- Farmland needs crop rotation (maybe seasons compat / every season another crop so the soil stays fresh (3 years max cicle))
-- Farmland desease (crops can get infected / maybe combine with crop rotation) (you can leave farmland without crops for better values (brach legen))
-- The Composter acutally produces 
+- **[IDEA]** combine food with salt / sugar (only some foods) to increase the duration upon combining
+- **[IDEA]** Farmland needs crop rotation (maybe seasons compat / every season another crop so the soil stays fresh (3 years max cicle))
+- **[IDEA]** Farmland desease (crops can get infected / maybe combine with crop rotation) (you can leave farmland without crops for better values (brach legen))
+- **[IDEA]** The Composter acutally produces compost which can raise the farmlands fertile value (increases farmland fertile value more than sand)
+- **[IDEA]** Farmland has a Fertile Values which can be decreased slightly with clay and increased slightly with sand (different crops grow better at different feritle values / also the more the wrong fertile value for the crop, the more likely the crop will get desease)
 
 ### FarmZ
-- Adjust Water Hydration range in config (vanilla = 4 , FarmZ default = 1)
-- Watering Can's (Radius: Copper = 1, Iron = 2, Gold = 3, Diamond = 4, Netherite = 5) (Inspired by Stardew Valley)
-- Add Sprinklers that trigger after x amount of ticks (Tiers: Copper, Iron, Gold, Diamond, Netherite) (Same Range as Watering Can's) (need to have access to Water pipes)
-- Sprinklers facing south / placed at ceeling with pipes and sprinkle down
-- Water pipes (Wood channel where top is opened, Stone channel where to is opened, Copper pipes, Iron, gold, diamond, netherite)
-- Mechanical pump for pipes going upwards (Norht South) which is powered by mechanical power
-- Windwheel
-- Waterwheel
+- **[IDEA]** Adjust Water Hydration range in config (vanilla = 4 , FarmZ default = 1)
+- **[IDEA]** Watering Can's (Radius: Copper = 1, Iron = 2, Gold = 3, Diamond = 4, Netherite = 5) (Inspired by Stardew Valley)
+- **[IDEA]** Add Sprinklers that trigger after x amount of ticks (Tiers: Copper, Iron, Gold, Diamond, Netherite) (Same Range as Watering Can's) (need to have access to Water pipes)
+- **[IDEA]** Sprinklers facing south / placed at ceeling with pipes and sprinkle down
+- **[IDEA]** Water pipes (Wood channel where top is opened, Stone channel where to is opened, Copper pipes, Iron, gold, diamond, netherite)
+- **[IDEA]** Mechanical pump for pipes going upwards (Norht South) which is powered by mechanical power
+- **[IDEA]** Windwheel
+- **[IDEA]** Waterwheel
+- **[IDEA]** Wildlife can eat crops (Fences / Walls would be a good counter)
 
 ### Unknown
 - give effect comfort on startup
