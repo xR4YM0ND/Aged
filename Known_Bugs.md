@@ -10,6 +10,7 @@
 - Shield Cooldown compatible with the mod Guarding ? - Needs testing
 - waterbottles can be emptyed underwater (no block facing) -> Purified Water Bottle empty when right click in water instead of consume
 - **[IDEA]** While holding the sprint key you can't jump...
+- **[IDEA]** Hydration radius from liquid water (flowing & still source) changeable via config
 
 ### Another World
 - Disable Nether Portal creation (diable flint/steel on portal frame, disable creation (from nether to another:world))
