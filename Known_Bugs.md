@@ -109,11 +109,19 @@
     }
 }
 ```
+
 *****
 ## Datapack
 - Change polymorph position (asked on their dc)
 - (TieredZ) Narwhal Tusk Sword uses tools instead of melee weapons
 - (TieredZ) Hammers don't work ?
+- Spyglass in trinket slot with hotkey (still levelz bound)
+- In EMI (Combat Roll & Move Mod still work)
+- Dehydration River works with WWOO? maybe tag thing
+- check animal spawn with WWOO
+- animals respawn?
+- make river/water animals respawn less
+- restrict hay bale to wheat crafting recipe behind farming level
 
 *****
 ## Others
@@ -148,7 +156,7 @@ is LICENSE.md there?
 
 *****
 ### Mods for Aged
-- null
+- [Custom Spawns](https://www.curseforge.com/minecraft/mc-mods/custom-spawns)
 
 ### Maybe mods for Aged
 - [Dimension Mutability](https://beta.curseforge.com/minecraft/mc-mods/dimension-mutability)
@@ -166,6 +174,7 @@ is LICENSE.md there?
 - [Damage Tilt](https://www.curseforge.com/minecraft/mc-mods/damage-tilt)
 - [Awesome Dungeon Ocean Edition](https://www.curseforge.com/minecraft/mc-mods/awesome-dungeon-edition-ocean-fabric)
 - [Neruina - Ticking Entity Fixer](https://modrinth.com/mod/neruina)
+- [Vanilla Zoom](https://modrinth.com/mod/vanilla-zoom)
 
 ### Mod Ideas
 - Potion that takes you to your last death
