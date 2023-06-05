@@ -5,6 +5,11 @@
 - Unlimited job xp from blocks & nuggets
 - Added missing reforge_items to tieredz
 - Added missing shields & weapons to tieredz
+- Added missing rice to seasons \(*thx to @Beezy*)
+- Disabled Moisturization GrowthReducer \(crops should grow as supposed to)
+
+## Changed:
+- Restricted `hay bale to wheat recipe` to farming lvl 8
 
 ## Added:
 - Scooty Chimneys

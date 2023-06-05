@@ -118,10 +118,11 @@
 - Spyglass in trinket slot with hotkey (still levelz bound)
 - In EMI (Combat Roll & Move Mod still work)
 - Dehydration River works with WWOO? maybe tag thing
-- check animal spawn with WWOO
-- animals respawn?
+- check animal spawn with WWOO biomes
+- animals respawn? make land animals respawn way more often
 - make river/water animals respawn less
 - restrict hay bale to wheat crafting recipe behind farming level
+- Moisturization makes crops grow way slower than they should
 
 *****
 ## Others
@@ -157,6 +158,7 @@ is LICENSE.md there?
 *****
 ### Mods for Aged
 - [Custom Spawns](https://www.curseforge.com/minecraft/mc-mods/custom-spawns)
+- Sleep warp
 
 ### Maybe mods for Aged
 - [Dimension Mutability](https://beta.curseforge.com/minecraft/mc-mods/dimension-mutability)
