@@ -18,8 +18,8 @@
 
 ## Added:
 - Custom Spawns
-- Scooty Chimneys
 - Sleep Warp
+- Sooty Chimneys for Fabric
 - Spyglass Improvements
 
 ## Updated:
