@@ -12,6 +12,15 @@
 - **[IDEA]** While holding the sprint key you can't jump...
 - **[IDEA]** Hydration radius from liquid water (flowing & still source) changeable via config
 
+### AdventureZ
+- **[IDEA]** Gilded Netherite Tools/Weapons (Specials: Maybe Auto Smelt on Pickaxe(toggleable via hotkey))
+
+### VoidZ
+- **[IDEA]** Void Ingots, Nuggets, Chains, Blocks, 
+- **[IDEA]** Void Blocks act as teleporters
+- **[IDEA]** Void Tools/Weapons (Specials: Dropped items from Blocks/Entities get sucked / teleport in the players inventory)
+- **[IDEA]** Void Armor (Specials: 10% Chance per piece to absorb the incoming damage by 50%)
+
 ### Another World
 - Disable Nether Portal creation (diable flint/steel on portal frame, disable creation (from nether to another:world))
 - deny outgoing nether portal connection
@@ -64,6 +73,7 @@
 - Wooden shield don't get modifiers (maybe cause of shild tag error with fabric shield lib)
 - if inventory is full you can see the output modifiers of items before crafting (https://discord.com/channels/745451299713056791/745454651536834630/1108890383594836012)
 - **[IDEA]** Extra attributes for elytras (maybe increased rocket duration, durability, speed) cause now they use armor attributes
+- Shift # Left Click in players inventory crafting grid -> no modifiers get applied (works in crafting table tho)
 
 ### SpoiledZ
 - \(Cooking folder) - Bowl use on Blocks - Stuffed Pumpkin Block from Farmer's Delight not spoiled
@@ -113,16 +123,10 @@
 *****
 ## Datapack
 - Change polymorph position (asked on their dc)
-- (TieredZ) Narwhal Tusk Sword uses tools instead of melee weapons
-- (TieredZ) Hammers don't work ?
 - Spyglass in trinket slot with hotkey (still levelz bound)
 - In EMI (Combat Roll & Move Mod still work)
 - Dehydration River works with WWOO? maybe tag thing
 - check animal spawn with WWOO biomes
-- animals respawn? make land animals respawn way more often
-- make river/water animals respawn less
-- restrict hay bale to wheat crafting recipe behind farming level
-- Moisturization makes crops grow way slower than they should
 
 *****
 ## Others
@@ -157,8 +161,7 @@ is LICENSE.md there?
 
 *****
 ### Mods for Aged
-- [Custom Spawns](https://www.curseforge.com/minecraft/mc-mods/custom-spawns)
-- Sleep warp
+- none
 
 ### Maybe mods for Aged
 - [Dimension Mutability](https://beta.curseforge.com/minecraft/mc-mods/dimension-mutability)
@@ -174,9 +177,7 @@ is LICENSE.md there?
 - [Chefs Delight](https://www.curseforge.com/minecraft/mc-mods/chefs-delight-fabric) \(Numismatic Overhaul works??)
 - [Convenient Decor](https://modrinth.com/mod/convenient-decor)
 - [Damage Tilt](https://www.curseforge.com/minecraft/mc-mods/damage-tilt)
-- [Awesome Dungeon Ocean Edition](https://www.curseforge.com/minecraft/mc-mods/awesome-dungeon-edition-ocean-fabric)
 - [Neruina - Ticking Entity Fixer](https://modrinth.com/mod/neruina)
-- [Vanilla Zoom](https://modrinth.com/mod/vanilla-zoom)
 
 ### Mod Ideas
 - Potion that takes you to your last death

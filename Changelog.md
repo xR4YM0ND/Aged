@@ -2,24 +2,50 @@
 # Aged 2.0.4
 
 ## Fixed:
-- Unlimited job xp from blocks & nuggets
+- Decreased boot time immensivelly
+- Unlimited job xp from blocks / nuggets / hay bales
 - Added missing reforge_items to tieredz
 - Added missing shields & weapons to tieredz
 - Added missing rice to seasons \(*thx to @Beezy*)
 - Disabled Moisturization GrowthReducer \(crops should grow as supposed to)
 
 ## Changed:
-- Restricted `hay bale to wheat recipe` to farming lvl 8
+- Animals should respawn now
+- Switched keybinds for Spyglass & Voice Chat
+
+## Removed:
+- Official Aged Modpack Server
 
 ## Added:
+- Custom Spawns
 - Scooty Chimneys
+- Sleep Warp
+- Spyglass Improvements
 
 ## Updated:
+- **Fabric-Loader 0.14.21**
+- Auto Third Person
+- BCLib
+- Better End
+- Better Nether
 - Better Statistics Screen
 - Bookshelf
+- Chipped
+- Collective
 - Corgi Lib
+- Craft Presence
 - EMI
+- Enchanted Vertical Slabs
+- Fabric Language Kotlin
 - Fabric Seasons
+- Iris Shaders
+- Lootr
+- Modern Fix
+- Moonlight Lib
+- Party Addon
+- Simple Voice Chat
+- Smooth Swapping
+- Tom's Simple Storage
 
 *****
 # Aged 2.0.3 Hotfix
