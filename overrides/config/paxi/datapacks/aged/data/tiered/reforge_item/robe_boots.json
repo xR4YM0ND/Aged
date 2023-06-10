@@ -1,0 +1,11 @@
+{
+    "product": {
+        "id": "immersive_armors:robe_boots"
+    },
+    "cover": true,
+    "base": [
+        {
+            "id": "minecraft:blaze_powder"
+        }
+    ]
+}

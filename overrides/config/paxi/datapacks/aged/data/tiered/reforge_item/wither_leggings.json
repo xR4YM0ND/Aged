@@ -1,0 +1,11 @@
+{
+    "product": {
+        "id": "immersive_armors:wither_leggings"
+    },
+    "cover": true,
+    "base": [
+        {
+            "id": "minecraft:nether_brick"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "product": {
+        "id": "minecraft:elytra"
+    },
+    "cover": true,
+    "base": [
+        {
+            "id": "minecraft:phantom_membrane"
+        }
+    ]
+}

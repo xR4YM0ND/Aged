@@ -1,0 +1,11 @@
+{
+    "product": {
+        "id": "betterend:elytra_crystalite"
+    },
+    "cover": true,
+    "base": [
+        {
+            "id": "betterend:eternal_crystal"
+        }
+    ]
+}

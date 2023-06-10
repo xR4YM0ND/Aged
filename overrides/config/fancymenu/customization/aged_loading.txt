@@ -137,7 +137,7 @@ customization {
   enable_scrolling = false
   shadow = true
   scale = 2.0
-  source = 2.0.3
+  source = 2.0.4
   advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}/2+{"placeholder":"elementwidth","values":{"id":"4112a71c-4489-4445-8e07-c81cbeb9a6881679395128550"}}/2-{"placeholder":"elementwidth","values":{"id":"71123e47-a213-47ef-a4ba-aaa86aa0639c1679395251420"}}","decimal":"true"}}
   text_border = 0
   case_mode = normal
@@ -199,29 +199,6 @@ customization {
   y = 0
   alignment = centered
   height = 15
-}
-
-customization {
-  advanced_height = 25
-  orientation = top-left
-  enable_scrolling = false
-  shadow = true
-  scale = 1.0
-  source = Server {"placeholder":"serverstatus","values":{"ip":"176.9.37.250:25565"}}%n%{"placeholder":"serverplayercount","values":{"ip":"176.9.37.250:25565"}} - {"placeholder":"serverping","values":{"ip":"176.9.37.250:25565"}} ms
-  advanced_posx = 0
-  text_border = 0
-  case_mode = normal
-  advanced_width = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}/4","decimal":"true"}}
-  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"}/1.4","decimal":"true"}}
-  source_mode = direct
-  line_spacing = 2
-  x = 0
-  width = 213
-  action = custom_layout_element:fancymenu_customization_item_text
-  actionid = 930811af-e615-4cec-9073-b625301e19a91679395978935
-  y = 0
-  alignment = centered
-  height = 25
 }
 
 customization {
@@ -292,7 +269,7 @@ customization {
   enable_scrolling = false
   shadow = true
   scale = 1.0
-  source = Aged 2.0.3 Hotfix
+  source = Aged 2.0.4
   advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}-{"placeholder":"elementwidth","values":{"id":"f8e68b1b-9e1b-4223-b2cf-467f17063ef21679400633613"}}","decimal":"true"}}
   text_border = 0
   case_mode = normal
@@ -339,7 +316,7 @@ customization {
   enable_scrolling = true
   shadow = true
   scale = 0.7
-  source = ## &nFixed:%n%&7- Missing iced_armor to environmentz datapack%n%&7- Slowness switching cause of coldness%n%&7- Items get doubled environment values%n%&7- Overhauled environmentz datapack%n%&7- Seasons now work correctly%n%&7- JobsAddon fisher job now works%n%&7- JobsAddon tab unclickable%n%&7- Fishing Rod in wrong levelz category%n%&7- Die when you reach the min body temperature%n%%n%%n%## &nChanged:%n%&7- Crafting recipe for rotten leather%n%&7- Crafting recipe for prepared hide (added salt)%n%&7- Reduced overheating exhaustion from 0.5 to 0.075%n%&7- Tweaked Rapier%n%&7- Disabled Backslot HUD (&oOverlap Issue&r&7)%n%%n%## &nRemoved:%n%&7- Xali's Enhanced Vanilla (&oResourcepack&r&7)%n%%n%## &nAdded:%n%&7- DungeonZ%n%&7- Party Addon%n%%n%## &nUpdated:%n%&7- &lAged Guide Book%n%&7- Better End%n%&7- Better Statistics Screen%n%&7- Brewin and Chewin%n%&7- Corgi Lib%n%&7- Dynamic Crosshair%n%&7- EnvironmentZ%n%&7- Jobs Addon%n%&7- Medieval Weapons%n%&7- Moonlight Lib%n%&7- Nameplate%n%&7- Rpg Difficulty%n%&7- Simple Voice Chat
+  source = ## &nFixed:%n%&7- Decreased boot time immensivelly%n%&7- Unlimited job xp from blocks / nuggets / hay bales%n%&7- Added missing reforge_items to tieredz%n%&7- Added missing shields & weapons to tieredz%n%&7- Added missing rice to seasons (&othx to @Beezy&r&7)%n%&7- Disabled Moisturization GrowthReducer (&ocrops should grow as supposed to&r&7)%n%%n%## &nChanged:%n%&7- Animals should respawn now%n%&7- Switched keybinds for Spyglass & Voice Chat%n%%n%## &nRemoved:%n%&7- Official Aged Modpack Server%n%%n%## &nAdded:%n%&7- Custom Spawns%n%&7- Scooty Chimneys%n%&7- Sleep Warp%n%&7- Spyglass Improvements%n%%n%## &nUpdated:%n%&7- &lFabric-Loader 0.14.21&r%n%&7- Auto Third Person%n%&7- BCLib%n%&7- Better End%n%&7- Better Nether%n%&7- Better Statistics Screen%n%&7- Bookshelf%n%&7- Chipped%n%&7- Collective%n%&7- Corgi Lib%n%&7- Craft Presence%n%&7- EMI%n%&7- Enchanted Vertical Slabs%n%&7- Fabric Language Kotlin%n%&7- Fabric Seasons%n%&7- Iris Shaders%n%&7- Lootr%n%&7- Modern Fix%n%&7- Moonlight Lib%n%&7- Party Addon%n%&7- Simple Voice Chat%n%&7- Smooth Swapping%n%&7- Tom's Simple Storage
   advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}-(({"placeholder":"guiwidth"}/4)-{"placeholder":"elementwidth","values":{"id":"cc40d340-3e7c-4b72-b05f-9d25c070a7df1679400808174"}})/2-{"placeholder":"elementwidth","values":{"id":"cc40d340-3e7c-4b72-b05f-9d25c070a7df1679400808174"}}","decimal":"true"}}
   text_border = 0
   case_mode = normal

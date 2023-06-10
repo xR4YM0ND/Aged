@@ -5,6 +5,8 @@
         "minecraft:bricks",
         "minecraft:brick_stairs",
         "minecraft:brick_slab",
-        "minecraft:brick_wall"
+        "minecraft:brick_wall",
+        "sootychimneys:brick_chimney",
+        "sootychimneys:dirty_brick_chimney"
     ]
 }

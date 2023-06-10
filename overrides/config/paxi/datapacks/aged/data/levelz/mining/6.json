@@ -40,6 +40,8 @@
         "dehydration:copper_cauldron",
         "dehydration:campfire_cauldron",
         "moisturization:sprinkler",
+        "sootychimneys:copper_chimney",
+        "sootychimneys:dirty_copper_chimney",
         "minecraft:white_terracotta",
         "minecraft:orange_terracotta",
         "minecraft:magenta_terracotta",
@@ -56,6 +58,7 @@
         "minecraft:green_terracotta",
         "minecraft:red_terracotta",
         "minecraft:black_terracotta",
-        "minecraft:terracotta"
+        "minecraft:terracotta",
+        "sootychimneys:terracotta_chimney"
     ]
 }

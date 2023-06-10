@@ -1,0 +1,11 @@
+{
+    "product": {
+        "id": "gofish:matrix_rod"
+    },
+    "cover": true,
+    "base": [
+        {
+            "id": "gofish:matrix_fish"
+        }
+    ]
+}

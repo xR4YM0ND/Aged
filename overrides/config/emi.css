@@ -12,6 +12,11 @@
 	cheat-mode: false;
 
 	/**
+	 * How much EMI should use tooltips and popups to show controls and information.
+	 */
+	help-level: normal;
+
+	/**
 	 * Whether normal search queries should include the tooltip.
 	 */
 	search-tooltip-by-default: true;
@@ -29,15 +34,14 @@
 
 #ui {
 	/**
-	 * Whether to move status effects to the top of the screen.
+	 * Which action should be performed when clicking the recipe book.
 	 */
-	move-effects: false;
+	recipe-book-action: toggle-craftables;
 
 	/**
-	 * Whether to have the search bar in the center of the screen, instead of to the
-	 * side.
+	 * Where to display status effects in the inventory.
 	 */
-	center-search-bar: true;
+	effect-location: top;
 
 	/**
 	 * Whether to display a gray overlay when hovering over a stack.
@@ -55,6 +59,28 @@
 	append-item-mod-id: true;
 
 	/**
+	 * Prevents recipes being quick crafted from shifting around under the cursor.
+	 */
+	miscraft-prevention: true;
+
+	/**
+	 * The unit to display fluids as.
+	 */
+	fluid-unit: liters;
+
+	/**
+	 * Whether to use the batched render system. Batching is faster, but may have
+	 * incompatibilities with shaders or other mods.
+	 */
+	use-batched-renderer: true;
+
+	/**
+	 * Whether to have the search bar in the center of the screen, instead of to the
+	 * side.
+	 */
+	center-search-bar: true;
+
+	/**
 	 * Which sidebar type to switch to when searching.
 	 */
 	search-sidebar-focus: index;
@@ -63,6 +89,54 @@
 	 * Which sidebar type to focus when the search is empty.
 	 */
 	empty-search-sidebar-focus: none;
+
+	/**
+	 * The amount of vertical margin to give in the recipe screen.
+	 */
+	vertical-margin: 20;
+
+	/**
+	 * The minimum width of the recipe screen in pixels. Controls how many tabs there
+	 * can be, and where the page switching buttons go. The default is 176, the width
+	 * of most screens.
+	 */
+	minimum-recipe-screen-width: 176;
+
+	/**
+	 * Where to show workstations in the recipe screen
+	 */
+	workstation-location: left;
+
+	/**
+	 * Display cost per batch when hovering a recipe output
+	 */
+	show-cost-per-batch: true;
+
+	/**
+	 * Whether recipes should have a button to set as default.
+	 */
+	recipe-default-button: true;
+
+	/**
+	 * Whether recipes should have a button to show the recipe tree.
+	 */
+	recipe-tree-button: true;
+
+	/**
+	 * Whether recipes should have a button to fill the ingredients in a handler.
+	 */
+	recipe-fill-button: true;
+
+	/**
+	 * Whether recipes should have a button to take a screenshot of the recipe.
+	 */
+	recipe-screenshot-button: false;
+
+	/**
+	 * The GUI scale at which recipe screenshots are saved. Use 0 to use the current
+	 * GUI scale.
+	 */
+	recipe-screenshot-scale: 0;
 
 	/**
 	 * The pages in the left sidebar
@@ -205,69 +279,8 @@
 	 */
 	bottom-sidebar-theme: transparent;
 
-	/**
-	 * The amount of vertical margin to give in the recipe screen.
-	 */
-	vertical-margin: 20;
-
-	/**
-	 * The minimum width of the recipe screen in pixels. Controls how many tabs there
-	 * can be, and where the page switching buttons go. The default is 176, the width
-	 * of most screens.
-	 */
-	minimum-recipe-screen-width: 176;
-
-	/**
-	 * Where to show workstations in the recipe screen
-	 */
-	workstation-location: left;
-
-	/**
-	 * Display cost per batch when hovering a recipe output
-	 */
-	show-cost-per-batch: true;
-
-	/**
-	 * Prevents recipes being quick crafted from shifting around under the cursor.
-	 */
-	miscraft-prevention: true;
-
-	/**
-	 * The unit to display fluids as.
-	 */
-	fluid-unit: liters;
-
-	/**
-	 * Whether to use the batched render system. Batching is faster, but may have
-	 * incompatibilities with shaders or other mods.
-	 */
-	use-batched-renderer: true;
-
-	/**
-	 * Whether recipes should have a button to set as default.
-	 */
-	recipe-default-button: true;
-
-	/**
-	 * Whether recipes should have a button to show the recipe tree.
-	 */
-	recipe-tree-button: true;
-
-	/**
-	 * Whether recipes should have a button to fill the ingredients in a handler.
-	 */
-	recipe-fill-button: true;
-
-	/**
-	 * Whether recipes should have a button to take a screenshot of the recipe.
-	 */
-	recipe-screenshot-button: false;
-
-	/**
-	 * The GUI scale at which recipe screenshots are saved. Use 0 to use the current
-	 * GUI scale.
-	 */
-	recipe-screenshot-scale: 0;
+	/** unparsed */
+	move-effects: false;
 }
 
 #binds {
@@ -287,13 +300,13 @@
 	clear-search: "key.keyboard.unknown";
 
 	/**
-	 * Display the recipes for creating an item.
+	 * Display the recipes for creating a stack.
 	 */
 	view-recipes: "key.keyboard.r";
 	view-recipes: "key.mouse.left";
 
 	/**
-	 * Display the recipes that can be created using an item.
+	 * Display the recipes that can be created using a stack.
 	 */
 	view-uses: "key.keyboard.u";
 	view-uses: "key.mouse.right";
@@ -305,7 +318,13 @@
 	favorite: "key.keyboard.a";
 
 	/**
-	 * Display the recipe tree for a given item.
+	 * Set the default recipe for a given stack in the output of a recipe to that
+	 * recipe.
+	 */
+	default-stack: "ctrl key.mouse.left";
+
+	/**
+	 * Display the recipe tree for a given stack.
 	 */
 	view-stack-tree: "key.keyboard.unknown";
 
@@ -374,14 +393,34 @@
 	 * Cheat in a stack of an item into the cursor.
 	 */
 	cheat-stack-to-cursor: "key.keyboard.unknown";
+
+	/**
+	 * Delete the stack in the cursor when hovering the index
+	 */
+	delete-cursor-stack: "key.mouse.left";
+
+	/**
+	 * In edit mode, hide the hovered stack
+	 */
+	hide-stack: "ctrl key.mouse.left";
+
+	/**
+	 * In edit mode, hide stacks with the hovered stack's id
+	 */
+	hide-stack-by-id: "ctrl shift key.mouse.left";
 }
 
 #dev {
 	/**
-	 * Whether certain development functions should be enabled. Not recommended for
-	 * general play.
+	 * Whether development functions should be enabled. Not recommended for general
+	 * play.
 	 */
 	dev-mode: false;
+
+	/**
+	 * Whether editing the index is enabled
+	 */
+	edit-mode: false;
 
 	/**
 	 * Whether to log untranslated tags as warnings.

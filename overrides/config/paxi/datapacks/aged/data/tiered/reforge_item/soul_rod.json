@@ -1,0 +1,11 @@
+{
+    "product": {
+        "id": "gofish:soul_rod"
+    },
+    "cover": true,
+    "base": [
+        {
+            "id": "gofish:soul_salmon"
+        }
+    ]
+}

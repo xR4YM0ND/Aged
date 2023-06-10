@@ -22,6 +22,8 @@
         "minecraft:mossy_stone_brick_wall",
         "minecraft:smooth_stone",
         "minecraft:smooth_stone_slab",
+        "sootychimneys:stone_brick_chimney",
+        "sootychimneys:dirty_stone_brick_chimney",
         "minecraft:grindstone"
     ]
 }

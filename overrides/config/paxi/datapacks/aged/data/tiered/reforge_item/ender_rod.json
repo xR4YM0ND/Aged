@@ -1,0 +1,11 @@
+{
+    "product": {
+        "id": "gofish:ender_rod"
+    },
+    "cover": true,
+    "base": [
+        {
+            "id": "minecraft:ender_eye"
+        }
+    ]
+}

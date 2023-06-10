@@ -1,7 +1,7 @@
 {
   "cropsDie": true,
   "waterRange": 2,
-  "growthReductor": 5,
+  "growthReductor": 0,
   "boneMealReductor": 0,
   "farmlandDryingRate": 25,
   "sprinklerRadius": 3,

@@ -1,0 +1,11 @@
+{
+    "product": {
+        "id": "immersive_armors:steampunk_leggings"
+    },
+    "cover": true,
+    "base": [
+        {
+            "id": "minecraft:redstone_block"
+        }
+    ]
+}

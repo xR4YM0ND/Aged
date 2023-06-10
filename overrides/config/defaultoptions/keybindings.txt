@@ -46,6 +46,7 @@ key_key.amecs.toggle_left_pants_leg:key.keyboard.unknown:NONE
 key_key.amecs.toggle_right_pants_leg:key.keyboard.unknown:NONE
 key_key.amecs.toggle_hat:key.keyboard.unknown:NONE
 key_key.antighost.reveal:key.keyboard.unknown:NONE
+key_autothirdperson.toggle:key.keyboard.unknown:NONE
 key_key.backslot.switch_backslot:key.keyboard.g:NONE
 key_key.backslot.switch_beltslot:key.keyboard.g:NONE
 key_keybinds.bettercombat.feint:key.keyboard.unknown:NONE
@@ -78,12 +79,13 @@ key_Camera up:key.keyboard.page.up:NONE
 key_Camera down:key.keyboard.page.down:NONE
 key_Swap shoulder:key.keyboard.o:NONE
 key_Toggle perspective:key.keyboard.unknown:NONE
+key_key.spyglass-improvements.use:key.mouse.5:NONE
 key_key.toms_storage.open_terminal:key.keyboard.unknown:NONE
 key_treechop.key.toggle_chopping:key.keyboard.unknown:NONE
 key_treechop.key.toggle_felling:key.keyboard.unknown:NONE
 key_treechop.key.cycle_sneak_behavior:key.keyboard.unknown:NONE
 key_treechop.key.open_settings_overlay:key.keyboard.unknown:NONE
-key_key.push_to_talk:key.mouse.5:NONE
+key_key.push_to_talk:key.keyboard.z:NONE
 key_key.whisper:key.keyboard.unknown:NONE
 key_key.mute_microphone:key.keyboard.unknown:NONE
 key_key.disable_voice_chat:key.keyboard.unknown:NONE

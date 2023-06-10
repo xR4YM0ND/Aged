@@ -1,10 +1,11 @@
 {
-    "product": {
-      "id": "minecraft:fishing_rod"
-    },
-    "base": [
-      {
-        "id": "minecraft:string"
-      }
-    ]
-  }
+  "product": {
+    "id": "minecraft:fishing_rod"
+  },
+  "cover": true,
+  "base": [
+    {
+      "id": "minecraft:string"
+    }
+  ]
+}

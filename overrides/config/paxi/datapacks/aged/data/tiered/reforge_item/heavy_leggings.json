@@ -1,0 +1,11 @@
+{
+    "product": {
+        "id": "immersive_armors:heavy_leggings"
+    },
+    "cover": true,
+    "base": [
+        {
+            "id": "minecraft:iron_block"
+        }
+    ]
+}

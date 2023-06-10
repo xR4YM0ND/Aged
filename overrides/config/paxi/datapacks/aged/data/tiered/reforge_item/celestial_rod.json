@@ -1,0 +1,11 @@
+{
+    "product": {
+        "id": "gofish:celestial_rod"
+    },
+    "cover": true,
+    "base": [
+        {
+            "id": "gofish:galaxy_starfish"
+        }
+    ]
+}

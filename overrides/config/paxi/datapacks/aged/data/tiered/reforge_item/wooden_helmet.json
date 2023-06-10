@@ -1,0 +1,38 @@
+{
+    "product": {
+        "id": "immersive_armors:wooden_helmet"
+    },
+    "cover": true,
+    "base": [
+        {
+            "id": "minecraft:oak_log"
+        },
+        {
+            "id": "minecraft:spruce_log"
+        },
+        {
+            "id": "minecraft:birch_log"
+        },
+        {
+            "id": "minecraft:jungle_log"
+        },
+        {
+            "id": "minecraft:acacia_log"
+        },
+        {
+            "id": "minecraft:dark_oak_log"
+        },
+        {
+            "id": "minecraft:mangrove_log"
+        },
+        {
+            "id": "ecologics:walnut_log"
+        },
+        {
+            "id": "vinery:cherry_log"
+        },
+        {
+            "id": "vinery:old_cherry_log"
+        }
+    ]
+}

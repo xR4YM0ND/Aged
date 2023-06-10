@@ -1,0 +1,11 @@
+{
+    "product": {
+        "id": "betterend:crystalite_leggings"
+    },
+    "cover": true,
+    "base": [
+        {
+            "id": "betterend:eternal_crystal"
+        }
+    ]
+}
