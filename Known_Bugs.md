@@ -11,6 +11,7 @@
 - waterbottles can be emptyed underwater (no block facing) -> Purified Water Bottle empty when right click in water instead of consume
 - **[IDEA]** While holding the sprint key you can't jump...
 - **[IDEA]** Hydration radius from liquid water (flowing & still source) changeable via config
+- **[IDEA]** Increase Ladder climbing speed when going down & looking down by speed defined in config
 
 ### AdventureZ
 - **[IDEA]** Gilded Netherite Tools/Weapons (Specials: Maybe Auto Smelt on Pickaxe(toggleable via hotkey))
