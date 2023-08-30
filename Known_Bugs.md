@@ -12,6 +12,9 @@
 - **[IDEA]** While holding the sprint key you can't jump...
 - **[IDEA]** Hydration radius from liquid water (flowing & still source) changeable via config
 - **[IDEA]** Increase Ladder climbing speed when going down & looking down by speed defined in config
+- **[IDEA]** Lower Bed Damage explosion in nether
+- **[IDEA]** Ice Boat Nerf (No op speed)
+- **[IDEA]** Sneak through Berry Bushes (dont get damaged)
 
 ### AdventureZ
 - **[IDEA]** Gilded Netherite Tools/Weapons (Specials: Maybe Auto Smelt on Pickaxe(toggleable via hotkey))
