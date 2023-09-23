@@ -1,3 +1,118 @@
+# Aged 2.1
+
+## Important:
+Aged is now running Minecraft 1.20.1 therefore all mods updated quiet a bit and old saves aren't compatible with this version of Aged.
+Keep in mind that you need to create a new world.
+Also some mods haven't updated yet / some are removed & some are new to Aged.
+
+## Fixed:
+
+## Changed:
+- Trapdoors now open seperate
+
+## Removed:
+- Advancement Debug
+- Another Furniture
+- Anti Ghost
+- Better Biome Blend
+- Better Ladders
+- Chunks Fade In
+- Craftable Invisible Item Frames
+- Creatures From The Snow
+- CTM Refabricated
+- Disenchanter
+- Easy Magic
+- Ecologics
+- EMI Compat
+- EMI Effects
+- Enchanted Vertical Slabs
+- Entity Collision FPS Fix
+- Event
+- Experience Bottler
+- Extra Sounds
+- Fabric Seasons Extras
+- Fabric Shield Lib
+- Frame API
+- Go Fish
+- Health Overlay
+- Ice Boat Nerf
+- Inmis
+- Inmis Addon
+- Item Borders
+- Lambda Better Grass
+- Macaws Windows
+- Moisturization
+- Naturalist
+- NBT Crafting
+- NBT Tooltip
+- Nethers Delight
+- Notes
+- Overweight Farming
+- Paxi
+- Shoulder Surfing Reloaded
+- Sleep Warp
+- Smooth Swapping
+- Tips
+- Travelers Titles
+- Yungs API
+- Yungs Better Desert Temples
+- Yungs Better Dungeons
+- Yungs Better Mineshafts
+- Yungs Better Nether Fortresses
+- Yungs Better Ocean Monuments
+- Yungs Better Strongholds
+
+## Added:
+- Adorn MIIIICHHCHHSSASAAAAA
+- Areas
+- Armorful
+- Athena
+- Better Archeology
+- Better Mount HUD
+- Better Tridents
+- Borderless Mining
+- Caffeinated
+- Carpeted Stairs & Slabs
+- Carrier
+- Clutter
+- CompleteConfig
+- Cristel Lib
+- Dynamic FPS
+- Elytra Trims
+- e4mc
+- Guard Villagers
+- Hopo Better Mineshaft
+- Hopo Better Ruined Portals
+- Immersive Aircraft
+- ItemSwapper
+- Keep Some Inventory
+- Macaws Roofs
+- Map Atlases
+- MC Dungeons Enchanting
+- Mixin Conflict Helper
+- MixinTrace
+- Not Enough Crashes
+- Noxesium
+- Passable Foliage
+- Passive Shield
+- Pockets
+- Radiant Gear
+- Recipe Book Delight
+- Searchables
+- Show Me Your Skin!
+- Shulker Box Tooltip
+- Small Ships
+- Smarter Farmers
+- Stoneworks
+- Supplementaries
+- Unsaddle
+- Wakes
+- What The Bucket
+
+## Updated:
+- **Minecraft 1.20.1**
+- **Fabric-Loader 0.14.21**
+
 *****
 # Aged 2.0.4
 
