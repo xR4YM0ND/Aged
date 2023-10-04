@@ -8,7 +8,6 @@
 - Stone Ores drop Nuggets (4-9)
 
 ## Install
-- https://modrinth.com/mod/aquamirae
 
 ### Maybe install these
 - https://modrinth.com/mod/simple-copper-pipes
@@ -29,6 +28,15 @@
 ## HUD Settings
 - Backslot Pos Issue
 - Diet Pos always resets
+- Numismatic Purse flying in creative inventory
 
 ## Datapack
 - Give Netherite Armor heat resistance in environmentz
+
+
+## High Imporant
+
+## Medium Important
+- Food every Diet compat
+
+## Low Important
