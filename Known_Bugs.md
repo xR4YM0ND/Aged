@@ -1,5 +1,5 @@
 *****
-# Known Bugs / To Do
+# Known Bugs
 *****
 ## Mods
 
