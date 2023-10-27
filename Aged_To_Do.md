@@ -35,6 +35,7 @@
 
 
 ## High Imporant
+- Remove Umbrella & Rain Coats (Convenient Decor)
 
 ## Medium Important
 - Food every Diet compat
