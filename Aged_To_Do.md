@@ -1,5 +1,31 @@
 # Aged 2.1.0 running 1.20.1
 
+## On Update
+change version numbers in
+- Main Menu x2
+- Loading Screen x2
+- Aged Window
+
+change Changelog in
+- Loading Screen
+- Main Menu
+
+check if config options are disabled
+- environmentz
+- rpgdifficulty
+- nameplate
+- dehydration
+- fancymenu
+
+is LICENSE.md there?
+
+## Only Server configs
+- numismaticclaim.json
+- voicechat/voicechat-server.properties
+- time-and-wind/time-data.json
+- seasons.json
+- another world rpgdifficulty datapack
+
 ## Crafting
 - Change Smithing Templates Recipes [A version of this one that fits with templates & aged](https://modrinth.com/datapack/reimagined-trims)
 - lingering potions out of honey instead of dragons breath
@@ -41,3 +67,16 @@
 - Food every Diet compat
 
 ## Low Important
+
+
+
+### Mods which Globox disables
+- Smooth Swapping
+- Legendary Tooltips
+- EquipmentCompare
+- AdvancementPlaques
+- DynamicCrossair
+- DynamicCrosshairCompat
+- ExtraSounds
+- ShoulderSurfing
+- ChunkFadeIn
