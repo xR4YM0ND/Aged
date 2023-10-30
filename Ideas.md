@@ -187,6 +187,9 @@
 ### DrawerZ
 - 
 ---
+### Stamina
+- 
+---
 ### Unknown
 - Allow different mobs in different biomes to spawn \(*Enderman / Endermite / Stray / Skeleton / Soul Reaper / Withered Necromancer / Wither Puppet / ..*)
 ```json
