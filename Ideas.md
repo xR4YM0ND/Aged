@@ -4,10 +4,7 @@
 ## Mods
 *****
 ### AdditionZ
-- Normal Oxidization (when placed normal 1 next to another 1 should be same speed as vanilla 1 block 3 air 1 block)
-- Fast Oxidization (with lava & water - should be 4x of the vanilla 1 block 3 space 1 block speed)
 - TNT Tennis (2023 April Fools update)
-- Shield Cooldown compatible with the mod Guarding ? - Needs testing
 - waterbottles can be emptyed underwater (no block facing) -> Purified Water Bottle empty when right click in water instead of consume
 - While holding the sprint key you can't jump...
 - Hydration radius from liquid water (flowing & still source) changeable via config
@@ -15,6 +12,7 @@
 - Lower Bed Damage explosion in nether
 - Ice Boat Nerf (No op speed)
 - Sneak through Berry Bushes (dont get damaged)
+- **[?]** Shield Cooldown compatible with the mod Guarding
 ---
 ### AdventureZ
 - Gilded Netherite Tools/Weapons (Specials: Maybe Auto Smelt on Pickaxe(toggleable via hotkey))
@@ -46,15 +44,12 @@
 - Add barrels as separate loot table \(eg. *Food Supply*)
 ---
 ### EarlyStage
-- Clay Bucket (Clay Brick Bucket for lava one time use)
-- When you stripp log they drop bark which acts as *Zunder* (needed for starting campfires)
-- Fire Starting Sticks with durability and chance to lit the campfire (When you place a campfire it's unlit)
-- Fire Wood -> 1 Wood gives 4 Fire wood in the stonecutter (1 Firewood smelts the same as 1 Wood)
-- Campfires are crafted with Fire wood
-- Campfires run out of fire wood after x amount of time
-- Stick scaffolding (with sticks instead of bamboo)
-- Stone shears (low durability, maybe 4 times)
-- Steel gear
+- Steel shield
+- **[N]** Fire Starting Sticks with durability and chance to lit the campfire (When you place a campfire it's unlit)
+- **[N]** Fire Wood -> 1 Wood gives 4 Fire wood in the stonecutter (1 Firewood smelts the same as 1 Wood)
+- **[N]** Campfires are crafted with Fire wood
+- **[N]** Campfires run out of fire wood after x amount of time
+- **[N]** Stick scaffolding (with sticks instead of bamboo)
 ---
 ### EnvironmentZ
 - Comfort effect
@@ -115,7 +110,7 @@
 - 
 ---
 ### RpgZ
-- 
+- Check client hitbox
 ---
 ### SpartanWeapons
 - 
