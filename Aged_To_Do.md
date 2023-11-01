@@ -16,6 +16,7 @@ check if config options are disabled
 - nameplate
 - dehydration
 - fancymenu
+- welcomescreen
 
 is LICENSE.md there?
 

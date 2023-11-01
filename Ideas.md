@@ -106,7 +106,7 @@
 - 
 ---
 ### Revive
-- 
+- Revive with Hand takes way longer (near to 60 seconds) & player only has half a heart when done
 ---
 ### RewardZ
 - 
