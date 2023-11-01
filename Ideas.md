@@ -153,7 +153,7 @@
 ## New Mods
 *****
 ### NutritionZ
-- 
+- Hunger & Saturation (stays vanilla)
 ---
 ### FarmZ
 - Adjust Water Hydration range in config (vanilla = 4 , FarmZ default = 1)
