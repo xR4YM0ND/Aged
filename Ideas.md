@@ -154,6 +154,8 @@
 *****
 ### NutritionZ
 - Hunger & Saturation (stays vanilla)
+    - raise Hunger (Stomach) to 40 or even 60 (double or triple)
+- 4 
 ---
 ### FarmZ
 - Adjust Water Hydration range in config (vanilla = 4 , FarmZ default = 1)
@@ -224,6 +226,11 @@
 *****
 ## Modpacks (Aged)
 *****
+---
+### Datapack
+- Brewing Recipe
+    - Honey bottle + Eye of Ender = Dragon Breath
+---
 ### Maybe mods for Aged
 - [Dimension Mutability](https://beta.curseforge.com/minecraft/mc-mods/dimension-mutability)
 - [Xaeros Minimap Fair Play Edition](https://beta.curseforge.com/minecraft/mc-mods/xaeros-minimap-fair-play-edition) \(*only for other people to use on the server, not for the modpack itself*)

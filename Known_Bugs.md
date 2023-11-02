@@ -63,6 +63,7 @@
 - add outline to icons in levelz screen when they are hovered (second icon texture)
 - mining locked xp blocks (like calcite coal ore), they don't drop items but xp
 - Sometimes the Level before the name (over the player) is 0
+- locked hoe & shovel still work when use right click (farmland / paths)
 ---
 ### LibZ
 - 
@@ -166,7 +167,9 @@
 - Dehydration River works with WWOO? maybe tag thing
 - check animal spawn with WWOO biomes
 ---
+### Config
+- Numismatic Purse flying in creative inventory (moved vanilla recipe book via reciperemover)
+---
 ### Others
-- Disable Phantoms / Gamerule
-- No permission for openpac-parties command ?
+- 
 ---
