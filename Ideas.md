@@ -127,6 +127,7 @@
 ---
 ### TieredZ
 - Extra attributes for elytras (maybe increased rocket duration, durability, speed) cause now they use armor attributes
+- Different shards have different luck modifiers (gypsum shard - luck for reforge / echo shard + luck for reforge)
 ---
 ### TooltipRareness
 - 
