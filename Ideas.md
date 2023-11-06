@@ -156,7 +156,22 @@
 ### NutritionZ
 - Hunger & Saturation (stays vanilla)
     - raise Hunger (Stomach) to 40 or even 60 (double or triple)
-- 4 
+- 4 Nutrients (Carbs / Protein / Fat / Vitamins)
+    - Each Nutrient has its own fill bar starting in the middle (0) from -x to 0 to +x (maybe even in % ? instead of values)
+- Positive Status Effects while roughly all 4 nutrients are middled
+    - 1 buff for every Nutirent
+        - Carbs strong = ? Buff
+        - Protein strong = Strength Buff
+        - Fat strong = Defense Buff
+        - Vitamin strong = Speed Buff
+- Negative Status Effects while unbalanced diet
+    - 1 debuff for every Nutirent
+        - Carbs low = ? Debuff
+        - Protein strong = Strength Debuff
+        - Fat strong = Defense Debuff
+        - Vitamin strong = Speed Debuff
+- Dehydration Compat
+    - implement Durst (Stomach) & raise it to 40 or even 60 (same as hunger)
 ---
 ### FarmZ
 - Adjust Water Hydration range in config (vanilla = 4 , FarmZ default = 1)

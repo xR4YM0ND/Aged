@@ -19,7 +19,10 @@
     - disable certain crystals
 ### Crafting Recipe
 - ✔️ Saplings to Sticks
-- Change Smithing Templates Recipes [A version of this one that fits with templates & aged](https://modrinth.com/datapack/reimagined-trims)
+- Change Smithing Templates Recipes
+    - ✔️ Vanilla
+    - BetterNether
+    - BetterEnd
 - lingering potions out of honey instead of dragons breath
 - ✔️ lower copper raw ores
 - ✔️ Smelt Stone Ores (silktouch)
