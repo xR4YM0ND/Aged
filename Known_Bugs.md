@@ -54,7 +54,7 @@
 - 
 ---
 ### JobsAddon
-- 
+- Brewer Job (Enchantments System Compat with the mod MC Dungeons Enchanting)
 ---
 ### LevelZ
 - Max Mobs kill drops in a chunk (exlude some mobs (ender dragon / bosses / ...))
@@ -120,6 +120,7 @@
 - Wooden shield don't get modifiers (maybe cause of shild tag error with fabric shield lib)
 - if inventory is full you can see the output modifiers of items before crafting (https://discord.com/channels/745451299713056791/745454651536834630/1108890383594836012)
 - Shift # Left Click in players inventory crafting grid -> no modifiers get applied (works in crafting table tho)
+- Can't switch tabs after in TieredZ anvil screen (switch back to normal anvil screen doesnt work)
 ---
 ### TooltipRareness
 - 

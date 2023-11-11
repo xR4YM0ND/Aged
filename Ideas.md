@@ -71,7 +71,20 @@
 - 
 ---
 ### JobsAddon
-- 
+- Hover over Jobs to see the current / max needed xp per job per level (like NutritionZ)
+- Farmer Job 
+    - Entity Drops (currently only block drops)
+    - Modded GUIs
+        - Let's Do Meadow / `meadow:cheese_form` & `meadow:fondue` & `meadow:cooking_pot`
+        - Let's Do Candlelight / `candlelight:cooking_pan` & `candlelight:cooking_pot`
+        - Let's Do Bakery / `bakery:brick_stove` & `bakery:baker_station` & `bakery:small_cooking_pot` & all different stove types
+- Brewer Job
+    - Modded GUIs
+        - Let's Do Vinery / `vinery:wine_press` & `vinery:fermentation_barrel` & `vinery:grapevine_pot`
+- Smither Job
+    - Modded GUIs
+        - BetterEnd / `betterend:end_stone_smelter`
+        - BetterNether / `betternether:cincinnasite_forge`
 ---
 ### LevelZ
 - 
@@ -172,6 +185,11 @@
         - Vitamin strong = Speed Debuff
 - Dehydration Compat
     - implement Durst (Stomach) & raise it to 40 or even 60 (same as hunger)
+- Default Icons
+    - Carbs         minecraft:bread
+    - Proteins      minecraft:cooked_chicken
+    - Fats          minecraft:cooked_porkchop
+    - Vitamins      minecraft:melon_slice
 ---
 ### FarmZ
 - Adjust Water Hydration range in config (vanilla = 4 , FarmZ default = 1)
