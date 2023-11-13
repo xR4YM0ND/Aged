@@ -52,8 +52,7 @@
 - **[N]** Stick scaffolding (with sticks instead of bamboo)
 ---
 ### EnvironmentZ
-- Comfort effect
-- Give comfort effect on first join of the world
+- 
 ---
 ### EventMod
 - 
@@ -71,7 +70,6 @@
 - 
 ---
 ### JobsAddon
-- Hover over Jobs to see the current / max needed xp per job per level (like NutritionZ)
 - Farmer Job 
     - Entity Drops (currently only block drops)
     - Modded GUIs
@@ -86,8 +84,6 @@
         - BetterEnd / `betterend:end_stone_smelter`
         - BetterNether / `betternether:cincinnasite_forge`
     - README says only Crafting (actual Smithing working?)
-- Builder Job
-    - Let me use TAGS pls
 ---
 ### LevelZ
 - 
@@ -96,7 +92,6 @@
 - 
 ---
 ### MedievalWeapons
-- Illager invasion axe check for medievalweapons
 - Bows Projectile Damage Attribute Compat
     - Long Bow
         - 1,3 sec Pull Time
