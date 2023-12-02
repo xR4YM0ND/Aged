@@ -6,112 +6,386 @@ Keep in mind that you need to create a new world.
 Also some mods haven't updated yet / some are removed & some are new to Aged.
 
 ## Fixed:
+- BugZ
 
 ## Changed:
+- Switched from Farmers Delight to Let's Do
+- Reworked LevelZ
+- Reworked JobsAddon
+- Reworked Villager Trades
+- New Mining Progression
+- New Enchant Mechanics
+- New Ranged System
 - Trapdoors now open seperate
+- & way more
 
 ## Removed:
-- Advancement Debug
+- Advancements Debug
 - Another Furniture
-- Anti Ghost
+- AntiGhost
 - Better Biome Blend
 - Better Ladders
-- Chunks Fade In
-- Craftable Invisible Item Frames
-- Creatures From The Snow
+- Brewin And Chewin
+- Cardinal Components API
+- Chunks fade in
+- CIIF - Craftable Invisible
+- CorgiLib
+- Creatures from The Snow
 - CTM Refabricated
+- Custom Spawns
 - Disenchanter
+- Drippy Loading Screen
 - Easy Magic
+- Eclectic Trove (Legendary Tooltips)
 - Ecologics
-- EMI Compat
-- EMI Effects
+- EMICompat
 - Enchanted Vertical Slabs
 - Entity Collision FPS Fix
-- Event
+- Entity Culling
+- EventMod
+- Expanded Delight
 - Experience Bottler
-- Extra Sounds
-- Fabric Seasons Extras
+- ExtraSounds
+- Fabric Seasons: Extras
 - Fabric Shield Lib
+- FancyMenu
+- Farmers Delight
+- Farmers Respite
+- Flintlocks [RP]
 - Frame API
 - Go Fish
 - Health Overlay
-- Ice Boat Nerf
+- Ice Boat nerf
 - Inmis
-- Inmis Addon
+- InmisAddon
+- InvMove
 - Item Borders
-- Lambda Better Grass
-- Macaws Windows
-- Moisturization
-- Naturalist
-- NBT Crafting
+- Item Model Fix
+- LambdaBetterGrass
+- Legendary Tooltips
+- MidnightLib
+- MmmMmmMmmMmm
+- Mod Menu
+- More Culling
+- Musket Mod
+- Nbt Crafting
 - NBT Tooltip
-- Nethers Delight
-- Notes
+- Nether's Delight
 - Overweight Farming
-- Paxi
-- Shoulder Surfing Reloaded
-- Sleep Warp
+- RAY's 3D Ladders
+- RAY's 3D Rails
+- Satin API
+- ShoulderSurfing
+- SleepWarp
 - Smooth Swapping
+- spark
+- Spice of Fabric
+- Takes a Pillage
+- Time & Wind Custom Ticker
 - Tips
-- Travelers Titles
-- Yungs API
-- Yungs Better Desert Temples
-- Yungs Better Dungeons
-- Yungs Better Mineshafts
-- Yungs Better Nether Fortresses
-- Yungs Better Ocean Monuments
-- Yungs Better Strongholds
+- ToolTipFix
+- Traveler's Titles
+- Trinkets Curios Theme
+- xali's Bushy Leaves [RP]
 
 ## Added:
-- Adorn MIIIICHHCHHSSASAAAAA
+- Adaptive Tooltips
+- Aged-Addition
+- Alternate Current
+- Ambient Environment
+- Archers (RPG Series)
+- Architectury API
 - Areas
 - Armorful
 - Athena
-- Better Archeology
+- AzureLib Armor
+- Better Clouds
+- Better Flame Particles [RP]
 - Better Mount HUD
-- Better Tridents
+- Better Smithing Table
+- Biome Moss
 - Borderless Mining
-- Caffeinated
 - Carpeted Stairs & Slabs
-- Carrier
-- Clutter
+- Catalogue
+- CIT Resewn
+- Clear Despawn
+- Colorful Hearts
+- Complementary Shaders - Unbound [Shader]
 - CompleteConfig
+- Continents
+- Corality [RP]
 - Cristel Lib
+- Deeper Oceans
+- Disable Accessibility Screen
+- Dismount Entity
+- Dungeons and Taverns
 - Dynamic FPS
-- Elytra Trims
 - e4mc
+- Eating Animation
+- Elytra Trims
+- EMI Addon: Extra Mod Integrations
+- Enderman Overhaul
+- Enhanced Workbenches
+- Even Better Archeology
+- Extraordinary Extra Totems
+- FancyFast Bushy Leaves [RP]
+- Gazebos (RPG Series)
 - Guard Villagers
-- Hopo Better Mineshaft
+- Hellion's Sniffer+
+- Hero Proof
 - Hopo Better Ruined Portals
+- Horse Buff
+- Illager Invasion
 - Immersive Aircraft
+- ImmersiveThunder
+- Items Displayed
 - ItemSwapper
-- Keep Some Inventory
-- Macaws Roofs
+- Kiwi
+- Krypton
+- Let's Do: API
+- Let's Do: Bakery
+- Let's Do: Candlelight
+- Let's Do: Meadow
+- Let's Do: NetherVinery
+- lootbeams
+- Loyal Items
+- M.R.U.
+- Macaw's Roofs
 - Map Atlases
 - MC Dungeons Enchanting
+- Menulogue
+- MES - Moog's End Structures
+- Minerally
+- miplevel_fix_beautify [RP]
 - Mixin Conflict Helper
 - MixinTrace
+- Model Gap Fix
+- More Mob Variants x Fresh Animations [RP]
+- Mythic Charms
+- Neruina - Ticking Entity Fixer
+- NiftyCarts
+- Noisium
 - Not Enough Crashes
 - Noxesium
+- Particle Rain
+- Particle Tweaks
 - Passable Foliage
-- Passive Shield
 - Pockets
-- Radiant Gear
-- Recipe Book Delight
+- Profundis
+- Projectile Damage Attribute
+- Quality Sounds
+- Reacharound
+- Realistic Bees
+- Respawning Animals
+- Sculk Expansion
 - Searchables
+- SeasonsHUD-Fabric
 - Show Me Your Skin!
-- Shulker Box Tooltip
+- Shut Up GL Error
+- Skeletal Remains
+- Sleep Tight
 - Small Ships
 - Smarter Farmers
+- Snow Under Trees
+- Snuffles
+- Sonance
+- Sound Controller
+- Spawn Animations
+- Spell Engine
+- Spell Power Attributes
 - Stoneworks
+- Structory: Towers
+- Structure Pool API
 - Supplementaries
-- Unsaddle
+- Supplementaries Squared
+- Terrablender
+- Third Person Maps
+- Tidal Towns
+- Time & Wind
+- Tool Trims
+- TravelerZ
+- Trowel
+- True Ending: Ender Dragon Overhaul
+- Ultreon Modding Library
+- Unique Enchanted Books [RP]
+- Villagers: Far From Home
+- Villages&Pillages
 - Wakes
 - What The Bucket
+- YUNG's Better End Island
+- YUNG's Better Jungle Temples
+- YUNG's Better Witch Huts
+- YUNG's Extras
+- YUNG's Menu Tweaks
 
 ## Updated:
 - **Minecraft 1.20.1**
-- **Fabric-Loader 0.14.21**
+- **Fabric-Loader 0.14.24**
+- [EMF] Entity Model Features
+- [ETF] Entity Texture Features
+- 3D Skin Layers
+- AdditionZ
+- Advancement Plaques
+- AdventureZ
+- AmbientSounds
+- Amecs
+- AppleSkin
+- ARRP
+- AttributeFix
+- Auto Third Person
+- AutoTag
+- BackSlot
+- BackSlotAddon
+- Balm
+- BCLib
+- Beautify: Refabricated
+- Better Advancements
+- Better Combat
+- Better Statistics Screen
+- BetterEnd
+- BetterNether
+- Blossom
+- Blur
+- Boat Item View
+- Bookshelf
+- Bushier Flowers
+- Cave Dust
+- Charm of Undying
+- Chipped
+- Cloth Config API
+- Collective
+- Combat Roll
+- Connectible Chains
+- Continuity
+- Controlling
+- Couplings
+- CraftPresence
+- Crawl
+- CreativeCore
+- Creeper Overhaul
+- Custom Portals
+- Dawn API
+- Debugify
+- Default Options
+- Dehydration
+- Detail Armor Bar
+- Do a Barrel Roll
+- Drip Sounds
+- DungeonZ
+- Dyed
+- Dynamic Crosshair
+- Dynamic Crosshair Compat
+- EarlyStage
+- Elytra Slot
+- EMI
+- EMI Loot
+- EMI Trades
+- EMIffect
+- Enchantment Descriptions
+- End Remastered
+- EnvironmentZ
+- Equipment Compare
+- Fabric API
+- Fabric Language Kotlin
+- Fabric Seasons
+- Falling Leaves
+- FerriteCore
+- FleshZ
+- Forge Config API Port
+- Geckolib
+- Geophilic
+- Grass Overhaul
+- Guarding
+- Handcrafted
+- HerdsPanic
+- Hopo Better Underwater Ruins
+- Horse Expert
+- HT's TreeChop
+- Iceberg
+- ImmediatelyFast
+- Immersive Armors
+- Indium
+- Interactic
+- Iris Shaders
+- JobsAddon
+- Jump Over Fences
+- Konkrete
+- Let Me Despawn
+- Let's Do: Vinery
+- LevelZ
+- LibZ
+- Lithium
+- Load My Resources
+- Log Begone
+- Lootr
+- Macaw's Windows
+- Make Bubbles Pop Mod
+- MedievalWeapons
+- Memory Leak Fix
+- ModernFix
+- Moisturization
+- Moonlight Lib
+- More Geodes
+- More Mob Variants
+- Nameplate
+- Naturalist
+- NetherPortalFix
+- Nicer Skies
+- No Chat Reports
+- Not Enough Animations
+- Numismatic Overhaul
+- NumismaticClaim
+- On Soul Fire
+- Open Parties and Claims
+- owo lib
+- PartyAddon
+- Patchouli
+- PatchouliButton
+- Paxi
+- playerAnimator
+- Polymorph
+- Presence Footsteps
+- Prism
+- Puzzles Lib
+- Raise Sound Limit Simplified
+- RecipeRemover
+- Reese's Sodium Options
+- Resourceful Config
+- Resourceful Lib
+- Revive
+- RpgDifficulty
+- Simple Voice Chat
+- Sodium
+- Sodium Extra
+- Sodium Shadowy Path Blocks
+- Sooty Chimneys for Fabric
+- Sound Physics Remastered
+- SpoiledZ
+- Spyglass Improvements
+- Starlight
+- Starter Kit
+- Stendhal
+- Structory
+- Suggestion Tweaker
+- The Lost Castle
+- TieredZ
+- Tom's Simple Storage Mod
+- Towns and Towers
+- Trinkets
+- Universal Ores
+- VillagerTradeFix
+- Visuality
+- VoidZ
+- William Wythers' Expanded Ecosphere
+- Xaero's World Map
+- YetAnotherConfigLib
+- YUNG's  API
+- YUNG's Better Desert Temples
+- YUNG's Better Dungeons
+- YUNG's Better Mineshafts
+- YUNG's Better Nether Fortresses
+- YUNG's Better Ocean Monuments
+- YUNG's Better Strongholds
 
 *****
 # Aged 2.0.4

@@ -13,6 +13,7 @@
 - Ice Boat Nerf (No op speed)
 - Sneak through Berry Bushes (dont get damaged)
 - **[?]** Shield Cooldown compatible with the mod Guarding
+- Free standing Ladders
 ---
 ### AdventureZ
 - Gilded Netherite Tools/Weapons (Specials: Maybe Auto Smelt on Pickaxe(toggleable via hotkey))
@@ -90,7 +91,7 @@
     - Let me use TAGS pls
 ---
 ### LevelZ
-- 
+- Mining List to Mining Tabs (one site after another instead of scroll wheel (only render blocks on a site -> performance boost))
 ---
 ### LibZ
 - 
@@ -212,6 +213,7 @@
 - Waterwheel
 - Wildlife can eat crops (Fences / Walls would be a good counter)
 - Well (has a x amount of water and fills up a x amount over a x ticks if not full)
+- Different crops grow different in different biomes (+ every biome has their own randomness between min & max) [ask Justin]
 ---
 ### ClassZ
 - 
@@ -290,4 +292,5 @@
 - [Convenient Decor](https://modrinth.com/mod/convenient-decor)
 - [Damage Tilt](https://www.curseforge.com/minecraft/mc-mods/damage-tilt)
 - [Neruina - Ticking Entity Fixer](https://modrinth.com/mod/neruina)
+- [Lunar](https://modrinth.com/mod/lunar)
 ---

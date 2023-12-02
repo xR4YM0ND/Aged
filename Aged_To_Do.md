@@ -1,50 +1,75 @@
 # To Do
 ## Datapack
-- ✔️ TieredZ
+- EarlyStage
+    - Sieve Blocks & Drops
+- TieredZ
     - tags/main-offhand-item ?
-    - add wood shield
-    - check trident base material
-- ✔️ Fabric Seasons
-- JobsAddon
-- Numismatic Overhaul
-    - Villager
-    - Wandering Trader
-    - Wandering Winemaker
-    - Wandering Baker
-    - Red Merchant
 - 🔜 RewardZ
-- ✔️ LevelZ
-    - ✔️ Handcrafted
-    - ✔️ Stoneworks
-    - ✔️ Other Furniture Mod
-- ✔️ Minerally
-    - ✔️ lower spawn chance
-    - ✔️ change drop output
-    - ✖️ disable certain crystals (not possible)
 - General
     - Remove Food normal Furnace Recipe (only Smoker & Campfire)
-    - Disable Dried Kelp for JobsAddon restricted
+- Numismatic Overhaul
+    - Winemaker (Apple Press)
 ### Crafting Recipe
-- ✔️ Saplings to Sticks
-- ✔️ Change Smithing Templates Recipes
-    - ✔️ Vanilla
-    - ✖️ BetterNether (Not via standard recipes)
-    - ✖️ BetterEnd (Not via standard recipes)
 - lingering potions out of honey instead of dragons breath
-- ✔️ lower copper raw ores
-- ✔️ Smelt Stone Ores (silktouch)
-- ✔️ Stone Ores drop Nuggets (4-9)
+- Remove
+    - remove brick bucket from bricks crafting
+    - remove Cooking things from normal furnace and add them to smoker only
+- Add
+    - add stripped log + bark = log
 ## Config
 - Saturation aus Tooltip entfernen
 ## GUI
-- ✔️ Diet (button position move doesnt work)
+- 
 ## Visual
 - Loading Screen
 - Menu
 - WelcomeScreen
 ## Guide Book
-- Everything
+- Get Started
+    - Basic Tools
+    - Skills
+    - Jobs
+    - Party
+        Bild
+        Better with Friends
+        Party Bonus:
+            - Split XP via all members in the same dimension.
+            - Get extra XP
+- Farming
+    - Crops & Seasons
+    - Animal Breeding
+    - Sprinkler
+- Hydration
+    - Drink
+        - Shift + right click to drink out of a water source
+        - Rivers are more safe to drink of than other biomes
+    - Boil
+        - Water Bottles on Campfire
+        - Brew Water Potion
+        - Campfire Cauldron
+        - Other Ways like
+            - Copper Cauldron (rain water)
+            - Bamboo Pump
+    - Carry
+        - Bottles
+        - Flasks
+- Temperature
+- Production
+    - Ore (Furnace & Blast Furnace)
+    - Food (Smoker)
+    - Leather
+- Construction
+    - Chipped
+- Technology
+    - NiftyCarts
+    - Small Ships
+    - Immersive Aircraft
 ## Resourcepack
-- 
+- RAY's
 ## Mods
-- Remove Entity Culling (vorrübergehend)
+- Seamlees Loading Screen
+- Inmis
+- Inmis Addon
+- Dimensional Threading
+- Extended Drawers
+- ExtendedDrawersAddon

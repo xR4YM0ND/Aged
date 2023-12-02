@@ -33,7 +33,7 @@
 - 
 ---
 ### EarlyStage
-- 
+- Crafting Rock -> TieredZ incompat (No Rarities)
 ---
 ### EnvironmentZ
 - Item value is actually doubled (Ice pack -20, Heating stones +20, ...)
@@ -121,6 +121,7 @@
 - if inventory is full you can see the output modifiers of items before crafting (https://discord.com/channels/745451299713056791/745454651536834630/1108890383594836012)
 - Shift # Left Click in players inventory crafting grid -> no modifiers get applied (works in crafting table tho)
 - Can't switch tabs after in TieredZ anvil screen (switch back to normal anvil screen doesnt work)
+- EarlyStage Crafting Rock incompat (No Rarities)
 ---
 ### TooltipRareness
 - 
@@ -164,13 +165,10 @@
 ### Datapack
 - Change polymorph position (asked on their dc)
 - Spyglass in trinket slot with hotkey (still levelz bound)
-- In EMI (Combat Roll & Move Mod still work)
-- Dehydration River works with WWOO? maybe tag thing
-- check animal spawn with WWOO biomes
 ---
 ### Config
-- Numismatic Purse flying in creative inventory (moved vanilla recipe book via reciperemover)
+- 
 ---
 ### Others
-- 
+- Villager Trades get discount but they shouldnt cause of Villager Trade Fix 0.0
 ---
