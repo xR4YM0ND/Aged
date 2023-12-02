@@ -1,0 +1,23 @@
+{
+    "replace": true,
+    "level": 23,
+    "block": [
+        "betterend:violecite",
+        "betterend:violecite_polished",
+        "betterend:violecite_tiles",
+        "betterend:violecite_pillar",
+        "betterend:violecite_stairs",
+        "betterend:violecite_slab",
+        "betterend:violecite_wall",
+        "betterend:violecite_button",
+        "betterend:violecite_plate",
+        "betterend:violecite_pedestal",
+        "betterend:violecite_lantern",
+        "betterend:violecite_bricks",
+        "betterend:violecite_bricks_stairs",
+        "betterend:violecite_bricks_slab",
+        "betterend:violecite_bricks_wall",
+        "betterend:violecite_furnace",
+        "betterend:violecite_flower_pot"
+    ]
+}

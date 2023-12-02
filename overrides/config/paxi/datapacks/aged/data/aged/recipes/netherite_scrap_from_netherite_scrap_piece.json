@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "agedaddition:netherite_scrap_piece"
+        },
+        {
+            "item": "agedaddition:netherite_scrap_piece"
+        }
+    ],
+    "result": {
+        "item": "minecraft:netherite_scrap"
+    }
+}

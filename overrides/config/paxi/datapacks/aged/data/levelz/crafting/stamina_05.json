@@ -1,0 +1,15 @@
+{
+    "replace": false,
+    "skill": "stamina",
+    "level": 5,
+    "item": [
+        "bakery:stone_bricks_stove",
+        "candlelight:stone_bricks_stove",
+        "candlelight:stone_bricks_kitchen_sink",
+        "candlelight:stone_bricks_counter",
+        "bakery:cobblestone_stove",
+        "candlelight:cobblestone_stove",
+        "candlelight:cobblestone_kitchen_sink",
+        "candlelight:cobblestone_counter"
+    ]
+}

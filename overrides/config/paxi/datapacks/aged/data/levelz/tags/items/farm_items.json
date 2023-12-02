@@ -1,0 +1,25 @@
+{
+    "replace": true,
+    "values": [
+        "minecraft:wheat",
+        "minecraft:carrot",
+        "minecraft:potato",
+        "minecraft:beetroot",
+        "minecraft:melon_slice",
+        "minecraft:pumpkin",
+        "supplementaries:flax",
+        "minecraft:torchflower",
+        "bakery:strawberry",
+        "bakery:oat",
+        "candlelight:tomato",
+        "candlelight:lettuce",
+        "vinery:red_grape",
+        "vinery:white_grape",
+        "vinery:savanna_grapes_red",
+        "vinery:savanna_grapes_white",
+        "vinery:taiga_grapes_red",
+        "vinery:taiga_grapes_white",
+        "vinery:jungle_grapes_white",
+        "vinery:jungle_grapes_red"
+    ]
+}

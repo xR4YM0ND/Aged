@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "defense",
+    "level": 15,
+    "entity": "minecraft:custom_entity",
+    "object": "guardvillagers:guard"
+}

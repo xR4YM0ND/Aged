@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "mining",
+    "level": 12,
+    "block": "minecraft:custom_block",
+    "object": "betternether:cincinnasite_forge"
+}

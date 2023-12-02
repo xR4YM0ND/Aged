@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "skill": "stamina",
+    "level": 11,
+    "item": [
+        "candlelight:basalt_stove",
+        "candlelight:basalt_kitchen_sink",
+        "candlelight:basalt_counter",
+        "meadow:cooking_pot"
+    ]
+}

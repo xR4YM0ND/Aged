@@ -1,0 +1,20 @@
+{
+    "replace": true,
+    "level": 11,
+    "item": [
+        "minecraft:iron_helmet",
+        "minecraft:iron_chestplate",
+        "minecraft:iron_leggings",
+        "minecraft:iron_boots",
+        "minecraft:iron_sword",
+        "minecraft:iron_pickaxe",
+        "minecraft:iron_shovel",
+        "minecraft:iron_axe",
+        "minecraft:iron_hoe",
+        "betterend:iron_hammer",
+        "immersive_armors:warrior_helmet",
+        "immersive_armors:warrior_chestplate",
+        "immersive_armors:warrior_leggings",
+        "immersive_armors:warrior_boots"
+    ]
+}

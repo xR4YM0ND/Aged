@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "skill": "stamina",
+    "level": 21,
+    "item": [
+        "bakery:end_stove",
+        "candlelight:end_stove",
+        "candlelight:end_kitchen_sink",
+        "candlelight:end_counter"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "replace": true,
+    "values": [
+        "minecraft:dirt_path",
+        "sod:path_sod_block",
+        "sod:path_sod_stairs",
+        "sod:path_sod_slab",
+        "sod:path_sod_patch",
+        "betterend:end_mycelium_path",
+        "betterend:end_moss_path",
+        "betterend:chorus_nylium_path",
+        "betterend:cave_moss_path",
+        "betterend:crystal_moss_path",
+        "betterend:shadow_grass_path",
+        "betterend:pink_moss_path",
+        "betterend:amber_moss_path",
+        "betterend:jungle_moss_path",
+        "betterend:sangnum_path",
+        "betterend:rutiscus_path"
+    ]
+}

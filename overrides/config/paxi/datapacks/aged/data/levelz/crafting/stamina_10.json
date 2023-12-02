@@ -1,0 +1,19 @@
+{
+    "replace": false,
+    "skill": "stamina",
+    "level": 10,
+    "item": [
+        "meadow:fur_helmet",
+        "meadow:fur_chestplate",
+        "meadow:fur_leggings",
+        "meadow:fur_boots",
+        "bakery:granite_stove",
+        "candlelight:granite_stove",
+        "candlelight:granite_kitchen_sink",
+        "candlelight:granite_counter",
+        "bakery:red_nether_bricks_stove",
+        "candlelight:red_nether_bricks_stove",
+        "candlelight:red_nether_bricks_kitchen_sink",
+        "candlelight:red_nether_bricks_counter"
+    ]
+}

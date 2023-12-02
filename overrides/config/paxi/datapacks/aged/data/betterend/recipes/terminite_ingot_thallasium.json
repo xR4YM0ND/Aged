@@ -1,0 +1,16 @@
+{
+    "type": "bclib:alloying",
+    "experience": 2.5,
+    "ingredients": [
+      {
+        "item": "betterend:thallasium_ingot"
+      },
+      {
+        "item": "betterend:ender_dust"
+      }
+    ],
+    "result": {
+      "item": "betterend:terminite_ingot"
+    },
+    "smelttime": 800
+  }

@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "trade",
+    "level": 5,
+    "entity": "minecraft:custom_entity",
+    "object": "supplementaries:red_merchant"
+}

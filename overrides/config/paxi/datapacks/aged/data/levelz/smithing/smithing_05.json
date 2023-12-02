@@ -1,0 +1,14 @@
+{
+    "replace": true,
+    "level": 5,
+    "item": [
+        "minecraft:golden_helmet",
+        "minecraft:golden_chestplate",
+        "minecraft:golden_leggings",
+        "minecraft:golden_boots",
+        "minecraft:stone_pickaxe",
+        "minecraft:stone_shovel",
+        "minecraft:stone_axe",
+        "minecraft:stone_hoe"
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "archery",
+    "level": 26,
+    "item": "minecraft:custom_item",
+    "object": "archers:netherite_shortbow"
+}

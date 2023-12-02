@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "skill": "stamina",
+    "level": 3,
+    "item": [
+        "bakery:kitchen_sink",
+        "bakery:brick_stove",
+        "bakery:baker_station",
+        "bakery:brick_counter"
+    ]
+}

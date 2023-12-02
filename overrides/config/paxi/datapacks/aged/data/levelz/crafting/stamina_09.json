@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "skill": "stamina",
+    "level": 9,
+    "item": [
+        "meadow:cheese_form"
+    ]
+}

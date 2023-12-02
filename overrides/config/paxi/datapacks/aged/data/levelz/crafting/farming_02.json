@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "skill": "farming",
+    "level": 2,
+    "item": [
+        "vinery:straw_hat",
+        "vinery:vinemaker_apron",
+        "vinery:vinemaker_leggings",
+        "vinery:vinemaker_boots",
+        "minecraft:wooden_axe",
+        "minecraft:wooden_hoe"
+    ]
+}

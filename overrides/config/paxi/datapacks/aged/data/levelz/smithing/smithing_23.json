@@ -1,0 +1,14 @@
+{
+    "replace": true,
+    "level": 23,
+    "item": [
+        "betternether:nether_ruby_helmet",
+        "betternether:nether_ruby_chestplate",
+        "betternether:nether_ruby_leggings",
+        "betternether:nether_ruby_boots",
+        "minecraft:netherite_pickaxe",
+        "minecraft:netherite_shovel",
+        "minecraft:netherite_axe",
+        "minecraft:netherite_hoe"
+    ]
+}

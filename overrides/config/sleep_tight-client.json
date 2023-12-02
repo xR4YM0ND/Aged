@@ -1,0 +1,30 @@
+{
+  "#README": "This config file does not support comments. To see them configure it in-game using YACL or Cloth Config",
+  "hammock": {
+    "animation": true,
+    "animation_parameters": {
+      "frequency": 0.25,
+      "collision_considers_entity_hitbox": true,
+      "collision_inertia": 1.0,
+      "collision_force": 1.0,
+      "min_angle": 4.999998,
+      "max_angle": 99.999985,
+      "damping": 0.2
+    },
+    "swing_force": 0.008,
+    "camera_roll_intensity": 1.0,
+    "hammock_fall": true
+  },
+  "dream_essence": {
+    "particle_alpha": 0.1,
+    "particle_lifetime": 380,
+    "particle_spawn_chance": 0.15,
+    "24h_time_format": true
+  },
+  "misc": {
+    "show_insomnia_timer": false,
+    "crossair_insomnia_cooldown": true,
+    "show_time_when_sleeping": true,
+    "sleeping_villagers_eyes": true
+  }
+}

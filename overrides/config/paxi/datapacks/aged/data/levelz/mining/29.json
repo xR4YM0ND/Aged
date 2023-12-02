@@ -1,0 +1,27 @@
+{
+    "replace": true,
+    "level": 29,
+    "block": [
+        "betterend:pallidium_full",
+        "betterend:pallidium_heavy",
+        "betterend:pallidium_thin",
+        "betterend:pallidium_tiny",
+        "betterend:umbralith",
+        "betterend:umbralith_polished",
+        "betterend:umbralith_tiles",
+        "betterend:umbralith_pillar",
+        "betterend:umbralith_stairs",
+        "betterend:umbralith_slab",
+        "betterend:umbralith_wall",
+        "betterend:umbralith_button",
+        "betterend:umbralith_plate",
+        "betterend:umbralith_pedestal",
+        "betterend:umbralith_lantern",
+        "betterend:umbralith_bricks",
+        "betterend:umbralith_bricks_stairs",
+        "betterend:umbralith_bricks_slab",
+        "betterend:umbralith_bricks_wall",
+        "betterend:umbralith_furnace",
+        "betterend:umbralith_flower_pot"
+    ]
+}

@@ -1,0 +1,161 @@
+{
+    "1": {
+        "replace": true,
+        "effects": [
+            "minecraft:awkward",
+            "minecraft:mundane",
+            "minecraft:thick"
+        ]
+    },
+    "2": {
+        "replace": true,
+        "enchantments": [
+            "minecraft:efficiency",
+            "minecraft:power",
+            "minecraft:sharpness",
+            "minecraft:protection",
+            "minecraft:unbreaking",
+            "minecraft:smite",
+            "minecraft:bane_of_arthropods"
+        ]
+    },
+    "3": {
+        "replace": true,
+        "effects": [
+            "minecraft:leaping",
+            "minecraft:strong_leaping",
+            "minecraft:long_leaping",
+            "minecraft:poison",
+            "minecraft:strong_poison",
+            "minecraft:long_poison",
+            "minecraft:night_vision",
+            "minecraft:long_night_vision",
+            "minecraft:slowness",
+            "minecraft:strong_slowness",
+            "minecraft:long_slowness",
+            "minecraft:harming",
+            "minecraft:strong_harming"
+        ],
+        "enchantments": [
+            "minecraft:fire_protection",
+            "minecraft:projectile_protection",
+            "minecraft:impaling",
+            "minecraft:feather_falling",
+            "minecraft:lure",
+            "minecraft:sweeping",
+            "minecraft:blast_protection"
+        ]
+    },
+    "4": {
+        "replace": true,
+        "effects": [
+            "minecraft:invisibility",
+            "minecraft:long_invisibility",
+            "minecraft:turtle_master",
+            "minecraft:long_turtle_master",
+            "minecraft:strong_turtle_master",
+            "minecraft:slow_falling",
+            "minecraft:long_slow_falling"
+        ],
+        "enchantments": [
+            "minecraft:looting",
+            "minecraft:quick_charge",
+            "minecraft:fortune",
+            "minecraft:luck_of_the_sea",
+            "minecraft:riptide",
+            "minecraft:respiration",
+            "minecraft:piercing",
+            "minecraft:depth_strider",
+            "minecraft:thorns"
+        ]
+    },
+    "5": {
+        "replace": true,
+        "effects": [
+            "naturalist:forest_dasher",
+            "naturalist:long_forest_dasher",
+            "naturalist:strong_forest_dasher"
+        ],
+        "enchantments": [
+            "minecraft:soul_speed",
+            "minecraft:loyalty",
+            "minecraft:punch",
+            "minecraft:swift_sneak",
+            "minecraft:fire_aspect",
+            "minecraft:knockback"
+        ]
+    },
+    "6": {
+        "replace": true,
+        "effects": [
+            "minecraft:water_breathing",
+            "minecraft:long_water_breathing",
+            "minecraft:weakness",
+            "minecraft:long_weakness",
+            "illagerinvasion:berserking",
+            "illagerinvasion:long_berserking",
+            "illagerinvasion:strong_berserking"
+        ]
+    },
+    "7": {
+        "replace": true,
+        "effects": [
+            "minecraft:strength",
+            "minecraft:strong_strength",
+            "minecraft:long_strength",
+            "minecraft:swiftness",
+            "minecraft:long_swiftness",
+            "minecraft:strong_swiftness",
+            "betterend:end_veil"
+        ],
+        "enchantments": [
+            "minecraft:infinity"
+        ]
+    },
+    "8": {
+        "replace": true,
+        "effects": [
+            "minecraft:regeneration",
+            "minecraft:strong_regeneration",
+            "minecraft:long_regeneration",
+            "minecraft:fire_resistance",
+            "minecraft:long_fire_resistance",
+            "betterend:long_end_veil"
+        ],
+        "enchantments": [
+            "minecraft:flame",
+            "minecraft:aqua_affinity",
+            "minecraft:multishot",
+            "minecraft:frost_walker"
+        ]
+    },
+    "9": {
+        "replace": true,
+        "effects": [
+            "minecraft:healing",
+            "minecraft:strong_healing"
+        ],
+        "enchantments": [
+            "minecraft:silk_touch",
+            "minecraft:mending"
+        ]
+    },
+    "10": {
+        "replace": true,
+        "effects": [
+            "minecraft:luck",
+            "minecraft:hydration",
+            "minecraft:cold_resistance",
+            "minecraft:long_cold_resistance",
+            "minecraft:overheating_resistance",
+            "minecraft:long_overheating_resistance",
+            "minecraft:revivify_potion",
+            "minecraft:supportive_revivify_potion"
+        ],
+        "enchantments": [
+            "minecraft:channeling",
+            "minecraft:binding_curse",
+            "minecraft:vanishing_curse"
+        ]
+    }
+}

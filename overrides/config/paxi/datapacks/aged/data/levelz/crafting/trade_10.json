@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "skill": "trade",
+    "level": 10,
+    "item": [
+        "numismatic-overhaul:shop"
+    ]
+}

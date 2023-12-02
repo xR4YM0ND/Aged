@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+      "#": {
+        "item": "minecraft:netherrack"
+      },
+      "+": {
+        "item": "minecraft:blaze_rod"
+      },
+      "C": {
+        "item": "minecraft:diamond"
+      },
+      "S": {
+        "item": "minecraft:rib_armor_trim_smithing_template"
+      }
+    },
+    "pattern": [
+      "#S#",
+      "+C+",
+      "#+#"
+    ],
+    "result": {
+      "count": 2,
+      "item": "minecraft:rib_armor_trim_smithing_template"
+    },
+    "show_notification": true
+  }

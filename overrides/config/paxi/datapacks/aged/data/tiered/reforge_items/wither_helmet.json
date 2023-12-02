@@ -1,0 +1,8 @@
+{
+    "items": [
+        "immersive_armors:wither_helmet"
+    ],
+    "base": [
+        "minecraft:nether_brick"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+	// The maximum number of Maps (Filled & Empty combined) allowed to be inside an Atlas (-1 to disable).
+	"maxMapCount": 512,
+	// If true, the Atlas is required to have spare Empty Maps stored to expand the Filled Map size
+	"requireEmptyMapsToExpand": true,
+	// Scale the mini-map to a given % of the height of your screen.
+	"forceMiniMapScaling": 30,
+	// If 'true', the Mini-Map of the Active Map will be drawn on the HUD while the Atlas is active.
+	"drawMiniMapHUD": true,
+	// If 'true', Atlases will be able to store Empty Maps and auto-fill them as you explore.
+	"enableEmptyMapEntryAndFill": true,
+	// Controls location where mini-map displays. Any of: 'HANDS', 'HOTBAR', or 'INVENTORY'.
+	"activationLocation": "HOTBAR",
+	// Scale the world-map to a given % of the height of your screen.
+	"forceWorldMapScaling": 80,
+	// Set to any of 'Upper'/'Lower' & 'Left'/'Right' to control anchor position of mini-map
+	"miniMapAnchoring": "UpperLeft",
+	// Enter an integer which will offset the mini-map horizontally
+	"miniMapHorizontalOffset": 5,
+	// Enter an integer which will offset the mini-map vertically
+	"miniMapVerticalOffset": 5,
+	// Controls how many usable Maps are added when you add a single Map to the Atlas
+	"mapEntryValueMultiplier": 1,
+	// Controls how many free Empty Maps you get for 'activating' an Inactive Atlas
+	"pityActivationMapCount": 9,
+	// The number of pixels to shift vertically when there's an active effect
+	"activePotionVerticalOffset": 26,
+	// When enabled, the player's current Coords will be displayed
+	"drawMinimapCoords": true,
+	// When enabled, the player's current Biome will be displayed
+	"drawMinimapBiome": true,
+	// Sets the scale of the text rendered for Coords and Biome mini-map data
+	"minimapCoordsAndBiomeScale": 1.0,
+	// When enabled, the Atlas world map coordinates will be displayed
+	"drawWorldMapCoords": true,
+	// Sets the scale of the text rendered for Coords world-map data
+	"worldMapCoordsScale": 1.0,
+	// Sets the scale of the map icons rendered in the mini-map
+	"miniMapIconScale": 1.0,
+	// Sets the scale of the map icons rendered in the world-map
+	"worldMapIconScale": 1.0,
+	// If enabled, you can increase the Empty Map count by inserting Paper
+	"acceptPaperForEmptyMaps": false,
+	// Multiplier for all the Atlases sound float
+	"soundScalar": 1.0
+}

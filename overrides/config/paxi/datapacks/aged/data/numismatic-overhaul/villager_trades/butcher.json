@@ -1,0 +1,195 @@
+{
+    "profession": "butcher",
+    "trades": {
+        "novice": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 20,
+                "sell": {
+                    "item": "minecraft:chicken",
+                    "count": 2
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 20,
+                "sell": {
+                    "item": "minecraft:rabbit",
+                    "count": 2
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 20,
+                "sell": {
+                    "item": "adventurez:iguana_meat",
+                    "count": 2
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 20,
+                "sell": {
+                    "item": "naturalist:duck",
+                    "count": 2
+                }
+            }
+        ],
+        "apprentice": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 40,
+                "sell": {
+                    "item": "minecraft:beef",
+                    "count": 2
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 40,
+                "sell": {
+                    "item": "minecraft:mutton",
+                    "count": 2
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 40,
+                "sell": {
+                    "item": "minecraft:porkchop",
+                    "count": 2
+                }
+            }
+        ],
+        "journeyman": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 6,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 80,
+                "sell": {
+                    "item": "adventurez:raw_venison",
+                    "count": 2
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 6,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 80,
+                "sell": {
+                    "item": "naturalist:venison",
+                    "count": 2
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 6,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 80,
+                "sell": {
+                    "item": "naturalist:lizard_tail",
+                    "count": 2
+                }
+            },
+            {
+                "type": "numismatic-overhaul:process_item",
+                "villager_experience": 6,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 300,
+                "sell": {
+                    "item": "naturalist:antler",
+                    "count": 1
+                },
+                "buy": {
+                    "item": "numismatic-overhaul:bronze_coin",
+                    "count": 20
+                }
+            }
+        ],
+        "expert": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 8,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 200,
+                "sell": {
+                    "item": "meadow:raw_bear_meat",
+                    "count": 2
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 8,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 200,
+                "sell": {
+                    "item": "adventurez:mammoth_meat",
+                    "count": 2
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 8,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 200,
+                "sell": {
+                    "item": "adventurez:rhino_meat",
+                    "count": 2
+                }
+            }
+        ],
+        "master": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 10,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 400,
+                "sell": {
+                    "item": "adventurez:ender_whale_meat",
+                    "count": 2
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 10,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 400,
+                "sell": {
+                    "item": "adventurez:warthog_meat",
+                    "count": 2
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,273 @@
+{
+    "profession": "fisherman",
+    "trades": {
+        "novice": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 40,
+                "sell": {
+                    "item": "minecraft:cod",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 80,
+                "sell": {
+                    "item": "minecraft:cod_bucket",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 40,
+                "sell": {
+                    "item": "minecraft:salmon",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 80,
+                "sell": {
+                    "item": "minecraft:salmon_bucket",
+                    "count": 1
+                }
+            }
+        ],
+        "apprentice": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 80,
+                "sell": {
+                    "item": "minecraft:tropical_fish",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:process_item",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 100,
+                "sell": {
+                    "item": "minecraft:tropical_fish_bucket",
+                    "count": 1
+                },
+                "buy": {
+                    "item": "numismatic-overhaul:bronze_coin",
+                    "count": 60
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 80,
+                "sell": {
+                    "item": "naturalist:catfish",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:process_item",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 100,
+                "sell": {
+                    "item": "naturalist:catfish_bucket",
+                    "count": 1
+                },
+                "buy": {
+                    "item": "numismatic-overhaul:bronze_coin",
+                    "count": 60
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 80,
+                "sell": {
+                    "item": "naturalist:bass",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:process_item",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 100,
+                "sell": {
+                    "item": "naturalist:bass_bucket",
+                    "count": 1
+                },
+                "buy": {
+                    "item": "numismatic-overhaul:bronze_coin",
+                    "count": 60
+                }
+            }
+        ],
+        "journeyman": [
+            {
+                "type": "numismatic-overhaul:process_item",
+                "villager_experience": 6,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 100,
+                "sell": {
+                    "item": "minecraft:pufferfish",
+                    "count": 4
+                },
+                "buy": {
+                    "item": "numismatic-overhaul:bronze_coin",
+                    "count": 60
+                }
+            },
+            {
+                "type": "numismatic-overhaul:process_item",
+                "villager_experience": 6,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 300,
+                "sell": {
+                    "item": "minecraft:pufferfish_bucket",
+                    "count": 1
+                },
+                "buy": {
+                    "item": "numismatic-overhaul:bronze_coin",
+                    "count": 20
+                }
+            },
+            {
+                "type": "numismatic-overhaul:process_item",
+                "villager_experience": 6,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 300,
+                "sell": {
+                    "item": "minecraft:tadpole_bucket",
+                    "count": 1
+                },
+                "buy": {
+                    "item": "numismatic-overhaul:bronze_coin",
+                    "count": 20
+                }
+            },
+            {
+                "type": "numismatic-overhaul:process_item",
+                "villager_experience": 6,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 100,
+                "sell": {
+                    "item": "minecraft:potion",
+                    "count": 1,
+                    "tag": {
+                        "Potion": "minecraft:water_breathing"
+                    }
+                },
+                "buy": {
+                    "item": "numismatic-overhaul:bronze_coin",
+                    "count": 60
+                }
+            }
+        ],
+        "expert": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 8,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 400,
+                "sell": {
+                    "item": "betterend:end_fish_raw",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 8,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 800,
+                "sell": {
+                    "item": "betterend:bucket_end_fish",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 8,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 800,
+                "sell": {
+                    "item": "minecraft:axolotl_bucket",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:process_item",
+                "villager_experience": 8,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 700,
+                "sell": {
+                    "item": "minecraft:turtle_helmet",
+                    "count": 1
+                },
+                "buy": {
+                    "item": "numismatic-overhaul:bronze_coin",
+                    "count": 50
+                }
+            }
+        ],
+        "master": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 10,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 200,
+                "sell": {
+                    "item": "minecraft:nautilus_shell",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 10,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 400,
+                "sell": {
+                    "item": "minecraft:potion",
+                    "count": 1,
+                    "tag": {
+                        "Potion": "minecraft:long_water_breathing"
+                    }
+                }
+            }
+        ]
+    }
+}

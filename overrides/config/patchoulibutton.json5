@@ -1,0 +1,8 @@
+{
+	// Patchouli book identifier
+	"bookIdentifier": "patchouli:aged_guide_book",
+	"posX": 180,
+	"posY": 25,
+	// If false, open directly modpack book
+	"openAllBooksScreen": true
+}

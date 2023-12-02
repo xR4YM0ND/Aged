@@ -1,0 +1,8 @@
+{
+    "items": [
+        "immersive_armors:heavy_chestplate"
+    ],
+    "base": [
+        "minecraft:iron_block"
+    ]
+}

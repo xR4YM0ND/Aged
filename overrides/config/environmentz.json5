@@ -1,0 +1,23 @@
+{
+	// Increase for less harsh environments
+	"temperatureCalculationTime": 20,
+	// Try find an easy world spawn point
+	"easyWorldSpawn": true,
+	"iconX": 7,
+	"iconY": 52,
+	"thermometerIconX": -96,
+	"thermometerIconY": 32,
+	"showThermometer": true,
+	"startUpComfortEffectDuration": 9600,
+	// Handle with care!
+	"heatBlockRadius": 3,
+	"printInConsole": false,
+	// White overlay while in cold biomes
+	"coldOverlay": true,
+	"shakingScreenEffect": true,
+	// Handles thirst when Dehydration mod is loaded
+	"overheatingExhaustion": 0.07500000298023224,
+	// Undo dehydration mod compat
+	"exhaustionInsteadDehydration": false,
+	"blurScreenEffect": true
+}

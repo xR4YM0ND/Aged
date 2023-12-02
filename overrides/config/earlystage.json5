@@ -1,0 +1,16 @@
+{
+	// Generate rocks in the overworld
+	"generateRocks": true,
+	// Generate flint stones in the overworld
+	"generateFlint": true,
+	// Time in ticks
+	"redstoneSieveTicks": 30,
+	// Min hits to craft item + random 50% of value
+	"craftRockCraftHits": 2,
+	// Max hits before breaking rock 
+	"craftRockMaxCraftHits": 40,
+	"info_tooltips": true,
+	"extraStickDropChance": 0.05000000074505806,
+	// Keep your inventory on death
+	"beginnerDeathCount": 5
+}

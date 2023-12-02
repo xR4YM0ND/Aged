@@ -1,0 +1,15 @@
+{
+    "replace": false,
+    "skill": "stamina",
+    "level": 4,
+    "item": [
+        "environmentz:wolf_helmet",
+        "environmentz:wolf_chestplate",
+        "environmentz:wolf_leggings",
+        "environmentz:wolf_boots",
+        "bakery:sandstone_stove",
+        "candlelight:sandstone_stove",
+        "candlelight:sandstone_kitchen_sink",
+        "candlelight:sandstone_counter"
+    ]
+}

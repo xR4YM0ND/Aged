@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:raw_gold"
+        }
+    ],
+    "result": {
+        "count": 9,
+        "item": "agedaddition:raw_gold_nugget"
+    }
+}

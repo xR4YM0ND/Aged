@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "stamina",
+    "level": 21,
+    "block": "minecraft:custom_block",
+    "object": "bakery:end_stove"
+}

@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "smithing",
+    "level": 25,
+    "block": "minecraft:custom_block",
+    "object": "betterend:end_stone_smelter"
+}

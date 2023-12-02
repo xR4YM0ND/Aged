@@ -1,0 +1,17 @@
+{
+  "general": {
+    "no_shield_block_delay": true
+  },
+  "parry": {
+    "exhaustion_cost": 2.0,
+    "knockback_strength": 0.5,
+    "projectile_launch_strength": 1.25
+  },
+  "barbed": {
+    "damage_amount": 2.0,
+    "damage_chance": 0.2
+  },
+  "pummeling": {
+    "additional_knockback_strength_per_level": 0.15
+  }
+}

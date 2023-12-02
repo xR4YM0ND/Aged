@@ -1,0 +1,26 @@
+{
+  "id": "tiered:common_fishing_1",
+  "verifiers": [
+    {
+      "id": "minecraft:fishing_rod"
+    }
+  ],
+  "weight": 50,
+  "style": {
+    "color": "gray"
+  },
+  "attributes": [
+    {
+      "type": "generic.luck",
+      "modifier": {
+        "name": "tiered:common_fishing_1",
+        "operation": "ADDITION",
+        "amount": -3
+      },
+      "optional_equipment_slots": [
+        "MAINHAND",
+        "OFFHAND"
+      ]
+    }
+  ]
+}

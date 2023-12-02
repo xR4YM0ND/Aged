@@ -1,0 +1,7 @@
+{
+  "pathfindingDistance": 6,
+  "velocityMultiplier": 1.0,
+  "collisionDepth": 8,
+  "chunkloading": false,
+  "chunkloadingRadius": 2
+}

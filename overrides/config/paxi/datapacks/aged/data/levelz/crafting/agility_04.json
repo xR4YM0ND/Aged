@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "skill": "agility",
+    "level": 4,
+    "item": [
+        "immersive_armors:wither_helmet",
+        "immersive_armors:wither_chestplate",
+        "immersive_armors:wither_leggings",
+        "immersive_armors:wither_boots"
+    ]
+}

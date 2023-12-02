@@ -1,0 +1,6 @@
+{
+	// Use for developing screen
+	"alwaysShowWelcomeScreen": true,
+	// Used at the datapack loader
+	"welcomeScreenBoxes": 4
+}

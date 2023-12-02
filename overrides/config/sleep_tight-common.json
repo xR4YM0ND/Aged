@@ -1,0 +1,89 @@
+{
+  "#README": "This config file does not support comments. To see them configure it in-game using YACL or Cloth Config",
+  "misc": {
+    "fix_bed_position": true,
+    "lay_when_on_cooldown": true,
+    "queen_size_bed": true,
+    "behavior_in_dimension": "DEFAULT",
+    "sleep_interval": 24000,
+    "boring_night_bags": false,
+    "sleep_immediately": false,
+    "heartstone_mod_integration": {
+      "enabled": "WITH_MOD",
+      "effects": [
+        {
+          "intensity_per_level": 0.0,
+          "base_duration": 1800,
+          "duration_per_level": 20.0,
+          "effect": "minecraft:regeneration"
+        }
+      ]
+    }
+  },
+  "bedbugs": {
+    "spawn_chance": 0.11,
+    "max_spawn_radius": 24,
+    "min_spawn_radius": 12,
+    "max_allowed_light_level": 15,
+    "tries": 20,
+    "prevented_by_dream_essence": false,
+    "only_when_in_home_bed": false
+  },
+  "sleep_cooldown": {
+    "hammock": 5000,
+    "night_bag": 4000,
+    "bed": 6000
+  },
+  "sleep_benefits": {
+    "active_for": "HOME_BED",
+    "healing": "MAX",
+    "effect_clearing": "MAX",
+    "effect_clearing_types": "ALL",
+    "effects_on_wake_up": [
+      {
+        "intensity_per_level": 0.075,
+        "base_duration": 2400,
+        "duration_per_level": 600.0,
+        "effect": "sleep_tight:invigorated"
+      }
+    ]
+  },
+  "sleep_penalties": {
+    "apply_to_beds": true,
+    "apply_to_hammock": true,
+    "apply_to_night_bags": true,
+    "consumed_hunger_mode": "TIME_DIFFICULTY_BASED",
+    "base_value": 5.0
+  },
+  "sleep_requirements": {
+    "apply_to_beds": true,
+    "apply_to_hammock": true,
+    "apply_to_night_bags": true,
+    "require_full_hunger": false,
+    "xp_cost": 0
+  },
+  "home_bed": {
+    "required_nights": 8,
+    "invigorated_effect_xp": 0.1,
+    "max_level_cap": 100
+  },
+  "nightmares": {
+    "apply_to_beds": true,
+    "apply_to_hammock": false,
+    "apply_to_night_bags": false,
+    "appear_after_consecutive_nights": 3,
+    "nightmare_increment_per_night": 0.16,
+    "sleep_time_multiplier": 0.5,
+    "insomnia_duration": 36000
+  },
+  "wake_up_encounters": {
+    "tries": 25,
+    "max_count": 1,
+    "spawn_radius": 10,
+    "min_radius": 2,
+    "height": 3,
+    "alternative_whitelist": [],
+    "sleep_time_multiplier": 0.5,
+    "insomnia_duration": 12000
+  }
+}

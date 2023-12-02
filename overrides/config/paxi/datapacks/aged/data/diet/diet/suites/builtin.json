@@ -1,0 +1,10 @@
+{
+    "replace": true,
+    "groups": [
+        "carbs",
+        "proteins",
+        "fats",
+        "vitamins"
+    ],
+    "effects": []
+}

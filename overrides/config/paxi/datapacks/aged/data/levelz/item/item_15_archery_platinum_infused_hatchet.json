@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "archery",
+    "level": 15,
+    "item": "minecraft:custom_item",
+    "object": "illagerinvasion:platinum_infused_hatchet"
+}

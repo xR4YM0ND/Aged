@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "skill": "strength",
+    "level": 20,
+    "item": [
+        "minecraft:diamond_sword",
+        "archers:diamond_spear"
+    ]
+}

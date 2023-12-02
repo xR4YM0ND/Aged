@@ -1,0 +1,8 @@
+{
+    "replace": true,
+    "level": 27,
+    "block": [
+        "betterend:amber_ore",
+        "betterend:amber_block"
+    ]
+}

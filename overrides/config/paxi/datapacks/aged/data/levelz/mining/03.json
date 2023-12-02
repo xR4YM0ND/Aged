@@ -1,0 +1,25 @@
+{
+    "replace": true,
+    "level": 3,
+    "block": [
+        "minecraft:bricks",
+        "minecraft:brick_stairs",
+        "minecraft:brick_slab",
+        "minecraft:brick_wall",
+        "handcrafted:bricks_pillar_trim",
+        "handcrafted:bricks_corner_trim",
+        "mcwroofs:bricks_roof",
+        "mcwroofs:bricks_attic_roof",
+        "mcwroofs:bricks_top_roof",
+        "mcwroofs:bricks_lower_roof",
+        "mcwroofs:bricks_steep_roof",
+        "mcwroofs:bricks_upper_lower_roof",
+        "mcwroofs:bricks_upper_steep_roof",
+        "sootychimneys:brick_chimney",
+        "sootychimneys:dirty_brick_chimney",
+        "bakery:kitchen_sink",
+        "bakery:brick_stove",
+        "bakery:brick_counter",
+        "bakery:baker_station"
+    ]
+}

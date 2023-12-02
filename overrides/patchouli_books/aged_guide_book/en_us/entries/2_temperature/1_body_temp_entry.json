@@ -1,0 +1,7 @@
+{
+    "name": "Body Temp",
+    "icon": "betternether:pig_statue_respawner",
+    "category": "patchouli:2_temperature_category",
+    "sortnum": 1,
+    "pages": []
+}

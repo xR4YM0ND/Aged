@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "alchemy",
+    "level": 25,
+    "block": "minecraft:custom_block",
+    "object": "mcde:roll_bench"
+}

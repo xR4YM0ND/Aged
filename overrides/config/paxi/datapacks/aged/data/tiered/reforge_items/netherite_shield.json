@@ -1,0 +1,8 @@
+{
+    "items": [
+        "guarding:netherite_shield"
+    ],
+    "base": [
+        "minecraft:netherite_ingot"
+    ]
+}

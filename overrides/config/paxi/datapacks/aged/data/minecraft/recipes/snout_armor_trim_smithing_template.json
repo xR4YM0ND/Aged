@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "#": {
+            "item": "minecraft:blackstone"
+        },
+        "+": {
+            "item": "minecraft:quartz_block"
+        },
+        "C": {
+            "item": "minecraft:gold_block"
+        },
+        "S": {
+            "item": "minecraft:snout_armor_trim_smithing_template"
+        }
+    },
+    "pattern": [
+        "#S#",
+        "+C+",
+        "#+#"
+    ],
+    "result": {
+        "count": 2,
+        "item": "minecraft:snout_armor_trim_smithing_template"
+    },
+    "show_notification": true
+}

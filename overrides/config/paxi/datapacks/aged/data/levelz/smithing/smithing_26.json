@@ -1,0 +1,14 @@
+{
+    "replace": true,
+    "level": 26,
+    "item": [
+        "betterend:aeternium_pickaxe_head",
+        "betterend:aeternium_pickaxe",
+        "betterend:aeternium_shovel_head",
+        "betterend:aeternium_shovel",
+        "betterend:aeternium_axe_head",
+        "betterend:aeternium_axe",
+        "betterend:aeternium_hoe_head",
+        "betterend:aeternium_hoe"
+    ]
+}

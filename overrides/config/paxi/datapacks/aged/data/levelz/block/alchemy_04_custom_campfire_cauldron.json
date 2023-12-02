@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "alchemy",
+    "level": 4,
+    "block": "minecraft:custom_block",
+    "object": "dehydration:campfire_cauldron"
+}

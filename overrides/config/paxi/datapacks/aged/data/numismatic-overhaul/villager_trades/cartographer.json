@@ -1,0 +1,208 @@
+{
+    "profession": "cartographer",
+    "trades": {
+        "novice": [
+            {
+                "type": "numismatic-overhaul:sell_map",
+                "villager_experience": 5,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 100,
+                "structure": "betterdungeons:small_dungeon"
+            },
+            {
+                "type": "numismatic-overhaul:sell_map",
+                "villager_experience": 5,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 100,
+                "structure": "betterdungeons:skeleton_dungeon"
+            },
+            {
+                "type": "numismatic-overhaul:sell_map",
+                "villager_experience": 5,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 100,
+                "structure": "betterdungeons:small_nether_dungeon"
+            },
+            {
+                "type": "numismatic-overhaul:sell_map",
+                "villager_experience": 5,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 100,
+                "structure": "betterdungeons:spider_dungeon"
+            },
+            {
+                "type": "numismatic-overhaul:sell_map",
+                "villager_experience": 5,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 100,
+                "structure": "betterdungeons:zombie_dungeon"
+            },
+            {
+                "type": "numismatic-overhaul:sell_map",
+                "villager_experience": 5,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 100,
+                "structure": "minecraft:pillager_outpost"
+            },
+            {
+                "type": "numismatic-overhaul:sell_map",
+                "villager_experience": 5,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 100,
+                "structure": "nova_structures:stray_fort"
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 50,
+                "sell": {
+                    "item": "minecraft:compass",
+                    "count": 1
+                }
+            }
+        ],
+        "apprentice": [
+            {
+                "type": "numismatic-overhaul:sell_map",
+                "villager_experience": 10,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 200,
+                "structure": "betteroceanmonuments:ocean_monument"
+            },
+            {
+                "type": "numismatic-overhaul:sell_map",
+                "villager_experience": 10,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 200,
+                "structure": "illagerinvasion:illager_fort"
+            },
+            {
+                "type": "numismatic-overhaul:sell_map",
+                "villager_experience": 10,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 200,
+                "structure": "illagerinvasion:illusioner_tower"
+            },
+            {
+                "type": "numismatic-overhaul:sell_map",
+                "villager_experience": 10,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 200,
+                "structure": "illagerinvasion:labyrinth"
+            },
+            {
+                "type": "numismatic-overhaul:sell_map",
+                "villager_experience": 10,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 200,
+                "structure": "betterfortresses:fortress"
+            }
+        ],
+        "journeyman": [
+            {
+                "type": "numismatic-overhaul:sell_map",
+                "villager_experience": 15,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 500,
+                "structure": "minecraft:bastion_remnant"
+            },
+            {
+                "type": "numismatic-overhaul:sell_map",
+                "villager_experience": 15,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 500,
+                "structure": "minecraft:mansion"
+            },
+            {
+                "type": "numismatic-overhaul:sell_map",
+                "villager_experience": 15,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 500,
+                "structure": "nova_structures:illager_manor"
+            }
+        ],
+        "expert": [
+            {
+                "type": "numismatic-overhaul:sell_map",
+                "villager_experience": 20,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 1000,
+                "structure": "mes:enderkeep_courtyard"
+            },
+            {
+                "type": "numismatic-overhaul:sell_map",
+                "villager_experience": 20,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 1000,
+                "structure": "tlc:lost_castle"
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 8,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 500,
+                "sell": {
+                    "item": "minecraft:recovery_compass",
+                    "count": 1
+                }
+            }
+        ],
+        "master": [
+            {
+                "type": "numismatic-overhaul:sell_map",
+                "villager_experience": 25,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 2000,
+                "structure": "minecraft:ancient_city"
+            },
+            {
+                "type": "numismatic-overhaul:sell_map",
+                "villager_experience": 25,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 2000,
+                "structure": "minecraft:end_city"
+            },
+            {
+                "type": "numismatic-overhaul:sell_map",
+                "villager_experience": 25,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 2000,
+                "structure": "dungeonz:dark_dungeon_structure"
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 10,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 1000,
+                "sell": {
+                    "item": "dungeonz:dungeon_compass",
+                    "count": 1
+                }
+            }
+        ]
+    }
+}

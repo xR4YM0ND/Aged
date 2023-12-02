@@ -1,0 +1,225 @@
+{
+	/* Has two possible values:
+	   ALLOW - Only allow enchantments specified in 'list' to appear
+	   DENY - Make enchantments specified in 'list' to never appear
+	*/
+	"listKind": "DENY",
+	/* Lists all enchantments to be excluded (or included) when using tables from MCDE
+	   This list and all other fields when mentioned support tags and globs
+	   This means you can specify tags ("#c:powerful", for example)
+	   Globs are supported in path part of an identifier (after a ':')
+	   Examples:
+	     "mcdw:*" matches a whole namespace,
+	     "minecraft:*protection" matches all protection enchantments,
+	     "#namespace:helmet*" matches all enchantments which are in the tags starting with 'helmet' 
+	   The format can also be different, you can specify this list in 'nested' format like so:
+	   "list": {
+	     "minecraft": ["unbreaking", "mending"],
+	     "mcda": ["chilling", "burning"],
+	     "c": ["#powerful"], // tags
+	     "mcdw": ["*"], // globs
+	     "namespace": ["#helmet*"] // all tags from a namespace matching a glob
+	   }
+	*/
+	"list": [
+		"minecraft:unbreaking"
+	],
+	// Allow curses to appear
+	"allowCurses": false,
+	// Generate enchantments only if they are available for random selection.
+	"respectAvailabilityForRandomSelection": true,
+	// Allow treasure enchantments to appear
+	"allowTreasure": false,
+	/* Require compatibility of enchantments in different slots.
+	   For example, if this is false, you can enchant an armor both for protection and fire protection simultaneously.
+	   Anvils are also affected.
+	*/
+	"requireCompatibility": true,
+	/* Sets cost of enchanting in xp levels
+	   Each level increases cost by step
+	   Anvil's mixing price is also affected
+	*/
+	"enchantCost": {
+		"normal": {
+			"startCost": 3,
+			"step": 3
+		},
+		"powerful": {
+			"startCost": 5,
+			"step": 5
+		}
+	},
+	/* Sets amount of lapis needed for reroll
+	   For each reroll, the cost is either increased or decreased by step
+	*/
+	"rerollCost": {
+		"normal": {
+			"startCost": 30,
+			"endCost": 3,
+			"step": 3
+		},
+		"powerful": {
+			"startCost": 50,
+			"endCost": 5,
+			"step": 5
+		}
+	},
+	// Whether a full reroll of enchantment slots can decrease amount of them
+	"fullRerollCanRemoveSlots": true,
+	/* Allow mixing items in anvil
+	   On true, vanilla anvil behaviour is applied
+	*/
+	"allowAnvilItemMixing": true,
+	// Allow applying additional enchantments via books in anvil
+	"allowEnchantingWithBooks": true,
+	/* Whether to allow players to use enchanting table.
+	   Creative players can still use it.
+	*/
+	"allowUsingEnchantingTable": false,
+	// Sets cost of gilding
+	"gildingCost": 8,
+	/* Each n-th tick (where n is this setting) would increment progress of gilding.
+	   The process consists of 33 steps (frames). So, overall process would take n * 33 ticks.
+	*/
+	"ticksPerGildingProcessStep": 1,
+	/* Enchantments from this pool would be used in trades.
+	   If this pool is empty, then trades will not be affected.
+	   This list supports the same features as 'list' option
+	*/
+	"villagerBookPool": [
+		"minecraft:unbreaking"
+	],
+	/* Enchantments from this pool would be used to enchant books in loot tables.
+	   If this pool is empty, then loot tables will not be affected.
+	   This list supports the same features as 'list' option
+	*/
+	"treasurePool": [],
+	/* Sets a base chance for second slot to appear when generating enchantment slots for a new item.
+	   Value must be between 0 and 1
+	*/
+	"secondSlotBaseChance": 0.5,
+	// Same thing as above only for third slot
+	"thirdSlotBaseChance": 0.25,
+	// Defines how slot chances increases with advancements
+	"progressChances": {
+		"minecraft:nether/return_to_sender": {
+			"second": 0.012800999917089939,
+			"third": 0.013327999971807003
+		},
+		"minecraft:end/respawn_dragon": {
+			"second": 0.014659999869763851,
+			"third": 0.017173999920487404
+		},
+		"minecraft:nether/netherite_armor": {
+			"second": 0.013392000459134579,
+			"third": 0.014503000304102898
+		},
+		"minecraft:adventure/bullseye": {
+			"second": 0.012399000115692616,
+			"third": 0.011303000152111053
+		},
+		"minecraft:nether/create_full_beacon": {
+			"second": 0.01796399988234043,
+			"third": 0.025123000144958496
+		},
+		"minecraft:adventure/adventuring_time": {
+			"second": 0.019669000059366226,
+			"third": 0.029745999723672867
+		},
+		"minecraft:nether/all_effects": {
+			"second": 0.020117999985814095,
+			"third": 0.03103099949657917
+		},
+		"minecraft:end/elytra": {
+			"second": 0.014995000325143337,
+			"third": 0.01791599951684475
+		},
+		"minecraft:nether/explore_nether": {
+			"second": 0.015337999910116196,
+			"third": 0.018688000738620758
+		},
+		"minecraft:husbandry/balanced_diet": {
+			"second": 0.016047999262809753,
+			"third": 0.020336000248789787
+		},
+		"minecraft:adventure/kill_all_mobs": {
+			"second": 0.019229000434279442,
+			"third": 0.028516000136733055
+		},
+		"minecraft:adventure/hero_of_the_village": {
+			"second": 0.013093000277876854,
+			"third": 0.013903999701142311
+		},
+		"minecraft:nether/create_beacon": {
+			"second": 0.016793999820947647,
+			"third": 0.022135000675916672
+		},
+		"minecraft:husbandry/froglights": {
+			"second": 0.012513999827206135,
+			"third": 0.012776999734342098
+		},
+		"minecraft:story/cure_zombie_villager": {
+			"second": 0.011432000435888767,
+			"third": 0.01078999973833561
+		},
+		"minecraft:husbandry/bred_all_animals": {
+			"second": 0.01433200016617775,
+			"third": 0.016464000567793846
+		},
+		"minecraft:nether/fast_travel": {
+			"second": 0.015689000487327576,
+			"third": 0.019495999440550804
+		},
+		"minecraft:end/levitate": {
+			"second": 0.01641000062227249,
+			"third": 0.021209999918937683
+		},
+		"minecraft:adventure/two_birds_one_arrow": {
+			"second": 0.017173999920487404,
+			"third": 0.02308499999344349
+		},
+		"minecraft:husbandry/complete_catalogue": {
+			"second": 0.017570000141859055,
+			"third": 0.024080000817775726
+		},
+		"minecraft:adventure/totem_of_undying": {
+			"second": 0.013698999769985676,
+			"third": 0.015130000188946724
+		},
+		"minecraft:adventure/kill_mob_near_sculk_catalyst": {
+			"second": 0.011694000102579594,
+			"third": 0.011256000027060509
+		},
+		"minecraft:adventure/summon_iron_golem": {
+			"second": 0.012234999798238277,
+			"third": 0.012248000130057335
+		},
+		"minecraft:end/dragon_breath": {
+			"second": 0.01401199959218502,
+			"third": 0.015782000496983528
+		},
+		"minecraft:nether/uneasy_alliance": {
+			"second": 0.018378999084234238,
+			"third": 0.026204999536275864
+		},
+		"minecraft:nether/all_potions": {
+			"second": 0.018797999247908592,
+			"third": 0.02733599953353405
+		}
+	},
+	/* List of entries which define what enchantments would unlock after obtaining certain advancements
+	   'advancements' field supports globs, so you can specify "minecraft:story/enter_*" to mark all advancements which start with 'story/enter_'
+	   'enchantments' field supports all features 'list' supports
+	   If entries have overlapping enchantments, they will be unlocked when only one of the entries is done (i.e. all advancements from this entry are obtained)
+	*/
+	"unlocks": [
+		{
+			"advancements": [
+				"minecraft:story/enter_the_end"
+			],
+			"enchantments": [
+				"#c:powerful"
+			]
+		}
+	]
+}

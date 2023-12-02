@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "farming",
+    "level": 17,
+    "block": "minecraft:custom_block",
+    "object": "chipped:botanist_workbench"
+}

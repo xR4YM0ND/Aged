@@ -1,0 +1,7 @@
+{
+    "name": "Environment Temp",
+    "icon": "minecraft:magma_block",
+    "category": "patchouli:2_temperature_category",
+    "sortnum": 2,
+    "pages": []
+}

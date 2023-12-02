@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "archery",
+    "level": 4,
+    "block": "minecraft:custom_block",
+    "object": "minecraft:fletching_table"
+}

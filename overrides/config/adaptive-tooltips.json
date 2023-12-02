@@ -1,0 +1,19 @@
+{
+	wrapText: "SCREEN_WIDTH",
+	overwriteVanillaWrapping: false,
+	prioritizeTooltipTop: true,
+	bedrockCentering: true,
+	bestCorner: false,
+	alwaysBestCorner: false,
+	preventVanillaClamping: true,
+	onlyRepositionHoverTooltips: true,
+	useYACLTooltipPositioner: false,
+	scrollKeyCode: 342,
+	horizontalScrollKeyCode: 341,
+	smoothScrolling: true,
+	scrollDirection: "REVERSE",
+	verticalScrollSensitivity: 10,
+	horizontalScrollSensitivity: 10,
+	tooltipTransparency: 1.0,
+	removeFirstLinePadding: true
+}

@@ -1,0 +1,8 @@
+{
+    "items": [
+        "immersive_armors:divine_boots"
+    ],
+    "base": [
+        "minecraft:gold_block"
+    ]
+}

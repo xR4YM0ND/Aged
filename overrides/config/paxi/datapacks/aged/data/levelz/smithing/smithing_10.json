@@ -1,0 +1,10 @@
+{
+    "replace": true,
+    "level": 10,
+    "item": [
+        "meadow:fur_helmet",
+        "meadow:fur_chestplate",
+        "meadow:fur_leggings",
+        "meadow:fur_boots"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "replace": true,
+    "level": 30,
+    "item": [
+        "betterend:crystalite_helmet",
+        "betterend:crystalite_chestplate",
+        "betterend:crystalite_leggings",
+        "betterend:crystalite_boots",
+        "betternether:flaming_ruby_helmet",
+        "betternether:flaming_ruby_chestplate",
+        "betternether:flaming_ruby_leggings",
+        "betternether:flaming_ruby_boots",
+        "betternether:flaming_ruby_sword",
+        "betternether:flaming_ruby_pickaxe",
+        "betternether:flaming_ruby_shovel",
+        "betternether:flaming_ruby_axe",
+        "betternether:flaming_ruby_hoe",
+        "betterend:aeternium_forged_plate",
+        "betterend:aeternium_helmet",
+        "betterend:aeternium_chestplate",
+        "betterend:aeternium_leggings",
+        "betterend:aeternium_boots"
+    ]
+}

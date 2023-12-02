@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "skill": "health",
+    "level": 20,
+    "item": [
+        "toms_storage:ts.crafting_terminal"
+    ]
+}
