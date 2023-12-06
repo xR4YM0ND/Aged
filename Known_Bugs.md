@@ -75,7 +75,7 @@
 - 
 ---
 ### NumismaticClaim
-- 
+- After switching Tabs the villager name before this villager appears
 ---
 ### PartyAddon
 - 
@@ -122,6 +122,7 @@
 - Shift # Left Click in players inventory crafting grid -> no modifiers get applied (works in crafting table tho)
 - Can't switch tabs after in TieredZ anvil screen (switch back to normal anvil screen doesnt work)
 - EarlyStage Crafting Rock incompat (No Rarities)
+- Combine 2 Tools = Vanilla Tool
 ---
 ### TooltipRareness
 - 
@@ -171,4 +172,6 @@
 ---
 ### Others
 - Villager Trades get discount but they shouldnt cause of Villager Trade Fix 0.0
+- Hero Proof (doesnt trigger)
+- Crops (Flax) grows absurd fast
 ---

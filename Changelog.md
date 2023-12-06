@@ -1,4 +1,54 @@
-# Aged 2.1
+# Aged 2.1.1
+
+## Fixed:
+- Added Chipped Loom Table restriction
+- Clear Despawn CF verion to MR version
+- Added missing backpacks
+- Added missing storage drawers
+
+## Changed:
+- Lowered default max claim chunks from 500 to 32
+- Sleep is now warp instead of tight
+
+## Removed:
+- Adaptive Tooltips
+- Sleep Tight
+
+## Added:
+- Extended Drawers
+- ExtendedDrawersAddon
+- Fabric Seasons: Extras
+- Inmis
+- InmisAddon
+- Packet Fixer
+- RAY's 3D Ladders
+- RAY's 3D Rails
+- Seamless Loading Screen
+- SleepWarp
+- ToolTipFix
+- Translucency Fix
+- Video Tape
+
+## Updated:
+- AzureLib Armor
+- ClearDespawn
+- Collective
+- EarlyStage
+- EMI
+- Geckolib
+- Iris Shaders
+- Let's Do: Vinery
+- MC Dungeons Enchanting
+- ModernFix
+- Moonlight Lib
+- Puzzles Lib
+- Resourceful Lib
+- SeasonHUD-Fabric
+- Spawn Animations
+- Towns and Towers
+- Xaero's World Map
+
+# Aged 2.1.0
 
 ## Important:
 Aged is now running Minecraft 1.20.1 therefore all mods updated quiet a bit and old saves aren't compatible with this version of Aged.

@@ -14,6 +14,7 @@
 - Sneak through Berry Bushes (dont get damaged)
 - **[?]** Shield Cooldown compatible with the mod Guarding
 - Free standing Ladders
+- weaker spider webs (also make them break after x ticks)
 ---
 ### AdventureZ
 - Gilded Netherite Tools/Weapons (Specials: Maybe Auto Smelt on Pickaxe(toggleable via hotkey))

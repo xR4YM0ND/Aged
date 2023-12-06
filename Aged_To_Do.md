@@ -2,6 +2,8 @@
 ## Datapack
 - EarlyStage
     - Sieve Blocks & Drops
+- EnvironmentZ
+    - Modded things?
 - TieredZ
     - tags/main-offhand-item ?
 - 🔜 RewardZ
@@ -26,6 +28,7 @@
 - WelcomeScreen
 ## Guide Book
 - Get Started
+    - Misc
     - Basic Tools
     - Skills
     - Jobs
@@ -67,9 +70,4 @@
 ## Resourcepack
 - RAY's
 ## Mods
-- Seamlees Loading Screen
-- Inmis
-- Inmis Addon
-- Dimensional Threading
-- Extended Drawers
-- ExtendedDrawersAddon
+- Dimensional Threading (Outdated)
