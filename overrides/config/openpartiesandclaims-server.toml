@@ -23,7 +23,7 @@
 	[serverConfig.parties]
 		#The maximum number of allies for a party. Existing allies are not removed if the limit is reduced.
 		#Range: > 0
-		maxPartyAllies = 64
+		maxPartyAllies = 32
 		#How often to check for expired parties in order to remove them (in minutes). The interval is effectively rounded up to a multiple of 10 minutes.
 		#Range: > 10
 		partyExpirationCheckInterval = 360
@@ -42,7 +42,7 @@
 		#The maximum number of chunks that a player can claim. Additional claims can be configured in the player config.
 		#This value can be overridden with a player permission.
 		#Range: > 0
-		maxPlayerClaims = 500
+		maxPlayerClaims = 32
 		#The maximum distance on the X or Z axis (forming a square) that a chunk can be claimed at by a player.
 		#Range: > 0
 		maxClaimDistance = 5
@@ -79,7 +79,7 @@
 		#The maximum number of claimed chunks that a player can forceload. Additional forceloads can be configured in the player config.
 		#This value can be overridden with a player permission.
 		#Range: > 0
-		maxPlayerClaimForceloads = 10
+		maxPlayerClaimForceloads = 0
 		#For how long a player can stay completely inactive on the server until their claims are expired (in hours). This improves performance for servers running for years.
 		#Range: > 1
 		playerClaimsExpirationTime = 8760

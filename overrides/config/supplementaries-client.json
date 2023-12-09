@@ -78,7 +78,7 @@
         "collision_inertia": 1.5,
         "collision_force": 15.0,
         "min_angle": 0.0,
-        "max_angle": 54.999985,
+        "max_angle": 54.99998,
         "damping": 1.625
       }
     },
