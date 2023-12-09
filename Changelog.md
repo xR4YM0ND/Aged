@@ -1,10 +1,27 @@
+# Aged 2.1.2
+
+## Fixed:
+- Singleplayer button linked to create a new world
+- Forgot to add the datapack changes
+## Changed:
+-
+## Removed:
+- Particle Rain
+## Added:
+- Entity Culling
+- More Culling
+## Updated:
+-
+
 # Aged 2.1.1
 
 ## Fixed:
+- Server pack should be way better now
 - Added Chipped Loom Table restriction
 - Clear Despawn CF version to MR version
 - Added missing backpacks
 - Added missing storage drawers
+- Fixed Wooden Shield use
 
 ## Changed:
 - Lowered default max claim chunks from 500 to 32
@@ -12,6 +29,7 @@
 
 ## Removed:
 - Adaptive Tooltips
+- Not Enough Crashes
 - Sleep Tight
 
 ## Added:

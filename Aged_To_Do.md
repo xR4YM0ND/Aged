@@ -68,6 +68,6 @@
     - Small Ships
     - Immersive Aircraft
 ## Resourcepack
-- RAY's
+- 
 ## Mods
 - Dimensional Threading (Outdated)

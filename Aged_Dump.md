@@ -37,9 +37,6 @@ is LICENSE.md there?
 ### Not on 1.20.1
 - https://modrinth.com/datapack/armor-flower-adornments
 
-## HUD Settings
-- Numismatic Purse flying in creative inventory
-
 ## Datapack
 - Give Netherite Armor heat resistance in environmentz
 
