@@ -2,7 +2,7 @@
 
 ## Fixed:
 - Added Chipped Loom Table restriction
-- Clear Despawn CF verion to MR version
+- Clear Despawn CF version to MR version
 - Added missing backpacks
 - Added missing storage drawers
 
@@ -15,14 +15,16 @@
 - Sleep Tight
 
 ## Added:
+- **New Main Menu**
 - Extended Drawers
 - ExtendedDrawersAddon
 - Fabric Seasons: Extras
+- FancyMenu
 - Inmis
 - InmisAddon
 - Packet Fixer
-- RAY's 3D Ladders
-- RAY's 3D Rails
+- RAY's 3D Ladders [RP]
+- RAY's 3D Rails [RP]
 - Seamless Loading Screen
 - SleepWarp
 - ToolTipFix
@@ -30,21 +32,33 @@
 - Video Tape
 
 ## Updated:
+- **Fabric Loader 0.14.25**
 - AzureLib Armor
+- Balm
+- Catalogue
 - ClearDespawn
 - Collective
+- Complementary Shaders - Unbound [Shader]
+- Continents
+- Dynamic Crosshair Compat
 - EarlyStage
 - EMI
 - Geckolib
 - Iris Shaders
 - Let's Do: Vinery
+- LevelZ
 - MC Dungeons Enchanting
 - ModernFix
 - Moonlight Lib
+- NetherPortalFix
 - Puzzles Lib
 - Resourceful Lib
 - SeasonHUD-Fabric
+- Simple Voice Chat
+- Sound Physics Remastered
 - Spawn Animations
+- Structory
+- Structory: Towers
 - Towns and Towers
 - Xaero's World Map
 
