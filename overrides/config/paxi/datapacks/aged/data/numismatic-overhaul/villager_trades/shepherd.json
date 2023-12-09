@@ -41,7 +41,7 @@
                 "type": "numismatic-overhaul:sell_stack",
                 "villager_experience": 4,
                 "price_multiplier": 0.0,
-                "max_uses": 1,
+                "max_uses": 2,
                 "price": 40,
                 "sell": {
                     "item": "minecraft:white_bed",
@@ -52,10 +52,10 @@
                 "type": "numismatic-overhaul:sell_stack",
                 "villager_experience": 4,
                 "price_multiplier": 0.0,
-                "max_uses": 1,
-                "price": 30,
+                "max_uses": 2,
+                "price": 80,
                 "sell": {
-                    "item": "sleep_tight:hammock_white",
+                    "item": "supplementaries:flag_white",
                     "count": 1
                 }
             }
@@ -184,21 +184,6 @@
                 "price": 100,
                 "sell": {
                     "item": "naturalist:teddy_bear",
-                    "count": 1
-                }
-            },
-            {
-                "type": "numismatic-overhaul:process_item",
-                "villager_experience": 10,
-                "price_multiplier": 0.0,
-                "max_uses": 1,
-                "price": 1000,
-                "sell": {
-                    "item": "sleep_tight:night_bag",
-                    "count": 1
-                },
-                "buy": {
-                    "item": "numismatic-overhaul:bronze_coin",
                     "count": 1
                 }
             }

@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "health",
+    "level": 1,
+    "item": "minecraft:custom_item",
+    "object": "inmis:baby_backpack"
+}

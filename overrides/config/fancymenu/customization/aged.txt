@@ -129,7 +129,7 @@ customization {
   advanced_height = 20
   orientation = top-left
   restartbackgroundanimations = true
-  buttonaction = opengui;net.minecraft.class_525%btnaction_splitter_fm%
+  buttonaction = opengui;net.minecraft.class_526%btnaction_splitter_fm%
   backgroundhovered = resources/aged/textures/others/custom_button_hovered.png
   label = §7Singleplayer
   advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"elementposx","values":{"id":"2e43515b-c935-4e00-bb9f-b19cbb24ff241702136336461"}}","decimal":"true"}}

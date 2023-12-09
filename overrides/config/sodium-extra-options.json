@@ -53,7 +53,7 @@
     "advancement_toast": true,
     "recipe_toast": true,
     "system_toast": true,
-    "tutorial_toast": true,
+    "tutorial_toast": false,
     "instant_sneak": false,
     "prevent_shaders": false,
     "steady_debug_hud": true,
