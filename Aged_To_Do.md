@@ -4,6 +4,7 @@
     - Sieve Blocks & Drops
 - EnvironmentZ
     - Modded things?
+    - Crop Heater / Cooler has 4 stages via nbt (level 0 to level 3) -> can implement this in environment blocks ?
 - TieredZ
     - tags/main-offhand-item ?
 - 🔜 RewardZ

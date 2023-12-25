@@ -1,3 +1,29 @@
+# Aged 2.1.3
+
+## Fixed:
+- Missing archers armor restrictions
+- Smither job exp for ingots / nuggets
+- Added blocks & items to the environment system
+- Gave all drinks hydration
+## Changed:
+- Implemented food system
+- Implemented tea
+## Removed:
+- Equipment Compare
+- Tool Trims
+## Added:
+- Dark Loading Screen
+- Early Loading Screen
+- Let's Do: HerbalBrews
+## Updated:
+- [EMF] Entity Model Features
+- [ETF] Entity Texture Features
+- Collective
+- Iceberg
+- ModernFix
+- Supplementaries
+- True Ending: Ender Dragon Overhaul
+
 # Aged 2.1.2
 
 ## Fixed:

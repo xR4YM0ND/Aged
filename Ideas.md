@@ -193,10 +193,14 @@
 - Dehydration Compat
     - implement Durst (Stomach) & raise it to 40 or even 60 (same as hunger)
 - Default Icons
-    - Carbs         minecraft:bread
-    - Proteins      minecraft:cooked_chicken
-    - Fats          minecraft:cooked_porkchop
-    - Vitamins      minecraft:melon_slice
+    - Carbohydrates     minecraft:bread
+    - Protein           minecraft:cooked_chicken
+    - Fat               minecraft:cooked_porkchop
+    - Vitamins          minecraft:melon_slice
+    - Minerals          
+
+https://www.naehrwertrechner.de/
+
 ---
 ### FarmZ
 - Adjust Water Hydration range in config (vanilla = 4 , FarmZ default = 1)
