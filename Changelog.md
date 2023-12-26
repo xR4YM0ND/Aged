@@ -5,24 +5,69 @@
 - Smither job exp for ingots / nuggets
 - Added blocks & items to the environment system
 - Gave all drinks hydration
+- Removed spoilage from wines & flasks
+- A bit more Guide Book than before
+- Campfire now drops 1 instead of 2 charcoal
 ## Changed:
 - Implemented food system
 - Implemented tea
 ## Removed:
+- EMI
+- EMI Addon: Extra Mod Integrations
+- EMI Loot
+- EMI Trades
+- EMIffect
 - Equipment Compare
 - Tool Trims
 ## Added:
 - Dark Loading Screen
 - Early Loading Screen
 - Let's Do: HerbalBrews
+- Roughly Enough Items
+- Roughly Enough Professions
+- SmitherZ
 ## Updated:
+- **Fabric Loader 0.15.3**
 - [EMF] Entity Model Features
 - [ETF] Entity Texture Features
+- Areas
+- BCLib
+- Better Clouds
+- Better Statistics Screen
+- BetterEnd
+- BetterNether
+- Bookshelf
+- Cloth Config API
 - Collective
+- CraftPresence
+- Dismount Entity
+- Dynamic FPS
+- Eating Animation
+- EMI
+- Enchantment Descriptions
+- End Remastered
+- Enhanced Workbenches
+- Fabric Language Kotlin
 - Iceberg
+- ImmediatelyFast
+- Kiwi
+- Let's Do: NetherVinery
 - ModernFix
+- Moonlight Lib
+- Passive Shield
+- Patchouli
+- Profundis: Seven New Quality Cave Biomes
+- Realistic Bees
+- Resourceful Lib
+- SeasonHUD
+- Simple Voice Chat
+- Sound Physics Remastered
+- Sounds
+- Starter Kit
 - Supplementaries
+- Time & Wind
 - True Ending: Ender Dragon Overhaul
+- Wakes
 
 # Aged 2.1.2
 
