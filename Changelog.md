@@ -3,35 +3,69 @@
 ## Fixed:
 - Missing archers armor restrictions
 - Smither job exp for ingots / nuggets
-- Added blocks & items to the environment system
+- Added blocks & items to the environmentz system
 - Gave all drinks hydration
 - Removed spoilage from wines & flasks
 - A bit more Guide Book than before
 - Campfire now drops 1 instead of 2 charcoal
+- Steampunk clock & compass HUD position
+- Cleaned up the console
+- Low FPS in screens
 ## Changed:
 - Implemented food system
 - Implemented tea
+- Disabled birch village
+- Water hydration range now 4 (vanilla) instead of 2
+- Removed sprinklers
 ## Removed:
+- Dynamic FPS
 - EMI
 - EMI Addon: Extra Mod Integrations
 - EMI Loot
 - EMI Trades
 - EMIffect
 - Equipment Compare
+- Horse Buff
+- Map Atlases
+- Moisturization
+- Nicer Skies
+- Structory
+- Structory: Towers
 - Tool Trims
 ## Added:
+- Antique Atlas Reborn
+- AzureLib
+- BadOptimizations
+- Better Nether Map
 - Dark Loading Screen
 - Early Loading Screen
+- Eugene's Wealthy Plains Village
+- Exposure
+- FPS Reducer
+- Fzzy Core
+- Gear Core
+- Immersive Melodies
 - Let's Do: HerbalBrews
+- Masik's Puzzle Dungeon
+- Mob Catalog
+- Panda's Extra Details
+- Pehkui
 - Roughly Enough Items
 - Roughly Enough Professions
 - SmitherZ
+- Smooth Scrolling Refurbished
+- Spyglass Astronomy
+- Superb Steeds
+- Tridents 'n' Stuff
+- Underground Jungle
 ## Updated:
 - **Fabric Loader 0.15.3**
 - [EMF] Entity Model Features
 - [ETF] Entity Texture Features
+- 3D Skin Layers
 - Areas
 - BCLib
+- Better Advancements
 - Better Clouds
 - Better Statistics Screen
 - BetterEnd
@@ -40,24 +74,39 @@
 - Cloth Config API
 - Collective
 - CraftPresence
+- CreativeCore
 - Dismount Entity
-- Dynamic FPS
+- Do a Barrel Roll
+- Dynamic Crosshair
+- Dynamic Crosshair Compat
 - Eating Animation
-- EMI
+- Elytra Trims
 - Enchantment Descriptions
 - End Remastered
 - Enhanced Workbenches
+- Extended Drawers
+- ExtendedDrawersAddon
 - Fabric Language Kotlin
+- Hero Proof
 - Iceberg
 - ImmediatelyFast
 - Kiwi
+- Let's Do: Candlelight
 - Let's Do: NetherVinery
+- Memory Leak Fix
 - ModernFix
 - Moonlight Lib
+- More Culling
+- Not Enough Animations
+- NumismaticClaim
+- Open Parties and Claims
 - Passive Shield
 - Patchouli
 - Profundis: Seven New Quality Cave Biomes
+- Puzzles Lib
+- Raise Sound Limit Simplified
 - Realistic Bees
+- Resourceful Config
 - Resourceful Lib
 - SeasonHUD
 - Simple Voice Chat
@@ -65,9 +114,12 @@
 - Sounds
 - Starter Kit
 - Supplementaries
+- Supplementaries Squared
+- TerraBlender
 - Time & Wind
 - True Ending: Ender Dragon Overhaul
 - Wakes
+- William Wythers' Expanded Ecosphere
 
 # Aged 2.1.2
 
