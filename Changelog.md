@@ -1,4 +1,4 @@
-# Aged 2.1.3
+# Aged 2.2.0
 
 ## Fixed:
 - Missing archers armor restrictions
@@ -30,6 +30,7 @@
 - EMI Trades
 - EMIffect
 - Equipment Compare
+- Even Better Archeology
 - Guarding
 - Horse Buff
 - Map Atlases
@@ -45,6 +46,7 @@
 - Async Locator
 - AzureLib
 - BadOptimizations
+- Better Archeology
 - Better Nether Map
 - Dark Loading Screen
 - Destruction Difficulty
@@ -70,6 +72,7 @@
 - Shield Overhaul
 - SmitherZ
 - Smooth Scrolling Refurbished
+- Sparse Structures
 - Spyglass Astronomy
 - Stamina
 - Superb Steeds

@@ -15,6 +15,8 @@
 - **[?]** Shield Cooldown compatible with the mod Guarding
 - Free standing Ladders
 - weaker spider webs (also make them break after x ticks)
+- shift + right click to make item frames invisible (holding an item frame makes them visible tho)
+- Repair Anvil with iron ingot right click
 ---
 ### AdventureZ
 - Gilded Netherite Tools/Weapons (Specials: Maybe Auto Smelt on Pickaxe(toggleable via hotkey))
@@ -198,6 +200,7 @@
     - Crates (Wooden & maybe tilt)
     - Feeding Crate for animals (they eat when they're hungry)
     - Wooden channels (open on top)
+- Horse Whistle (lets you tp your horse to you (has durability & range to the horse))
 ---
 ### ClassZ
 - 
