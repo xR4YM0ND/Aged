@@ -17,6 +17,8 @@
 - weaker spider webs (also make them break after x ticks)
 - shift + right click to make item frames invisible (holding an item frame makes them visible tho)
 - Repair Anvil with iron ingot right click
+- Item descriptions
+- xp set for entities
 ---
 ### AdventureZ
 - Gilded Netherite Tools/Weapons (Specials: Maybe Auto Smelt on Pickaxe(toggleable via hotkey))
@@ -137,7 +139,7 @@
 - 
 ---
 ### RpgZ
-- Check client hitbox
+- ~~Check client hitbox~~
 ---
 ### SpartanWeapons
 - 
@@ -166,7 +168,7 @@
 - 
 ---
 ### VillagerQuests
-- 
+- Old villager quest mechanic (add job and level requirement)
 ---
 ### VoidZ
 - Void Ingots, Nuggets, Chains, Blocks, 
