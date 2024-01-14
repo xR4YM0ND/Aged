@@ -34,6 +34,11 @@
 - Enchantment for Flasks (Purification) -> rare find
 - bubbled water (soulsand/magma) gives you purified water
 - Copper Cauldron Campfire holds more water
+- Change minecraft default litre
+    - Bowl = 1 sip (litre)
+    - Bucket = 3 sips (litre)
+    - Cauldron = 10 sips (litre)
+
 ---
 ### DragonLoot
 - 
@@ -66,7 +71,7 @@
 - 
 ---
 ### InmisAddon
-- 
+- [Make Placeable 3D Backpacks](https://github.com/Globox1997/InmisAddon/issues/14)
 ---
 ### HerdsPanic
 - 
@@ -94,7 +99,7 @@
 - 
 ---
 ### MedievalWeapons
-- Bows Projectile Damage Attribute Compat
+- Bows [Projectile Damage Attribute](https://modrinth.com/mod/projectile-damage-attribute) Compat
     - Long Bow
         - 1,3 sec Pull Time
         - 7 Projectile Damage
@@ -189,6 +194,10 @@
 - Wildlife can eat crops (Fences / Walls would be a good counter)
 - Well (has a x amount of water and fills up a x amount over a x ticks if not full)
 - Different crops grow different in different biomes (+ every biome has their own randomness between min & max) [ask Justin]
+- 3D Blocks
+    - Crates (Wooden & maybe tilt)
+    - Feeding Crate for animals (they eat when they're hungry)
+    - Wooden channels (open on top)
 ---
 ### ClassZ
 - 
@@ -228,6 +237,7 @@
     }
 }
 ```
+- Cats bring you lost stuff (items from your death which you lost / were destroyed)
 - Potion that takes you to your last death
 - If you die X times in a X period of time you get a health boost or armor boost or both for a x amount of time (like a status effect maybe)
 - Continue Breaking a Block when you shortly lift \(~3sec)

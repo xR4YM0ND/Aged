@@ -11,12 +11,17 @@
 - Steampunk clock & compass HUD position
 - Cleaned up the console
 - Low FPS in screens
+- Removed Advancements trigger on startup
 ## Changed:
 - Implemented food system
-- Implemented tea
+- Implemented stamina
+- New fishing mechanic
+- Ores spawn in veins
+- Added tea
 - Disabled birch village
 - Water hydration range now 4 (vanilla) instead of 2
 - Removed sprinklers
+- Made Globox happy again (removed minerally)
 ## Removed:
 - Dynamic FPS
 - EMI
@@ -25,45 +30,61 @@
 - EMI Trades
 - EMIffect
 - Equipment Compare
+- Guarding
 - Horse Buff
 - Map Atlases
+- Minerally
 - Moisturization
 - Nicer Skies
+- Starter Kit
 - Structory
 - Structory: Towers
 - Tool Trims
 ## Added:
 - Antique Atlas Reborn
+- Async Locator
 - AzureLib
 - BadOptimizations
 - Better Nether Map
 - Dark Loading Screen
+- Destruction Difficulty
 - Early Loading Screen
 - Eugene's Wealthy Plains Village
 - Exposure
+- Fishing Real
 - FPS Reducer
 - Fzzy Core
 - Gear Core
+- Geocluster
 - Immersive Melodies
+- Inventory Sorting
 - Let's Do: HerbalBrews
 - Masik's Puzzle Dungeon
 - Mob Catalog
+- Necronomicon API
 - Panda's Extra Details
 - Pehkui
+- Phantom Loader
 - Roughly Enough Items
 - Roughly Enough Professions
+- Shield Overhaul
 - SmitherZ
 - Smooth Scrolling Refurbished
 - Spyglass Astronomy
+- Stamina
 - Superb Steeds
 - Tridents 'n' Stuff
 - Underground Jungle
+- Villager Transportation
+- WelcomeScreen
 ## Updated:
 - **Fabric Loader 0.15.3**
 - [EMF] Entity Model Features
 - [ETF] Entity Texture Features
 - 3D Skin Layers
+- AdditionZ
 - Areas
+- ARRP
 - BCLib
 - Better Advancements
 - Better Clouds
@@ -83,16 +104,24 @@
 - Elytra Trims
 - Enchantment Descriptions
 - End Remastered
+- Enderman Overhaul
 - Enhanced Workbenches
 - Extended Drawers
 - ExtendedDrawersAddon
 - Fabric Language Kotlin
+- FancyMenu
+- Geckolib
 - Hero Proof
+- HT's TreeChop
 - Iceberg
 - ImmediatelyFast
 - Kiwi
+- Konkrete
 - Let's Do: Candlelight
+- Let's Do: Meadow
 - Let's Do: NetherVinery
+- LevelZ
+- MC Dungeons Enchanting
 - Memory Leak Fix
 - ModernFix
 - Moonlight Lib
@@ -110,9 +139,9 @@
 - Resourceful Lib
 - SeasonHUD
 - Simple Voice Chat
+- Smarter Farmers
 - Sound Physics Remastered
 - Sounds
-- Starter Kit
 - Supplementaries
 - Supplementaries Squared
 - TerraBlender
