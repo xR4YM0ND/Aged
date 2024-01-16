@@ -1,5 +1,8 @@
 # Aged 2.2.0
 
+## Important
+This update should break the world generation!  
+Create a new world & also reinstall Aged for the best experience, enjoy <3
 ## Fixed:
 - Missing archers armor restrictions
 - Smither job exp for ingots / nuggets
@@ -11,17 +14,20 @@
 - Steampunk clock & compass HUD position
 - Cleaned up the console
 - Low FPS in screens
-- Removed Advancements trigger on startup
+- Removed Advancements triggerz on startupz
 ## Changed:
 - Implemented food system
 - Implemented stamina
 - New fishing mechanic
 - Ores spawn in veins
+- Added Ores & raw nuggets
 - Added tea
+- Lowered fish xp
 - Disabled birch village
 - Water hydration range now 4 (vanilla) instead of 2
 - Removed sprinklers
 - Made Globox happy again (removed minerally)
+- Added aged welcome screen
 ## Removed:
 - Dynamic FPS
 - EMI
@@ -31,45 +37,45 @@
 - EMIffect
 - Equipment Compare
 - Even Better Archeology
-- Guarding
 - Horse Buff
+- Make Bubbles Pop
 - Map Atlases
 - Minerally
 - Moisturization
 - Nicer Skies
+- Noxesium
 - Starter Kit
 - Structory
 - Structory: Towers
 - Tool Trims
 ## Added:
-- Antique Atlas Reborn
 - Async Locator
 - AzureLib
 - BadOptimizations
 - Better Archeology
 - Better Nether Map
 - Dark Loading Screen
-- Destruction Difficulty
 - Early Loading Screen
 - Eugene's Wealthy Plains Village
 - Exposure
 - Fishing Real
 - FPS Reducer
+- Freshly Modded [RP]
 - Fzzy Core
 - Gear Core
 - Geocluster
 - Immersive Melodies
 - Inventory Sorting
 - Let's Do: HerbalBrews
+- MakeUp - Ultra Fast [Shader]
 - Masik's Puzzle Dungeon
 - Mob Catalog
-- Necronomicon API
+- NutritionZ
 - Panda's Extra Details
 - Pehkui
 - Phantom Loader
 - Roughly Enough Items
 - Roughly Enough Professions
-- Shield Overhaul
 - SmitherZ
 - Smooth Scrolling Refurbished
 - Sparse Structures
@@ -86,6 +92,8 @@
 - [ETF] Entity Texture Features
 - 3D Skin Layers
 - AdditionZ
+- Aged-Addition
+- Archers (RPG Series)
 - Areas
 - ARRP
 - BCLib
@@ -97,8 +105,10 @@
 - Bookshelf
 - Cloth Config API
 - Collective
+- Combat Roll
 - CraftPresence
 - CreativeCore
+- Custom Portals
 - Dismount Entity
 - Do a Barrel Roll
 - Dynamic Crosshair
@@ -124,12 +134,15 @@
 - Let's Do: Meadow
 - Let's Do: NetherVinery
 - LevelZ
+- Macaw's Windows
 - MC Dungeons Enchanting
 - Memory Leak Fix
+- miplevel_fix [RP]
 - ModernFix
 - Moonlight Lib
 - More Culling
 - Not Enough Animations
+- Numismatic Overhaul
 - NumismaticClaim
 - Open Parties and Claims
 - Passive Shield
@@ -137,6 +150,7 @@
 - Profundis: Seven New Quality Cave Biomes
 - Puzzles Lib
 - Raise Sound Limit Simplified
+- RAY's 3D Rails [RP]
 - Realistic Bees
 - Resourceful Config
 - Resourceful Lib
@@ -145,6 +159,8 @@
 - Smarter Farmers
 - Sound Physics Remastered
 - Sounds
+- Spawn Animations
+- Spell Engine
 - Supplementaries
 - Supplementaries Squared
 - TerraBlender
