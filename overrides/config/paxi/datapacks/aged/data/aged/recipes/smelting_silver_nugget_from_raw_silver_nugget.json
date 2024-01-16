@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "cookingtime": 222,
+    "experience": 0.27,
+    "ingredient": {
+        "item": "agedaddition:raw_silver_nugget"
+    },
+    "result": "geocluster:silver_nugget"
+}

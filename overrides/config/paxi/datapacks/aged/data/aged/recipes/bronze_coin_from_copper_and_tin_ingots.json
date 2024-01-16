@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+        "C": {
+            "item": "minecraft:copper_ingot"
+        },
+        "T": {
+            "item": "geocluster:tin_ingot"
+        }
+    },
+    "pattern": [
+        "TC",
+        "CT"
+    ],
+    "result": {
+        "item": "numismatic-overhaul:bronze_coin"
+    },
+    "show_notification": true
+}

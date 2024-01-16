@@ -1,0 +1,26 @@
+{
+    "values": [
+        "agedaddition:stone_salt_ore_sample",
+        "agedaddition:alpine_salt_ore_sample",
+        "geocluster:copper_ore_sample",
+        "geocluster:iron_ore_sample",
+        "geocluster:gold_ore_sample",
+        "geocluster:nether_gold_ore_sample",
+        "geocluster:silver_ore_sample",
+        "geocluster:tin_ore_sample",
+        "geocluster:coal_ore_sample",
+        "geocluster:redstone_ore_sample",
+        "geocluster:lapis_ore_sample",
+        "geocluster:emerald_ore_sample",
+        "geocluster:diamond_ore_sample",
+        "geocluster:ancient_debris_ore_sample",
+        "geocluster:quartz_ore_sample",
+        "geocluster:nether_quartz_ore_sample",
+        "geocluster:amber_ore_sample",
+        "geocluster:ender_ore_sample",
+        "geocluster:cincinnasite_ore_sample",
+        "geocluster:nether_lapis_ore_sample",
+        "geocluster:nether_redstone_ore_sample",
+        "geocluster:nether_ruby_ore_sample"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "name": "Items",
+    "icon": "environmentz:wolf_chestplate",
+    "category": "patchouli:3_temperature_category",
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "patchouli:text"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Infos",
+            "text": "Item usage as follows:$(br)$(li)hold items$(li)used items$(li)armor$(br2)Different items have different strong values, some also have a durability."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Cooling Items",
+            "text": "$(li)snow (in general)$(li)ice (in general)$(li)powder snow bucket$(li)ice pack$(li)cold eye$(li)heart of the sea"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "environmentz:ice_pack",
+            "text": "cools you dont but has a durability."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Heating Items",
+            "text": "$(li)torches (in general)$(li)campfires (in general)$(li)blaze powder$(li)blaze rod$(li)magma cream$(li)fire charge$(li)lava bucket$(li)heating stones$(li)sconce (in general)$(li)nether eye"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "environmentz:heating_stones",
+            "text": "heats you up but has a durability.$(br2)Put them in the furnace to heaten them up."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Cooling Armor",
+            "text": "$(li)Wanderer Armor$(li)Chefs Outfit$(li)Bone Armor$(li)Wither Armor$(li)Robe Armor$(li)Vinemaker Outfit"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Heating Armor",
+            "text": "$(li)Every Armor a bit$(li)Leather Armor$(li)Wolf Armor$(li)Archers Outfit$(li)Rangers Outfit$(li)Enderman Hood$(li)Steampunk Armor$(li)Fur Outfit"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Runic Table",
+    "icon": "mcde:runic_table",
+    "category": "patchouli:8_enchant_category",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "mcde:runic_table",
+            "recipe2": "mcde:convert_runic_table"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(br)$(l)! Page under construction !"
+        }
+    ]
+}

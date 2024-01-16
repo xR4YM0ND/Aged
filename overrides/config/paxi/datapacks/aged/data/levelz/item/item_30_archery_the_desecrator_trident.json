@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "archery",
+    "level": 30,
+    "item": "minecraft:custom_item",
+    "object": "tridents_n_stuff:the_desecrator"
+}

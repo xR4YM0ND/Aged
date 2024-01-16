@@ -55,7 +55,7 @@ GitHub Repository: [NEED TO MAKE ONE]
 	"towns": {
 		"village_badlands": true,
 		"village_beach": true,
-		"village_birch_forest": true,
+		"village_birch_forest": false,
 		"village_flower_forest": true,
 		"village_forest": true,
 		"village_snowy_slopes": true,

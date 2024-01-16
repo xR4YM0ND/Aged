@@ -1,0 +1,17 @@
+{
+    "type": "bclib:alloying",
+    "smelttime": 4800,
+    "experience": 12,
+    "ingredients": [
+        {
+            "tag": "aged:blasting_gold"
+        },
+        {
+            "tag": "aged:blasting_gold"
+        }
+    ],
+    "result": {
+        "count": 3,
+        "item": "minecraft:gold_ingot"
+    }
+}

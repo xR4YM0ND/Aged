@@ -1,0 +1,102 @@
+{
+    "title": {
+        "center": true,
+        "object_center": true,
+        "pos": [
+            0,
+            10
+        ],
+        "text": "Welcome to the Aged Modpack!"
+    },
+    "button_1": {
+        "center": false,
+        "object_center": false,
+        "pos": [
+            10,
+            10
+        ],
+        "size": [
+            100,
+            20
+        ],
+        "text": "Join our Discord",
+        "link": "https://discord.gg/cV4cJyGXqF"
+    },
+    "text_1": {
+        "center": true,
+        "object_center": true,
+        "pos": [
+            60,
+            -40
+        ],
+        "text": [
+            "Before you start your journey we want you",
+            "to know that you can access all guide books",
+            "via the inventory."
+        ]
+    },
+    "text_2": {
+        "center": true,
+        "object_center": true,
+        "pos": [
+            60,
+            0
+        ],
+        "text": [
+            "One of your first tasks are getting food and fresh water.",
+            "Another one is to pick up stones and flint from the ground.",
+            "Craft a crafting rock, put sticks from leaves and flint",
+            "on it and hit it a few times with another rock."
+        ]
+    },
+    "text_3": {
+        "center": true,
+        "object_center": true,
+        "pos": [
+            60,
+            60
+        ],
+        "text": [
+            "Have fun playing and feel free to share your builds",
+            "at the official Aged discord!"
+        ]
+    },
+    "image_1": {
+        "center": true,
+        "object_center": true,
+        "pos": [
+            -130,
+            20
+        ],
+        "size": [
+            256,
+            256
+        ],
+        "id": "aged:textures/others/aged_welcomescreen_tree.png"
+    },
+    "close": {
+        "center": true,
+        "object_center": true,
+        "pos": [
+            60,
+            105
+        ],
+        "text": "Start"
+    },
+    "commands": [
+        "/item replace entity @s hotbar.0 with minecraft:bread 4",
+        "/item replace entity @s hotbar.1 with minecraft:apple 4",
+        "/item replace entity @s hotbar.4 with patchouli:guide_book{'patchouli:book':'patchouli:aged_guide_book'}",
+        "/item replace entity @s hotbar.7 with minecraft:potion{Potion:'minecraft:purified_water'}",
+        "/item replace entity @s hotbar.8 with minecraft:campfire"
+    ],
+    "background": {
+        "center": false,
+        "object_center": false,
+        "id": "textures/gui/advancements/backgrounds/stone.png",
+        "size": [
+            0,
+            0
+        ]
+    }
+}

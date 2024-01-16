@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+        "#": {
+            "item": "minecraft:gold_block"
+        }
+    },
+    "pattern": [
+        "##",
+        "##"
+    ],
+    "result": {
+        "item": "numismatic-overhaul:gold_coin"
+    },
+    "show_notification": true
+}

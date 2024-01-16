@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "cookingtime": 166,
+    "experience": 0.11,
+    "ingredient": {
+        "item": "agedaddition:raw_copper_nugget"
+    },
+    "result": "agedaddition:copper_nugget"
+}

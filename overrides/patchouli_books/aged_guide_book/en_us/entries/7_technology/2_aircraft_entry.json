@@ -1,0 +1,12 @@
+{
+    "name": "Aircrafts",
+    "icon": "immersive_aircraft:biplane",
+    "category": "patchouli:7_technology_category",
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(br2)$(l)! Page under construction !"
+        }
+    ]
+}

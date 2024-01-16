@@ -1,0 +1,8 @@
+{
+    "input": {
+        "item": "minecraft:tripwire_hook"
+    },
+    "result": {
+        "id": "creeperoverhaul:ocean_creeper"
+    }
+}

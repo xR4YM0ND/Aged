@@ -1,0 +1,69 @@
+{
+    "type": "geocluster:deposit_dike",
+    "config": {
+        "yMin": 8,
+        "yMax": 22,
+        "maxHeight": 5,
+        "baseRadius": 2,
+        "biomeTag": "#minecraft:is_nether",
+        "blockStateMatchers": [
+            "minecraft:netherrack",
+            "minecraft:basalt",
+            "minecraft:blackstone",
+            "minecraft:magma_block"
+        ],
+        "blocks": {
+            "default": [
+                {
+                    "block": "minecraft:ancient_debris",
+                    "chance": 0.1
+                },
+                {
+                    "block": null,
+                    "chance": 0.9
+                }
+            ],
+            "minecraft:netherrack": [
+                {
+                    "block": "minecraft:ancient_debris",
+                    "chance": 0.1
+                },
+                {
+                    "block": "minecraft:netherrack",
+                    "chance": 0.9
+                }
+            ],
+            "minecraft:basalt": [
+                {
+                    "block": "minecraft:ancient_debris",
+                    "chance": 0.1
+                },
+                {
+                    "block": "minecraft:basalt",
+                    "chance": 0.9
+                }
+            ],
+            "minecraft:blackstone": [
+                {
+                    "block": "minecraft:ancient_debris",
+                    "chance": 0.1
+                },
+                {
+                    "block": "minecraft:blackstone",
+                    "chance": 0.9
+                }
+            ]
+        },
+        "samples": [
+            {
+                "block": "minecraft:ancient_debris_sample",
+                "chance": 0.9
+            },
+            {
+                "block": null,
+                "chance": 0.1
+            }
+        ],
+        "generationWeight": 1
+    }
+}

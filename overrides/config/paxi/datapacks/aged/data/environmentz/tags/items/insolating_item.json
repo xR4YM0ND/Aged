@@ -1,0 +1,8 @@
+{
+    "replace": true,
+    "values": [
+        "environmentz:polar_bear_fur",
+        "adventurez:mammoth_fur",
+        "naturalist:bear_fur"
+    ]
+}

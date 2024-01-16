@@ -36,7 +36,8 @@
         },
         {
             "type": "patchouli:crafting",
-            "recipe": "earlystage:stone_shears"
+            "recipe": "earlystage:stone_shears",
+            "recipe2": "geocluster:stone_prospectors_pick"
         }
     ]
 }

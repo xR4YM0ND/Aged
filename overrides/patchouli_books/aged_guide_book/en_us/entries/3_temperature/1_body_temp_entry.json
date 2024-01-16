@@ -1,0 +1,24 @@
+{
+    "name": "Body Temp",
+    "icon": "betternether:pig_statue_respawner",
+    "category": "patchouli:3_temperature_category",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:image",
+            "images": ["aged:textures/gui/entries/environmentz/body/burning_body_temperature.png", "aged:textures/gui/entries/environmentz/body/hot_body_temperature.png", "aged:textures/gui/entries/environmentz/body/normal_body_temperature.png", "aged:textures/gui/entries/environmentz/body/cold_body_temperature.png", "aged:textures/gui/entries/environmentz/body/freezing_body_temperature.png"],
+            "title": "5 Body Stages",
+            "text": "Burning | Hot | Normal | Cold | Freezing"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Body Temp Infos",
+            "text": "You find the body temp mannequin centered near the hotbar.$(br2)Your body temp is your actual temperature."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Body Temperature",
+            "text": "$(br)The Body Temperature consists of these factors:$(br)$(li)Environment temp.$(li)Surrounding blocks$(li)Beeing wet$(li)Using items"
+        }
+    ]
+}

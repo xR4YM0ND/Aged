@@ -143,6 +143,17 @@
         "value": 1000000
       }
     },
+    "minecraft:generic.max_stamina": {
+      "enabled": true,
+      "min": {
+        "default": 10,
+        "value": 10
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
+      }
+    },
     "tiered:generic.range_attack_damage": {
       "enabled": false,
       "min": {

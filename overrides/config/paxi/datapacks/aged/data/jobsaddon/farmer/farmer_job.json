@@ -2,6 +2,8 @@
     "1": {
         "replace": true,
         "items": [
+            "minecraft:wheat",
+            "minecraft:pumpkin",
             "minecraft:melon_slice",
             "minecraft:sweet_berries",
             "minecraft:glow_berries",
@@ -20,7 +22,11 @@
             "vinery:taiga_grapes_red",
             "vinery:taiga_grapes_white",
             "vinery:jungle_grapes_red",
-            "vinery:jungle_grapes_white"
+            "vinery:jungle_grapes_white",
+            "herbalbrews:green_tea_leaf",
+            "herbalbrews:yerba_mate_leaf",
+            "herbalbrews:rooibos_leaf",
+            "herbalbrews:lavender_blossom"
         ],
         "crafting": [
             "minecraft:dried_kelp",
@@ -40,7 +46,8 @@
         "items": [
             "minecraft:apple",
             "minecraft:chorus_fruit",
-            "candlelight:tomato"
+            "candlelight:tomato",
+            "herbalbrews:coffee_beans"
         ],
         "crafting": [
             "minecraft:golden_apple",
@@ -134,7 +141,17 @@
     },
     "5": {
         "replace": true,
-        "items": [],
+        "items": [
+            "herbalbrews:green_tea",
+            "herbalbrews:black_tea",
+            "herbalbrews:hibiscus_tea",
+            "herbalbrews:lavender_tea",
+            "herbalbrews:yerba_mate_tea",
+            "herbalbrews:rooibos_tea",
+            "herbalbrews:oolong_tea",
+            "herbalbrews:coffee",
+            "herbalbrews:milk_coffee"
+        ],
         "crafting": [
             "minecraft:rabbit_stew"
         ]
@@ -155,7 +172,14 @@
     },
     "8": {
         "replace": true,
-        "items": [],
+        "items": [
+            "herbalbrews:armor_flask",
+            "herbalbrews:armor_flask_big",
+            "herbalbrews:damage_flask",
+            "herbalbrews:damage_flask_big",
+            "herbalbrews:feral_flask",
+            "herbalbrews:feral_flask_big"
+        ],
         "crafting": []
     },
     "10": {

@@ -30,6 +30,7 @@
 	"husk_drops_sand": true,
 	"trident_buried_treasure": false,
 	"villager_sleeping_eyes": true,
+	"villager_gender": true,
 	// No trading when villager has no space
 	"villager_needs_space": false,
 	// 0 = disabled
@@ -70,6 +71,7 @@
 	"teleport_scroll": true,
 	"sneak_through_berries": true,
 	"phantom_tick_time": 72000,
+	"ladder_climb_speeding": true,
 	"passive_entity_modifications": true,
 	"passiveEntityConfig": {
 		// Default = -24000

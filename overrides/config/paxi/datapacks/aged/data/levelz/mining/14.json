@@ -2,10 +2,6 @@
     "replace": true,
     "level": 14,
     "block": [
-        "minerally:quartz_rock",
-        "minerally:quartz_crystal_1",
-        "minerally:quartz_crystal_0",
-        "minerally:quartz_crystal",
         "geodes:small_quartz_bud",
         "geodes:medium_quartz_bud",
         "geodes:large_quartz_bud",
@@ -13,6 +9,7 @@
         "geodes:budding_quartz",
         "minecraft:nether_quartz_ore",
         "universal_ores:basalt_quartz_ore",
+        "geocluster:quartz_ore",
         "minecraft:quartz_block",
         "minecraft:quartz_stairs",
         "minecraft:quartz_slab",

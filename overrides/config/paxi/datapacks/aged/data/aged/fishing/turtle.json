@@ -1,0 +1,8 @@
+{
+    "input": {
+        "item": "minecraft:scute"
+    },
+    "result": {
+        "id": "minecraft:turtle"
+    }
+}

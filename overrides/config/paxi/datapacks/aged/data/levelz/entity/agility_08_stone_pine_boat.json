@@ -3,5 +3,5 @@
     "skill": "agility",
     "level": 8,
     "entity": "minecraft:custom_entity",
-    "object": "snifferplus_stone_pine_boat"
+    "object": "snifferplus:stone_pine_boat"
 }

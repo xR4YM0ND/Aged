@@ -1,0 +1,113 @@
+{
+    "type": "geocluster:deposit_sparse",
+    "config": {
+        "yMin": 0,
+        "yMax": 250,
+        "size": 10,
+        "spread": 5,
+        "biomeTag": "#minecraft:is_overworld",
+        "blockStateMatchers": [
+            "minecraft:stone",
+            "minecraft:deepslate",
+            "minecraft:granite",
+            "minecraft:diorite",
+            "minecraft:andesite",
+            "minecraft:calcite",
+            "minecraft:tuff",
+            "meadow:limestone"
+        ],
+        "blocks": {
+            "default": [
+                {
+                    "block": "redstone_ore",
+                    "chance": 0.7
+                },
+                {
+                    "block": "minecraft:stone",
+                    "chance": 0.3
+                }
+            ],
+            "minecraft:deepslate": [
+                {
+                    "block": "deepslate_redstone_ore",
+                    "chance": 0.7
+                },
+                {
+                    "block": "minecraft:deepslate",
+                    "chance": 0.3
+                }
+            ],
+            "minecraft:granite": [
+                {
+                    "block": "universal_ores:granite_redstone_ore",
+                    "chance": 0.7
+                },
+                {
+                    "block": "minecraft:granite",
+                    "chance": 0.3
+                }
+            ],
+            "minecraft:diorite": [
+                {
+                    "block": "universal_ores:diorite_redstone_ore",
+                    "chance": 0.7
+                },
+                {
+                    "block": "minecraft:diorite",
+                    "chance": 0.3
+                }
+            ],
+            "minecraft:andesite": [
+                {
+                    "block": "universal_ores:andesite_redstone_ore",
+                    "chance": 0.7
+                },
+                {
+                    "block": "minecraft:andesite",
+                    "chance": 0.3
+                }
+            ],
+            "minecraft:tuff": [
+                {
+                    "block": "universal_ores:tuff_redstone_ore",
+                    "chance": 0.7
+                },
+                {
+                    "block": "minecraft:tuff",
+                    "chance": 0.3
+                }
+            ],
+            "minecraft:calcite": [
+                {
+                    "block": "universal_ores:calcite_redstone_ore",
+                    "chance": 0.7
+                },
+                {
+                    "block": "minecraft:calcite",
+                    "chance": 0.3
+                }
+            ],
+            "meadow:limestone": [
+                {
+                    "block": "meadow:alpine_redstone_ore",
+                    "chance": 0.7
+                },
+                {
+                    "block": "meadow:limestone",
+                    "chance": 0.3
+                }
+            ]
+        },
+        "samples": [
+            {
+                "block": "geocluster:redstone_ore_sample",
+                "chance": 0.3
+            },
+            {
+                "block": null,
+                "chance": 0.7
+            }
+        ],
+        "generationWeight": 3
+    }
+}

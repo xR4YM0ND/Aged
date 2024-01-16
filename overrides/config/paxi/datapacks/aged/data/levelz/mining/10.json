@@ -2,7 +2,6 @@
     "replace": true,
     "level": 10,
     "block": [
-        "minerally:nether_geode",
         "universal_ores:granite_coal_ore",
         "universal_ores:granite_copper_ore",
         "universal_ores:granite_gold_ore",
@@ -135,10 +134,6 @@
         "candlelight:red_nether_bricks_stove",
         "candlelight:red_nether_bricks_kitchen_sink",
         "candlelight:red_nether_bricks_counter",
-        "minerally:redstone_rock",
-        "minerally:redstone_pile_1",
-        "minerally:redstone_pile_0",
-        "minerally:redstone_pile",
         "minecraft:redstone_ore",
         "universal_ores:andesite_redstone_ore",
         "universal_ores:tuff_redstone_ore",

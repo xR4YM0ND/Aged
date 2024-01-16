@@ -1,0 +1,17 @@
+{
+    "type": "bclib:alloying",
+    "smelttime": 2400,
+    "experience": 15,
+    "ingredients": [
+        {
+            "tag": "aged:blasting_lapis_lazuli"
+        },
+        {
+            "tag": "aged:blasting_lapis_lazuli"
+        }
+    ],
+    "result": {
+        "count": 3,
+        "item": "minecraft:lapis_lazuli"
+    }
+}

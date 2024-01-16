@@ -1,7 +1,7 @@
 {
     "replace": true,
     "values": [
-        "rotten:hide",
+        "fleshz:hide",
         "minecraft:leather"
     ]
 }

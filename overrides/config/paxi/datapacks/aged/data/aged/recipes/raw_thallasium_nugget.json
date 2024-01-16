@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "betterend:thallasium_raw"
+        }
+    ],
+    "result": {
+        "count": 9,
+        "item": "agedaddition:raw_thallasium_nugget"
+    }
+}

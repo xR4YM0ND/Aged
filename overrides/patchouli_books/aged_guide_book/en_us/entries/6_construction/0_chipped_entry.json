@@ -1,0 +1,43 @@
+{
+    "name": "Chipped",
+    "icon": "chipped:loom_table",
+    "category": "patchouli:6_construction_category",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "chipped:benches/botanist_workbench",
+            "text": "$(li)Leaves$(li)Funghi$(li)Pumpkins$(li)& more"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "chipped:benches/glassblower",
+            "text": "$(li)Various Glass"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "chipped:benches/carpenters_table",
+            "text": "$(li)Various Wood"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "chipped:benches/loom_table",
+            "text": "$(li)Various Wool"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "chipped:benches/mason_table",
+            "text": "$(li)Various Stones"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "chipped:benches/alchemy_bench",
+            "text": "$(li)Various Ore Blocks$(li)Obsidian"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "chipped:benches/mechanist_workbench",
+            "text": "$(li)Redstone Block$(li)Redstone Lamp"
+        }
+    ]
+}

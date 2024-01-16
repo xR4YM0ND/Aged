@@ -1,0 +1,33 @@
+{
+    "name": "Leather",
+    "icon": "fleshz:hide",
+    "category": "patchouli:5_production_category",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "fleshz:rotten_leather",
+            "text": "Turn rotten flesh into rotten leather."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "fleshz:wood_rack",
+            "text": "Craft a wood rack, place it on a wall and hang your rotten leather onto it.$(br2)It takes 18000 ticks / 15 min to turn into hide."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "fleshz:hide",
+            "text": "Creatures drop hide instead of leather.$(br)You also get hide from rotten leather."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "fleshz:prepared_hide",
+            "text": "Prepare hides before you hang them onto the rack again.$(br2)It takes 12000 ticks / 10 min to turn into leather."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:leather",
+            "text": "You can also craft leather from various sources.$(br)$(li)Rabbit Hide x4$(li)Lether Stripe x3$(li)Orc Skin x2$(li)Rotten Flesh x6 (only in the cooking pot)"
+        }
+    ]
+}

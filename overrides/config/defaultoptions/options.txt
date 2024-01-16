@@ -43,8 +43,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:3
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","Moonlight Mods Dynamic Assets","vinery:bushy_leaves","meadow:better_leaves","seasons:seasonal_lush_caves","itemswapper:default","file/§fFancy§5Fast §2Bushy Leaves§0.zip","file/miplevel_fix_beautify","file/better_flame_particles-v1.0-mc1.20-resourcepack.zip","file/UniqueEnchantedBooks_v2.0.3.zip","file/FreshAnimations_v1.8.1.zip","continuity:glass_pane_culling_fix","continuity:default","file/corality-1-0-3.zip","file/MoreMobVariants_FreshAnimations_1.2.2-1.8.1.zip","extendeddrawersaddon:addon","file/§bRAY\u0027s§r 3D Rails.zip","file/§bRAY\u0027s§r 3D Ladders.zip","file/lang"]
-incompatibleResourcePacks:["file/FreshAnimations_v1.8.1.zip","file/corality-1-0-3.zip","file/MoreMobVariants_FreshAnimations_1.2.2-1.8.1.zip","file/§bRAY\u0027s§r 3D Rails.zip","file/§bRAY\u0027s§r 3D Ladders.zip"]
+resourcePacks:["vanilla","fabric","Moonlight Mods Dynamic Assets","extendeddrawersaddon:addon","meadow:better_leaves","vinery:bushy_leaves","continuity:glass_pane_culling_fix","continuity:default","file/§bRAY\u0027s§r 3D Ladders.zip","file/§bRAY\u0027s§r 3D Rails.zip","file/§fFancy§5Fast §2Bushy Leaves§0.zip","file/FreshAnimations_v1.8.1.zip","file/MoreMobVariants_FreshAnimations_1.2.2-1.8.1.zip","file/corality-1-0-3.zip","file/UniqueEnchantedBooks_v2.0.3.zip","itemswapper:classic","minecraft:supporteatinganimation","file/§aFreshly Modded 1.4","file/better_flame_particles-v2.0-mc1.14x-1.20x-resourcepack.zip","file/lang_and_more","file/miplevel_fix"]
+incompatibleResourcePacks:["file/§bRAY\u0027s§r 3D Ladders.zip","file/§bRAY\u0027s§r 3D Rails.zip","file/FreshAnimations_v1.8.1.zip","file/MoreMobVariants_FreshAnimations_1.2.2-1.8.1.zip","file/corality-1-0-3.zip"]
 lastServer:
 lang:en_us
 soundDevice:""
@@ -86,18 +86,16 @@ panoramaScrollSpeed:1.0
 debugifyTelemetry:0
 telemetryOptInExtra:false
 onboardAccessibility:false
-soundCategory_master:0.5474984478476821
-soundCategory_music:0.8026133362676058
+soundCategory_master:0.7264460885761589
+soundCategory_music:0.4037558685446009
 soundCategory_record:0.7846996038732392
-soundCategory_weather:0.9553147007042255
+soundCategory_weather:0.4507042253521127
 soundCategory_block:1.0
 soundCategory_hostile:1.0
 soundCategory_neutral:0.9514964788732391
 soundCategory_player:1.0
-soundCategory_ambient:0.5991087147887321
+soundCategory_ambient:0.42056558098591534
 soundCategory_voice:1.0
-soundCategory_core_music_noxesium:1.0
-soundCategory_game_music_noxesium:1.0
 modelPart_cape:true
 modelPart_jacket:true
 modelPart_left_sleeve:true

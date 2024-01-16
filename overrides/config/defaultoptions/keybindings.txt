@@ -46,6 +46,9 @@ key_key.amecs.toggle_left_pants_leg:key.keyboard.unknown:NONE
 key_key.amecs.toggle_right_pants_leg:key.keyboard.unknown:NONE
 key_key.amecs.toggle_hat:key.keyboard.unknown:NONE
 key_autothirdperson.toggle:key.keyboard.unknown:NONE
+key_key.azurelib.reload:key.keyboard.r:NONE
+key_key.azurelib.scope:key.keyboard.left.alt:NONE
+key_key.azurelib.fire:key.keyboard.unknown:NONE
 key_key.backslot.switch_backslot:key.keyboard.g:NONE
 key_key.backslot.switch_beltslot:key.keyboard.g:NONE
 key_keybinds.bettercombat.feint:key.keyboard.unknown:NONE
@@ -65,10 +68,9 @@ key_key.do_a_barrel_roll.roll_left:key.keyboard.unknown:NONE
 key_key.do_a_barrel_roll.roll_right:key.keyboard.unknown:NONE
 key_key.do_a_barrel_roll.thrust_forward:key.keyboard.w:NONE
 key_key.do_a_barrel_roll.thrust_backward:key.keyboard.s:NONE
-key_key.dynamic_fps.toggle_forced:key.keyboard.unknown:NONE
-key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown:NONE
 key_key.entityculling.toggle:key.keyboard.unknown:NONE
-key_equipmentcompare.key.showTooltips:key.keyboard.left.shift:NONE
+key_fpsreducer.key.openGui:key.keyboard.end:NONE
+key_fpsreducer.key.forceIdle:key.keyboard.pause:NONE
 key_key.immersive_aircraft.multi_control_left:key.keyboard.a:NONE
 key_key.immersive_aircraft.multi_control_right:key.keyboard.d:NONE
 key_key.immersive_aircraft.multi_control_forward:key.keyboard.w:NONE
@@ -81,10 +83,10 @@ key_key.immersive_aircraft.multi_dismount:key.keyboard.r:NONE
 key_key.immersive_aircraft.multi_boost:key.keyboard.b:NONE
 key_key.inmis.open_backpack:key.keyboard.b:NONE
 key_key.interactic.pickup_item:key.keyboard.unknown:NONE
+key_key.inventorysorter.sort:key.keyboard.p:NONE
 key_key.itemswapper.itemswitcher:key.keyboard.i:NONE
 key_key.itemswapper.openInventory:key.keyboard.unknown:NONE
 key_key.levelz.openskillscreen:key.keyboard.k:NONE
-key_key.map_atlases.open_minimap:key.keyboard.unknown:NONE
 key_supplementaries.keybind.quiver:key.keyboard.v:NONE
 key_key.niftycarts.desc:key.keyboard.keypad.8:NONE
 key_gui.xaero_pac_key_open_menu:key.keyboard.apostrophe:NONE

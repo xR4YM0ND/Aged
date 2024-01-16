@@ -1,0 +1,29 @@
+{
+    "replace": true,
+    "values": [
+        "environmentz:wanderer_helmet",
+        "environmentz:wanderer_chestplate",
+        "environmentz:wanderer_leggings",
+        "environmentz:wanderer_boots",
+        "candlelight:cooking_hat",
+        "candlelight:chefs_jacket",
+        "candlelight:chefs_pants",
+        "candlelight:chefs_boots",
+        "immersive_armors:bone_helmet",
+        "immersive_armors:bone_chestplate",
+        "immersive_armors:bone_leggings",
+        "immersive_armors:bone_boots",
+        "immersive_armors:wither_helmet",
+        "immersive_armors:wither_chestplate",
+        "immersive_armors:wither_leggings",
+        "immersive_armors:wither_boots",
+        "immersive_armors:robe_helmet",
+        "immersive_armors:robe_chestplate",
+        "immersive_armors:robe_leggings",
+        "immersive_armors:robe_boots",
+        "vinery:straw_hat",
+        "vinery:vinemaker_apron",
+        "vinery:vinemaker_leggings",
+        "vinery:vinemaker_boots"
+    ]
+}

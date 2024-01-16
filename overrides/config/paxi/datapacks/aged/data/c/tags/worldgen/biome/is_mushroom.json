@@ -1,0 +1,12 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:mushroom_fields",
+        "profundis:mushroom_caves",
+        "wythers:mushroom_caves",
+        "wythers:mushroom_island",
+        "betterend:foggy_mushroomland",
+        "betternether:nether_mushroom_forest",
+        "betternether:nether_mushroom_forest_edge"
+    ]
+}

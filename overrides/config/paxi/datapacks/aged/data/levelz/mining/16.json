@@ -2,10 +2,6 @@
     "replace": true,
     "level": 16,
     "block": [
-        "minerally:diamond_rock",
-        "minerally:diamond_crystal_1",
-        "minerally:diamond_crystal_0",
-        "minerally:diamond_crystal",
         "geodes:diamond_cluster",
         "geodes:diamond_crystal_block",
         "minecraft:diamond_ore",

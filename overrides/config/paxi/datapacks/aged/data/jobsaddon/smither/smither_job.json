@@ -2,6 +2,12 @@
     "1": {
         "replace": true,
         "items": [
+            "minecraft:iron_nugget",
+            "minecraft:gold_nugget",
+            "agedaddition:copper_nugget",
+            "betterend:thallasium_nugget",
+            "betterend:terminite_nugget",
+            "earlystage:steel_nugget",
             "earlystage:flint_sword",
             "earlystage:flint_shovel",
             "earlystage:flint_pickaxe",
@@ -25,6 +31,7 @@
     "2": {
         "replace": true,
         "items": [
+            "minecraft:charcoal",
             "minecraft:wooden_axe",
             "minecraft:wooden_hoe",
             "minecraft:wooden_sword",
@@ -56,6 +63,7 @@
     "3": {
         "replace": true,
         "items": [
+            "minecraft:coal",
             "minecraft:stone_axe",
             "minecraft:stone_hoe",
             "minecraft:stone_sword",
@@ -83,6 +91,7 @@
     "4": {
         "replace": true,
         "items": [
+            "minecraft:copper_ingot",
             "betterend:thallasium_shovel_head",
             "betterend:thallasium_pickaxe_head",
             "betterend:thallasium_axe_head",
@@ -100,6 +109,7 @@
     "5": {
         "replace": true,
         "items": [
+            "minecraft:gold_ingot",
             "minecraft:golden_sword",
             "minecraft:golden_shovel",
             "minecraft:golden_pickaxe",
@@ -147,6 +157,7 @@
     "6": {
         "replace": true,
         "items": [
+            "betterend:thallasium_ingot",
             "betterend:thallasium_shovel",
             "betterend:thallasium_sword",
             "betterend:thallasium_pickaxe",
@@ -173,6 +184,7 @@
     "7": {
         "replace": true,
         "items": [
+            "minecraft:iron_ingot",
             "minecraft:iron_sword",
             "minecraft:iron_shovel",
             "minecraft:iron_pickaxe",
@@ -199,6 +211,7 @@
             "minecraft:chainmail_chestplate",
             "minecraft:chainmail_leggings",
             "minecraft:chainmail_boots",
+            "earlystage:steel_ingot",
             "earlystage:steel_helmet",
             "earlystage:steel_chestplate",
             "earlystage:steel_leggings",
@@ -213,6 +226,7 @@
     "8": {
         "replace": true,
         "items": [
+            "minecraft:quartz",
             "immersive_armors:warrior_helmet",
             "immersive_armors:warrior_chestplate",
             "immersive_armors:warrior_leggings",
@@ -235,6 +249,7 @@
     "10": {
         "replace": true,
         "items": [
+            "betterend:terminite_ingot",
             "betterend:terminite_pickaxe_head",
             "betterend:terminite_pickaxe_head",
             "betterend:terminite_axe_head",
@@ -247,7 +262,10 @@
     },
     "11": {
         "replace": true,
-        "items": []
+        "items": [
+            "minecraft:lapis_lazuli",
+            "minecraft:redstone"
+        ]
     },
     "12": {
         "replace": true,
@@ -269,11 +287,14 @@
     },
     "14": {
         "replace": true,
-        "items": []
+        "items": [
+            "minecraft:emerald"
+        ]
     },
     "15": {
         "replace": true,
         "items": [
+            "minecraft:diamond",
             "minecraft:diamond_sword",
             "minecraft:diamond_shovel",
             "minecraft:diamond_pickaxe",
@@ -359,6 +380,7 @@
     "23": {
         "replace": true,
         "items": [
+            "betternether:cincinnasite_ingot",
             "betternether:cincinnasite_sword",
             "betternether:cincinnasite_shovel",
             "betternether:cincinnasite_pickaxe",
@@ -395,6 +417,7 @@
     "30": {
         "replace": true,
         "items": [
+            "minecraft:netherite_ingot",
             "minecraft:netherite_sword",
             "minecraft:netherite_shovel",
             "minecraft:netherite_pickaxe",
@@ -416,8 +439,7 @@
             "minecraft:netherite_helmet",
             "minecraft:netherite_chestplate",
             "minecraft:netherite_leggings",
-            "minecraft:netherite_boots",
-            "guarding:netherite_shield"
+            "minecraft:netherite_boots"
         ]
     },
     "35": {
@@ -471,6 +493,7 @@
     "45": {
         "replace": true,
         "items": [
+            "betterend:aeternium_ingot",
             "betterend:aeternium_helmet",
             "betterend:aeternium_chestplate",
             "betterend:aeternium_leggings",

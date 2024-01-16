@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "cookingtime": 23,
+    "experience": 0.16,
+    "ingredient": {
+        "item": "agedaddition:raw_tin_nugget"
+    },
+    "result": "geocluster:tin_nugget"
+}

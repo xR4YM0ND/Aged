@@ -1,0 +1,17 @@
+{
+    "type": "bclib:alloying",
+    "smelttime": 12000,
+    "experience": 24,
+    "ingredients": [
+        {
+            "tag": "aged:blasting_emerald"
+        },
+        {
+            "tag": "aged:blasting_emerald"
+        }
+    ],
+    "result": {
+        "count": 3,
+        "item": "minecraft:emerald"
+    }
+}

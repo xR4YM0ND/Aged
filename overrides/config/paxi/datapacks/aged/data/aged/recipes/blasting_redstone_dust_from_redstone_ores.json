@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:blasting",
+    "category": "misc",
+    "cookingtime": 600,
+    "experience": 3,
+    "group": "redstone",
+    "ingredient": {
+        "tag": "aged:blasting_redstone"
+    },
+    "result": "minecraft:redstone"
+}

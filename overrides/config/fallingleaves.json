@@ -725,6 +725,51 @@
       "spawnRateFactor": 1.0,
       "isConiferBlock": false,
       "spawnBreakingLeaves": true
+    },
+    "bloomingnature:fir_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
+    },
+    "bloomingnature:swamp_cypress_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
+    },
+    "bloomingnature:baobab_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
+    },
+    "bloomingnature:palm_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
+    },
+    "bloomingnature:larch_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
+    },
+    "bloomingnature:orange_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
+    },
+    "bloomingnature:aspen_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
+    },
+    "bloomingnature:swamp_oak_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
+    },
+    "bloomingnature:chestnut_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
     }
   },
   "leafSpawners": [],

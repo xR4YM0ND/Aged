@@ -1,6 +1,7 @@
 {
     "replace": true,
     "values": [
+        "underground_jungle:underground_jungle",
         "meadow:meadow_clearing",
         "meadow:meadow_forest",
         "minecraft:bamboo_jungle",

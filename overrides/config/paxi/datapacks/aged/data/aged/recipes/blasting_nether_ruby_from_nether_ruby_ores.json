@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:blasting",
+    "category": "misc",
+    "cookingtime": 20000,
+    "experience": 10,
+    "group": "nether_ruby",
+    "ingredient": {
+        "tag": "aged:blasting_nether_ruby"
+    },
+    "result": "betternether:nether_ruby"
+}

@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "skill": "archery",
+    "level": 7,
+    "item": [
+        "archers:ranger_armor_head",
+        "archers:ranger_armor_chest",
+        "archers:ranger_armor_legs",
+        "archers:ranger_armor_feet"
+    ]
+}

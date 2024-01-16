@@ -1,0 +1,29 @@
+{
+    "display": {
+        "announce_to_chat": false,
+        "background": "minecraft:textures/gui/advancements/backgrounds/nether.png",
+        "description": {
+            "translate": "advancements.betternether.root.description"
+        },
+        "frame": "task",
+        "hidden": false,
+        "icon": {
+            "item": "betternether:cincinnasite_lantern"
+        },
+        "show_toast": false,
+        "title": {
+            "translate": "advancements.betternether.root.title"
+        }
+    },
+    "criteria": {
+        "welcome": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {}
+        }
+    },
+    "requirements": [
+        [
+            "welcome"
+        ]
+    ]
+}

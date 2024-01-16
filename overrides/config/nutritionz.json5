@@ -1,0 +1,13 @@
+{
+	"maxNutrition": 120,
+	"negativeNutrition": 12,
+	"positiveNutrition": 108,
+	"posX": 146,
+	"posY": 7,
+	// Used for the nutrition gui
+	"carbohydrateItemId": "minecraft:sugar",
+	"proteinItemId": "minecraft:chicken",
+	"fatItemId": "minecraft:porkchop",
+	"vitaminItemId": "candlelight:lettuce",
+	"mineralItemId": "meadow:alpine_salt"
+}

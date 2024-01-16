@@ -1,0 +1,19 @@
+{
+    "name": "Environment Temp",
+    "icon": "minecraft:magma_block",
+    "category": "patchouli:3_temperature_category",
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:image",
+            "images": ["aged:textures/gui/entries/environmentz/environment/hot_environment.png", "aged:textures/gui/entries/environmentz/environment/normal_environment.png", "aged:textures/gui/entries/environmentz/environment/cold_environment.png"],
+            "title": "3 Environment Stages",
+            "text": "Hot | Normal | Cold"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Environment Temp",
+            "text": "$(br)The Environment Temperature consists of these factors:$(br)$(li)Season$(li)Biomes$(li)Time$(li)Height$(li)Dimension$(li)Nearby Blocks"
+        }
+    ]
+}

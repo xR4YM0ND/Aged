@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "luck",
+    "level": 3,
+    "item": "minecraft:custom_item",
+    "object": "minecraft:spyglass"
+}

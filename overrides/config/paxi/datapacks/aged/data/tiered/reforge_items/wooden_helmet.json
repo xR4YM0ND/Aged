@@ -10,8 +10,7 @@
         "minecraft:acacia_log",
         "minecraft:dark_oak_log",
         "minecraft:mangrove_log",
-        "ecologics:walnut_log",
-        "vinery:cherry_log",
-        "vinery:old_cherry_log"
+        "minecraft:cherry_log",
+        "vinery:cherry_log"
     ]
 }

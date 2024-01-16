@@ -1,0 +1,17 @@
+{
+    "type": "bclib:alloying",
+    "smelttime": 900,
+    "experience": 3,
+    "ingredients": [
+        {
+            "tag": "aged:blasting_copper"
+        },
+        {
+            "tag": "aged:blasting_copper"
+        }
+    ],
+    "result": {
+        "count": 3,
+        "item": "minecraft:copper_ingot"
+    }
+}

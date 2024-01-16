@@ -1,0 +1,35 @@
+{
+    "type": "geocluster:deposit_sparse",
+    "config": {
+        "yMin": 8,
+        "yMax": 100,
+        "size": 3,
+        "spread": 8,
+        "biomeTag": "#minecraft:is_nether",
+        "blockStateMatchers": [
+            "minecraft:netherrack",
+            "minecraft:basalt",
+            "minecraft:blackstone",
+            "minecraft:magma_block"
+        ],
+        "blocks": {
+            "default": [
+                {
+                    "block": "betternether:nether_ruby_ore",
+                    "chance": 0.6
+                },
+                {
+                    "block": null,
+                    "chance": 0.4
+                }
+            ]
+        },
+        "samples": [
+            {
+                "block": "geocluster:nether_ruby_ore_sample",
+                "chance": 1.0
+            }
+        ],
+        "generationWeight": 1
+    }
+}

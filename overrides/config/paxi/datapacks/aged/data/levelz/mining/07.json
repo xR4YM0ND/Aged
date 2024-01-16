@@ -2,6 +2,7 @@
     "replace": true,
     "level": 7,
     "block": [
+        "geocluster:tin_ore",
         "minecraft:andesite",
         "minecraft:andesite_stairs",
         "minecraft:andesite_slab",
@@ -106,10 +107,6 @@
         "stoneworks:tuff_plate_stairs",
         "stoneworks:tuff_plate_slab",
         "stoneworks:tuff_plate_wall",
-        "minerally:copper_rock",
-        "minerally:copper_pile_1",
-        "minerally:copper_pile_0",
-        "minerally:copper_pile",
         "minecraft:copper_ore",
         "universal_ores:andesite_coal_ore",
         "universal_ores:tuff_coal_ore",

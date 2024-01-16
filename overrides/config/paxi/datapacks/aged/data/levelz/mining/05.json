@@ -2,7 +2,6 @@
     "replace": true,
     "level": 5,
     "block": [
-        "minerally:geode",
         "minecraft:stone",
         "minecraft:stone_stairs",
         "minecraft:stone_slab",

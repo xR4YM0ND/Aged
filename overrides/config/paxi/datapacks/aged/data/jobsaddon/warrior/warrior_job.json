@@ -40,6 +40,11 @@
     "2": {
         "replace": true,
         "entities": [
+            "mobcatalog:capybara",
+            "mobcatalog:crab",
+            "mobcatalog:penguin",
+            "mobcatalog:sloth",
+            "mobcatalog:stonemaw",
             "minecraft:bat",
             "minecraft:ocelot",
             "minecraft:strider",
@@ -71,6 +76,7 @@
     "4": {
         "replace": true,
         "entities": [
+            "underground_jungle:jungle_zombie",
             "minecraft:parrot",
             "minecraft:rabbit",
             "minecraft:fox",
@@ -87,8 +93,6 @@
             "minecraft:drowned",
             "minecraft:zombie",
             "minecraft:creeper",
-            "creatures_from_the_snow:snikerbosh",
-            "creatures_from_the_snow:snow_trover",
             "creeperoverhaul:badlands_creeper",
             "creeperoverhaul:bamboo_creeper",
             "creeperoverhaul:beach_creeper",
@@ -115,6 +119,7 @@
     "5": {
         "replace": true,
         "entities": [
+            "underground_jungle:mossy_skeleton",
             "minecraft:cave_spider",
             "minecraft:phantom",
             "minecraft:spider",

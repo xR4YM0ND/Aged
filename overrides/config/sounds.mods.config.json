@@ -1,0 +1,10 @@
+{
+	"emi_click_item": {
+		"pitch": 1.4,
+		"volume": 0.2,
+		"enabledDynamic": true,
+		"id": "emi_click_item",
+		"soundEvent": "minecraft:block.note_block.hat",
+		"shouldPlay": true
+	}
+}

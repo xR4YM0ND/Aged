@@ -1,0 +1,69 @@
+{
+    "type": "geocluster:deposit_dike",
+    "config": {
+        "yMin": 0,
+        "yMax": 70,
+        "maxHeight": 3,
+        "baseRadius": 12,
+        "biomeTag": "#minecraft:is_nether",
+        "blockStateMatchers": [
+            "minecraft:netherrack",
+            "minecraft:basalt",
+            "minecraft:blackstone",
+            "minecraft:magma_block"
+        ],
+        "blocks": {
+            "default": [
+                {
+                    "block": "betternether:cincinnasite_ore",
+                    "chance": 0.2
+                },
+                {
+                    "block": null,
+                    "chance": 0.8
+                }
+            ],
+            "minecraft:netherrack": [
+                {
+                    "block": "betternether:cincinnasite_ore",
+                    "chance": 0.2
+                },
+                {
+                    "block": "minecraft:netherrack",
+                    "chance": 0.8
+                }
+            ],
+            "minecraft:basalt": [
+                {
+                    "block": "betternether:cincinnasite_ore",
+                    "chance": 0.2
+                },
+                {
+                    "block": "minecraft:basalt",
+                    "chance": 0.8
+                }
+            ],
+            "minecraft:blackstone": [
+                {
+                    "block": "betternether:cincinnasite_ore",
+                    "chance": 0.2
+                },
+                {
+                    "block": "minecraft:blackstone",
+                    "chance": 0.8
+                }
+            ]
+        },
+        "samples": [
+            {
+                "block": "geocluster:cincinnasite_ore_sample",
+                "chance": 0.8
+            },
+            {
+                "block": null,
+                "chance": 0.2
+            }
+        ],
+        "generationWeight": 4
+    }
+}

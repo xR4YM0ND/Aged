@@ -2,10 +2,6 @@
     "replace": true,
     "level": 6,
     "block": [
-        "minerally:coal_rock",
-        "minerally:coal_pile_0",
-        "minerally:coal_pile_1",
-        "minerally:coal_pile",
         "minecraft:coal_ore",
         "minecraft:netherrack",
         "betternether:netherrack_moss",

@@ -1,0 +1,13 @@
+{
+    "values": [
+        "minecraft:redstone_ore",
+        "minecraft:deepslate_redstone_ore",
+        "betternether:nether_redstone_ore",
+        "meadow:alpine_redstone_ore",
+        "universal_ores:granite_redstone_ore",
+        "universal_ores:diorite_redstone_ore",
+        "universal_ores:andesite_redstone_ore",
+        "universal_ores:tuff_redstone_ore",
+        "universal_ores:calcite_redstone_ore"
+    ]
+}

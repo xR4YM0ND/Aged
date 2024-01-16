@@ -1,0 +1,17 @@
+{
+    "type": "bclib:alloying",
+    "smelttime": 60000,
+    "experience": 30,
+    "ingredients": [
+        {
+            "tag": "aged:blasting_nether_ruby"
+        },
+        {
+            "tag": "aged:blasting_nether_ruby"
+        }
+    ],
+    "result": {
+        "count": 3,
+        "item": "betternether:nether_ruby"
+    }
+}

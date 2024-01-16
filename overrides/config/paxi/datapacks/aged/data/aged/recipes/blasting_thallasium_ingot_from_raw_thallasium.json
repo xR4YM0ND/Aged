@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:blasting",
+    "category": "misc",
+    "cookingtime": 700,
+    "experience": 2,
+    "group": "thallasium_ingot",
+    "ingredient": {
+        "item": "betterend:thallasium_raw"
+    },
+    "result": "betterend:thallasium_ingot"
+}

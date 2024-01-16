@@ -1,5 +1,5 @@
 {
-	// Drawer items affect all slots
+	// Drawer items affect all slots, used for hiding only
 	"affectAllSlots": true,
 	"showDrawerIcons": false,
 	"flatTextures": false,

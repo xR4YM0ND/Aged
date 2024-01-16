@@ -1,0 +1,41 @@
+{
+    "type": "geocluster:deposit_dike",
+    "config": {
+        "yMin": -64,
+        "yMax": 20,
+        "baseRadius": 7,
+        "maxHeight": 8,
+        "biomeTag": "#c:is_hot",
+        "blockStateMatchers": [
+            "minecraft:stone",
+            "minecraft:deepslate",
+            "minecraft:granite",
+            "minecraft:diorite",
+            "minecraft:andesite",
+            "minecraft:calcite",
+            "minecraft:tuff",
+            "meadow:limestone"
+        ],
+        "blocks": {
+            "default": [
+                {
+                    "block": "geocluster:quartz_ore",
+                    "chance": 1.0
+                }
+            ],
+            "minecraft:deepslate": [
+                {
+                    "block": "geocluster:deepslate_quartz_ore",
+                    "chance": 1.0
+                }
+            ]
+        },
+        "samples": [
+            {
+                "block": "geocluster:quartz_ore_sample",
+                "chance": 1.0
+            }
+        ],
+        "generationWeight": 5
+    }
+}

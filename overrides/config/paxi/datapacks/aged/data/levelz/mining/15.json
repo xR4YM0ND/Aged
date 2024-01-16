@@ -2,10 +2,6 @@
     "replace": true,
     "level": 15,
     "block": [
-        "minerally:emerald_rock",
-        "minerally:emerald_crystal_1",
-        "minerally:emerald_crystal_0",
-        "minerally:emerald_crystal",
         "geodes:small_emerald_bud",
         "geodes:medium_emerald_bud",
         "geodes:large_emerald_bud",

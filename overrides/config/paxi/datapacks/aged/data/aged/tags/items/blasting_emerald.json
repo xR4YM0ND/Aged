@@ -1,0 +1,12 @@
+{
+    "values": [
+        "minecraft:emerald_ore",
+        "minecraft:deepslate_emerald_ore",
+        "meadow:alpine_emerald_ore",
+        "universal_ores:granite_emerald_ore",
+        "universal_ores:diorite_emerald_ore",
+        "universal_ores:andesite_emerald_ore",
+        "universal_ores:tuff_emerald_ore",
+        "universal_ores:calcite_emerald_ore"
+    ]
+}
