@@ -8,7 +8,7 @@
       "ELYTRA": {
         "transparency": 100
       },
-      "HEAD": {
+      "CHEST": {
         "transparency": 100
       },
       "LEGS": {
@@ -17,10 +17,10 @@
       "SHIELD": {
         "transparency": 100
       },
-      "CHEST": {
+      "FEET": {
         "transparency": 100
       },
-      "FEET": {
+      "HEAD": {
         "transparency": 100
       }
     },
@@ -48,7 +48,7 @@
       "ELYTRA": {
         "transparency": 100
       },
-      "HEAD": {
+      "CHEST": {
         "transparency": 100
       },
       "LEGS": {
@@ -57,10 +57,10 @@
       "SHIELD": {
         "transparency": 100
       },
-      "CHEST": {
+      "FEET": {
         "transparency": 100
       },
-      "FEET": {
+      "HEAD": {
         "transparency": 100
       }
     },
