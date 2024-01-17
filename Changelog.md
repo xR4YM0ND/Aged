@@ -1,3 +1,9 @@
+# Aged 2.2.2
+
+## Fixed:
+- Wrong server side / client side information in instance.json
+- hopefully fixed all major bugs for now ^^
+
 # Aged 2.2.1
 
 ## Fixed:
