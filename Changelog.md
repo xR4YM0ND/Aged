@@ -1,3 +1,15 @@
+# Aged 2.2.1
+
+## Fixed:
+- Singleplayer button crash
+
+## Updated:
+- **Fabric Loader 0.15.5**
+- [EMF] Entity Model Features
+- [ETF] Entity Texture Features
+- Fancy Menu (downgrade)
+- Supplementaries
+
 # Aged 2.2.0
 
 ## Important
