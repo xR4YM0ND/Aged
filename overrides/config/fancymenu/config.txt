@@ -9,7 +9,7 @@ B:playbackgroundsounds = 'true';
 B:enablehotkeys = 'true';
 B:playmenumusic = 'true';
 S:variables_to_reset_on_launch = '';
-B:showdebugwarnings = 'true';
+B:showdebugwarnings = 'false';
 [Sets the default GUI scale on first launch. Useful for modpacks. Cache data is saved in '/mods/fancymenu/'.]
 I:defaultguiscale = '3';
 
@@ -32,7 +32,7 @@ S:customgameintroskiptext = '';
 ##[minecraftwindow]
 
 [A minecraft restart is required after changing this value.]
-S:customwindowtitle = 'Aged 2.2.0';
+S:customwindowtitle = 'Aged 2.2.1';
 [A minecraft restart is required after changing this value.]
 B:customwindowicon = 'true';
 

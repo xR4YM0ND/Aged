@@ -1,0 +1,8 @@
+["Common Configs for Mob Catalog"]
+	crab_claw_works_in_offhand = true
+	spawn_capybaras = true
+	spawn_crabs = true
+	spawn_stonemaws = true
+	spawn_penguins = true
+	crab_claw_reach_multiplier = 2.0
+	spawn_sloths = true

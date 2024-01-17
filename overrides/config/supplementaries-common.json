@@ -390,6 +390,9 @@
     },
     "bad_luck_tweaks": {
       "lightning_unluck": true
+    },
+    "item_lore": {
+      "enabled": true
     }
   }
 }

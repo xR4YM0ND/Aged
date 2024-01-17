@@ -14,6 +14,7 @@
   "enableEmissiveBlockEntities": true,
   "emissiveRenderMode": "DULL",
   "alwaysCheckVanillaEmissiveSuffix": true,
+  "enableArmorAndTrims": true,
   "skinFeaturesEnabled": true,
   "skinFeaturesEnableTransparency": true,
   "skinFeaturesEnableFullTransparency": false,
