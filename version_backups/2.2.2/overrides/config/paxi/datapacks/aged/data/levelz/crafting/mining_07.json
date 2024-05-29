@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "skill": "mining",
+    "level": 7,
+    "item": [
+        "candlelight:typewriter_copper"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "replace": true,
+    "level": 1,
+    "block": [
+        "minecraft:sandstone",
+        "minecraft:sandstone_stairs",
+        "minecraft:sandstone_slab",
+        "minecraft:smooth_sandstone",
+        "minecraft:smooth_sandstone_stairs",
+        "minecraft:smooth_sandstone_slab",
+        "minecraft:cut_sandstone",
+        "minecraft:cut_sandstone_slab",
+        "minecraft:chiseled_sandstone",
+        "minecraft:sandstone_wall",
+        "minecraft:red_sandstone",
+        "minecraft:red_sandstone_stairs",
+        "minecraft:red_sandstone_slab",
+        "minecraft:smooth_red_sandstone",
+        "minecraft:smooth_red_sandstone_stairs",
+        "minecraft:smooth_red_sandstone_slab",
+        "minecraft:cut_red_sandstone",
+        "minecraft:cut_red_sandstone_slab",
+        "minecraft:chiseled_red_sandstone",
+        "minecraft:red_sandstone_wall",
+        "geodes:budding_gypsum",
+        "geodes:gypsum_crystal_block",
+        "geodes:gypsum_rose",
+        "geodes:large_gypsum_bud",
+        "geodes:medium_gypsum_bud",
+        "geodes:small_gypsum_bud"
+    ]
+}

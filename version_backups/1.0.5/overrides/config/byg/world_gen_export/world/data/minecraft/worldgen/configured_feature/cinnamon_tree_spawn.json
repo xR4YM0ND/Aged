@@ -1,0 +1,12 @@
+{
+	"config": {
+		"default": "minecraft:cinnamon_tree_checked",
+		"features": [
+			{
+				"chance": 0.25,
+				"feature": "minecraft:cinnamon_tree_checked"
+			}
+		]
+	},
+	"type": "minecraft:random_selector"
+}

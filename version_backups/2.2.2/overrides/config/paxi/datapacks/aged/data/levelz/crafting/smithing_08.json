@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "skill": "smithing",
+    "level": 8,
+    "item": [
+        "betterend:thallasium_helmet",
+        "betterend:thallasium_chestplate",
+        "betterend:thallasium_leggings",
+        "betterend:thallasium_boots"
+    ]
+}

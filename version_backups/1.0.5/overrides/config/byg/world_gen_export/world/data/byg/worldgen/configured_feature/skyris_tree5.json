@@ -1,0 +1,61 @@
+{
+	"config": {
+		"disk_provider": {
+			"state": {
+				"Name": "minecraft:podzol",
+				"Properties": {
+					"snowy": "false"
+				}
+			},
+			"type": "minecraft:simple_state_provider"
+		},
+		"disk_radius": 0,
+		"leaves_provider": {
+			"entries": [
+				{
+					"data": {
+						"Name": "byg:green_apple_skyris_leaves",
+						"Properties": {
+							"distance": "7",
+							"persistent": "false",
+							"waterlogged": "false"
+						}
+					},
+					"weight": 1
+				},
+				{
+					"data": {
+						"Name": "byg:skyris_leaves",
+						"Properties": {
+							"distance": "7",
+							"persistent": "false",
+							"waterlogged": "false"
+						}
+					},
+					"weight": 8
+				}
+			],
+			"type": "minecraft:weighted_state_provider"
+		},
+		"max_height": 9,
+		"min_height": 6,
+		"trunk_provider": {
+			"state": {
+				"Name": "byg:skyris_log",
+				"Properties": {
+					"axis": "y"
+				}
+			},
+			"type": "minecraft:simple_state_provider"
+		},
+		"whitelist": [
+			{
+				"Name": "minecraft:grass_block",
+				"Properties": {
+					"snowy": "false"
+				}
+			}
+		]
+	},
+	"type": "byg:skyris_tree5"
+}

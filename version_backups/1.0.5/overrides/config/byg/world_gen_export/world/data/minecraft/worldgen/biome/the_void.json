@@ -1,0 +1,43 @@
+{
+	"carvers": { },
+	"downfall": 0.5,
+	"effects": {
+		"fog_color": 12638463,
+		"mood_sound": {
+			"block_search_extent": 8,
+			"offset": 2.0,
+			"sound": "minecraft:ambient.cave",
+			"tick_delay": 6000
+		},
+		"sky_color": 8103167,
+		"water_color": 4159204,
+		"water_fog_color": 329011
+	},
+	"features": [
+		[ "byg:global/raw_generation" ],
+		[ "byg:global/lakes" ],
+		[ "byg:global/local_modifications" ],
+		[ "byg:global/underground_structures" ],
+		[ "byg:global/surface_structures" ],
+		[ "byg:global/strongholds" ],
+		[ "byg:global/underground_ores" ],
+		[ "byg:global/underground_decoration" ],
+		[ "byg:global/fluid_springs" ],
+		[ "byg:global/vegetal_decoration", "farmersdelight:carrots", "farmersdelight:onions" ],
+		[ "minecraft:void_start_platform", "byg:global/top_layer_modification", "rocks:andesite_rock", "rocks:diorite_rock", "rocks:granite_rock", "rocks:gravel_rock", "rocks:rock" ]
+	],
+	"precipitation": "none",
+	"spawn_costs": { },
+	"spawners": {
+		"ambient": [],
+		"axolotls": [],
+		"creature": [],
+		"fireflies": [],
+		"misc": [],
+		"monster": [],
+		"underground_water_creature": [],
+		"water_ambient": [],
+		"water_creature": []
+	},
+	"temperature": 0.5
+}

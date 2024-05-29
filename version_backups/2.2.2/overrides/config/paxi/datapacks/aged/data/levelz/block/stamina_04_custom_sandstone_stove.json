@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "stamina",
+    "level": 4,
+    "block": "minecraft:custom_block",
+    "object": "bakery:sandstone_stove"
+}

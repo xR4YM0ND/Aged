@@ -1,0 +1,56 @@
+# The configuration file for Log Begone
+
+[logbegone]
+phrases = [
+    "recommends any version of modmenu, which is missing!",
+    "modmenu for the optimal experience.",
+    "Registering MenuHandler for screen:",
+    "' (Code:34) at [1]",
+    "at de.keksuccino.konkrete.objecthunter.exp4j.",
+    "at de.keksuccino.fancymenu.menu.placeholder.v2.",
+    "at jdk.internal.reflect.GeneratedMethodAccessor45.invoke(Unknown Source)",
+    "at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)",
+    "at java.base/java.lang.reflect.Method.invoke(Method.java:568)",
+    "at de.keksuccino.konkrete.events.EventHandler.invokeEvent(EventHandler.java:115)",
+    "at de.keksuccino.konkrete.events.EventHandler.callEventsFor(EventHandler.java:102)",
+    "fancymenu$afterRenderScreenFancyMenu(class_757.",
+    "at net.minecraft.class_757.method",
+    "at net.minecraft.class_310.method",
+    "at net.minecraft.client.main.Main.main(Main.java:250)",
+    "at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470)",
+    "at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74)",
+    "at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23)",
+    "at de.keksuccino.fancymenu.menu.fancy.",
+    "at net.minecraft.class_757.wrapOperation",
+    "at net.minecraft.class_757.mixinextras",
+    "Sound event ",
+    "Loaded texture ",
+    "Loaded water texture ",
+    "Loaded tile ",
+    "Found structure piece ",
+    "Apply structure piece ",
+    "Auto-registered standard texture set for biome ",
+    "SemVer is recommended for reliably evaluating dependencies and prioritizing newer version",
+    "Failed to auto-register a standard texture set for the biome ",
+    "Underground biomes aren't supported yet.",
+    " has no declared ScreenHandlerType - ignoring.",
+    "Initializing bushierflowers Mixins",
+    "Unknown block 'byg:",
+    "Warning: enchancement:",
+    "Unable to play empty soundEvent:",
+    "Unable to find volume for sound ",
+    "Empty height range:",
+    "Incorrect key playerConfig.",
+    "Hanging entity at invalid position",
+    "Deleting stream buffers: Invalid operation.",
+    "Preparing to load deposit datafile",
+    "deposit with Blocks=",
+    "Skipping registration of ore",
+    "Failed to remove item with identifier ",
+    "BetterArcheology Mixin initialized, prepare for impact",
+    "BetterArcheology Artifact Enchantments are enabled"
+]
+# If a log message has one of these phrases, it will be filtered out from logging
+
+# If a log message matches one of these regex patterns, it will be filtered out from logging. EX: 
+regex = []

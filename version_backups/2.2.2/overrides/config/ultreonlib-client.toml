@@ -1,0 +1,11 @@
+[gui]
+	#The style of the title
+	#Allowed Values: HIDDEN, NORMAL, DETACHED
+	title_style = "DETACHED"
+	#The theme to use for the GUI
+	#Allowed Values: NORMAL, LIGHT, MIX, DARK
+	theme = "DARK"
+[tests]
+	#Test for Window Manager.
+	#This makes it possible to spawn movable windows on your screen (inside Minecraft ofc)
+	window_manager = false

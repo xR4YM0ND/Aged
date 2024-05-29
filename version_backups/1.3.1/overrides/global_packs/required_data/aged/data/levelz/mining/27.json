@@ -1,0 +1,22 @@
+{
+    "replace": true,
+    "level": 27,
+    "block": [
+        "byg:cryptic_redstone_ore",
+        "byg:cryptic_magma_block",
+        "byg:cryptic_stone",
+        "byg:cryptic_stone_stairs",
+        "byg:cryptic_stone_slab",
+        "byg:cryptic_stone_wall",
+        "byg:tall_cryptic_vent",
+        "byg:cryptic_vent",
+        "minecraft:purpur_pillar",
+        "minecraft:purpur_block",
+        "minecraft:purpur_stairs",
+        "minecraft:purpur_slab",
+        "byg:purpur_stone",
+        "byg:purpur_stone_stairs",
+        "byg:purpur_stone_slab",
+        "byg:purpur_stone_wall"
+    ]
+}

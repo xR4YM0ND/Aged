@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:echo_shard",
+        "minecraft:amethyst_shard",
+        "geodes:gypsum_shard",
+        "skeletalremains:enchanted_sand_shard",
+        "betterend:crystal_shards",
+        "adventurez:gilded_stone"
+    ]
+}

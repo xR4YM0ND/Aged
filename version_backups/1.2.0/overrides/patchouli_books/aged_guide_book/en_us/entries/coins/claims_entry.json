@@ -1,0 +1,19 @@
+{
+    "name": "Claims",
+    "icon": "numismatic-overhaul:gold_coin",
+    "category": "patchouli:coins_category",
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:image",
+            "images": ["aged:textures/gui/entries/open_claim_trader_screen.png", "aged:textures/gui/entries/claim_trader_screen.png"],
+            "title": "The Claim Trader",
+            "text": "There is one Claim Trader at the spawn location."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Infos",
+            "text": "$(o)You can buy extra claims.$()$(br2)Starting at $(l)20 Silver$() per Claim.$(br2)The price increases with every purchased claim."
+        }
+    ]
+}

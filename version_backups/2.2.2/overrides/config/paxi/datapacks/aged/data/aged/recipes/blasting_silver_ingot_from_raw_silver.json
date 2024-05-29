@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:blasting",
+    "category": "misc",
+    "cookingtime": 400,
+    "experience": 2.5,
+    "group": "silver_ingot",
+    "ingredient": {
+        "item": "geocluster:raw_silver"
+    },
+    "result": "geocluster:silver_ingot"
+}

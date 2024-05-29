@@ -1,0 +1,11 @@
+{
+    "product": {
+        "id": "gofish:blaze_rod"
+    },
+    "cover": true,
+    "base": [
+        {
+            "id": "minecraft:blaze_rod"
+        }
+    ]
+}

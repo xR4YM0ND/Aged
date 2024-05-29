@@ -1,0 +1,18 @@
+{
+	"config": {
+		"default": {
+			"feature": "byg:firecracker_shrub2",
+			"placement": []
+		},
+		"features": [
+			{
+				"chance": 0.2,
+				"feature": {
+					"feature": "byg:firecracker_shrub",
+					"placement": []
+				}
+			}
+		]
+	},
+	"type": "minecraft:random_selector"
+}

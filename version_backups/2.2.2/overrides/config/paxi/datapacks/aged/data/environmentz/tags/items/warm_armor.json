@@ -1,0 +1,32 @@
+{
+    "replace": true,
+    "values": [
+        "minecraft:leather_helmet",
+        "minecraft:leather_chestplate",
+        "minecraft:leather_leggings",
+        "minecraft:leather_boots",
+        "environmentz:wolf_helmet",
+        "environmentz:wolf_chestplate",
+        "environmentz:wolf_leggings",
+        "environmentz:wolf_boots",
+        "archers:archer_armor_head",
+        "archers:archer_armor_chest",
+        "archers:archer_armor_legs",
+        "archers:archer_armor_feet",
+        "archers:ranger_armor_head",
+        "archers:ranger_armor_chest",
+        "archers:ranger_armor_legs",
+        "archers:ranger_armor_feet",
+        "endermanoverhaul:badlands_hood",
+        "endermanoverhaul:savanna_hood",
+        "endermanoverhaul:snowy_hood",
+        "immersive_armors:steampunk_helmet",
+        "immersive_armors:steampunk_chestplate",
+        "immersive_armors:steampunk_leggings",
+        "immersive_armors:steampunk_boots",
+        "meadow:fur_helmet",
+        "meadow:fur_chestplate",
+        "meadow:fur_leggings",
+        "meadow:fur_boots"
+    ]
+}

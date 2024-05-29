@@ -1,0 +1,458 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = top-left
+  x = 0
+  action = movebutton
+  y = 0
+  advanced_posx = {"placeholder":"calc","values":{"expression":"({"placeholder":"guiwidth"}/4)/2-{"placeholder":"elementwidth","values":{"id":"vanillabtn:button_compatibility_id:mc_titlescreen_multiplayer_button"}}/2","decimal":"true"}}
+  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"}/2-23","decimal":"true"}}
+}
+
+customization {
+  advanced_height = 20
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  width = 50
+  action = resizebutton
+  advanced_width = {"placeholder":"calc","values":{"expression":"( {"placeholder":"guiwidth"} / 4 ) / 1.5","decimal":"true"}}
+  height = 50
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  orientation = top-left
+  x = 0
+  action = movebutton
+  y = 0
+  advanced_posx = {"placeholder":"calc","values":{"expression":"({"placeholder":"guiwidth"}/4)/2-{"placeholder":"elementwidth","values":{"id":"vanillabtn:button_compatibility_id:modmenu_titlescreen_mods_button"}}/2","decimal":"true"}}
+  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"}/2+27","decimal":"true"}}
+}
+
+customization {
+  advanced_height = 20
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  width = 50
+  action = resizebutton
+  advanced_width = {"placeholder":"calc","values":{"expression":"({"placeholder":"guiwidth"}/4)/1.5","decimal":"true"}}
+  height = 50
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  orientation = top-left
+  x = 0
+  action = movebutton
+  y = 0
+  advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}-({"placeholder":"guiwidth"}/4)/2-{"placeholder":"elementwidth","values":{"id":"vanillabtn:button_compatibility_id:modmenu_titlescreen_mods_button"}}/2+25","decimal":"true"}}
+  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"}-30","decimal":"true"}}
+}
+
+customization {
+  advanced_height = 20
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  width = 50
+  action = resizebutton
+  advanced_width = 20
+  height = 50
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = top-left
+  x = 0
+  action = movebutton
+  y = 0
+  advanced_posx = {"placeholder":"calc","values":{"expression":"({"placeholder":"guiwidth"}/4)/2-{"placeholder":"elementwidth","values":{"id":"vanillabtn:button_compatibility_id:mc_titlescreen_singleplayer_button"}}/2","decimal":"true"}}
+  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"}/2-48","decimal":"true"}}
+}
+
+customization {
+  advanced_height = 20
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  width = 50
+  action = resizebutton
+  advanced_width = {"placeholder":"calc","values":{"expression":"( {"placeholder":"guiwidth"} / 4 ) / 1.5","decimal":"true"}}
+  height = 50
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = top-left
+  x = 0
+  action = movebutton
+  y = 0
+  advanced_posx = {"placeholder":"calc","values":{"expression":"({"placeholder":"guiwidth"}/4)/2-{"placeholder":"elementwidth","values":{"id":"vanillabtn:button_compatibility_id:mc_titlescreen_options_button"}}/2","decimal":"true"}}
+  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"}/2+2","decimal":"true"}}
+}
+
+customization {
+  advanced_height = 20
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  width = 50
+  action = resizebutton
+  advanced_width = {"placeholder":"calc","values":{"expression":"({"placeholder":"guiwidth"}/4)/1.5","decimal":"true"}}
+  height = 50
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = top-left
+  x = 0
+  action = movebutton
+  y = 0
+  advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}-({"placeholder":"guiwidth"}/4)/2-{"placeholder":"elementwidth","values":{"id":"vanillabtn:button_compatibility_id:modmenu_titlescreen_mods_button"}}/2+50","decimal":"true"}}
+  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"}-30","decimal":"true"}}
+}
+
+customization {
+  advanced_height = 20
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  width = 50
+  action = resizebutton
+  advanced_width = {"placeholder":"calc","values":{"expression":"{"placeholder":"elementwidth","values":{"id":"vanillabtn:button_compatibility_id:modmenu_titlescreen_mods_button"}}-50","decimal":"true"}}
+  height = 50
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  action = setbuttonlabel
+  value = Quit
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  orientation = top-left
+  x = 0
+  action = movebutton
+  y = 0
+  advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}-({"placeholder":"guiwidth"}/4)/2-{"placeholder":"elementwidth","values":{"id":"vanillabtn:button_compatibility_id:modmenu_titlescreen_mods_button"}}/2","decimal":"true"}}
+  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"}-30","decimal":"true"}}
+}
+
+customization {
+  advanced_height = 20
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  width = 50
+  action = resizebutton
+  advanced_width = 20
+  height = 50
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 2
+  width = 165
+  action = deep_customization_element:title_screen_branding
+  actionid = 0f0917c5-70e8-4445-87d6-5a630ff9e9fc1678903290068
+  y = 445
+  height = 10
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 530
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = a27338fc-2820-4fc8-8d10-e31d83937e561678903290068
+  y = 214
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 290
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 2f974bd9-9b45-4d29-8fd0-da44030fe5071678903290068
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = true
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 55d43da1-3b88-49dd-b8b8-d1625020ff5e1678903290068
+  y = 0
+  height = 30
+}
+
+customization {
+  slim = false
+  auto_skin = false
+  scale = 35
+  advanced_posx = {"placeholder":"calc","values":{"expression":"( {"placeholder":"guiwidth"} / 4 ) / 2 - {"placeholder":"elementwidth","values":{"id":"1bcefd84-47a7-4f1a-b0ac-dce6e3331ddb1678907931976"}} / 2","decimal":"true"}}
+  advanced_posy = {"placeholder":"calc","values":{"expression":"35+(({"placeholder":"elementposy","values":{"id":"vanillabtn:button_compatibility_id:mc_titlescreen_singleplayer_button"}}-35-{"placeholder":"elementheight","values":{"id":"1bcefd84-47a7-4f1a-b0ac-dce6e3331ddb1678907931976"}})/2)","decimal":"true"}}
+  showname = false
+  follow_mouse = true
+  action = custom_layout_element:fancymenu_customization_player_entity
+  actionid = 1bcefd84-47a7-4f1a-b0ac-dce6e3331ddb1678907931976
+  playername = SpigotDE
+  bodyrotationx = 0.0
+  bodyrotationy = 0.0
+  auto_cape = false
+  is_baby = false
+  height = 63
+  orientation = top-left
+  copy_client_player = true
+  headrotationy = 0.0
+  headrotationx = 0.0
+  skinurl = http://textures.minecraft.net/texture/576df09967195ec32f5a7b8cf1b52b4830a34c8ccd3e99e0add2e42d8534e41b
+  crouching = false
+  x = 0
+  width = 21
+  parrot_left_shoulder = false
+  y = 0
+  [loading_requirement:fancymenu_loading_requirement_is_window_height_bigger_than][requirement_mode:if][req_id:9e59b8b8-c994-45dd-94ea-4269536b99cb1681826542558] = 680
+  parrot = false
+}
+
+customization {
+  advanced_height = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"}/5.7","decimal":"true"}}
+  path = resources/aged/textures/others/aged_combined.png
+  orientation = top-left
+  x = 0
+  width = 316
+  action = addtexture
+  actionid = ed0769e8-6e39-4705-a276-0638eea0db661678914834362
+  y = 0
+  advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}/2-{"placeholder":"elementwidth","values":{"id":"ed0769e8-6e39-4705-a276-0638eea0db661678914834362"}}/2","decimal":"true"}}
+  advanced_width = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}/2.7","decimal":"true"}}
+  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"}/2-{"placeholder":"elementheight","values":{"id":"ed0769e8-6e39-4705-a276-0638eea0db661678914834362"}}/2","decimal":"true"}}
+  height = 80
+}
+
+customization {
+  advanced_height = 20
+  orientation = top-left
+  enable_scrolling = false
+  shadow = true
+  scale = 0.8
+  source = {"placeholder":"drippy_java_vm"}%n%Version {"placeholder":"drippy_java_version"}
+  advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}-{"placeholder":"elementwidth","values":{"id":"027188bc-2a5d-478b-a72f-f2f60bd699471678992472169"}}","decimal":"true"}}
+  text_border = 0
+  case_mode = normal
+  advanced_width = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}/4","decimal":"true"}}
+  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"}-55","decimal":"true"}}
+  source_mode = direct
+  line_spacing = 2
+  x = 0
+  width = 213
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 027188bc-2a5d-478b-a72f-f2f60bd699471678992472169
+  y = 0
+  alignment = centered
+  height = 20
+}
+
+customization {
+  advanced_height = {"placeholder":"calc","values":{"expression":"{"placeholder":"elementposy","values":{"id":"027188bc-2a5d-478b-a72f-f2f60bd699471678992472169"}}-40","decimal":"true"}}
+  orientation = top-left
+  enable_scrolling = true
+  shadow = false
+  scale = 0.7
+  source = ## &nFixed:%n%&7- No sound on default settings%n%&7- Enabled view-bobbing%n%&7- Baby Zombies are now not affected from speed boost%n%%n%## &nChanged:%n%&7- A day takes now 20 min (24000 t) & a night takes now 10 min (12000 t)%n%&7- Added way more biomes for rocks / flints to generate on (&othx to TheMoonlightSystem&r)%n%&7- Added more block types rocks / flint can spawn on%n%&7- Increased season length to 18 hours instead of 12 hours%n%%n%## &nRemoved:%n%&7- BlockStates+ (&oResourcepack&r)%n%&7- Reroll%n%%n%## &nAdded:%n%&7- Auto Third Person%n%&7- Cave Dust%n%&7- Easy Magic%n%&7- Entity Model Features%n%&7- Entity Texture Features%n%&7- Fresh Animations (&oResourcepack&r)%n%&7- Not Enough Animations%n%&7- Time and Wind%n%&7- Xali's Bushy Leaves (&oResourcepack&r)%n%&7- Xali's Enhanced Vanilla (&oResourcepack&r)%n%%n%## &nUpdated:%n%&7- Better Combat%n%&7- Charm of Undying%n%&7- Dyed%n%&7- Elytra Slot%n%&7- Fabric Seasons%n%&7- Fabric Seasons Extras%n%&7- HT's Tree Chop%n%&7- Log Begone%n%&7- RPG Difficulty%n%&7- Simple Voice Chat%n%&7- Tom's Simple Storage%n%&7- Vinery%n%&7- William Wythers Overhauled Overworld%n%&7- Xaero's World Map
+  advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}-(({"placeholder":"guiwidth"}/4)-{"placeholder":"elementwidth","values":{"id":"a9d38ae6-3424-42f9-9a49-3fb4ee58fd451678993263023"}})/2-{"placeholder":"elementwidth","values":{"id":"a9d38ae6-3424-42f9-9a49-3fb4ee58fd451678993263023"}}","decimal":"true"}}
+  text_border = 0
+  case_mode = normal
+  advanced_width = {"placeholder":"calc","values":{"expression":"({"placeholder":"guiwidth"}/4)/1.1","decimal":"true"}}
+  advanced_posy = 30
+  source_mode = direct
+  line_spacing = 5
+  x = 0
+  width = 194
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = a9d38ae6-3424-42f9-9a49-3fb4ee58fd451678993263023
+  y = 0
+  alignment = left
+  height = 362
+}
+
+customization {
+  advanced_height = 10
+  orientation = top-left
+  enable_scrolling = false
+  shadow = true
+  scale = 1.0
+  source = {"placeholder":"realtimehour"}:{"placeholder":"realtimeminute"} {"placeholder":"realtimeday"}/{"placeholder":"realtimemonth"}/{"placeholder":"realtimeyear"}
+  advanced_posx = 0
+  text_border = 0
+  case_mode = normal
+  advanced_width = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}/4","decimal":"true"}}
+  advanced_posy = 10
+  source_mode = direct
+  line_spacing = 1
+  x = 0
+  width = 213
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = e0a6d0d1-ef7a-4645-a045-92afb296c8de1678994783538
+  y = 0
+  alignment = centered
+  height = 10
+}
+
+customization {
+  advanced_height = 15
+  orientation = top-left
+  enable_scrolling = false
+  shadow = true
+  scale = 1.0
+  source = {"placeholder":"playername"}
+  advanced_posx = 0
+  text_border = 0
+  case_mode = normal
+  advanced_width = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}/4","decimal":"true"}}
+  advanced_posy = 25
+  source_mode = direct
+  line_spacing = 1
+  x = 0
+  width = 213
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 2069573d-8d64-40b5-b531-7800e1d5720b1678995065281
+  y = 0
+  alignment = centered
+  height = 15
+}
+
+customization {
+  advanced_height = 25
+  orientation = top-left
+  enable_scrolling = false
+  shadow = true
+  scale = 1.0
+  source = Server {"placeholder":"serverstatus","values":{"ip":"176.9.37.250:25565"}}%n%{"placeholder":"serverplayercount","values":{"ip":"176.9.37.250:25565"}} - {"placeholder":"serverping","values":{"ip":"176.9.37.250:25565"}} ms
+  text_border = 0
+  case_mode = normal
+  advanced_width = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}/4","decimal":"true"}}
+  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"}/1.4","decimal":"true"}}
+  source_mode = direct
+  line_spacing = 2
+  x = 0
+  width = 213
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 542a4d82-8192-46ab-a907-7005232f9a3a1679048391726
+  y = 0
+  alignment = centered
+  height = 25
+}
+
+customization {
+  advanced_height = 10
+  orientation = top-left
+  enable_scrolling = false
+  shadow = true
+  scale = 1.0
+  source = Fabric {"placeholder":"mcversion"}
+  advanced_posx = 0
+  text_border = 0
+  case_mode = normal
+  advanced_width = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}/4","decimal":"true"}}
+  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"}-44","decimal":"true"}}
+  source_mode = direct
+  line_spacing = 1
+  x = 0
+  width = 213
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = d0b52617-87d9-490b-a31f-e857871dd72a1679049063757
+  y = 0
+  alignment = centered
+  height = 10
+}
+
+customization {
+  advanced_height = 20
+  orientation = top-left
+  enable_scrolling = false
+  shadow = true
+  scale = 2.0
+  source = 2.0.1
+  advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}/2+{"placeholder":"elementwidth","values":{"id":"ed0769e8-6e39-4705-a276-0638eea0db661678914834362"}}/2-{"placeholder":"elementwidth","values":{"id":"b60b1e33-bd64-4c14-9981-131124ed0f6c1679049566804"}}","decimal":"true"}}
+  text_border = 0
+  case_mode = normal
+  advanced_width = 50
+  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"}/2+{"placeholder":"elementheight","values":{"id":"ed0769e8-6e39-4705-a276-0638eea0db661678914834362"}}/2","decimal":"true"}}
+  source_mode = direct
+  line_spacing = 1
+  x = 0
+  width = 50
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = b60b1e33-bd64-4c14-9981-131124ed0f6c1679049566804
+  y = 0
+  alignment = centered
+  base_color = a8d58f
+  height = 20
+}
+
+customization {
+  advanced_height = 15
+  orientation = top-left
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = Aged 2.0.1
+  advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}-{"placeholder":"elementwidth","values":{"id":"512db118-db52-4220-9330-a4e479fa657b1679056539624"}}","decimal":"true"}}
+  text_border = 0
+  case_mode = normal
+  advanced_width = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}/4","decimal":"true"}}
+  advanced_posy = 10
+  source_mode = direct
+  line_spacing = 1
+  x = 0
+  width = 213
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 512db118-db52-4220-9330-a4e479fa657b1679056539624
+  y = 0
+  alignment = centered
+  base_color = a8d58f
+  height = 15
+}
+
+customization {
+  advanced_height = 20
+  orientation = top-left
+  restartbackgroundanimations = true
+  buttonaction = openlink;https://discord.gg/WXdSYn4yHB%btnaction_splitter_fm%
+  label = Discord
+  advanced_posx = {"placeholder":"calc","values":{"expression":"({"placeholder":"guiwidth"}/4)/2-{"placeholder":"elementwidth","values":{"id":"eb0f813a-3d98-438f-aac7-04abfc79868c1681828586311"}}/2","decimal":"true"}}
+  advanced_width = {"placeholder":"calc","values":{"expression":"({"placeholder":"guiwidth"}/4)/1.5","decimal":"true"}}
+  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"}-30","decimal":"true"}}
+  loopbackgroundanimations = true
+  x = 0
+  width = 142
+  action = addbutton
+  actionid = eb0f813a-3d98-438f-aac7-04abfc79868c1681828586311
+  y = 0
+  height = 20
+}
+

@@ -1,0 +1,37 @@
+{
+    "name": "Skills",
+    "icon": "minecraft:experience_bottle",
+    "category": "patchouli:get_started_category",
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "patchouli:image",
+            "images": ["aged:textures/gui/entries/open_skill_screen.png", "aged:textures/gui/entries/skill_screen.png"],
+            "title": "",
+            "text": "press k to open the skill screen. Hover over ? to get more infos."
+        },
+        {
+            "type": "patchouli:image",
+            "images": ["aged:textures/gui/entries/open_sub_skill_screen.png", "aged:textures/gui/entries/sub_skill_screen.png"],
+            "title": "Sub Skill Screen's",
+            "text": "Check the things you can do in the respective sub skill screen's."
+        },
+        {
+            "type": "patchouli:image",
+            "images": ["aged:textures/gui/entries/open_mining_skill_screen.png", "aged:textures/gui/entries/button_mining_skill_screen.png", "aged:textures/gui/entries/mining_skill_screen.png"],
+            "title": "Block Resrtictions",
+            "text": "Here you see a list of all Blocks that are locked to Mining Levels."
+        },
+        {
+            "type": "patchouli:image",
+            "images": ["aged:textures/gui/entries/open_brewing_skill_screen.png", "aged:textures/gui/entries/button_brewing_skill_screen.png", "aged:textures/gui/entries/brewing_skill_screen.png"],
+            "title": "Brewing Restrictions",
+            "text": "All Items, sorted by Levels, are listed in this category."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "How to gain XP ?",
+            "text": "Level XP Orb's are blue, while Vanilla XP Orb's are green.$(br2)The way to gain these xp is similar to vanilla.$(li)Fight Mobs$(li)Smelt Ores$(li)Trade$(li)...$(br2)In Addition to that, you can join Jobs to get even more Levelz XP."
+        }
+    ]
+}

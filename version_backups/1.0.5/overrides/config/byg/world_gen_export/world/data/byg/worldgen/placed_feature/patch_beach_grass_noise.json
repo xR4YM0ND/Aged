@@ -1,0 +1,21 @@
+{
+	"feature": "byg:beach_grasses",
+	"placement": [
+		{
+			"above_noise": 0,
+			"below_noise": 7,
+			"noise_level": -0.45,
+			"type": "minecraft:noise_threshold_count"
+		},
+		{
+			"type": "minecraft:in_square"
+		},
+		{
+			"heightmap": "WORLD_SURFACE_WG",
+			"type": "minecraft:heightmap"
+		},
+		{
+			"type": "minecraft:biome"
+		}
+	]
+}

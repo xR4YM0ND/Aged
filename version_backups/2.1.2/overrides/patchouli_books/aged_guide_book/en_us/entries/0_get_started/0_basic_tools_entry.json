@@ -1,0 +1,42 @@
+{
+    "name": "Basic Tools",
+    "icon": "earlystage:flint_axe",
+    "category": "patchouli:0_get_started_category",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "title": "Collect Items",
+            "text": "Gather these which can be found throughout the world by breaking rocks, flints & leaves $(br)- Stones$(br)- Flint$(br)- Sticks"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "earlystage:crafting_rock",
+            "text": "Craft yourself a Crafting Rock that acts like a Crafting Table.$(br2)Use it to make your first Tools.$(br2)$(o)Use a Rock on it to craft items !"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "earlystage:flint_axe",
+            "recipe2": "earlystage:flint_sword"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "earlystage:flint_pickaxe",
+            "recipe2": "earlystage:flint_shovel"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "earlystage:flint_hoe",
+            "recipe2": "archers:flint_spear"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "earlystage:wooden_bucket",
+            "recipe2": "earlystage:wooden_shield"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "earlystage:stone_shears"
+        }
+    ]
+}

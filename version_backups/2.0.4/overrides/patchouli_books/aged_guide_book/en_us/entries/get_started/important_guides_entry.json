@@ -1,0 +1,18 @@
+{
+    "name": "Other Guides",
+    "icon": "minecraft:writable_book",
+    "category": "patchouli:get_started_category",
+    "sortnum": 10,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "seasonsextras:seasonal_compendium",
+            "recipe2": "adventurez:handbook"
+        },
+        {
+            "type": "patchouli:crafting",
+            "item": "dehydration:handbook",
+            "recipe2": "betterend:guidebook"
+        }
+    ]
+}

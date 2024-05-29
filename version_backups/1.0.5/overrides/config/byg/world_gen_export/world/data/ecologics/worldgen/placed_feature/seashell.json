@@ -1,0 +1,31 @@
+{
+	"feature": "ecologics:seashell",
+	"placement": [
+		{
+			"count": 4,
+			"type": "minecraft:count"
+		},
+		{
+			"type": "minecraft:in_square"
+		},
+		{
+			"heightmap": "MOTION_BLOCKING",
+			"type": "minecraft:heightmap"
+		},
+		{
+			"predicate": {
+				"blocks": "#minecraft:sand",
+				"offset": [
+					0,
+					-1,
+					0
+				],
+				"type": "minecraft:matching_blocks"
+			},
+			"type": "minecraft:block_predicate_filter"
+		},
+		{
+			"type": "minecraft:biome"
+		}
+	]
+}

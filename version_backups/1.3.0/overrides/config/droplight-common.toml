@@ -1,0 +1,108 @@
+
+# DROPLIGHT CONFIGURATION
+#  This configuration file controls all aspects of the Droplight mod.
+#  Please note that certain parts of this configuration file are controlled by the Iceberg and Prism libraries!
+#  Anywhere in this file where you are entering an item, you may enter any Iceberg-supported selector.
+#  Likewise, anywhere you are entering a color, you may enter a Prism-supported color definition.
+#  The documentation for these can be found at the following webpages:
+#  ICEBERG: https://github.com/AHilyard/Iceberg/wiki/Item-Selectors-Documentation
+#  PRISM:   https://github.com/AHilyard/Prism/wiki/Prism-Documentation#color-format-options
+#
+# Configure graphics options
+[Graphics]
+	# If items on the ground should have a sparkle effect.
+	#Allowed Values: NONE, BEAMS_ONLY, ALL
+	sparklesEnabled = "ALL"
+	# If beam/sparkle color should match the item's tooltip name color. (White named items won't have a beam unless specified manually)
+	automaticColor = false
+	# If the Item Borders mod is installed, should beam/sparkle colors match the item's border color.
+	# (Manual colors specified in this file will take precedence, so remove them if you want Item Borders to control all colors.)
+	syncWithItemBorders = true
+	# The height of the beam of light.
+	#Range: 0.0 ~ 25.0
+	beamHeight = 1.5
+	# The graphical quality of beams and sparkles.  Higher quality means potentially lower performance.  Use low quality if experiencing compatibility issues with other mods.
+	#Allowed Values: LOW, MEDIUM, HIGH
+	quality = "LOW"
+	# If enabled, beams will appear pixelated instead of smooth.
+	pixelatedMode = false
+
+	# Manual Colors
+	# Copy/paste one section below and modify to add a new color customization.
+	[Graphics.Customization]
+
+		[[Graphics.Customization.manualColor]]
+			items = []
+			color = ""
+
+# Configure item dropping options
+[Drops]
+	# The minimum delay in ticks between each item drop after killing a mob.  Must be set on server for multiplayer.  (20 ticks = 1 second, 0 = no delay)
+	#Range: 0 ~ 20
+	dropDelay = 4
+	# If items should be tossed into the air when dropped from a slain mob.  Must be set on server for multiplayer.
+	tossDrops = true
+	# If items should rotate wildly when thrown.
+	itemFlipping = false
+
+# Configure sound options
+[Sound]
+	# If a swish sound should play when items are dropped from slain mobs. (Requires tossDrops is true)
+	dropSwish = true
+	# If sounds should play when items hit the ground.
+	dropImpact = true
+	# If beams should emit a constant hum.
+	beamSound = true
+
+	# Sound customization
+	# The sections below can be modified or you can copy/paste and modify to add new sound customizations.
+	[Sound.Customization]
+
+		[[Sound.Customization.soundDefinition]]
+			items = ["!rare", "!epic"]
+			sound = "droplight:item.misc.drop_legendary"
+
+		[[Sound.Customization.soundDefinition]]
+			items = ["% Sword", "% Pickaxe", "% Axe", "% Hoe", "% Shovel", "%Shears", "% Crossbow", "% Shield", "% Trident", "% Flint and Steel", "%Lantern", "%Bucket", "minecraft:iron_bars", "minecraft:wooden_sword", "minecraft:stone_sword", "minecraft:iron_sword", "minecraft:golden_sword", "minecraft:diamond_sword", "minecraft:netherite_sword", "minecraft:wooden_pickaxe", "minecraft:stone_pickaxe", "minecraft:iron_pickaxe", "minecraft:golden_pickaxe", "minecraft:diamond_pickaxe", "minecraft:netherite_pickaxe", "minecraft:wooden_axe", "minecraft:stone_axe", "minecraft:iron_axe", "minecraft:golden_axe", "minecraft:diamond_axe", "minecraft:netherite_axe", "minecraft:wooden_hoe", "minecraft:stone_hoe", "minecraft:iron_hoe", "minecraft:golden_hoe", "minecraft:diamond_hoe", "minecraft:netherite_hoe", "minecraft:wooden_shovel", "minecraft:stone_shovel", "minecraft:iron_shovel", "minecraft:golden_shovel", "minecraft:diamond_shovel", "minecraft:netherite_shovel", "minecraft:shears", "minecraft:crossbow", "minecraft:shield", "minecraft:trident", "minecraft:flint_and_steel", "minecraft:bucket", "minecraft:lava_bucket", "minecraft:water_bucket", "minecraft:milk_bucket", "minecraft:cod_bucket", "minecraft:salmon_bucket", "minecraft:pufferfish_bucket", "minecraft:tropical_fish_bucket", "minecraft:axolotl_bucket", "minecraft:powder_snow_bucket", "minecraft:spyglass", "minecraft:lantern", "minecraft:soul_lantern"]
+			sound = "droplight:item.misc.drop_tool"
+
+		[[Sound.Customization.soundDefinition]]
+			items = ["minecraft:slime_block", "minecraft:slime_ball", "minecraft:magma_cream", "minecraft:honey_block", "minecraft:wet_sponge", "minecraft:sea_pickle", "minecraft:ink_sac"]
+			sound = "droplight:item.misc.drop_wet"
+
+		[[Sound.Customization.soundDefinition]]
+			items = ["minecraft:diamond", "minecraft:emerald", "minecraft:amethyst_shard", "minecraft:amethyst_cluster", "minecraft:small_amethyst_bud", "minecraft:medium_amethyst_bud", "minecraft:large_amethyst_bud"]
+			sound = "droplight:item.misc.drop_gem"
+
+		[[Sound.Customization.soundDefinition]]
+			items = ["%Glass", "%glass", "%Ice", "%Bottle", "%Potion", "minecraft:glass_bottle", "minecraft:honey_bottle", "minecraft:experience_bottle", "minecraft:potion", "minecraft:splash_potion", "minecraft:lingering_potion", "minecraft:dragon_breath"]
+			sound = "droplight:item.misc.drop_glass"
+
+		[[Sound.Customization.soundDefinition]]
+			items = ["minecraft:leather_helmet", "minecraft:leather_chestplate", "minecraft:leather_leggings", "minecraft:leather_boots", "minecraft:leather_horse_armor", "minecraft:saddle"]
+			sound = "droplight:item.misc.drop_medium_soft"
+
+		[[Sound.Customization.soundDefinition]]
+			items = ["%Chainmail", "minecraft:chain", "minecraft:chainmail_helmet", "minecraft:chainmail_chestplate", "minecraft:chainmail_leggings", "minecraft:chainmail_boots"]
+			sound = "droplight:item.misc.drop_medium_hard"
+
+		[[Sound.Customization.soundDefinition]]
+			items = ["%Helmet", "%Chestplate", "%Leggings", "%Boots", "%Horse Armor", "minecraft:iron_helmet", "minecraft:iron_chestplate", "minecraft:iron_leggings", "minecraft:iron_boots", "minecraft:iron_horse_armor", "minecraft:golden_helmet", "minecraft:golden_chestplate", "minecraft:golden_leggings", "minecraft:golden_boots", "minecraft:golden_horse_armor", "minecraft:diamond_helmet", "minecraft:diamond_chestplate", "minecraft:diamond_leggings", "minecraft:diamond_boots", "minecraft:diamond_horse_armor", "minecraft:netherite_helmet", "minecraft:netherite_chestplate", "minecraft:netherite_leggings", "minecraft:netherite_boots", "minecraft:bell"]
+			sound = "droplight:item.misc.drop_heavy"
+
+		[[Sound.Customization.soundDefinition]]
+			items = ["%Wool", "%Dust", "minecraft:redstone", "minecraft:sugar", "minecraft:feather", "minecraft:paper", "minecraft:map", "%Pattern", "minecraft:sponge", "minecraft:cobweb", "minecraft:dead_bush", "minecraft:grass", "minecraft:fern", "minecraft:seagrass", "minecraft:cookie", "%Kelp", "$minecraft:flowers", "%Carpet", "minecraft:string", "%Seeds", "minecraft:wheat", "minecraft:bread", "minecraft:ghast_tear", "minecraft:blaze_powder", "minecraft:phantom_membrane", "minecraft:lead", "minecraft:name_tag", "%Banner Pattern", "%Leather"]
+			sound = "droplight:item.misc.drop_light"
+
+		[[Sound.Customization.soundDefinition]]
+			items = ["%Torch", "minecraft:stick", "% Stick", "minecraft:end_rod", "% Banner", "minecraft:bow", "%Arrow"]
+			sound = "droplight:item.misc.drop_wood"
+
+		[[Sound.Customization.soundDefinition]]
+			items = ["%Block of"]
+			sound = "droplight:item.misc.drop_misc3"
+
+		[[Sound.Customization.soundDefinition]]
+			items = ["*"]
+			sound = "droplight:item.misc.drop_block"
+

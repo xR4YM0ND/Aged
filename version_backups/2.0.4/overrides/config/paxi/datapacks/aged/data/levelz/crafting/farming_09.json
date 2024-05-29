@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "level": 9,
+    "skill": "farming",
+    "item": [
+        "minecraft:shears",
+        "betternether:cincinnasite_shears"
+    ]
+}

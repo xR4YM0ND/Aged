@@ -1,0 +1,26 @@
+{
+    "values": [
+        "mcwfences:oak_hedge",
+        "mcwfences:spruce_hedge",
+        "mcwfences:birch_hedge",
+        "mcwfences:jungle_hedge",
+        "mcwfences:acacia_hedge",
+        "mcwfences:dark_oak_hedge",
+        "mcwfences:azalea_hedge",
+        "mcwfences:flowering_azalea_hedge",
+        "mcwfences:mangrove_hedge",
+        "#chipped:red_mushroom",
+        "#chipped:brown_mushroom",
+        "#chipped:melon",
+        "#chipped:crimson_roots",
+        "#chipped:warped_roots",
+        "#chipped:dried_kelp_block",
+        "#chipped:lily_pad",
+        "#chipped:nether_sprouts",
+        "#chipped:pumpkin",
+        "#chipped:carved_pumpkin",
+        "#chipped:vine",
+        "#chipped:crimson_fungus",
+        "#chipped:warped_fungus"
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "smithing",
+    "level": 11,
+    "entity": "minecraft:custom_entity",
+    "object": "minecraft:minecart"
+}

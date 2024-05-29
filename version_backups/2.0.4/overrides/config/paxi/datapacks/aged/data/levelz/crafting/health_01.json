@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "level": 1,
+    "skill": "health",
+    "item": [
+        "inmis:baby_backpack"
+    ]
+}

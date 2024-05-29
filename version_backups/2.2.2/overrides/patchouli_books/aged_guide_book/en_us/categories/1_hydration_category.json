@@ -1,0 +1,6 @@
+{
+    "name": "Hydration",
+    "description": "This page features the hydration aspect of the modpack.",
+    "icon": "minecraft:potion{Potion:purified_water}",
+    "sortnum": 1
+}

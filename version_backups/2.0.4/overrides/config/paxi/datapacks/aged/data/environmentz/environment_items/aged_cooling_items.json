@@ -1,0 +1,11 @@
+{
+    "endrem:cold_eye": {
+        "temperature": -2
+    },
+    "gofish:icicle_fish": {
+        "temperature": -3
+    },
+    "gofish:frosted_rod": {
+        "temperature": -3
+    }
+}

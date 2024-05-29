@@ -1,0 +1,41 @@
+{
+	"feature": "byg:nightshade_trees",
+	"placement": [
+		{
+			"count": {
+				"distribution": [
+					{
+						"data": 3,
+						"weight": 3
+					},
+					{
+						"data": 4,
+						"weight": 1
+					}
+				],
+				"type": "minecraft:weighted_list"
+			},
+			"type": "minecraft:count"
+		},
+		{
+			"type": "minecraft:in_square"
+		},
+		{
+			"max_water_depth": 0,
+			"type": "minecraft:surface_water_depth_filter"
+		},
+		{
+			"heightmap": "OCEAN_FLOOR",
+			"type": "minecraft:heightmap"
+		},
+		{
+			"type": "minecraft:biome"
+		},
+		{
+			"above_noise": 0,
+			"below_noise": 1,
+			"noise_level": 0.545,
+			"type": "minecraft:noise_threshold_count"
+		}
+	]
+}

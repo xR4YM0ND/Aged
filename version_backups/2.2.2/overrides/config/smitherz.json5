@@ -1,0 +1,17 @@
+{
+	"maxGemSlots": 6,
+	"showZeroSlotsInfo": false,
+	"showHoldShiftInfo": true,
+	// If non link chance is set via datapack, default 5% chance
+	"defaultLinkChance": 0.05000000074505806,
+	// Always used for unlinking
+	"defaultUnlinkChance": 0.20000000298023224,
+	// 20% default bonus
+	"hammerExtraChance": 0.20000000298023224,
+	// Use if gems provided by global datapack
+	"defaultGems": true,
+	"canLinkSameGem": false,
+	// Turn it off if you set drops via datapacks
+	"mobsCanDropGems": true,
+	"linkBreakChance": 9.999999747378752E-5
+}

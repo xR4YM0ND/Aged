@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "level": 30,
+    "skill": "mining",
+    "item": [
+        "betternether:nether_ruby_pickaxe",
+        "betternether:nether_ruby_shovel"
+    ]
+}

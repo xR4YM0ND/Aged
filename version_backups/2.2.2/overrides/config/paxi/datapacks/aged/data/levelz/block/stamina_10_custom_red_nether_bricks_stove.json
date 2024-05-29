@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "stamina",
+    "level": 10,
+    "block": "minecraft:custom_block",
+    "object": "bakery:red_nether_bricks_stove"
+}

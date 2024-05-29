@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "trade",
+    "level": 10,
+    "block": "minecraft:custom_block",
+    "object": "numismatic-overhaul:shop"
+}

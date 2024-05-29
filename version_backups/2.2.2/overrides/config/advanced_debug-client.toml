@@ -1,0 +1,19 @@
+#Show FPS on default page
+show_fps_on_default_page = false
+#Show current page
+show_current_page = true
+#Use scale other than in options
+use_custom_scale = false
+#Custom scale to set
+#Range: 1 ~ 4
+custom_scale = 2
+#Enabled pages
+enabled_pages = []
+
+[formatting]
+	#Spaced namespaces
+	spaced_namespaces = true
+	#Spaced enum constants
+	spaced_enum_constants = true
+	#Enable Bubble Blaster ID (Easter Egg)
+	enable_bubble_blaster_id = false

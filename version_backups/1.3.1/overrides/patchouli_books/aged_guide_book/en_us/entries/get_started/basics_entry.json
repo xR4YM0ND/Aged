@@ -1,0 +1,63 @@
+{
+    "name": "Basics",
+    "icon": "earlystage:flint_axe",
+    "category": "patchouli:get_started_category",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "title": "Starters",
+            "text": "You start with:$(br)$(li)4 Breads$(li)4 Apples$(li)1 Purified Water Bottle$(li)1 Campfire"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Water",
+            "text": "Fill up the given Bottle with Water and place it on the Campfire.$(br)After some time you get Purified Water which you can drink savely.$(br2)Read more about $(l:patchouli:get_started/water_entry)Water$(/l)."
+        },
+        {
+            "type": "patchouli:image",
+            "images":["aged:textures/gui/entries/overworld_stones.png","aged:textures/gui/entries/overworld_flint.png","aged:textures/gui/entries/break_leaves.png"],
+            "title": "Collect",
+            "text": "- Stones$(br)- Flint$(br)- Sticks"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "earlystage:crafting_rock",
+            "text": "Craft yourself a Crafting Rock that acts like a Crafting Table.$(br2)Use it to make your first Tools.$(br2)$(o)I belive in you Stone Age Man !"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "First Tools",
+            "text": "You have probably noticed that you can't break Logs with your hands.$(br2)You need to craft a Flint Axe first."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "earlystage:flint_axe",
+            "recipe2": "earlystage:flint_sword"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "earlystage:flint_pickaxe",
+            "recipe2": "earlystage:flint_shovel"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "earlystage:flint_hoe",
+            "recipe2": "farmersdelight:flint_knife"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Level up",
+            "text": "If you have enough exp, your character levels up. You can now apply one skill point to a category.$(br2)Decide wisely!$(br2)We recommend to skill the smithing category.$(br)(Furnace use)$(br2)Read more about $(l:patchouli:get_started/skills_entry)Skills$(/l)."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Pick a job",
+            "text": "Pick a job and gain even more exp.$(br2)You can have a maximum of 2 Jobs at the same time.$(br2)Read more about $(l:patchouli:coins/jobs_entry)Jobs$(/l)."
+        },
+        {
+            "type": "patchouli:relations",
+            "entries": ["patchouli:get_started/water_entry", "patchouli:get_started/food_entry", "patchouli:get_started/skills_entry", "patchouli:get_started/sieve_entry", "patchouli:farming/plants_entry", "patchouli:farming/seeds_entry", "patchouli:farming/seasons_entry", "patchouli:farming/watering_entry", "patchouli:coins/jobs_entry"]
+        }
+    ]
+}

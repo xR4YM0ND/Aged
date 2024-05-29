@@ -1,0 +1,25 @@
+{
+	"config": {
+		"default": {
+			"feature": "byg:sythian_fungus",
+			"placement": []
+		},
+		"features": [
+			{
+				"chance": 0.333,
+				"feature": {
+					"feature": "byg:sythian_sprout",
+					"placement": []
+				}
+			},
+			{
+				"chance": 0.333,
+				"feature": {
+					"feature": "byg:sythian_roots",
+					"placement": []
+				}
+			}
+		]
+	},
+	"type": "minecraft:random_selector"
+}

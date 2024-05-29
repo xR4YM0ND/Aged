@@ -1,0 +1,17 @@
+{
+	"easeInType": "easeInOutExpo",
+	"easeInAnimationType": "slideUp",
+	"easeOutType": "easeInOutExpo",
+	"easeOutAnimationType": "slideUp",
+	"easeInDuration": 0.3,
+	"easeOutDuration": 0.3,
+	"disableEaseIn": false,
+	"disableEaseOut": false,
+	"bgColorTint": -16777216,
+	"bgBlurIntensity": 0.6,
+	"disableBgBlur": false,
+	"disableBgTint": false,
+	"disabledScreens": [
+		"CuriosScreen"
+	]
+}

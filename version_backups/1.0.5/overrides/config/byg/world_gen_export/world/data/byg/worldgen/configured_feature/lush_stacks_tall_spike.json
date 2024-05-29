@@ -1,0 +1,37 @@
+{
+	"config": {
+		"block_provider": {
+			"entries": [
+				{
+					"data": {
+						"Name": "minecraft:stone"
+					},
+					"weight": 6
+				},
+				{
+					"data": {
+						"Name": "minecraft:mossy_cobblestone"
+					},
+					"weight": 3
+				},
+				{
+					"data": {
+						"Name": "minecraft:andesite"
+					},
+					"weight": 1
+				},
+				{
+					"data": {
+						"Name": "byg:rocky_stone"
+					},
+					"weight": 1
+				}
+			],
+			"type": "minecraft:weighted_state_provider"
+		},
+		"height_multiplier": 1.0,
+		"post_features": "byg:spike_moss_patch",
+		"seed": 85
+	},
+	"type": "byg:pointed_rock"
+}

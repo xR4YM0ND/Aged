@@ -1,0 +1,14 @@
+{
+    "name": "Wither",
+    "icon": "adventurez:spawn_wither_puppet",
+    "category": "patchouli:fight_category",
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:wither",
+            "scale": 0.8,
+            "text": ""
+        }
+    ]
+}

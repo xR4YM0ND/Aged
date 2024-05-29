@@ -1,0 +1,6 @@
+{
+	"flowing_texture": "moonlight:soft_fluids/potion_flow",
+	"from_mod": "inspirations",
+	"still_texture": "moonlight:soft_fluids/soup_liquid",
+	"use_texture_from": "inspirations:potato_soup"
+}

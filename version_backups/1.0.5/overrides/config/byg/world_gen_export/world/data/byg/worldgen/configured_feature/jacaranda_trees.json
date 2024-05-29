@@ -1,0 +1,32 @@
+{
+	"config": {
+		"default": {
+			"feature": "byg:jacaranda_tree1",
+			"placement": []
+		},
+		"features": [
+			{
+				"chance": 0.3,
+				"feature": {
+					"feature": "byg:jacaranda_tree2",
+					"placement": []
+				}
+			},
+			{
+				"chance": 0.3,
+				"feature": {
+					"feature": "byg:indigo_jacaranda_tree2",
+					"placement": []
+				}
+			},
+			{
+				"chance": 0.3,
+				"feature": {
+					"feature": "byg:indigo_jacaranda_tree1",
+					"placement": []
+				}
+			}
+		]
+	},
+	"type": "minecraft:random_selector"
+}

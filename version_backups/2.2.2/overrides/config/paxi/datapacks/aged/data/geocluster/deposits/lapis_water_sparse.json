@@ -1,0 +1,80 @@
+{
+    "type": "geocluster:deposit_sparse",
+    "config": {
+        "yMin": -64,
+        "yMax": 250,
+        "size": 20,
+        "spread": 5,
+        "biomeTag": "#minecraft:is_overworld",
+        "blockStateMatchers": [
+            "minecraft:stone",
+            "minecraft:dirt",
+            "minecraft:sand",
+            "minecraft:gravel",
+            "minecraft:deepslate"
+        ],
+        "blocks": {
+            "default": [
+                {
+                    "block": "lapis_ore",
+                    "chance": 0.2
+                },
+                {
+                    "block": "minecraft:stone",
+                    "chance": 0.8
+                }
+            ],
+            "minecraft:deepslate": [
+                {
+                    "block": "deepslate_lapis_ore",
+                    "chance": 0.2
+                },
+                {
+                    "block": "minecraft:deepslate",
+                    "chance": 0.8
+                }
+            ],
+            "minecraft:dirt": [
+                {
+                    "block": "universal_ores:granite_lapis_ore",
+                    "chance": 0.2
+                },
+                {
+                    "block": "minecraft:dirt",
+                    "chance": 0.8
+                }
+            ],
+            "minecraft:sand": [
+                {
+                    "block": "universal_ores:diorite_lapis_ore",
+                    "chance": 0.2
+                },
+                {
+                    "block": "minecraft:sand",
+                    "chance": 0.8
+                }
+            ],
+            "minecraft:gravel": [
+                {
+                    "block": "universal_ores:andesite_lapis_ore",
+                    "chance": 0.2
+                },
+                {
+                    "block": "minecraft:gravel",
+                    "chance": 0.8
+                }
+            ]
+        },
+        "samples": [
+            {
+                "block": "geocluster:lapis_ore_sample",
+                "chance": 0.8
+            },
+            {
+                "block": null,
+                "chance": 0.2
+            }
+        ],
+        "generationWeight": 10
+    }
+}

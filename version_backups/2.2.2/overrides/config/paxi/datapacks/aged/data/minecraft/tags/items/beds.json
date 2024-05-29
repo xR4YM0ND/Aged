@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+        "meadow:flecked_bed",
+        "meadow:highland_bed",
+        "meadow:patched_bed",
+        "meadow:rocky_bed",
+        "meadow:umbra_bed",
+        "meadow:inky_bed",
+        "meadow:warped_bed",
+        "meadow:straw_bed"
+    ]
+}

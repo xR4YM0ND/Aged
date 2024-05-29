@@ -1,0 +1,32 @@
+{
+	"catalysts": {
+		"minecraft:ender_pearl": {
+			"enabled": true,
+			"required_item_count": 1
+		},
+		"minecraft:emerald": {
+			"enabled": true,
+			"required_item_count": 1
+		},
+		"minecraft:heart_of_the_sea": {
+			"enabled": true,
+			"required_item_count": 1
+		},
+		"minecraft:amethyst_shard": {
+			"enabled": true,
+			"required_item_count": 1
+		},
+		"minecraft:nether_star": {
+			"enabled": true,
+			"required_item_count": 1
+		},
+		"minecraft:diamond": {
+			"enabled": true,
+			"required_item_count": 1
+		},
+		"minecraft:experience_bottle": {
+			"enabled": true,
+			"required_item_count": 1
+		}
+	}
+}

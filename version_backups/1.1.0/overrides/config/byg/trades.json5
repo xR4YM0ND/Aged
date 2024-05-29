@@ -1,0 +1,121 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+{
+	// Trades for a given villager profession. Trade levels are in the range of 1-5
+	"trades_by_profession": {
+		"byg:forager": {
+			"1": [],
+			"2": [],
+			"3": [],
+			"4": [],
+			"5": []
+		},
+		"minecraft:armorer": {
+			"1": [],
+			"2": [],
+			"3": [],
+			"4": [],
+			"5": []
+		},
+		"minecraft:butcher": {
+			"1": [],
+			"2": [],
+			"3": [],
+			"4": [],
+			"5": []
+		},
+		"minecraft:cartographer": {
+			"1": [],
+			"2": [],
+			"3": [],
+			"4": [],
+			"5": []
+		},
+		"minecraft:cleric": {
+			"1": [],
+			"2": [],
+			"3": [],
+			"4": [],
+			"5": []
+		},
+		"minecraft:farmer": {
+			"1": [],
+			"2": [],
+			"3": [],
+			"4": [],
+			"5": []
+		},
+		"minecraft:fisherman": {
+			"1": [],
+			"2": [],
+			"3": [],
+			"4": [],
+			"5": []
+		},
+		"minecraft:fletcher": {
+			"1": [],
+			"2": [],
+			"3": [],
+			"4": [],
+			"5": []
+		},
+		"minecraft:leatherworker": {
+			"1": [],
+			"2": [],
+			"3": [],
+			"4": [],
+			"5": []
+		},
+		"minecraft:librarian": {
+			"1": [],
+			"2": [],
+			"3": [],
+			"4": [],
+			"5": []
+		},
+		"minecraft:mason": {
+			"1": [],
+			"2": [],
+			"3": [],
+			"4": [],
+			"5": []
+		},
+		"minecraft:shepherd": {
+			"1": [],
+			"2": [],
+			"3": [],
+			"4": [],
+			"5": []
+		},
+		"minecraft:toolsmith": {
+			"1": [],
+			"2": [],
+			"3": [],
+			"4": [],
+			"5": []
+		},
+		"minecraft:weaponsmith": {
+			"1": [],
+			"2": [],
+			"3": [],
+			"4": [],
+			"5": []
+		}
+	},
+	// Whether this file appends villager/wandering trader trades.
+	"visible": true,
+	// Trades for the wandering trader. Trades in "1" are "generic" trades. Trades appearing in "2" are "rare" trades.
+	"wandering_trader_trades": {
+		// Trades listed here are "generic" and a few(not only from these listed here but from other mods/vanilla also) are picked when a wandering trader spawns.
+		"1": [],
+		// Trades listed here are "rare" and only one(not only from these listed here but from other mods/vanilla also) is picked when a wandering trader spawns.
+		"2": []
+	}
+}

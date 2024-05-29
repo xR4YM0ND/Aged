@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "trade",
+    "level": 16,
+    "entity": "minecraft:custom_entity",
+    "object": "vinery:wandering_winemaker"
+}

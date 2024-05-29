@@ -1,0 +1,9 @@
+{
+    "values": [
+        "minecraft:nether_quartz_ore",
+        "geocluster:quartz_ore",
+        "geocluster:deepslate_quartz_ore",
+        "universal_ores:blackstone_quartz_ore",
+        "universal_ores:basalt_quartz_ore"
+    ]
+}

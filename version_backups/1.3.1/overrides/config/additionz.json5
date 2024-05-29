@@ -1,0 +1,65 @@
+{
+	"feather_falling_trample": true,
+	"enderman_particles": true,
+	"block_pearcing_enchantment": true,
+	"stampede_enchantment": true,
+	"eagle_eyed_enchantment": true,
+	"dexterity_enchantment": true,
+	// Disable when LevelZ mod installed
+	"inaccuracy_curse_enchantment": false,
+	"polar_star": true,
+	// Only visible through spy glass
+	"other_stars": true,
+	"custom_item_name_non_despawn": true,
+	"totem_of_non_breaking": true,
+	// 0.1 = 10% chance
+	"evoker_use_totem_chance": 0.10000000149011612,
+	"not_look_at_invisible": true,
+	"chainmail_spike_protection": true,
+	"charged_creeper_spawn_chance": 0.004999999888241291,
+	"creeper_on_fire": true,
+	"fast_oxidization": true,
+	"spectral_arrow_light": true,
+	"iron_golem_repair_friendly": true,
+	"skeleton_bow_damaged": true,
+	"break_skeleton_bow_chance": 0.004999999888241291,
+	"path_block_speed_boost": 0.02,
+	// Ticks: 20 = 1 second
+	"disable_elytra_on_damage_time": 20,
+	"disable_elytra_underwater": true,
+	"husk_drops_sand": true,
+	"trident_buried_treasure": true,
+	"villager_sleeping_eyes": true,
+	// No trading when villager has no space
+	"villager_needs_space": false,
+	"path_block_under_gates": true,
+	"shovel_undo_farmland": true,
+	// If top is banner, player has to wear shield with same pattern
+	"beacon_shield_pattern": true,
+	// 0 = disabled
+	"max_spawner_count": 200,
+	// 90 = 3 bubbles
+	"botte_air_amount": 90,
+	"flame_arrow_burn": true,
+	// Set entity on fire
+	"magma_cube_fire_ticks": 20,
+	// 20 ticks = 1 second
+	"shield_blocking_cooldown": 60,
+	// Heal passive entity 2hp every ticks
+	"heal_passive_entity_over_time_ticks": 1200,
+	// Change slot highlight to texture
+	"change_slot_highlight": false,
+	"fletching_table_use": true,
+	"show_nbt_tooltip": false,
+	// Repair trident with prismarine shards
+	"repair_trident": true,
+	"passive_entity_modifications": true,
+	"passiveEntityConfig": {
+		// Default = -24000
+		"baby_to_adult_time": -24000,
+		// PassiveAgeTime : this = Age
+		"passive_age_calculation": 144000,
+		// Baby = Age 0
+		"passive_max_age": 5
+	}
+}

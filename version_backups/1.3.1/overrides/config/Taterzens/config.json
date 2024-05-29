@@ -1,0 +1,99 @@
+{
+  "// Language file to use.": "",
+  "language": "en_us",
+  "// After how many ticks Taterzens should be cleared from tablist.": "",
+  "// Some delay is needed, otherwise clients don't fetch their skins.": "",
+  "// If you want them to stay on the tablist, set this to -1.": "",
+  "taterzen_tablist_timeout": 30,
+  "// Whether to remind you that if FabricTailor mod is installed,": "",
+  "// it has some built-in skin swapping functionality for Taterzens as well.": "",
+  "post_fabrictailor_advert": false,
+  "// Whether to cancel sending info that Taterzen has executed a command to ops.": "",
+  "hide_ops_message": true,
+  "// Whether to automatically lock the taterzen after creating it.": "",
+  "lock_after_creation": true,
+  "// Obsucre Taterzens' names while they are visible on the tab list.": true,
+  "// Default settings for new Taterzens.": "",
+  "defaults": {
+    "name": "Taterzen",
+    "leashable": false,
+    "pushable": false,
+    "// How many ticks must pass between each interaction (command triggerings).": "",
+    "minimum_interaction_time": 0,
+    "// Default cooldown message to be sent to the player. Supports translation as well.": "",
+    "command_cooldown_message": "taterzens.npc.interact.cooldown",
+    "// Default command permission level of Taterzen.": "",
+    "command_permission_level": 4,
+    "// Default sounds for Taterzens. Set to [] to mute them.": "",
+    "death_sounds": [
+      "entity.player.death"
+    ],
+    "hurt_sounds": [
+      "entity.player.hurt"
+    ],
+    "ambient_sounds": [],
+    "// Whether Taterzen is invulnerable by default.": "",
+    "invulnerable": true,
+    "// Enable jumps when Taterzen is in attack mode.": "",
+    "jump_while_attacking": true,
+    "// Whether Taterzen is able to fly.": "",
+    "allow_flight": false,
+    "// Whether Taterzens can be picked up by boats / minecarts.": "",
+    "allow_riding": false,
+    "// Whether Taterzen is able to swim.": "",
+    "allow_swim": true,
+    "// Whether Taterzens should drop equipment on death.": "",
+    "drop_equipment": false
+  },
+  "path": {
+    "// Which color of particles to use in path editor. Use RGB values ( 0 - 255 ).": "",
+    "color": {
+      "red": 0.0,
+      "green": 255.0,
+      "blue": 255.0
+    }
+  },
+  "messages": {
+    "// Default delay between each message, in ticks.": "",
+    "message_delay": 100,
+    "// Whether to exit message editor mode after editing a message.": "",
+    "exit_editor_after_msg_edit": true,
+    "// Message format. First %s is replaced with name, second one with message.": "",
+    "structure": "%s -> you: %s",
+    "// How far can player be for messages start appearing.": "(default: 3.0f)",
+    "speak_distance": 3.0
+  },
+  "perms": {
+    "// Whether to save all permissions into permissions.toml file if LuckPerms is loaded.": "",
+    "save_permissions_file": true,
+    "// Permission level required to execute /npc command.": "",
+    "// Valid only if LuckPerms isn't present.": "",
+    "npc_command_permission_level": 2,
+    "// Default permission level for `/profession` command.": "",
+    "profession_command_permission_level": 2,
+    "// Permission level required to execute / taterzens command.": "",
+    "// Again, valid only if LuckPerms isn't present.": "",
+    "taterzens_command_permission_level": 4,
+    "// Whether to allow players to set the permission level": "",
+    "// of Taterzen higher than their own. Careful! This could": "",
+    "// enable players to bypass their permission level with NPC.": "",
+    "allow_setting_higher_perm_level": false,
+    "// Default permission level to bypass selecting locked npcs.": "",
+    "select_bypass_level": 3
+  },
+  "bungee": {
+    "// Whether to enable bungee commands feature for NPCs.": "",
+    "enable_commands": false
+  },
+  "// Custom model data number that items in GUI should use.": "",
+  "gui_item_model_data": 257,
+  "// Nodes which prefer execution instead of going in submenus in `/npc` gui. (Swaps the right and left click function to these nodes)": "",
+  "prefer_execution_nodes": [
+    "npc edit messages swap",
+    "npc edit equipment"
+  ],
+  "// Whether to allow Taterzens to fight players in peaceful mode as well.": "",
+  "combat_in_peaceful": true,
+  "// Whether give fake glowing effect to Taterzen when selected.": "",
+  "glow_selected_npc": true
+}

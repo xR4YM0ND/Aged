@@ -1,0 +1,7 @@
+{
+  "minecraft:overworld": {
+    "sunrise": "5:00",
+    "sunset": "20:00",
+    "timeZone": "3:00"
+  }
+}

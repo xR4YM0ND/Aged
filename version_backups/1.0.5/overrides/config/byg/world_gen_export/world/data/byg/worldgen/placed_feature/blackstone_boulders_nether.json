@@ -1,0 +1,12 @@
+{
+	"feature": "byg:blackstone_boulder",
+	"placement": [
+		{
+			"count": 2,
+			"type": "minecraft:count_on_every_layer"
+		},
+		{
+			"type": "minecraft:biome"
+		}
+	]
+}

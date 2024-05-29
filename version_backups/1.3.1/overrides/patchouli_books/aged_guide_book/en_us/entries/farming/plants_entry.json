@@ -1,0 +1,62 @@
+{
+    "name": "Plants",
+    "icon": "farmersdelight:wild_carrots",
+    "category": "patchouli:farming_category",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "farmersdelight:wild_cabbages",
+            "text": "$(br)$(l)Found on:$()$(li)Beaches"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "farmersdelight:wild_beetroots",
+            "text": "$(br)$(l)Found on:$()$(li)Beaches"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "farmersdelight:wild_potatoes",
+            "text": "$(br)$(l)Found in:$()$(li)Cold climates$(li)0.0 - 0.3 temperature"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "farmersdelight:wild_onions",
+            "text": "$(br)$(l)Found in:$()$(li)Temperate climates$(li)0.3 - 1.0 temperature"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "farmersdelight:wild_carrots",
+            "text": "$(br)$(l)Found in:$()$(li)Temperate climates$(li)0.3 - 1.0 temperature"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "farmersdelight:wild_tomatoes",
+            "text": "$(br)$(l)Found in:$()$(li)Arid climates$(li)above 1.0 temperature"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "farmersdelight:wild_rice",
+            "text": "$(br)$(l)Found in:$()$(li)Swamps$(li)Jungles"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "expandeddelight:wild_sweet_potatoes",
+            "text": "$(br)$(l)Found in:$()$(li)Jungles"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "expandeddelight:wild_asparagus",
+            "text": "$(br)$(l)Found in:$()$(li)Plains"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "expandeddelight:wild_chili_pepper",
+            "text": "$(br)$(l)Found in:$()$(li)Deserts"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "expandeddelight:wild_peanuts",
+            "text": "$(br)$(l)Found in:$()$(li)Savannas"
+        }
+    ]
+}

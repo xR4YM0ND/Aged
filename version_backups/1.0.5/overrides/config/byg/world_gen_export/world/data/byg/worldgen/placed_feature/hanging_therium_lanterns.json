@@ -1,0 +1,25 @@
+{
+	"feature": "byg:hanging_therium_lanterns",
+	"placement": [
+		{
+			"count": 7,
+			"type": "minecraft:count"
+		},
+		{
+			"height": {
+				"max_inclusive": {
+					"absolute": 256
+				},
+				"min_inclusive": {
+					"absolute": 200
+				},
+				"type": "minecraft:uniform"
+			},
+			"type": "minecraft:height_range"
+		},
+		{
+			"chance": 4,
+			"type": "minecraft:rarity_filter"
+		}
+	]
+}

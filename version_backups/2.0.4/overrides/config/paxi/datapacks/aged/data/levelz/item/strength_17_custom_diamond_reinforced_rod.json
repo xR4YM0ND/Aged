@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "strength",
+    "level": 17,
+    "item": "minecraft:custom_item",
+    "object": "gofish:diamond_reinforced_rod"
+}

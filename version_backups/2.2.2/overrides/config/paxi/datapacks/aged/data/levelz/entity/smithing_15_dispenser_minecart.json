@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "smithing",
+    "level": 15,
+    "entity": "minecraft:custom_entity",
+    "object": "supplementaries:dispenser_minecart"
+}

@@ -1,0 +1,15 @@
+{
+  "overweightApplePercent": 100,
+  "allowOverweightPotato": true,
+  "allowOverweightCarrot": true,
+  "allowOverweightCocoa": true,
+  "allowOverweightBeetroot": true,
+  "allowOverweightNetherWart": true,
+  "allowOverweightCabbage": true,
+  "allowOverweightOnion": true,
+  "allowOverweightMandrake": true,
+  "allowOverweightGarlic": true,
+  "allowOverweightBloodroot": true,
+  "allowOverweightWeeds": true,
+  "allowOverweightKiwi": true
+}

@@ -1,0 +1,14 @@
+{
+    "replace": true,
+    "level": 17,
+    "item": [
+        "immersive_armors:heavy_helmet",
+        "immersive_armors:heavy_chestplate",
+        "immersive_armors:heavy_leggings",
+        "immersive_armors:heavy_boots",
+        "betterend:terminite_pickaxe",
+        "betterend:terminite_shovel",
+        "betterend:terminite_axe",
+        "betterend:terminite_hoe"
+    ]
+}

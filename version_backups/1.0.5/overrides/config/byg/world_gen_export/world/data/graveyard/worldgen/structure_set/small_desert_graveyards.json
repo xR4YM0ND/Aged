@@ -1,0 +1,14 @@
+{
+	"placement": {
+		"salt": 598017285,
+		"separation": 28,
+		"spacing": 32,
+		"type": "minecraft:random_spread"
+	},
+	"structures": [
+		{
+			"structure": "graveyard:small_desert_graveyard",
+			"weight": 1
+		}
+	]
+}

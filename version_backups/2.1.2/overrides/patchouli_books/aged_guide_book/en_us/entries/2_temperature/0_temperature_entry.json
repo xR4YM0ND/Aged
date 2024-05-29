@@ -1,0 +1,7 @@
+{
+    "name": "Temperature",
+    "icon": "endrem:cold_eye",
+    "category": "patchouli:2_temperature_category",
+    "sortnum": 0,
+    "pages": []
+}

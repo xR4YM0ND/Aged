@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "level": 1,
+    "skill": "stamina",
+    "item": [
+        "dehydration:leather_flask"
+    ]
+}

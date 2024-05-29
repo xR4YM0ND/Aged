@@ -1,0 +1,55 @@
+{
+  "harpoon": {
+    "boneBaseDamage": 5.0,
+    "prismarineBaseDamage": 6.0,
+    "diamondBaseDamage": 7.0,
+    "powerAdderPerLevel": 1.25,
+    "powerBaseAdder": 1.0
+  },
+  "oceanBossLootTables": [
+    {
+      "field_13353": "minecraft",
+      "field_13355": "entities/elder_guardian"
+    }
+  ],
+  "oceanChestLootTables": [
+    {
+      "field_13353": "minecraft",
+      "field_13355": "chests/shipwreck_supply"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "chests/shipwreck_map"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "chests/shipwreck_treasure"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "chests/underwater_ruin_small"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "chests/underwater_ruin_big"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "chests/ruined_portal"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "chests/buried_treasure"
+    },
+    {
+      "field_13353": "mostructures",
+      "field_13355": "pirate_ship_cargo_misc"
+    }
+  ],
+  "witherUniqueChance": 0.01,
+  "oceanBossUniqueChance": 0.005,
+  "chestUniqueChance": 5.0E-4,
+  "basicHarpoonChance": 0.1,
+  "oceanHarpoonChance": 0.1,
+  "strongHarpoonChance": 0.075
+}

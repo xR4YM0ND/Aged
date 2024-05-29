@@ -1,0 +1,113 @@
+type = menu
+
+customization-meta {
+  identifier = de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 199
+  width = 456
+  action = deep_customization_element:drippy_overlay_logo
+  actionid = 8bed58f1-cff1-43db-baeb-f645016018ba1676625540489
+  y = 171
+  height = 114
+}
+
+customization {
+  custom_color_hex = #2d2d2d
+  orientation = top-left
+  hidden = false
+  x = -1000000
+  width = 0
+  action = deep_customization_element:drippy_overlay_background
+  actionid = 7fdddaa4-1bec-4838-b681-f24b532f25e01676625540499
+  y = -1000000
+  height = 0
+}
+
+customization {
+  custom_color_hex = #a8d58f
+  orientation = top-left
+  hidden = false
+  x = 199
+  width = 456
+  action = deep_customization_element:drippy_overlay_progress_bar
+  actionid = 1aa89fdf-eb83-4e95-ac00-6575d67182111676625540499
+  y = 375
+  height = 10
+}
+
+customization {
+  advanced_height = 70
+  path = resources/aged/textures/others/aged_text_stonecrafter_big.png
+  orientation = mid-centered
+  x = -92
+  width = 262
+  action = addtexture
+  actionid = 80ff060b-57ce-462d-b9ef-adf07ffdebbd1676626024976
+  y = -36
+  advanced_width = 262
+  height = 70
+}
+
+customization {
+  path = resources/aged/textures/others/aged.png
+  orientation = mid-centered
+  x = -190
+  width = 100
+  action = addtexture
+  actionid = 2efa1fe9-431d-4015-ad22-ab3e31e4841c1676626127159
+  y = -55
+  height = 100
+}
+
+customization {
+  orientation = mid-centered
+  enable_scrolling = false
+  shadow = true
+  scale = 1.0
+  source = by SpigotDE & Globox_Z
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = -59
+  width = 118
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 6f52b47f-2197-42fd-9a59-8ab3347d50201676626182161
+  y = 43
+  alignment = left
+  base_color = #a8d58f
+  height = 8
+}
+
+customization {
+  orientation = bottom-centered
+  enable_scrolling = false
+  shadow = true
+  scale = 1.0
+  source = %playername% | RAM: %percentram% | %loadedmods% mods loaded
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = -204
+  width = 408
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = be5de587-0dc9-43f0-86b6-dd02bac8359d1676628798220
+  y = -59
+  alignment = centered
+  height = 10
+}
+

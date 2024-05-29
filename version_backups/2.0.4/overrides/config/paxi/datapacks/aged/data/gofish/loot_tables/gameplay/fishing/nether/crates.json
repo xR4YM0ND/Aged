@@ -1,0 +1,64 @@
+{
+  "replace": true,
+  "type": "minecraft:fishing",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "gofish:golden_crate"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "gofish:fiery_crate",
+          "conditions": [
+            {
+              "condition": "gofish:match_biome",
+              "biome": {
+                "valid": [
+                  "betternether:magma_land",
+                  "betternether:flooded_deltas"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "name": "gofish:soul_crate",
+          "conditions": [
+            {
+              "condition": "gofish:match_biome",
+              "biome": {
+                "valid": [
+                  "minecraft:soul_sand_valley",
+                  "betternether:soul_plain"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "name": "gofish:gilded_blackstone_crate",
+          "conditions": [
+            {
+              "condition": "gofish:match_biome",
+              "biome": {
+                "valid": [
+                  "minecraft:basalt_deltas",
+                  "betternether:flooded_deltas"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

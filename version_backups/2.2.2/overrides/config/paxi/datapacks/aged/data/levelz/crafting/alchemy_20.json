@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "skill": "alchemy",
+    "level": 20,
+    "item": [
+        "herbalbrews:cauldron"
+    ]
+}

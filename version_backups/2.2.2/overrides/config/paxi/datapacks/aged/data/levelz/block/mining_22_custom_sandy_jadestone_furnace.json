@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "mining",
+    "level": 22,
+    "block": "minecraft:custom_block",
+    "object": "betterend:sandy_jadestone_furnace"
+}

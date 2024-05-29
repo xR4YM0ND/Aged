@@ -1,0 +1,112 @@
+{
+  "slumbering": {
+    "durability": 650,
+    "miningSpeedMultiplier": 8.0,
+    "attackDamage": 9.0,
+    "miningLevel": 3,
+    "enchantability": 15,
+    "repairIngredient": {
+      "item": "minecraft:nautilus_shell"
+    }
+  },
+  "stormseeker": {
+    "durability": 2250,
+    "miningSpeedMultiplier": 8.0,
+    "attackDamage": 11.0,
+    "miningLevel": 3,
+    "enchantability": 15,
+    "repairIngredient": {
+      "item": "minecraft:conduit"
+    }
+  },
+  "desecrator": {
+    "durability": 2250,
+    "miningSpeedMultiplier": 8.0,
+    "attackDamage": 13.0,
+    "miningLevel": 3,
+    "enchantability": 25,
+    "repairIngredient": {
+      "item": "minecraft:wither_skeleton_skull"
+    }
+  },
+  "echo": {
+    "durability": 2250,
+    "miningSpeedMultiplier": 8.0,
+    "attackDamage": 9.0,
+    "miningLevel": 3,
+    "enchantability": 19,
+    "repairIngredient": {
+      "item": "minecraft:echo_shard"
+    }
+  },
+  "stellaris": {
+    "durability": 2250,
+    "miningSpeedMultiplier": 8.0,
+    "attackDamage": 11.0,
+    "miningLevel": 3,
+    "enchantability": 25,
+    "repairIngredient": {
+      "item": "minecraft:crying_obsidian"
+    }
+  },
+  "sanguine": {
+    "durability": 2250,
+    "miningSpeedMultiplier": 8.0,
+    "attackDamage": 13.0,
+    "miningLevel": 3,
+    "enchantability": 10,
+    "repairIngredient": {
+      "item": "minecraft:totem_of_undying"
+    }
+  },
+  "frenzied": {
+    "durability": 350,
+    "miningSpeedMultiplier": 6.0,
+    "attackDamage": 6.0,
+    "miningLevel": 3,
+    "enchantability": 20,
+    "repairIngredient": {
+      "item": "minecraft:redstone_block"
+    }
+  },
+  "ancient": {
+    "durability": 2031,
+    "miningSpeedMultiplier": 10.0,
+    "attackDamage": 11.0,
+    "miningLevel": 4,
+    "enchantability": 22,
+    "repairIngredient": {
+      "item": "minecraft:netherite_scrap"
+    }
+  },
+  "oceanic": {
+    "durability": 350,
+    "miningSpeedMultiplier": 6.0,
+    "attackDamage": 9.0,
+    "miningLevel": 3,
+    "enchantability": 20,
+    "repairIngredient": {
+      "item": "minecraft:nautilus_shell"
+    }
+  },
+  "holy": {
+    "durability": 350,
+    "miningSpeedMultiplier": 6.0,
+    "attackDamage": 9.0,
+    "miningLevel": 3,
+    "enchantability": 15,
+    "repairIngredient": {
+      "item": "minecraft:golden_apple"
+    }
+  },
+  "farshot": {
+    "durability": 350,
+    "miningSpeedMultiplier": 6.0,
+    "attackDamage": 9.0,
+    "miningLevel": 3,
+    "enchantability": 25,
+    "repairIngredient": {
+      "item": "minecraft:phantom_membrane"
+    }
+  }
+}

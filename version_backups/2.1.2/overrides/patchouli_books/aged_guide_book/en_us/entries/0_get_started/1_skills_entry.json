@@ -1,0 +1,54 @@
+{
+    "name": "Skills",
+    "icon": "betterend:enchanted_petal",
+    "category": "patchouli:0_get_started_category",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:image",
+            "title": "Getting XP",
+            "text": "Press 'K' to open the skill screen.",
+            "images": ["aged:textures/gui/entries/skills/skill_screen.png"]
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Skill Screen",
+            "text": "$(br)You gain levelz xp the same way as vanilla xp.$(br2)- kill mobs$(br)- smelt ores$(br)- trade$(br)- ..."
+        },
+        {
+            "type": "patchouli:image",
+            "title": "Categories",
+            "text": "Click on the icons to get in the respective categories",
+            "images": ["aged:textures/gui/entries/skills/skill_screen_hover_category.png"]
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Infos",
+            "text": "$(br)Here you will find infos about$(br2)$(li)item usage$(li)block usage$(li)armor equip$(li)extras$(br2)Some categories provide a button on the top right which leads to a sub page."
+        },
+        {
+            "type": "patchouli:image",
+            "title": "Mining List",
+            "text": "In this sub category you see all locked blocks that are breakable if you skill in mining.",
+            "images": ["aged:textures/gui/entries/skills/skill_mining_list.png"]
+        },
+        {
+            "type": "patchouli:image",
+            "title": "Smithing List",
+            "text": "In this sub category you see all locked items that are smithable if you skill in smithing.",
+            "images": ["aged:textures/gui/entries/skills/skill_smithing_list.png"]
+        },
+        {
+            "type": "patchouli:image",
+            "title": "Alchemy List",
+            "text": "In this sub category you see all locked brewing items that are usable if you skill in alchemy.",
+            "images": ["aged:textures/gui/entries/skills/skill_alchemy_list.png"]
+        },
+        {
+            "type": "patchouli:image",
+            "title": "Crafting List",
+            "text": "While in the main skill screen, click the crafting book on the upper right to open the crafting list.",
+            "images": ["aged:textures/gui/entries/skills/skill_crafting_list.png"]
+        }
+    ]
+}

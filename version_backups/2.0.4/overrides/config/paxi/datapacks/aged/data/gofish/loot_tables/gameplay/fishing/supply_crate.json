@@ -1,0 +1,36 @@
+{
+  "replace": true,
+  "type": "minecraft:fishing",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "weight": 3,
+          "name": "gofish:gameplay/fishing/supply/crops"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 1,
+          "name": "gofish:gameplay/fishing/supply/food"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 2,
+          "name": "gofish:gameplay/fishing/supply/mining"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 4,
+          "name": "gofish:gameplay/fishing/supply/fishing"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 3,
+          "name": "gofish:gameplay/fishing/supply/meat"
+        }
+      ]
+    }
+  ]
+}

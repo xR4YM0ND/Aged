@@ -1,0 +1,291 @@
+{
+    "profession": "leatherworker",
+    "trades": {
+        "novice": [
+            {
+                "type": "numismatic-overhaul:process_item",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 100,
+                "sell": {
+                    "item": "dehydration:leather_flask",
+                    "count": 1
+                },
+                "buy": {
+                    "item": "numismatic-overhaul:bronze_coin",
+                    "count": 50
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 40,
+                "sell": {
+                    "item": "minecraft:rabbit_hide",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 80,
+                "sell": {
+                    "item": "minecraft:rabbit_hide",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:process_item",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 100,
+                "sell": {
+                    "item": "minecraft:rabbit_hide",
+                    "count": 8
+                },
+                "buy": {
+                    "item": "numismatic-overhaul:bronze_coin",
+                    "count": 60
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 90,
+                "sell": {
+                    "item": "armorful:leather_wolf_armor",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:process_item",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 200,
+                "sell": {
+                    "item": "minecraft:leather_horse_armor",
+                    "count": 1
+                },
+                "buy": {
+                    "item": "numismatic-overhaul:bronze_coin",
+                    "count": 10
+                }
+            }
+        ],
+        "apprentice": [
+            {
+                "type": "numismatic-overhaul:process_item",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 700,
+                "sell": {
+                    "item": "dehydration:iron_leather_flask",
+                    "count": 1
+                },
+                "buy": {
+                    "item": "numismatic-overhaul:bronze_coin",
+                    "count": 50
+                }
+            },
+            {
+                "type": "numismatic-overhaul:process_item",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 200,
+                "sell": {
+                    "item": "dehydration:leather_flask",
+                    "count": 8
+                },
+                "buy": {
+                    "item": "numismatic-overhaul:bronze_coin",
+                    "count": 40
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 200,
+                "sell": {
+                    "item": "dehydration:leather_flask",
+                    "count": 4
+                }
+            }
+        ],
+        "journeyman": [
+            {
+                "type": "numismatic-overhaul:process_item",
+                "villager_experience": 6,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 1600,
+                "sell": {
+                    "item": "dehydration:golden_leather_flask",
+                    "count": 1
+                },
+                "buy": {
+                    "item": "numismatic-overhaul:bronze_coin",
+                    "count": 50
+                }
+            },
+            {
+                "type": "numismatic-overhaul:process_item",
+                "villager_experience": 6,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 100,
+                "sell": {
+                    "item": "minecraft:leather_helmet",
+                    "count": 1
+                },
+                "buy": {
+                    "item": "numismatic-overhaul:bronze_coin",
+                    "count": 50
+                }
+            },
+            {
+                "type": "numismatic-overhaul:process_item",
+                "villager_experience": 6,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 200,
+                "sell": {
+                    "item": "minecraft:leather_chestplate",
+                    "count": 1
+                },
+                "buy": {
+                    "item": "numismatic-overhaul:bronze_coin",
+                    "count": 40
+                }
+            },
+            {
+                "type": "numismatic-overhaul:process_item",
+                "villager_experience": 6,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 200,
+                "sell": {
+                    "item": "minecraft:leather_leggings",
+                    "count": 1
+                },
+                "buy": {
+                    "item": "numismatic-overhaul:bronze_coin",
+                    "count": 10
+                }
+            },
+            {
+                "type": "numismatic-overhaul:process_item",
+                "villager_experience": 6,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 100,
+                "sell": {
+                    "item": "minecraft:leather_boots",
+                    "count": 1
+                },
+                "buy": {
+                    "item": "numismatic-overhaul:bronze_coin",
+                    "count": 20
+                }
+            }
+        ],
+        "expert": [
+            {
+                "type": "numismatic-overhaul:process_item",
+                "villager_experience": 8,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 10000,
+                "sell": {
+                    "item": "dehydration:diamond_leather_flask",
+                    "count": 1
+                },
+                "buy": {
+                    "item": "numismatic-overhaul:silver_coin",
+                    "count": 37
+                }
+            },
+            {
+                "type": "numismatic-overhaul:process_item",
+                "villager_experience": 8,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 200,
+                "sell": {
+                    "item": "environmentz:wolf_helmet",
+                    "count": 1
+                },
+                "buy": {
+                    "item": "numismatic-overhaul:bronze_coin",
+                    "count": 50
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 8,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 200,
+                "sell": {
+                    "item": "environmentz:wolf_boots",
+                    "count": 1
+                }
+            }
+        ],
+        "master": [
+            {
+                "type": "numismatic-overhaul:process_item",
+                "villager_experience": 10,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 20000,
+                "sell": {
+                    "item": "dehydration:diamond_leather_flask",
+                    "count": 1
+                },
+                "buy": {
+                    "item": "numismatic-overhaul:silver_coin",
+                    "count": 90
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 10,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 400,
+                "sell": {
+                    "item": "environmentz:wolf_chestplate",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:process_item",
+                "villager_experience": 10,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 300,
+                "sell": {
+                    "item": "environmentz:wolf_leggings",
+                    "count": 1
+                },
+                "buy": {
+                    "item": "numismatic-overhaul:bronze_coin",
+                    "count": 50
+                }
+            }
+        ]
+    }
+}

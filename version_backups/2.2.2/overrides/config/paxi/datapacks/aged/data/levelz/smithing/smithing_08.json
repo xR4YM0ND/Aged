@@ -1,0 +1,24 @@
+{
+    "replace": true,
+    "level": 8,
+    "item": [
+        "betterend:thallasium_forged_plate",
+        "betterend:thallasium_helmet",
+        "betterend:thallasium_chestplate",
+        "betterend:thallasium_leggings",
+        "betterend:thallasium_boots",
+        "betterend:thallasium_sword_blade",
+        "betterend:thallasium_sword_handle",
+        "betterend:thallasium_sword",
+        "betterend:thallasium_pickaxe_head",
+        "betterend:thallasium_pickaxe",
+        "betterend:thallasium_shovel_head",
+        "betterend:thallasium_shovel",
+        "betterend:thallasium_axe_head",
+        "betterend:thallasium_axe",
+        "betterend:thallasium_hoe_head",
+        "betterend:thallasium_hoe",
+        "betterend:thallasium_block",
+        "betterend:thallasium_hammer"
+    ]
+}

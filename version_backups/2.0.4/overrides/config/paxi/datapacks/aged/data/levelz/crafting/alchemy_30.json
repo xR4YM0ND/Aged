@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "level": 30,
+    "skill": "alchemy",
+    "item": [
+        "betterend:infusion_pedestal",
+        "betterend:respawn_obelisk"
+    ]
+}

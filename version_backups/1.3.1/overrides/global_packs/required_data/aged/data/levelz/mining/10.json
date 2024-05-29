@@ -1,0 +1,24 @@
+{
+    "replace": true,
+    "level": 10,
+    "block": [
+        "minecraft:andesite",
+        "minecraft:andesite_stairs",
+        "minecraft:andesite_slab",
+        "minecraft:andesite_wall",
+        "minecraft:polished_andesite",
+        "minecraft:polished_andesite_stairs",
+        "minecraft:polished_andesite_slab",
+        "universal_ores:andesite_coal_ore",
+        "universal_ores:andesite_copper_ore",
+        "universal_ores:andesite_gold_ore",
+        "minecraft:iron_ore",
+        "universal_ores:calcite_iron_ore",
+        "universal_ores:tuff_iron_ore",
+        "universal_ores:granite_iron_ore",
+        "universal_ores:diorite_iron_ore",
+        "universal_ores:andesite_iron_ore",
+        "minecraft:raw_iron_block",
+        "minecraft:iron_block"
+    ]
+}

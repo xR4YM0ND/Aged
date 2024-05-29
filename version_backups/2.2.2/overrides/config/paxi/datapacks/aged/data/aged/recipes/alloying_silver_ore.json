@@ -1,0 +1,17 @@
+{
+    "type": "bclib:alloying",
+    "smelttime": 1200,
+    "experience": 7.5,
+    "ingredients": [
+        {
+            "tag": "aged:blasting_silver"
+        },
+        {
+            "tag": "aged:blasting_silver"
+        }
+    ],
+    "result": {
+        "count": 3,
+        "item": "geocluster:silver_ingot"
+    }
+}

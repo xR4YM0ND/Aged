@@ -1,0 +1,605 @@
+{
+    "profession": "weaponsmith",
+    "trades": {
+        "novice": [
+            {
+                "type": "numismatic-overhaul:process_item",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 400,
+                "sell": {
+                    "item": "minecraft:golden_sword",
+                    "count": 1
+                },
+                "buy": {
+                    "item": "numismatic-overhaul:bronze_coin",
+                    "count": 50
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 150,
+                "buy": {
+                    "item": "minecraft:golden_sword",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 900,
+                "sell": {
+                    "item": "medievalweapons:golden_long_sword",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 300,
+                "buy": {
+                    "item": "medievalweapons:golden_long_sword",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:process_item",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 200,
+                "sell": {
+                    "item": "medievalweapons:golden_dagger",
+                    "count": 1
+                },
+                "buy": {
+                    "item": "numismatic-overhaul:bronze_coin",
+                    "count": 50
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 75,
+                "buy": {
+                    "item": "medievalweapons:golden_dagger",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:process_item",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 400,
+                "sell": {
+                    "item": "medievalweapons:golden_ninjato",
+                    "count": 1
+                },
+                "buy": {
+                    "item": "numismatic-overhaul:bronze_coin",
+                    "count": 50
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 150,
+                "buy": {
+                    "item": "medievalweapons:golden_ninjato",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:process_item",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 400,
+                "sell": {
+                    "item": "medievalweapons:golden_rapier",
+                    "count": 1
+                },
+                "buy": {
+                    "item": "numismatic-overhaul:bronze_coin",
+                    "count": 50
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 150,
+                "buy": {
+                    "item": "medievalweapons:golden_rapier",
+                    "count": 1
+                }
+            }
+        ],
+        "apprentice": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 300,
+                "sell": {
+                    "item": "betterend:thallasium_sword",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 100,
+                "buy": {
+                    "item": "betterend:thallasium_sword",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 600,
+                "sell": {
+                    "item": "medievalweapons:thallasium_long_sword",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 200,
+                "buy": {
+                    "item": "medievalweapons:thallasium_long_sword",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:process_item",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 100,
+                "sell": {
+                    "item": "medievalweapons:thallasium_dagger",
+                    "count": 1
+                },
+                "buy": {
+                    "item": "numismatic-overhaul:bronze_coin",
+                    "count": 50
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 50,
+                "buy": {
+                    "item": "medievalweapons:thallasium_dagger",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 300,
+                "sell": {
+                    "item": "medievalweapons:thallasium_ninjato",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 100,
+                "buy": {
+                    "item": "medievalweapons:thallasium_ninjato",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 300,
+                "sell": {
+                    "item": "medievalweapons:thallasium_rapier",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 100,
+                "buy": {
+                    "item": "medievalweapons:thallasium_rapier",
+                    "count": 1
+                }
+            }
+        ],
+        "journeyman": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 6,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 1200,
+                "sell": {
+                    "item": "betternether:cincinnasite_sword",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 6,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 400,
+                "buy": {
+                    "item": "betternether:cincinnasite_sword",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 6,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 2400,
+                "sell": {
+                    "item": "medievalweapons:cincinnasite_long_sword",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 6,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 800,
+                "buy": {
+                    "item": "medievalweapons:cincinnasite_long_sword",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 6,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 600,
+                "sell": {
+                    "item": "medievalweapons:cincinnasite_dagger",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 6,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 200,
+                "buy": {
+                    "item": "medievalweapons:cincinnasite_dagger",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 6,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 1200,
+                "sell": {
+                    "item": "medievalweapons:cincinnasite_ninjato",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 6,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 400,
+                "buy": {
+                    "item": "medievalweapons:cincinnasite_ninjato",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 6,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 1200,
+                "sell": {
+                    "item": "medievalweapons:cincinnasite_rapier",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 6,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 400,
+                "buy": {
+                    "item": "medievalweapons:cincinnasite_rapier",
+                    "count": 1
+                }
+            }
+        ],
+        "expert": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 8,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 6000,
+                "sell": {
+                    "item": "minecraft:diamond_sword",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 8,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 2000,
+                "buy": {
+                    "item": "minecraft:diamond_sword",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:process_item",
+                "villager_experience": 8,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 10000,
+                "sell": {
+                    "item": "medievalweapons:diamond_long_sword",
+                    "count": 1
+                },
+                "buy": {
+                    "item": "numismatic-overhaul:silver_coin",
+                    "count": 20
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 8,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 4000,
+                "buy": {
+                    "item": "medievalweapons:diamond_long_sword",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 8,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 3000,
+                "sell": {
+                    "item": "medievalweapons:diamond_dagger",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 8,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 1000,
+                "buy": {
+                    "item": "medievalweapons:diamond_dagger",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 8,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 6000,
+                "sell": {
+                    "item": "medievalweapons:diamond_ninjato",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 8,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 2000,
+                "buy": {
+                    "item": "medievalweapons:diamond_ninjato",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 8,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 6000,
+                "sell": {
+                    "item": "medievalweapons:diamond_rapier",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 8,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 2000,
+                "buy": {
+                    "item": "medievalweapons:diamond_rapier",
+                    "count": 1
+                }
+            }
+        ],
+        "master": [
+            {
+                "type": "numismatic-overhaul:process_item",
+                "villager_experience": 10,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 10000,
+                "sell": {
+                    "item": "betternether:nether_ruby_sword",
+                    "count": 1
+                },
+                "buy": {
+                    "item": "numismatic-overhaul:silver_coin",
+                    "count": 80
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 10,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 2000,
+                "buy": {
+                    "item": "betternether:nether_ruby_sword",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:process_item",
+                "villager_experience": 10,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 30000,
+                "sell": {
+                    "item": "medievalweapons:nether_ruby_long_sword",
+                    "count": 1
+                },
+                "buy": {
+                    "item": "numismatic-overhaul:silver_coin",
+                    "count": 60
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 10,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 4000,
+                "buy": {
+                    "item": "medievalweapons:nether_ruby_long_sword",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 10,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 9000,
+                "sell": {
+                    "item": "medievalweapons:nether_ruby_dagger",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 10,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 1000,
+                "buy": {
+                    "item": "medievalweapons:nether_ruby_dagger",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:process_item",
+                "villager_experience": 10,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 10000,
+                "sell": {
+                    "item": "medievalweapons:nether_ruby_ninjato",
+                    "count": 1
+                },
+                "buy": {
+                    "item": "numismatic-overhaul:silver_coin",
+                    "count": 80
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 10,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 2000,
+                "buy": {
+                    "item": "medievalweapons:nether_ruby_ninjato",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:process_item",
+                "villager_experience": 10,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 10000,
+                "sell": {
+                    "item": "medievalweapons:nether_ruby_rapier",
+                    "count": 1
+                },
+                "buy": {
+                    "item": "numismatic-overhaul:silver_coin",
+                    "count": 80
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 10,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 2000,
+                "buy": {
+                    "item": "medievalweapons:nether_ruby_rapier",
+                    "count": 1
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Sieve",
+    "icon": "earlystage:sieve",
+    "category": "patchouli:get_started_category",
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "earlystage:sieve",
+            "text": "Put an accepted Block in the sieve. -> Right click to sieve the block down.$(br2)All Blocks have different item drops."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Accepted Blocks",
+            "text": "$(li)Grass / Lush Grass$(li)Dirt / Lush Dirt$(li)Coarse Dirt$(li)Rooted Dirt$(li)Rocky Dirt$(li)Gravel$(li)Clay$(li)Sand / Red Sand$(li)Podzol / Mycelium$(li)Moss"
+        }
+    ]
+}

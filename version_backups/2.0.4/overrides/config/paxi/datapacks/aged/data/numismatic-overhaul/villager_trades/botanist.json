@@ -1,0 +1,389 @@
+{
+    "profession": "beautify:botanist",
+    "trades": {
+        "novice": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 3,
+                "price": 24,
+                "sell": {
+                    "item": "minecraft:dandelion",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 3,
+                "price": 24,
+                "sell": {
+                    "item": "minecraft:poppy",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 3,
+                "price": 24,
+                "sell": {
+                    "item": "minecraft:blue_orchid",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 3,
+                "price": 24,
+                "sell": {
+                    "item": "minecraft:allium",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 3,
+                "price": 24,
+                "sell": {
+                    "item": "minecraft:azure_bluet",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 3,
+                "price": 24,
+                "sell": {
+                    "item": "minecraft:red_tulip",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 3,
+                "price": 24,
+                "sell": {
+                    "item": "minecraft:orange_tulip",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 3,
+                "price": 24,
+                "sell": {
+                    "item": "minecraft:white_tulip",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 3,
+                "price": 24,
+                "sell": {
+                    "item": "minecraft:pink_tulip",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 3,
+                "price": 24,
+                "sell": {
+                    "item": "minecraft:oxeye_daisy",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 3,
+                "price": 24,
+                "sell": {
+                    "item": "minecraft:cornflower",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 3,
+                "price": 24,
+                "sell": {
+                    "item": "minecraft:lily_of_the_valley",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 3,
+                "price": 16,
+                "sell": {
+                    "item": "minecraft:brown_mushroom",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 3,
+                "price": 16,
+                "sell": {
+                    "item": "minecraft:red_mushroom",
+                    "count": 4
+                }
+            }
+        ],
+        "apprentice": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 3,
+                "price": 16,
+                "sell": {
+                    "item": "minecraft:crimson_fungus",
+                    "count": 2
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 3,
+                "price": 16,
+                "sell": {
+                    "item": "minecraft:warped_fungus",
+                    "count": 2
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 3,
+                "price": 24,
+                "sell": {
+                    "item": "minecraft:sunflower",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 3,
+                "price": 24,
+                "sell": {
+                    "item": "minecraft:lilac",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 3,
+                "price": 24,
+                "sell": {
+                    "item": "minecraft:rose_bush",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 3,
+                "price": 24,
+                "sell": {
+                    "item": "minecraft:peony",
+                    "count": 4
+                }
+            }
+        ],
+        "journeyman": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 48,
+                "sell": {
+                    "item": "ecologics:azalea_flower",
+                    "count": 2
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 3,
+                "price": 48,
+                "sell": {
+                    "item": "minecraft:azalea_leaves",
+                    "count": 6
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 48,
+                "sell": {
+                    "item": "minecraft:flowering_azalea_leaves",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "price_multiplier": 0.0,
+                "max_uses": 3,
+                "price": 72,
+                "sell": {
+                    "item": "minecraft:flower_pot",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 30,
+                "sell": {
+                    "item": "minecraft:small_dripleaf",
+                    "count": 2
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 40,
+                "sell": {
+                    "item": "minecraft:big_dripleaf",
+                    "count": 2
+                }
+            }
+        ],
+        "expert": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 32,
+                "sell": {
+                    "item": "minecraft:sea_pickle",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 32,
+                "sell": {
+                    "item": "minecraft:lily_pad",
+                    "count": 16
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 5,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 300,
+                "sell": {
+                    "item": "betternether:nether_reed_stem",
+                    "count": 3
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 3,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 144,
+                "sell": {
+                    "item": "beautify:hanging_pot",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 3,
+                "price": 30,
+                "sell": {
+                    "item": "minecraft:cobweb",
+                    "count": 3
+                }
+            }
+        ],
+        "master": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 5,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 200,
+                "sell": {
+                    "item": "minecraft:wither_rose",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 5,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 300,
+                "sell": {
+                    "item": "minecraft:spore_blossom",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 3,
+                "price": 200,
+                "sell": {
+                    "item": "minecraft:hanging_roots",
+                    "count": 4
+                }
+            }
+        ]
+    }
+}

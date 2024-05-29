@@ -1,0 +1,7 @@
+{
+	"color": "ffe89c",
+	"flowing_texture": "minecraft:block/water_flow",
+	"from_mod": "alexsmobs",
+	"still_texture": "minecraft:block/water_still",
+	"translation_key": "item.alexsmobs.fish_oil"
+}

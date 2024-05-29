@@ -1,0 +1,27 @@
+{
+	"feature": "minecraft:salt_ore_feature",
+	"placement": [
+		{
+			"count": 6,
+			"type": "minecraft:count"
+		},
+		{
+			"type": "minecraft:in_square"
+		},
+		{
+			"height": {
+				"max_inclusive": {
+					"absolute": 60
+				},
+				"min_inclusive": {
+					"absolute": -20
+				},
+				"type": "minecraft:trapezoid"
+			},
+			"type": "minecraft:height_range"
+		},
+		{
+			"type": "minecraft:biome"
+		}
+	]
+}

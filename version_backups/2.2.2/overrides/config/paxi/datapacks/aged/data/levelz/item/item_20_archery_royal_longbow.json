@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "archery",
+    "level": 20,
+    "item": "minecraft:custom_item",
+    "object": "archers:royal_longbow"
+}

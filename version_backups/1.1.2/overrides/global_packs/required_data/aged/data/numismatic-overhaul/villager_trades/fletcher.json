@@ -1,0 +1,235 @@
+{
+    "profession": "fletcher",
+    "trades": {
+        "novice": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 20,
+                "sell": {
+                    "item": "minecraft:feather",
+                    "count": 1
+                },
+                "max_uses": 16
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "price": 3,
+                "buy": {
+                    "item": "minecraft:feather",
+                    "count": 1
+                },
+                "max_uses": 16
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 20,
+                "sell": {
+                    "item": "minecraft:flint",
+                    "count": 1
+                },
+                "max_uses": 16
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "price": 4,
+                "buy": {
+                    "item": "minecraft:flint",
+                    "count": 1
+                },
+                "max_uses": 16
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "max_uses": 16,
+                "price": 4,
+                "sell": {
+                    "item": "medievalweapons:wooden_javelin",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "max_uses": 16,
+                "price": 4,
+                "sell": {
+                    "item": "medievalweapons:wooden_lance",
+                    "count": 1
+                }
+            }
+        ],
+        "apprentice": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 60,
+                "sell": {
+                    "item": "minecraft:arrow",
+                    "count": 8
+                },
+                "max_uses": 12
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "price": 12,
+                "buy": {
+                    "item": "minecraft:arrow",
+                    "count": 8
+                },
+                "max_uses": 12
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "max_uses": 12,
+                "price": 12,
+                "sell": {
+                    "item": "medievalweapons:stone_javelin",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "max_uses": 12,
+                "price": 12,
+                "sell": {
+                    "item": "medievalweapons:stone_lance",
+                    "count": 1
+                }
+            }
+        ],
+        "journeyman": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "max_uses": 8,
+                "price": 50,
+                "sell": {
+                    "item": "minecraft:bow",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "max_uses": 8,
+                "price": 50,
+                "sell": {
+                    "item": "minecraft:crossbow",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "max_uses": 8,
+                "price": 60,
+                "sell": {
+                    "item": "medievalweapons:golden_javelin",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "max_uses": 8,
+                "price": 60,
+                "sell": {
+                    "item": "medievalweapons:golden_lance",
+                    "count": 1
+                }
+            }
+        ],
+        "expert": [
+            {
+                "type": "numismatic-overhaul:enchant_item",
+                "max_uses": 6,
+                "level": 30,
+                "allow_treasure": false,
+                "item": {
+                  "item": "minecraft:bow"
+                },
+                "base_price": 2000
+            },
+            {
+                "type": "numismatic-overhaul:enchant_item",
+                "max_uses": 6,
+                "level": 30,
+                "allow_treasure": false,
+                "item": {
+                  "item": "minecraft:crossbow"
+                },
+                "base_price": 2000
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "max_uses": 6,
+                "price": 40,
+                "sell": {
+                    "item": "medievalweapons:iron_javelin",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "max_uses": 6,
+                "price": 45,
+                "sell": {
+                    "item": "medievalweapons:iron_lance",
+                    "count": 1
+                }
+            }
+        ],
+        "master": [
+            {
+                "type": "numismatic-overhaul:enchant_item",
+                "max_uses": 4,
+                "level": 30,
+                "allow_treasure": false,
+                "item": {
+                  "item": "medievalweapons:long_bow"
+                },
+                "base_price": 7000
+            },
+            {
+                "type": "numismatic-overhaul:enchant_item",
+                "max_uses": 4,
+                "level": 30,
+                "allow_treasure": false,
+                "item": {
+                  "item": "medievalweapons:recurve_bow"
+                },
+                "base_price": 7000
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 10000,
+                "sell": {
+                    "item": "minecraft:spectral_arrow",
+                    "count": 32
+                },
+                "max_uses": 4
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 20000,
+                "sell": {
+                    "item": "adventurez:ivory_arrow",
+                    "count": 32
+                },
+                "max_uses": 4
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "max_uses": 4,
+                "price": 500,
+                "sell": {
+                    "item": "medievalweapons:diamond_javelin",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "max_uses": 4,
+                "price": 500,
+                "sell": {
+                    "item": "medievalweapons:diamond_lance",
+                    "count": 1
+                }
+            }
+        ]
+    }
+}

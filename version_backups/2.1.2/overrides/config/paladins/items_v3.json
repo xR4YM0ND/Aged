@@ -1,0 +1,466 @@
+{
+  "weapons": {
+    "iron_claymore": {
+      "attack_damage": 8.0,
+      "attack_speed": -3.0,
+      "attributes": [
+        {
+          "id": "spell_power:healing",
+          "value": 0.0,
+          "operation": "ADDITION"
+        }
+      ]
+    },
+    "iron_mace": {
+      "attack_damage": 6.0,
+      "attack_speed": -2.8,
+      "attributes": [
+        {
+          "id": "spell_power:healing",
+          "value": 0.0,
+          "operation": "ADDITION"
+        }
+      ]
+    },
+    "diamond_claymore": {
+      "attack_damage": 9.5,
+      "attack_speed": -3.0,
+      "attributes": [
+        {
+          "id": "spell_power:healing",
+          "value": 0.0,
+          "operation": "ADDITION"
+        }
+      ]
+    },
+    "golden_mace": {
+      "attack_damage": 5.0,
+      "attack_speed": -2.8,
+      "attributes": [
+        {
+          "id": "spell_power:healing",
+          "value": 0.0,
+          "operation": "ADDITION"
+        }
+      ]
+    },
+    "aeternium_great_hammer": {
+      "attack_damage": 14.0,
+      "attack_speed": -3.2,
+      "attributes": [
+        {
+          "id": "spell_power:healing",
+          "value": 0.0,
+          "operation": "ADDITION"
+        }
+      ]
+    },
+    "netherite_holy_wand": {
+      "attack_damage": 2.0,
+      "attack_speed": -2.4,
+      "attributes": [
+        {
+          "id": "spell_power:healing",
+          "value": 3.0,
+          "operation": "ADDITION"
+        }
+      ]
+    },
+    "wooden_great_hammer": {
+      "attack_damage": 5.0,
+      "attack_speed": -3.2,
+      "attributes": [
+        {
+          "id": "spell_power:healing",
+          "value": 0.0,
+          "operation": "ADDITION"
+        }
+      ]
+    },
+    "stone_great_hammer": {
+      "attack_damage": 8.0,
+      "attack_speed": -3.2,
+      "attributes": [
+        {
+          "id": "spell_power:healing",
+          "value": 0.0,
+          "operation": "ADDITION"
+        }
+      ]
+    },
+    "diamond_mace": {
+      "attack_damage": 8.0,
+      "attack_speed": -2.8,
+      "attributes": [
+        {
+          "id": "spell_power:healing",
+          "value": 0.0,
+          "operation": "ADDITION"
+        }
+      ]
+    },
+    "iron_great_hammer": {
+      "attack_damage": 10.0,
+      "attack_speed": -3.2,
+      "attributes": [
+        {
+          "id": "spell_power:healing",
+          "value": 0.0,
+          "operation": "ADDITION"
+        }
+      ]
+    },
+    "golden_great_hammer": {
+      "attack_damage": 10.0,
+      "attack_speed": -3.2,
+      "attributes": [
+        {
+          "id": "spell_power:healing",
+          "value": 0.0,
+          "operation": "ADDITION"
+        }
+      ]
+    },
+    "aeternium_claymore": {
+      "attack_damage": 12.0,
+      "attack_speed": -3.0,
+      "attributes": [
+        {
+          "id": "spell_power:healing",
+          "value": 0.0,
+          "operation": "ADDITION"
+        }
+      ]
+    },
+    "netherite_claymore": {
+      "attack_damage": 11.0,
+      "attack_speed": -3.0,
+      "attributes": [
+        {
+          "id": "spell_power:healing",
+          "value": 0.0,
+          "operation": "ADDITION"
+        }
+      ]
+    },
+    "diamond_holy_staff": {
+      "attack_damage": 4.0,
+      "attack_speed": -3.0,
+      "attributes": [
+        {
+          "id": "spell_power:healing",
+          "value": 4.0,
+          "operation": "ADDITION"
+        }
+      ]
+    },
+    "golden_claymore": {
+      "attack_damage": 5.0,
+      "attack_speed": -3.0,
+      "attributes": [
+        {
+          "id": "spell_power:healing",
+          "value": 0.0,
+          "operation": "ADDITION"
+        }
+      ]
+    },
+    "holy_staff": {
+      "attack_damage": 4.0,
+      "attack_speed": -3.0,
+      "attributes": [
+        {
+          "id": "spell_power:healing",
+          "value": 3.0,
+          "operation": "ADDITION"
+        }
+      ]
+    },
+    "acolyte_wand": {
+      "attack_damage": 2.0,
+      "attack_speed": -2.4,
+      "attributes": [
+        {
+          "id": "spell_power:healing",
+          "value": 1.0,
+          "operation": "ADDITION"
+        }
+      ]
+    },
+    "ruby_holy_staff": {
+      "attack_damage": 4.0,
+      "attack_speed": -3.0,
+      "attributes": [
+        {
+          "id": "spell_power:healing",
+          "value": 6.0,
+          "operation": "ADDITION"
+        }
+      ]
+    },
+    "stone_claymore": {
+      "attack_damage": 7.5,
+      "attack_speed": -3.0,
+      "attributes": [
+        {
+          "id": "spell_power:healing",
+          "value": 0.0,
+          "operation": "ADDITION"
+        }
+      ]
+    },
+    "diamond_great_hammer": {
+      "attack_damage": 11.0,
+      "attack_speed": -3.2,
+      "attributes": [
+        {
+          "id": "spell_power:healing",
+          "value": 0.0,
+          "operation": "ADDITION"
+        }
+      ]
+    },
+    "netherite_holy_staff": {
+      "attack_damage": 4.0,
+      "attack_speed": -3.0,
+      "attributes": [
+        {
+          "id": "spell_power:healing",
+          "value": 5.0,
+          "operation": "ADDITION"
+        }
+      ]
+    },
+    "holy_wand": {
+      "attack_damage": 2.0,
+      "attack_speed": -2.4,
+      "attributes": [
+        {
+          "id": "spell_power:healing",
+          "value": 2.0,
+          "operation": "ADDITION"
+        }
+      ]
+    },
+    "netherite_great_hammer": {
+      "attack_damage": 13.0,
+      "attack_speed": -3.2,
+      "attributes": [
+        {
+          "id": "spell_power:healing",
+          "value": 0.0,
+          "operation": "ADDITION"
+        }
+      ]
+    },
+    "netherite_mace": {
+      "attack_damage": 9.0,
+      "attack_speed": -2.8,
+      "attributes": [
+        {
+          "id": "spell_power:healing",
+          "value": 0.0,
+          "operation": "ADDITION"
+        }
+      ]
+    }
+  },
+  "armor_sets": {
+    "crusader_armor": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "spell_power:healing",
+            "value": 1.0,
+            "operation": "ADDITION"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 6,
+        "attributes": [
+          {
+            "id": "spell_power:healing",
+            "value": 1.0,
+            "operation": "ADDITION"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 5,
+        "attributes": [
+          {
+            "id": "spell_power:healing",
+            "value": 1.0,
+            "operation": "ADDITION"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "spell_power:healing",
+            "value": 1.0,
+            "operation": "ADDITION"
+          }
+        ]
+      }
+    },
+    "prior_robe": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 1,
+        "attributes": [
+          {
+            "id": "spell_power:healing",
+            "value": 0.25,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "spell_power:haste",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 3,
+        "attributes": [
+          {
+            "id": "spell_power:healing",
+            "value": 0.25,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "spell_power:haste",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "spell_power:healing",
+            "value": 0.25,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "spell_power:haste",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 1,
+        "attributes": [
+          {
+            "id": "spell_power:healing",
+            "value": 0.25,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "spell_power:haste",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      }
+    },
+    "priest_robe": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 1,
+        "attributes": [
+          {
+            "id": "spell_power:healing",
+            "value": 1.0,
+            "operation": "ADDITION"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 3,
+        "attributes": [
+          {
+            "id": "spell_power:healing",
+            "value": 1.0,
+            "operation": "ADDITION"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "spell_power:healing",
+            "value": 1.0,
+            "operation": "ADDITION"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 1,
+        "attributes": [
+          {
+            "id": "spell_power:healing",
+            "value": 1.0,
+            "operation": "ADDITION"
+          }
+        ]
+      }
+    },
+    "paladin_armor": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "spell_power:healing",
+            "value": 0.5,
+            "operation": "ADDITION"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 6,
+        "attributes": [
+          {
+            "id": "spell_power:healing",
+            "value": 0.5,
+            "operation": "ADDITION"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 5,
+        "attributes": [
+          {
+            "id": "spell_power:healing",
+            "value": 0.5,
+            "operation": "ADDITION"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "spell_power:healing",
+            "value": 0.5,
+            "operation": "ADDITION"
+          }
+        ]
+      }
+    }
+  }
+}

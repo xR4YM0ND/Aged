@@ -1,0 +1,11 @@
+{
+    "replace": true,
+    "level": 19,
+    "item": [
+        "betterend:terminite_sword_blade",
+        "betterend:terminite_sword_handle",
+        "betterend:terminite_sword",
+        "betterend:terminite_block",
+        "betterend:terminite_hammer"
+    ]
+}

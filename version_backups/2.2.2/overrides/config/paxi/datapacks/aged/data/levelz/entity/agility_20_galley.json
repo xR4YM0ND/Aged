@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "agility",
+    "level": 20,
+    "entity": "minecraft:custom_entity",
+    "object": "smallships:galley"
+}

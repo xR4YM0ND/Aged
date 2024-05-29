@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "geocluster:raw_silver"
+        }
+    ],
+    "result": {
+        "count": 9,
+        "item": "agedaddition:raw_silver_nugget"
+    }
+}

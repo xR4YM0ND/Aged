@@ -1,0 +1,167 @@
+{
+    "profession": "mason",
+    "trades": {
+        "novice": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "max_uses": 16,
+                "price": 8,
+                "sell": {
+                    "item": "minecraft:stone_bricks",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "max_uses": 16,
+                "price": 16,
+                "sell": {
+                    "item": "minecraft:mossy_stone_bricks",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "max_uses": 16,
+                "price": 16,
+                "sell": {
+                    "item": "minecraft:chiseled_stone_bricks",
+                    "count": 8
+                }
+            }
+        ],
+        "apprentice": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "max_uses": 12,
+                "price": 32,
+                "sell": {
+                    "item": "minecraft:bricks",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "max_uses": 12,
+                "price": 32,
+                "sell": {
+                    "item": "byg:red_rock_bricks",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "max_uses": 12,
+                "price": 60,
+                "sell": {
+                    "item": "architects_palette:olivestone_bricks",
+                    "count": 16
+                }
+            }
+        ],
+        "journeyman": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 3,
+                "max_uses": 8,
+                "price": 64,
+                "sell": {
+                    "item": "architects_palette:dripstone_bricks",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 3,
+                "max_uses": 8,
+                "price": 8,
+                "buy": {
+                    "item": "architects_palette:dripstone_bricks",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 3,
+                "max_uses": 8,
+                "price": 100,
+                "sell": {
+                    "item": "architects_palette:myonite",
+                    "count": 16
+                }
+            }
+        ],
+        "expert": [
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 4,
+                "max_uses": 8,
+                "price": 20,
+                "buy": {
+                    "item": "minecraft:quartz_block",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 4,
+                "max_uses": 8,
+                "price": 200,
+                "sell": {
+                    "item": "minecraft:quartz_block",
+                    "count": 1
+                }
+            }
+        ],
+        "master": [
+            {
+                "type": "numismatic-overhaul:process_item",
+                "villager_experience": 5,
+                "max_uses": 4,
+                "price": 100,
+                "buy": {
+                    "item": "numismatic-overhaul:bronze_coin",
+                    "count": 28
+                },
+                "sell": {
+                    "item": "minecraft:polished_blackstone_bricks",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:process_item",
+                "villager_experience": 5,
+                "max_uses": 4,
+                "price": 200,
+                "buy": {
+                    "item": "numismatic-overhaul:bronze_coin",
+                    "count": 56
+                },
+                "sell": {
+                    "item": "twigs:twisting_polished_blackstone_bricks",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:process_item",
+                "villager_experience": 5,
+                "max_uses": 4,
+                "price": 200,
+                "buy": {
+                    "item": "numismatic-overhaul:bronze_coin",
+                    "count": 56
+                },
+                "sell": {
+                    "item": "twigs:weeping_polished_blackstone_bricks",
+                    "count": 8
+                }
+            }
+        ]
+    }
+}

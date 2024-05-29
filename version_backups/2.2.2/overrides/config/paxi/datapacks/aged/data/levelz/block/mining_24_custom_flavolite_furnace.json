@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "mining",
+    "level": 24,
+    "block": "minecraft:custom_block",
+    "object": "betterend:flavolite_furnace"
+}

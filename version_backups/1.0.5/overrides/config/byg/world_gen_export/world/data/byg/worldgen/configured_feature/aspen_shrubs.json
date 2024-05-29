@@ -1,0 +1,18 @@
+{
+	"config": {
+		"default": {
+			"feature": "byg:aspen_shrub2",
+			"placement": []
+		},
+		"features": [
+			{
+				"chance": 0.5,
+				"feature": {
+					"feature": "byg:aspen_shrub1",
+					"placement": []
+				}
+			}
+		]
+	},
+	"type": "minecraft:random_selector"
+}

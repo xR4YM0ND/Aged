@@ -1,0 +1,12 @@
+{
+    "name": "Ships",
+    "icon": "smallships:oak_cog",
+    "category": "patchouli:7_technology_category",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(br2)$(l)! Page under construction !"
+        }
+    ]
+}

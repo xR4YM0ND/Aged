@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "level": 27,
+    "skill": "mining",
+    "item": [
+        "betternether:cincinnasite_pickaxe_diamond",
+        "betternether:cincinnasite_shovel_diamond"
+    ]
+}

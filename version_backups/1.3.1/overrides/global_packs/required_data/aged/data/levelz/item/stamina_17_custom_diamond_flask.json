@@ -1,0 +1,7 @@
+{
+    "replace": true,
+    "skill": "stamina",
+    "level": 17,
+    "item": "minecraft:custom_item",
+    "object": "dehydration:diamond_leather_flask"
+}

@@ -1,0 +1,16 @@
+{
+	"feature": "byg:withering_oak_trees",
+	"placement": [
+		{
+			"count": 4,
+			"type": "minecraft:count_on_every_layer"
+		},
+		{
+			"chance": 3,
+			"type": "minecraft:rarity_filter"
+		},
+		{
+			"type": "minecraft:biome"
+		}
+	]
+}

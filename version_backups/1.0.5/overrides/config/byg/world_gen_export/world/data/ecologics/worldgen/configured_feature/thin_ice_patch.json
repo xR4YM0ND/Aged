@@ -1,0 +1,29 @@
+{
+	"config": {
+		"half_height": 1,
+		"radius": {
+			"type": "minecraft:uniform",
+			"value": {
+				"max_inclusive": 3,
+				"min_inclusive": 2
+			}
+		},
+		"state_provider": {
+			"fallback": {
+				"state": {
+					"Name": "ecologics:thin_ice",
+					"Properties": {
+						"age": "0"
+					}
+				},
+				"type": "minecraft:simple_state_provider"
+			},
+			"rules": []
+		},
+		"target": {
+			"blocks": "minecraft:ice",
+			"type": "minecraft:matching_blocks"
+		}
+	},
+	"type": "ecologics:thin_ice"
+}

@@ -1,0 +1,17 @@
+{
+    "type": "bclib:alloying",
+    "smelttime": 600,
+    "experience": 1.5,
+    "ingredients": [
+        {
+            "tag": "aged:blasting_coal"
+        },
+        {
+            "tag": "aged:blasting_coal"
+        }
+    ],
+    "result": {
+        "count": 3,
+        "item": "minecraft:coal"
+    }
+}

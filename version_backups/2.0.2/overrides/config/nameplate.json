@@ -1,0 +1,24 @@
+{
+  "levelMultiplier": 30,
+  "nameColor": 553648127,
+  "backgroundColor": -1,
+  "backgroundOpacity": 0.4,
+  "nameplateHeight": 0.5,
+  "nameplateSize": -0.025,
+  "showHealth": false,
+  "showLevel": true,
+  "showHostileOnly": false,
+  "squaredDistance": 128.0,
+  "showNameplateIfObstructed": false,
+  "excludedEntities": [
+    "minecraft:ender_dragon",
+    "minecraft:wither",
+    "minecraft:warden",
+    "adventurez:stone_golem",
+    "adventurez:void_shadow",
+    "adventurez:the_eye",
+    "minecraft:villager",
+    "minecraft:wandering_trader",
+    "vinery:wandering_winemaker"
+  ]
+}

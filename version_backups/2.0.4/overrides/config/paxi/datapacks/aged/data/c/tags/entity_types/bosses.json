@@ -1,0 +1,10 @@
+{
+  "replace": true,
+  "values": [
+    "minecraft:ender_dragon",
+    "minecraft:wither",
+    "adventurez:stone_golem",
+    "adventurez:the_eye",
+    "adventurez:void_shadow"
+  ]
+}

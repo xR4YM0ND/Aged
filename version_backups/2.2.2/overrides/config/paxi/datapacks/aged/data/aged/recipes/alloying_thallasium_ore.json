@@ -1,0 +1,17 @@
+{
+    "type": "bclib:alloying",
+    "smelttime": 2100,
+    "experience": 6,
+    "ingredients": [
+        {
+            "tag": "aged:blasting_thallasium"
+        },
+        {
+            "tag": "aged:blasting_thallasium"
+        }
+    ],
+    "result": {
+        "count": 3,
+        "item": "betterend:thallasium_ingot"
+    }
+}

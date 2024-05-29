@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "skill": "smithing",
+    "level": 18,
+    "item": [
+        "betterend:terminite_helmet",
+        "betterend:terminite_chestplate",
+        "betterend:terminite_leggings",
+        "betterend:terminite_boots"
+    ]
+}

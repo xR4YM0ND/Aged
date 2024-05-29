@@ -1,0 +1,298 @@
+{
+    "1": {
+        "replace": true,
+        "crafting": [
+            "earlystage:flint_sword",
+            "earlystage:flint_shovel",
+            "earlystage:flint_pickaxe",
+            "earlystage:flint_axe",
+            "earlystage:flint_hoe",
+            "farmersdelight:flint_knife",
+            "minecraft:leather_helmet",
+            "minecraft:leather_chestplate",
+            "minecraft:leather_leggings",
+            "minecraft:leather_boots"
+        ]
+    },
+    "2": {
+        "replace": true,
+        "crafting": [
+            "minecraft:wooden_axe",
+            "minecraft:wooden_hoe",
+            "minecraft:wooden_sword",
+            "minecraft:wooden_shovel",
+            "minecraft:wooden_pickaxe",
+            "medievalweapons:wooden_small_axe",
+            "medievalweapons:wooden_long_sword",
+            "medievalweapons:wooden_dagger",
+            "medievalweapons:wooden_francisca",
+            "medievalweapons:wooden_big_axe",
+            "medievalweapons:wooden_javelin",
+            "medievalweapons:wooden_lance",
+            "medievalweapons:wooden_healing_staff",
+            "medievalweapons:wooden_mace",
+            "medievalweapons:wooden_ninjato",
+            "medievalweapons:wooden_sickle",
+            "medievalweapons:wooden_rapier",
+            "environmentz:wolf_helmet",
+            "environmentz:wolf_chestplate",
+            "environmentz:wolf_leggings",
+            "environmentz:wolf_boots",
+            "immersive_armors:wooden_helmet",
+            "immersive_armors:wooden_chestplate",
+            "immersive_armors:wooden_leggings",
+            "immersive_armors:wooden_boots",
+            "minecraft:shield",
+            "minecraft:arrow"
+        ]
+    },
+    "3": {
+        "replace": true,
+        "crafting": [
+            "minecraft:stone_axe",
+            "minecraft:stone_hoe",
+            "minecraft:stone_sword",
+            "minecraft:stone_shovel",
+            "minecraft:stone_pickaxe",
+            "medievalweapons:stone_small_axe",
+            "medievalweapons:stone_long_sword",
+            "medievalweapons:stone_dagger",
+            "medievalweapons:stone_francisca",
+            "medievalweapons:stone_big_axe",
+            "medievalweapons:stone_javelin",
+            "medievalweapons:stone_lance",
+            "medievalweapons:stone_healing_staff",
+            "medievalweapons:stone_mace",
+            "medievalweapons:stone_ninjato",
+            "medievalweapons:stone_sickle",
+            "medievalweapons:stone_rapier",
+            "immersive_armors:bone_helmet",
+            "immersive_armors:bone_chestplate",
+            "immersive_armors:bone_leggings",
+            "immersive_armors:bone_boots",
+            "minecraft:leather_horse_armor"
+        ]
+    },
+    "4": {
+        "replace": true,
+        "crafting": [
+            "immersive_armors:slime_helmet",
+            "immersive_armors:slime_chestplate",
+            "immersive_armors:slime_leggings",
+            "immersive_armors:slime_boots"
+        ]
+    },
+    "5": {
+        "replace": true,
+        "crafting": [
+            "minecraft:golden_sword",
+            "minecraft:golden_shovel",
+            "minecraft:golden_pickaxe",
+            "minecraft:golden_axe",
+            "minecraft:golden_hoe",
+            "farmersdelight:golden_knife",
+            "medievalweapons:golden_small_axe",
+            "medievalweapons:golden_long_sword",
+            "medievalweapons:golden_dagger",
+            "medievalweapons:golden_francisca",
+            "medievalweapons:golden_big_axe",
+            "medievalweapons:golden_javelin",
+            "medievalweapons:golden_lance",
+            "medievalweapons:golden_healing_staff",
+            "medievalweapons:golden_mace",
+            "medievalweapons:golden_ninjato",
+            "medievalweapons:golden_sickle",
+            "medievalweapons:golden_rapier",
+            "minecraft:golden_helmet",
+            "minecraft:golden_chestplate",
+            "minecraft:golden_leggings",
+            "minecraft:golden_boots",
+            "immersive_armors:robe_helmet",
+            "immersive_armors:robe_chestplate",
+            "immersive_armors:robe_leggings",
+            "immersive_armors:robe_boots",
+            "minecraft:turtle_helmet",
+            "minecraft:trident"
+        ]
+    },
+    "6": {
+        "replace": true,
+        "crafting": [
+            "minecraft:chainmail_helmet",
+            "minecraft:chainmail_chestplate",
+            "minecraft:chainmail_leggings",
+            "minecraft:chainmail_boots",
+            "immersive_armors:warrior_helmet",
+            "immersive_armors:warrior_chestplate",
+            "immersive_armors:warrior_leggings",
+            "immersive_armors:warrior_boots"
+        ]
+    },
+    "7": {
+        "replace": true,
+        "crafting": [
+            "minecraft:iron_sword",
+            "minecraft:iron_shovel",
+            "minecraft:iron_pickaxe",
+            "minecraft:iron_axe",
+            "minecraft:iron_hoe",
+            "farmersdelight:iron_knife",
+            "medievalweapons:iron_small_axe",
+            "medievalweapons:iron_long_sword",
+            "medievalweapons:iron_dagger",
+            "medievalweapons:iron_francisca",
+            "medievalweapons:iron_big_axe",
+            "medievalweapons:iron_javelin",
+            "medievalweapons:iron_lance",
+            "medievalweapons:iron_healing_staff",
+            "medievalweapons:iron_mace",
+            "medievalweapons:iron_ninjato",
+            "medievalweapons:iron_sickle",
+            "medievalweapons:iron_rapier",
+            "minecraft:iron_helmet",
+            "minecraft:iron_chestplate",
+            "minecraft:iron_leggings",
+            "minecraft:iron_boots"
+        ]
+    },
+    "8": {
+        "replace": true,
+        "crafting": [
+            "immersive_armors:wither_helmet",
+            "immersive_armors:wither_chestplate",
+            "immersive_armors:wither_leggings",
+            "immersive_armors:wither_boots"
+        ]
+    },
+    "9": {
+        "replace": true,
+        "crafting": [
+            "immersive_armors:heavy_helmet",
+            "immersive_armors:heavy_chestplate",
+            "immersive_armors:heavy_leggings",
+            "immersive_armors:heavy_boots"
+        ]
+    },
+    "10": {
+        "replace": true,
+        "crafting": [
+            "immersive_armors:divine_helmet",
+            "immersive_armors:divine_chestplate",
+            "immersive_armors:divine_leggings",
+            "immersive_armors:divine_boots",
+            "minecraft:elytra"
+        ]
+    },
+    "12": {
+        "replace": true,
+        "crafting": [
+            "immersive_armors:prismarine_helmet",
+            "immersive_armors:prismarine_chestplate",
+            "immersive_armors:prismarine_leggings",
+            "immersive_armors:prismarine_boots"
+        ]
+    },
+    "13": {
+        "replace": true,
+        "crafting": [
+            "minecraft:diamond_sword",
+            "minecraft:diamond_shovel",
+            "minecraft:diamond_pickaxe",
+            "minecraft:diamond_axe",
+            "minecraft:diamond_hoe",
+            "farmersdelight:diamond_knife",
+            "medievalweapons:diamond_small_axe",
+            "medievalweapons:diamond_long_sword",
+            "medievalweapons:diamond_dagger",
+            "medievalweapons:diamond_francisca",
+            "medievalweapons:diamond_big_axe",
+            "medievalweapons:diamond_javelin",
+            "medievalweapons:diamond_lance",
+            "medievalweapons:diamond_healing_staff",
+            "medievalweapons:diamond_mace",
+            "medievalweapons:diamond_ninjato",
+            "medievalweapons:diamond_sickle",
+            "medievalweapons:diamond_rapier",
+            "minecraft:diamond_helmet",
+            "minecraft:diamond_chestplate",
+            "minecraft:diamond_leggings",
+            "minecraft:diamond_boots"
+        ]
+    },
+    "15": {
+        "replace": true,
+        "crafting": [
+            "immersive_armors:steampunk_helmet",
+            "immersive_armors:steampunk_chestplate",
+            "immersive_armors:steampunk_leggings",
+            "immersive_armors:steampunk_boots"
+        ]
+    },
+    "20": {
+        "replace": true,
+        "crafting": [
+            "minecraft:netherite_sword",
+            "minecraft:netherite_shovel",
+            "minecraft:netherite_pickaxe",
+            "minecraft:netherite_axe",
+            "minecraft:netherite_hoe",
+            "farmersdelight:netherite_knife",
+            "medievalweapons:netherite_small_axe",
+            "medievalweapons:netherite_long_sword",
+            "medievalweapons:netherite_dagger",
+            "medievalweapons:netherite_francisca",
+            "medievalweapons:netherite_big_axe",
+            "medievalweapons:netherite_javelin",
+            "medievalweapons:netherite_lance",
+            "medievalweapons:netherite_healing_staff",
+            "medievalweapons:netherite_mace",
+            "medievalweapons:netherite_ninjato",
+            "medievalweapons:netherite_sickle",
+            "medievalweapons:netherite_rapier",
+            "minecraft:netherite_helmet",
+            "minecraft:netherite_chestplate",
+            "minecraft:netherite_leggings",
+            "minecraft:netherite_boots",
+            "guarding:netherite_shield"
+        ]
+    },
+    "25": {
+        "replace": true,
+        "crafting": [
+            "adventurez:stone_golem_helmet",
+            "adventurez:stone_golem_chestplate",
+            "adventurez:stone_golem_leggings",
+            "adventurez:stone_golem_boots"
+        ]
+    },
+    "30": {
+        "replace": true,
+        "crafting": [
+            "byg:pendorite_axe",
+            "byg:pendorite_pickaxe",
+            "byg:pendorite_sword",
+            "byg:pendorite_battleaxe",
+            "byg:pendorite_shovel",
+            "byg:pendorite_hoe",
+            "medievalweapons:pendorite_small_axe",
+            "medievalweapons:pendorite_long_sword",
+            "medievalweapons:pendorite_dagger",
+            "medievalweapons:pendorite_francisca",
+            "medievalweapons:pendorite_big_axe",
+            "medievalweapons:pendorite_javelin",
+            "medievalweapons:pendorite_lance",
+            "medievalweapons:pendorite_healing_staff",
+            "medievalweapons:pendorite_mace",
+            "medievalweapons:pendorite_ninjato",
+            "medievalweapons:pendorite_sickle",
+            "medievalweapons:pendorite_rapier",
+            "farmersknives:pendorite_knife",
+            "byg:ametrine_helmet",
+            "byg:ametrine_chestplate",
+            "byg:ametrine_leggings",
+            "byg:ametrine_boots",
+            "byg:ametrine_horse_armor",
+            "byg:pendorite_horse_armor"
+        ]
+    }
+}

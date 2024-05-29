@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "agility",
+    "level": 10,
+    "entity": "minecraft:custom_entity",
+    "object": "snifferplus:stone_pine_chest_boat"
+}

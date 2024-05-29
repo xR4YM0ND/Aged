@@ -1,0 +1,27 @@
+{
+    "name": "First Things",
+    "icon": "minecraft:campfire",
+    "category": "patchouli:0_get_started_category",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": {
+                "tag": "c:axes"
+            },
+            "title": "Strip Logs",
+            "text": "After you stripped some logs, you'll get bark which is used to light a campfire early game."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Campfire",
+            "text": "The campfire provides you with a heat source, a way to boil water bottles, to cook food & more.$(br2)Use bark to enlight it."
+        },
+        {
+            "type": "patchouli:smelting",
+            "recipe": "minecraft:glass",
+            "title": "Get more bottles",
+            "text": "If you reach Smithing Lvl 4 you can use the furnace which helps you a lot. E.g. more water bottles"
+        }
+    ]
+}

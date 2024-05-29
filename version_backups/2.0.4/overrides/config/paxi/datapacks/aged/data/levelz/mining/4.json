@@ -1,0 +1,29 @@
+{
+    "replace": true,
+    "level": 4,
+    "block": [
+        "minecraft:coal_block",
+        "minecraft:coal_ore",
+        "expandeddelight:salt_ore",
+        "minecraft:stone",
+        "minecraft:stone_stairs",
+        "minecraft:stone_slab",
+        "minecraft:stone_pressure_plate",
+        "minecraft:stone_button",
+        "minecraft:stone_bricks",
+        "minecraft:stone_brick_stairs",
+        "minecraft:stone_brick_slab",
+        "minecraft:stone_brick_wall",
+        "minecraft:cracked_stone_bricks",
+        "minecraft:chiseled_stone_bricks",
+        "minecraft:mossy_stone_bricks",
+        "minecraft:mossy_stone_brick_stairs",
+        "minecraft:mossy_stone_brick_slab",
+        "minecraft:mossy_stone_brick_wall",
+        "minecraft:smooth_stone",
+        "minecraft:smooth_stone_slab",
+        "sootychimneys:stone_brick_chimney",
+        "sootychimneys:dirty_stone_brick_chimney",
+        "minecraft:grindstone"
+    ]
+}

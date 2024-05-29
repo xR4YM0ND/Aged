@@ -1,0 +1,30 @@
+{
+    "name": "Ores",
+    "icon": "geocluster:iron_prospectors_pick",
+    "category": "patchouli:4_farming_category",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": {
+                "tag": "aged:samples"
+            },
+            "text": "$(br)Samples give you small bits of that resource.$(br2)They also spawn in the same chunk as their material, so you'll find veins easier."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "geocluster:stone_prospectors_pick",
+            "recipe2": "geocluster:copper_prospectors_pick"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "geocluster:iron_prospectors_pick",
+            "text": "$(br)Right click on a block to scan a 5x5 area.$(br2)It tells you which blocks are in this area."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Veins",
+            "text": "$(br)Ores now generate in small or medium or big veins."
+        }
+    ]
+}

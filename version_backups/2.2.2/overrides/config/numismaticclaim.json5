@@ -1,0 +1,21 @@
+{
+	// Price per claim
+	"claim_price": 2000,
+	// Current extra claims * this * claim_price + claim_price = total price
+	"claim_price_modificator": 1.0,
+	// Max amount of bonus chunk claims
+	"max_bonus_claims": 200,
+	// If false only villagers with nbt NumismaticClaimTrader = true sell
+	"allow_all_villagers": true,
+	// Unclaim timer in seconds
+	"chunk_claim_ticker": 7200,
+	// All overworld settings apply only to wilderness
+	"overworldPlayerBlockDestroy": true,
+	// Restrict block placement and specific tool rightclick
+	"overworldPlayerSpecificItemUse": true,
+	"overworldMobGrief": true,
+	"overworldRaids": true,
+	"overworldCropTrample": true,
+	"overworldExplosion": true,
+	"overworldWitherSpawn": true
+}

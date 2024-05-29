@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "cookingtime": 389,
+    "experience": 0.22,
+    "ingredient": {
+        "item": "agedaddition:raw_thallasium_nugget"
+    },
+    "result": "betterend:thallasium_nugget"
+}

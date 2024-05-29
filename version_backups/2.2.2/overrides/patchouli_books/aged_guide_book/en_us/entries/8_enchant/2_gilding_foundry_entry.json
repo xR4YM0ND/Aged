@@ -1,0 +1,16 @@
+{
+    "name": "Gilding Foundry",
+    "icon": "mcde:gilding_foundry",
+    "category": "patchouli:8_enchant_category",
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "mcde:gilding_foundry"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(br)$(l)! Page under construction !"
+        }
+    ]
+}

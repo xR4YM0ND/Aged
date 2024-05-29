@@ -1,0 +1,13 @@
+{
+    "values": [
+        "minecraft:lapis_ore",
+        "minecraft:deepslate_lapis_ore",
+        "betternether:nether_lapis_ore",
+        "meadow:alpine_lapis_ore",
+        "universal_ores:granite_lapis_ore",
+        "universal_ores:diorite_lapis_ore",
+        "universal_ores:andesite_lapis_ore",
+        "universal_ores:tuff_lapis_ore",
+        "universal_ores:calcite_lapis_ore"
+    ]
+}

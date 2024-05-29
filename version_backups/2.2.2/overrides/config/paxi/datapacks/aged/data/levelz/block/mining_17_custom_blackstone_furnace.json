@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "mining",
+    "level": 17,
+    "block": "minecraft:custom_block",
+    "object": "betternether:blackstone_furnace"
+}

@@ -1,0 +1,69 @@
+{
+    "type": "geocluster:deposit_sparse",
+    "config": {
+        "yMin": 80,
+        "yMax": 110,
+        "size": 48,
+        "spread": 4,
+        "biomeTag": "#minecraft:is_nether",
+        "blockStateMatchers": [
+            "minecraft:netherrack",
+            "minecraft:basalt",
+            "minecraft:blackstone",
+            "minecraft:magma_block"
+        ],
+        "blocks": {
+            "default": [
+                {
+                    "block": "betternether:nether_lapis_ore",
+                    "chance": 0.8
+                },
+                {
+                    "block": null,
+                    "chance": 0.2
+                }
+            ],
+            "minecraft:netherrack": [
+                {
+                    "block": "betternether:nether_lapis_ore",
+                    "chance": 0.8
+                },
+                {
+                    "block": "minecraft:netherrack",
+                    "chance": 0.2
+                }
+            ],
+            "minecraft:basalt": [
+                {
+                    "block": "betternether:nether_lapis_ore",
+                    "chance": 0.8
+                },
+                {
+                    "block": "minecraft:basalt",
+                    "chance": 0.2
+                }
+            ],
+            "minecraft:blackstone": [
+                {
+                    "block": "betternether:nether_lapis_ore",
+                    "chance": 0.8
+                },
+                {
+                    "block": "minecraft:blackstone",
+                    "chance": 0.2
+                }
+            ]
+        },
+        "samples": [
+            {
+                "block": "geocluster:nether_lapis_ore_sample",
+                "chance": 0.2
+            },
+            {
+                "block": null,
+                "chance": 0.8
+            }
+        ],
+        "generationWeight": 10
+    }
+}

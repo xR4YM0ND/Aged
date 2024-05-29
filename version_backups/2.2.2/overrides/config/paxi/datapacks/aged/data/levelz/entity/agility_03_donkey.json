@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "agility",
+    "level": 3,
+    "entity": "minecraft:custom_entity",
+    "object": "minecraft:donkey"
+}

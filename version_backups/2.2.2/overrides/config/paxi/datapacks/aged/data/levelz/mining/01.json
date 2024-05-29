@@ -1,0 +1,16 @@
+{
+    "replace": true,
+    "level": 1,
+    "block": [
+        "minecraft:sand",
+        "minecraft:red_sand",
+        "minecraft:suspicious_sand",
+        "betterarcheology:suspicious_red_sand",
+        "minecraft:gravel",
+        "supplementaries:raked_gravel",
+        "minecraft:suspicious_gravel",
+        "minecraft:clay",
+        "minecraft:muddy_mangrove_roots",
+        "minecraft:mud"
+    ]
+}

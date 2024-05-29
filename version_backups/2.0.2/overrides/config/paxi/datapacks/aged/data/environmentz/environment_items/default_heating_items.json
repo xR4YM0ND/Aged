@@ -1,0 +1,46 @@
+{
+    "environmentz:heating_stones": {
+        "damage": 1,
+        "temperature": 10,
+        "cold_protection": 2
+    },
+    "minecraft:lava_bucket": {
+        "temperature": 4
+    },
+    "minecraft:campfire": {
+        "temperature": 2
+    },
+    "minecraft:soul_campfire": {
+        "temperature": 2
+    },
+    "minecraft:soul_torch": {
+        "temperature": 1
+    },
+    "minecraft:torch": {
+        "temperature": 1
+    },
+    "minecraft:magma_block": {
+        "temperature": 4
+    },
+    "minecraft:blaze_rod": {
+        "temperature": 2
+    },
+    "minecraft:blaze_powder": {
+        "temperature": 2
+    },
+    "minecraft:fire_charge": {
+        "temperature": 3
+    },
+    "minecraft:magma_cream": {
+        "temperature": 2
+    },
+    "endrem:nether_eye": {
+        "temperature": 2
+    },
+    "gofish:magma_cod": {
+        "temperature": 3
+    },
+    "gofish:blaze_rod": {
+        "temperature": 2
+    }
+}

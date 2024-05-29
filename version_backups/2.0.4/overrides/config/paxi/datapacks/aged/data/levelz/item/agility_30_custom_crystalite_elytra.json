@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "agility",
+    "level": 30,
+    "item": "minecraft:custom_item",
+    "object": "betterend:elytra_crystalite"
+}

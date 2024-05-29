@@ -1,0 +1,102 @@
+{
+    "type": "geocluster:deposit_sparse",
+    "config": {
+        "yMin": -64,
+        "yMax": 250,
+        "size": 26,
+        "spread": 20,
+        "biomeTag": "#c:plains",
+        "blockStateMatchers": [
+            "minecraft:stone",
+            "minecraft:deepslate",
+            "minecraft:granite",
+            "minecraft:diorite",
+            "minecraft:andesite",
+            "minecraft:calcite",
+            "minecraft:tuff"
+        ],
+        "blocks": {
+            "default": [
+                {
+                    "block": "geocluster:tin_ore",
+                    "chance": 0.1
+                },
+                {
+                    "block": "minecraft:stone",
+                    "chance": 0.9
+                }
+            ],
+            "minecraft:deepslate": [
+                {
+                    "block": "geocluster:deepslate_tin_ore",
+                    "chance": 0.1
+                },
+                {
+                    "block": "minecraft:deepslate",
+                    "chance": 0.9
+                }
+            ],
+            "minecraft:granite": [
+                {
+                    "block": "geocluster:tin_ore",
+                    "chance": 0.1
+                },
+                {
+                    "block": "minecraft:granite",
+                    "chance": 0.9
+                }
+            ],
+            "minecraft:diorite": [
+                {
+                    "block": "geocluster:tin_ore",
+                    "chance": 0.1
+                },
+                {
+                    "block": "minecraft:diorite",
+                    "chance": 0.9
+                }
+            ],
+            "minecraft:andesite": [
+                {
+                    "block": "geocluster:tin_ore",
+                    "chance": 0.1
+                },
+                {
+                    "block": "minecraft:andesite",
+                    "chance": 0.9
+                }
+            ],
+            "minecraft:tuff": [
+                {
+                    "block": "geocluster:tin_ore",
+                    "chance": 0.1
+                },
+                {
+                    "block": "minecraft:tuff",
+                    "chance": 0.9
+                }
+            ],
+            "minecraft:calcite": [
+                {
+                    "block": "geocluster:tin_ore",
+                    "chance": 0.1
+                },
+                {
+                    "block": "minecraft:calcite",
+                    "chance": 0.9
+                }
+            ]
+        },
+        "samples": [
+            {
+                "block": "geocluster:tin_ore_sample",
+                "chance": 0.9
+            },
+            {
+                "block": null,
+                "chance": 0.1
+            }
+        ],
+        "generationWeight": 8
+    }
+}

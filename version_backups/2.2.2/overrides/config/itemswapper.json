@@ -1,0 +1,18 @@
+{
+  "configVersion": 1,
+  "showTooltips": true,
+  "toggleMode": false,
+  "showCursor": true,
+  "serverPreventModUsage": false,
+  "editMode": false,
+  "creativeCheatMode": true,
+  "ignoreHotbar": true,
+  "unlockListMouse": false,
+  "disableShulkers": false,
+  "controllerSpeed": 8.0,
+  "mouseSpeed": 1.0,
+  "fallbackInventory": true,
+  "vivecraftCompat": true,
+  "allowWalkingWithUI": true,
+  "startOnItem": false
+}

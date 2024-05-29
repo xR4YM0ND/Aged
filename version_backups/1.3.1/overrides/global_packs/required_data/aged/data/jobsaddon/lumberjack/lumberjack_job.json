@@ -1,0 +1,113 @@
+{
+    "1": {
+        "replace": true,
+        "blocks": [
+            "missingwilds:fallen_oak_log",
+            "missingwilds:fallen_birch_log",
+            "missingwilds:fallen_spruce_log",
+            "missingwilds:fallen_jungle_log",
+            "missingwilds:fallen_dark_oak_log",
+            "missingwilds:fallen_acacia_log",
+            "missingwilds:fallen_mangrove_log",
+            "missingwilds:byg_fallen_aspen_log",
+            "missingwilds:byg_fallen_baobab_log",
+            "missingwilds:byg_fallen_blue_enchanted_log",
+            "missingwilds:byg_fallen_cherry_log",
+            "missingwilds:byg_fallen_cika_log",
+            "missingwilds:byg_fallen_cypress_log",
+            "missingwilds:byg_fallen_ebony_log",
+            "missingwilds:byg_fallen_ether_log",
+            "missingwilds:byg_fallen_fir_log",
+            "missingwilds:byg_fallen_green_enchanted_log",
+            "missingwilds:byg_fallen_holly_log",
+            "missingwilds:byg_fallen_jacaranda_log",
+            "missingwilds:byg_fallen_lament_log",
+            "missingwilds:byg_fallen_mahogany_log",
+            "missingwilds:byg_fallen_white_mangrove_log",
+            "missingwilds:byg_fallen_maple_log",
+            "missingwilds:byg_fallen_nightshade_log",
+            "missingwilds:byg_fallen_palm_log",
+            "missingwilds:byg_fallen_pine_log",
+            "missingwilds:byg_fallen_rainbow_eucalyptus_log",
+            "missingwilds:byg_fallen_redwood_log",
+            "missingwilds:byg_fallen_skyris_log",
+            "missingwilds:byg_fallen_palo_verde_log",
+            "missingwilds:ecologics_fallen_azalea_log",
+            "missingwilds:ecologics_fallen_coconut_log",
+            "missingwilds:ecologics_fallen_flowering_azalea_log",
+            "missingwilds:ecologics_fallen_walnut_log"
+        ]
+    },
+    "2": {
+        "replace": true,
+        "blocks": [
+            "minecraft:jungle_log",
+            "minecraft:birch_log",
+            "minecraft:spruce_log",
+            "minecraft:mangrove_log",
+            "minecraft:dark_oak_log",
+            "minecraft:acacia_log",
+            "minecraft:oak_log",
+            "byg:aspen_log",
+            "byg:cika_log",
+            "byg:cypress_log",
+            "byg:fir_log",
+            "byg:jacaranda_log",
+            "byg:mahogany_log",
+            "byg:white_mangrove_log",
+            "byg:maple_log",
+            "byg:palm_log",
+            "byg:pine_log",
+            "byg:rainbow_eucalyptus_log",
+            "byg:redwood_log",
+            "byg:willow_log",
+            "byg:zelkova_log",
+            "ecologics:coconut_log",
+            "ecologics:walnut_log"
+        ]
+    },
+    "3": {
+        "replace": true,
+        "blocks": [
+            "byg:baobab_log",
+            "byg:cherry_log",
+            "byg:ebony_log",
+            "byg:holly_log",
+            "byg:lament_log",
+            "byg:palo_verde_log",
+            "byg:skyris_log",
+            "byg:witch_hazel_log",
+            "colorful-azaleas:walnut_azalea_log",
+            "colorful-azaleas:fiss_azalea_log",
+            "colorful-azaleas:titanium_azalea_log",
+            "colorful-azaleas:tecal_azalea_log",
+            "colorful-azaleas:roze_azalea_log",
+            "colorful-azaleas:bright_azalea_log",
+            "colorful-azaleas:azule_azalea_log",
+            "ecologics:azalea_log",
+            "ecologics:flowering_azalea_log",
+            "expandeddelight:cinnamon_log"
+        ]
+    },
+    "4": {
+        "replace": true,
+        "blocks": [
+            "minecraft:crimson_stem",
+            "minecraft:warped_stem",
+            "byg:imbued_blue_enchanted_log",
+            "byg:blue_enchanted_log",
+            "byg:ether_log",
+            "byg:imbued_green_enchanted_log",
+            "byg:green_enchanted_log",
+            "byg:imbued_nightshade_log",
+            "byg:nightshade_log",
+            "byg:withering_oak_log"
+        ]
+    },
+    "5": {
+        "replace": true,
+        "blocks": [
+            "architects_palette:twisted_log"
+        ]
+    }
+}

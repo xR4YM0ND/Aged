@@ -1,0 +1,7 @@
+{
+    "replace": true,
+    "skill": "stamina",
+    "level": 15,
+    "block": "minecraft:custom_block",
+    "object": "expandeddelight:juicer"
+}

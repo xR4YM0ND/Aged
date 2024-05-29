@@ -1,0 +1,22 @@
+{
+  "replace": true,
+  "values": [
+    "minecraft:diamond_hoe",
+    "minecraft:golden_hoe",
+    "minecraft:iron_hoe",
+    "minecraft:netherite_hoe",
+    "minecraft:stone_hoe",
+    "minecraft:wooden_hoe",
+    "betternether:cincinnasite_hoe",
+    "betternether:cincinnasite_hoe_diamond",
+    "betternether:nether_ruby_hoe",
+    "betterend:aeternium_hoe",
+    "betterend:thallasium_hoe",
+    "betterend:terminite_hoe",
+    "earlystage:flint_hoe",
+    {
+      "id": "oreganized:electrum_hoe",
+      "required": false
+    }
+  ]
+}

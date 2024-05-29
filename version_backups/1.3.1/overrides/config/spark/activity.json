@@ -1,0 +1,28 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "SpigotDE",
+      "uniqueId": "51ee8b76-3479-41b6-84c4-671509d97687"
+    },
+    "time": 1672495705658,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/GfkRW01pxW"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "SpigotDE",
+      "uniqueId": "51ee8b76-3479-41b6-84c4-671509d97687"
+    },
+    "time": 1672494965893,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/WWFFO6kK3H"
+    }
+  }
+]

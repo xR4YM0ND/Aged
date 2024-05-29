@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "agility",
+    "level": 12,
+    "item": "minecraft:custom_item",
+    "object": "horseexpert:monocle"
+}

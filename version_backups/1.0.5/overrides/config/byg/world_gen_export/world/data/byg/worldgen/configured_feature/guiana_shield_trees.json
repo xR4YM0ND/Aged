@@ -1,0 +1,32 @@
+{
+	"config": {
+		"default": {
+			"feature": "byg:mahogany_trees",
+			"placement": []
+		},
+		"features": [
+			{
+				"chance": 0.1,
+				"feature": {
+					"feature": "byg:large_rainbow_eucalyptus_tree1",
+					"placement": []
+				}
+			},
+			{
+				"chance": 0.1,
+				"feature": {
+					"feature": "byg:rainbow_eucalyptus_tree1",
+					"placement": []
+				}
+			},
+			{
+				"chance": 0.1,
+				"feature": {
+					"feature": "byg:tropical_shrub1",
+					"placement": []
+				}
+			}
+		]
+	},
+	"type": "minecraft:random_selector"
+}

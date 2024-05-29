@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "level": 12,
+    "skill": "farming",
+    "item": [
+        "minecraft:iron_axe",
+        "minecraft:iron_hoe",
+        "farmersdelight:iron_knife",
+        "minecraft:daylight_detector"
+    ]
+}

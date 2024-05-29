@@ -1,0 +1,62 @@
+{
+	"carvers": {
+		"air": [
+			"minecraft:cave",
+			"minecraft:cave_extra_underground",
+			"minecraft:canyon"
+		]
+	},
+	"downfall": 0.4,
+	"effects": {
+		"fog_color": 12638463,
+		"mood_sound": {
+			"block_search_extent": 8,
+			"offset": 2.0,
+			"sound": "minecraft:ambient.cave",
+			"tick_delay": 6000
+		},
+		"music": {
+			"max_delay": 24000,
+			"min_delay": 12000,
+			"replace_current_music": false,
+			"sound": "minecraft:music.overworld.deep_dark"
+		},
+		"sky_color": 7907327,
+		"water_color": 4159204,
+		"water_fog_color": 329011
+	},
+	"features": [
+		[ "byg:global/raw_generation" ],
+		[ "byg:global/lakes" ],
+		[ "minecraft:amethyst_geode", "byg:global/local_modifications" ],
+		[ "minecraft:monster_room", "minecraft:monster_room_deep", "byg:global/underground_structures" ],
+		[ "byg:global/surface_structures" ],
+		[ "byg:global/strongholds" ],
+		[ "minecraft:ore_dirt", "minecraft:ore_gravel", "minecraft:ore_granite_upper", "minecraft:ore_granite_lower", "minecraft:ore_diorite_upper", "minecraft:ore_diorite_lower", "minecraft:ore_andesite_upper", "minecraft:ore_andesite_lower", "minecraft:ore_tuff", "minecraft:ore_coal_upper", "minecraft:ore_coal_lower", "minecraft:ore_iron_upper", "minecraft:ore_iron_middle", "minecraft:ore_iron_small", "minecraft:ore_gold", "minecraft:ore_gold_lower", "minecraft:ore_redstone", "minecraft:ore_redstone_lower", "minecraft:ore_diamond", "minecraft:ore_diamond_large", "minecraft:ore_diamond_buried", "minecraft:ore_lapis", "minecraft:ore_lapis_buried", "minecraft:ore_copper_large", "minecraft:underwater_magma", "minecraft:disk_sand", "minecraft:disk_clay", "minecraft:disk_gravel", "byg:global/underground_ores", "twigs:ore_rhyolite" ],
+		[ "minecraft:sculk_vein", "minecraft:sculk_patch_deep_dark", "byg:global/underground_decoration", "supplementaries:cave_urns", "geodes:diamond_geode", "geodes:echo_geode" ],
+		[ "byg:global/fluid_springs" ],
+		[ "minecraft:glow_lichen", "minecraft:patch_tall_grass_2", "minecraft:trees_plains", "minecraft:flower_plains", "minecraft:patch_grass_plain", "minecraft:brown_mushroom_normal", "minecraft:red_mushroom_normal", "minecraft:patch_sugar_cane", "minecraft:patch_pumpkin", "byg:global/vegetal_decoration", "farmersdelight:carrots", "farmersdelight:onions", "supplementaries:wild_flax" ],
+		[ "minecraft:freeze_top_layer", "byg:global/top_layer_modification", "rocks:andesite_rock", "rocks:diorite_rock", "rocks:granite_rock", "rocks:gravel_rock", "rocks:rock" ]
+	],
+	"precipitation": "rain",
+	"spawn_costs": { },
+	"spawners": {
+		"ambient": [],
+		"axolotls": [],
+		"creature": [
+			{
+				"maxCount": 3,
+				"minCount": 1,
+				"type": "naturalist:snail",
+				"weight": 5
+			}
+		],
+		"fireflies": [],
+		"misc": [],
+		"monster": [],
+		"underground_water_creature": [],
+		"water_ambient": [],
+		"water_creature": []
+	},
+	"temperature": 0.8
+}

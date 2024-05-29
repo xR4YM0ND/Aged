@@ -1,0 +1,23 @@
+{
+    "values": [
+        "#aged:bells",
+        "#aged:fd_cabinets",
+        "#another_furniture:chairs",
+        "#another_furniture:shelves",
+        "#another_furniture:tables",
+        "#another_furniture:stools",
+        "#another_furniture:shutters",
+        "#another_furniture:planter_boxes",
+        "#another_furniture:curtains",
+        "#another_furniture:benches",
+        "#another_furniture:drawers",
+        "#another_furniture:lamps",
+        "#another_furniture:sofas",
+        "#another_furniture:tall_stools",
+        "drinkbeer:empty_beer_mug",
+        "drinkbeer:trade_box_normal",
+        "drinkbeer:bartending_table_normal",
+        "drinkbeer:beer_barrel",
+        "#twigs:tables"
+    ]
+}

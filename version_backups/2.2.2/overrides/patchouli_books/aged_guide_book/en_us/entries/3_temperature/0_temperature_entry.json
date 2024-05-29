@@ -1,0 +1,18 @@
+{
+    "name": "Temperature",
+    "icon": "endrem:cold_eye",
+    "category": "patchouli:3_temperature_category",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "title": "Too Hot?",
+            "text": "Too Hot?$(br)$(li)Wear no or wanderer armor$(li)Avoid direct Sunlight$(li)Drink Water & Drinks$(li)Use Ice Packs$(li)Jump in Water$(li)Stand next to cold blocks$(li)Switch Biomes"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Too Cold?",
+            "text": "$(li)Stay near heat source's$(li)Use Heating Stones$(li)Wear Wolf or Leather Armor$(li)Insulate Armor with:$(li2)Mammoth Fur$(li2)Polar Bear Fur$(li2)Bear Fur"
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+	"repeaterUseSoundEffect": {
+		"pitch": 1.0,
+		"volume": 0.45,
+		"enabledDynamic": true,
+		"id": "repeaterUse",
+		"soundEvent": "minecraft:block.note_block.hat",
+		"shouldPlay": true
+	},
+	"jukeboxUseSoundEffect": {
+		"shouldPlay": true,
+		"pitch": 0.8,
+		"volume": 0.75,
+		"id": "jukeboxUse",
+		"soundEvent": "minecraft:block.note_block.basedrum"
+	},
+	"daylightDetectorUseSoundEffect": {
+		"shouldPlay": true,
+		"pitch": 0.8,
+		"volume": 0.45,
+		"id": "daylightDetectorUse",
+		"soundEvent": "minecraft:block.note_block.hat"
+	},
+	"furnaceMinecartFuelSoundEffect": {
+		"shouldPlay": true,
+		"pitch": 1.9,
+		"volume": 0.2,
+		"id": "furnaceMinecartFuel",
+		"soundEvent": "minecraft:entity.creeper.hurt"
+	},
+	"positiveStatusEffectGainSoundEffect": {
+		"shouldPlay": true,
+		"pitch": 1.4,
+		"volume": 0.5,
+		"id": "positiveStatusEffectGain",
+		"soundEvent": "minecraft:block.note_block.chime"
+	},
+	"negativeStatusEffectGainSoundEffect": {
+		"shouldPlay": true,
+		"pitch": 0.5,
+		"volume": 0.5,
+		"id": "negativeStatusEffectGain",
+		"soundEvent": "minecraft:entity.allay.hurt"
+	},
+	"positiveStatusEffectLoseSoundEffect": {
+		"shouldPlay": true,
+		"pitch": 0.5,
+		"volume": 0.5,
+		"id": "positiveStatusEffectLose",
+		"soundEvent": "minecraft:entity.allay.item_thrown"
+	},
+	"negativeStatusEffectLoseSoundEffect": {
+		"shouldPlay": true,
+		"pitch": 0.5,
+		"volume": 0.5,
+		"id": "negativeStatusEffectLose",
+		"soundEvent": "minecraft:entity.allay.item_thrown"
+	},
+	"bowPullSoundEffect": {
+		"shouldPlay": true,
+		"pitch": 1.0,
+		"volume": 0.25,
+		"id": "bowPull",
+		"soundEvent": "minecraft:item.crossbow.loading_middle"
+	}
+}

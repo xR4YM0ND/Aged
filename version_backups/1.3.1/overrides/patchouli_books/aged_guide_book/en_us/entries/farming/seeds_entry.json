@@ -1,0 +1,81 @@
+{
+    "name": "Seeds",
+    "icon": "xps:xp_berries_seeds",
+    "category": "patchouli:farming_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Some seeds grow faster in spring/summer/fall/winter than others.$(br)The seasons are highlighted in:$(br2)$(2)Fastest$(br)$(6)Medium$(br)$(4)Slowest$()$(br2)Hover over the plants with Shift to see the actual growth speed."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:carrot",
+            "text": "$(n)$(l)Grow Seasons$()$(2)$(li)Spring$(li)Fall$(li)$(6)Summer$(li)$(4)Winter"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "farmersdelight:cabbage_seeds",
+            "text": "$(n)$(l)Grow Seasons$()$(2)$(li)Spring$(li)Fall$(li)$(6)Summer$(li)$(4)Winter"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "expandeddelight:asparagus_seeds",
+            "text": "$(n)$(l)Grow Seasons$()$(2)$(li)Spring$(li)$(4)Summer"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:wheat_seeds",
+            "text": "$(n)$(l)Grow Seasons$()$(2)$(li)Summer$(li)$(6)Fall$(li)$(4)Spring"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "farmersdelight:tomato_seeds",
+            "text": "$(n)$(l)Grow Seasons$()$(2)$(li)Summer$(li)$(6)Fall$(li)$(4)Spring"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "farmersdelight:onion",
+            "text": "$(n)$(l)Grow Seasons$()$(2)$(li)Summer$(li)$(6)Fall"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:melon_seeds",
+            "text": "$(n)$(l)Grow Seasons$()$(2)$(li)Summer$(li)$(6)Fall"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "expandeddelight:chili_pepper_seeds",
+            "text": "$(n)$(l)Grow Seasons$()$(2)$(li)Summer$(li)$(6)Spring$(li)$(4)Fall"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "expandeddelight:peanut",
+            "text": "$(n)$(l)Grow Seasons$()$(2)$(li)Fall$(li)$(6)Summer$(li)$(4)Spring"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:potato",
+            "text": "$(n)$(l)Grow Seasons$()$(2)$(li)Fall$(li)$(6)Summer"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "expandeddelight:sweet_potato",
+            "text": "$(n)$(l)Grow Seasons$()$(2)$(li)Fall$(li)$(6)Summer"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:beetroot_seeds",
+            "text": "$(n)$(l)Grow Seasons$()$(2)$(li)Fall$(li)$(6)Spring$(li)$(4)Summer"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:pumpkin_seeds",
+            "text": "$(n)$(l)Grow Seasons$()$(2)$(li)Fall"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "xps:xp_berries_seeds",
+            "text": "$(n)$(l)Grow Seasons$()$(4)$(li)Winter"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+	"config": {
+		"default": {
+			"feature": "byg:green_mushroom",
+			"placement": []
+		},
+		"features": [
+			{
+				"chance": 0.33,
+				"feature": {
+					"feature": "byg:wood_blewit",
+					"placement": []
+				}
+			},
+			{
+				"chance": 0.33,
+				"feature": {
+					"feature": "byg:weeping_milkcap",
+					"placement": []
+				}
+			}
+		]
+	},
+	"type": "minecraft:random_selector"
+}

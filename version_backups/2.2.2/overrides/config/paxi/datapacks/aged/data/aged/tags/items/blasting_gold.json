@@ -1,0 +1,15 @@
+{
+    "values": [
+        "minecraft:gold_ore",
+        "minecraft:deepslate_gold_ore",
+        "minecraft:nether_gold_ore",
+        "meadow:alpine_gold_ore",
+        "universal_ores:granite_gold_ore",
+        "universal_ores:diorite_gold_ore",
+        "universal_ores:andesite_gold_ore",
+        "universal_ores:tuff_gold_ore",
+        "universal_ores:calcite_gold_ore",
+        "universal_ores:blackstone_gold_ore",
+        "universal_ores:basalt_gold_ore"
+    ]
+}

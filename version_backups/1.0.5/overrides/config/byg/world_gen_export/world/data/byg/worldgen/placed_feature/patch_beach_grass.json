@@ -1,0 +1,15 @@
+{
+	"feature": "byg:beach_grasses",
+	"placement": [
+		{
+			"type": "minecraft:in_square"
+		},
+		{
+			"heightmap": "WORLD_SURFACE_WG",
+			"type": "minecraft:heightmap"
+		},
+		{
+			"type": "minecraft:biome"
+		}
+	]
+}

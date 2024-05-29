@@ -1,0 +1,19 @@
+{
+    "replace": true,
+    "level": 26,
+    "block": [
+        "byg:cobbled_ether_stone",
+        "byg:cobbled_ether_stone_stairs",
+        "byg:cobbled_ether_stone_slab",
+        "byg:cobbled_ether_stone_wall",
+        "byg:vermilion_sculk",
+        "byg:ether_stone",
+        "byg:ether_stone_stairs",
+        "byg:ether_stone_slab",
+        "byg:ether_stone_wall",
+        "byg:carved_ether_stone",
+        "byg:carved_ether_stone_stairs",
+        "byg:carved_ether_stone_slab",
+        "byg:carved_ether_stone_wall"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:river",
+        "minecraft:frozen_river",
+        "wythers:badlands_river",
+        "wythers:black_river",
+        "wythers:deep_desert_river",
+        "wythers:desert_river",
+        "wythers:gravelly_river",
+        "wythers:icy_river",
+        "wythers:jungle_river",
+        "wythers:lantern_river",
+        "wythers:savanna_river",
+        "wythers:tropical_forest_river",
+        "minecraft:ocean",
+        "minecraft:cold_ocean",
+        "minecraft:deep_cold_ocean",
+        "minecraft:deep_frozen_ocean",
+        "minecraft:deep_lukewarm_ocean",
+        "minecraft:deep_ocean",
+        "minecraft:frozen_ocean",
+        "minecraft:lukewarm_ocean",
+        "minecraft:warm_ocean",
+        "wythers:deep_icy_ocean",
+        "wythers:icy_ocean"
+    ]
+}

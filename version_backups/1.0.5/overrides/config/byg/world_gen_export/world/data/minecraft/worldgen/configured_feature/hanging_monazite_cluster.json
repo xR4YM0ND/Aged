@@ -1,0 +1,20 @@
+{
+	"config": {
+		"crystal_state": {
+			"Name": "architects_palette:monazite_rod",
+			"Properties": {
+				"axis": "y"
+			}
+		},
+		"extrusionState": {
+			"Name": "minecraft:basalt",
+			"Properties": {
+				"axis": "y"
+			}
+		},
+		"hanging": true,
+		"height": 7,
+		"min_length": 0
+	},
+	"type": "architects_palette:crystal_cluster"
+}

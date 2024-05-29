@@ -1,0 +1,45 @@
+{
+	"config": {
+		"disk_provider": {
+			"state": {
+				"Name": "minecraft:podzol",
+				"Properties": {
+					"snowy": "false"
+				}
+			},
+			"type": "minecraft:simple_state_provider"
+		},
+		"disk_radius": 0,
+		"leaves_provider": {
+			"state": {
+				"Name": "byg:redwood_leaves",
+				"Properties": {
+					"distance": "7",
+					"persistent": "false",
+					"waterlogged": "false"
+				}
+			},
+			"type": "minecraft:simple_state_provider"
+		},
+		"max_height": 38,
+		"min_height": 36,
+		"trunk_provider": {
+			"state": {
+				"Name": "byg:redwood_log",
+				"Properties": {
+					"axis": "y"
+				}
+			},
+			"type": "minecraft:simple_state_provider"
+		},
+		"whitelist": [
+			{
+				"Name": "minecraft:grass_block",
+				"Properties": {
+					"snowy": "false"
+				}
+			}
+		]
+	},
+	"type": "byg:redwood_tree1"
+}

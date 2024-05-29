@@ -1,0 +1,26 @@
+{
+    "replace": true,
+    "level": 24,
+    "block": [
+        "betterend:ender_ore",
+        "betterend:flavolite",
+        "betterend:flavolite_polished",
+        "betterend:flavolite_tiles",
+        "betterend:flavolite_pillar",
+        "betterend:flavolite_stairs",
+        "betterend:flavolite_slab",
+        "betterend:flavolite_wall",
+        "betterend:flavolite_button",
+        "betterend:flavolite_plate",
+        "betterend:flavolite_pedestal",
+        "betterend:flavolite_lantern",
+        "betterend:flavolite_bricks",
+        "betterend:flavolite_bricks_stairs",
+        "betterend:flavolite_bricks_slab",
+        "betterend:flavolite_bricks_wall",
+        "betterend:flavolite_furnace",
+        "betterend:flavolite_flower_pot",
+        "betterend:flavolite_runed",
+        "betterend:flavolite_runed_eternal"
+    ]
+}

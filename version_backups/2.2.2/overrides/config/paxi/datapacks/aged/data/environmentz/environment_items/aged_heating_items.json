@@ -1,0 +1,11 @@
+{
+    "endrem:nether_eye": {
+        "temperature": 2
+    },
+    "supplementaries:sconce": {
+        "temperature": 1
+    },
+    "supplementaries:sconce_soul": {
+        "temperature": 1
+    }
+}

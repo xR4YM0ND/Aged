@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "level": 10,
+    "skill": "luck",
+    "item": [
+        "earlystage:redstone_sieve"
+    ]
+}

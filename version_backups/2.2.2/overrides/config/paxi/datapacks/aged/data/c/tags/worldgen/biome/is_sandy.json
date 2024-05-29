@@ -1,0 +1,27 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:desert",
+        "minecraft:beach",
+        "minecraft:badlands",
+        "minecraft:eroded_badlands",
+        "minecraft:wooded_badlands",
+        "wythers:sand_dunes",
+        "wythers:desert_beach",
+        "wythers:desert_island",
+        "wythers:desert_lakes",
+        "wythers:desert_pinnacles",
+        "wythers:desert_river",
+        "wythers:badlands_desert",
+        "wythers:cactus_desert",
+        "wythers:danakil_desert",
+        "wythers:deep_desert",
+        "wythers:deep_desert_river",
+        "wythers:outback_desert",
+        "wythers:red_desert",
+        "wythers:wooded_desert",
+        "wythers:badlands_canyon",
+        "wythers:badlands_river",
+        "wythers:savanna_badlands"
+    ]
+}

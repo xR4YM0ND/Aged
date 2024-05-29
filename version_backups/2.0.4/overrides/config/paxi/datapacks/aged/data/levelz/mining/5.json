@@ -1,0 +1,16 @@
+{
+    "replace": true,
+    "level": 5,
+    "block": [
+        "universal_ores:andesite_coal_ore",
+        "minecraft:andesite",
+        "minecraft:andesite_stairs",
+        "minecraft:andesite_slab",
+        "minecraft:andesite_wall",
+        "minecraft:polished_andesite",
+        "minecraft:polished_andesite_stairs",
+        "minecraft:polished_andesite_slab",
+        "betterend:andesite_pedestal",
+        "betterend:andesite_lantern"
+    ]
+}

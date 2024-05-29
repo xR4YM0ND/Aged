@@ -1,0 +1,22 @@
+{
+    "values": [
+        "minecraft:furnace",
+        "minecraft:blast_furnace",
+        "betternether:blackstone_furnace",
+        "betternether:basalt_furnace",
+        "betternether:netherrack_furnace",
+        "betterend:flavolite_furnace",
+        "betterend:violecite_furnace",
+        "betterend:sulphuric_rock_furnace",
+        "betterend:virid_jadestone_furnace",
+        "betterend:azure_jadestone_furnace",
+        "betterend:sandy_jadestone_furnace",
+        "betterend:umbralith_furnace",
+        "betterend:end_stone_furnace",
+        "nethersdelight:blackstone_furnace",
+        "nethersdelight:blackstone_blast_furnace",
+        "betterend:end_stone_smelter",
+        "minecraft:smoker",
+        "nethersdelight:nether_brick_smoker"
+    ]
+}

@@ -1,0 +1,168 @@
+{
+    "1": {
+        "replace": true,
+        "items": [
+            "minecraft:melon_slice",
+            "minecraft:sweet_berries",
+            "minecraft:glow_berries",
+            "minecraft:carrot",
+            "minecraft:potato",
+            "minecraft:poisonous_potato",
+            "minecraft:beetroot",
+            "bakery:strawberry",
+            "bakery:oat",
+            "candlelight:lettuce",
+            "vinery:cherry",
+            "vinery:red_grape",
+            "vinery:white_grape",
+            "vinery:savanna_grapes_red",
+            "vinery:savanna_grapes_white",
+            "vinery:taiga_grapes_red",
+            "vinery:taiga_grapes_white",
+            "vinery:jungle_grapes_red",
+            "vinery:jungle_grapes_white"
+        ],
+        "crafting": [
+            "minecraft:dried_kelp",
+            "minecraft:cookie",
+            "supplementaries:pancake",
+            "supplementaries:candy",
+            "bakery:yeast",
+            "bakery:sweet_dough",
+            "bakery:dough",
+            "bakery:vegetable_sandwich",
+            "candlelight:butter",
+            "candlelight:dough"
+        ]
+    },
+    "2": {
+        "replace": true,
+        "items": [
+            "minecraft:apple",
+            "minecraft:chorus_fruit",
+            "candlelight:tomato"
+        ],
+        "crafting": [
+            "minecraft:golden_apple",
+            "minecraft:baked_potato",
+            "minecraft:cooked_rabbit",
+            "minecraft:cooked_cod",
+            "minecraft:bread",
+            "bakery:jam_roll",
+            "candlelight:mozzarella",
+            "candlelight:beetroot_salad",
+            "candlelight:pizza_slice",
+            "betternether:stalagnate_bowl_apple",
+            "betternether:hook_mushroom_cooked",
+            "naturalist:cooked_egg",
+            "naturalist:cooked_lizard_tail",
+            "naturalist:cooked_bass"
+        ]
+    },
+    "3": {
+        "replace": true,
+        "items": [
+            "minecraft:suspicious_stew"
+        ],
+        "crafting": [
+            "minecraft:golden_carrot",
+            "minecraft:cooked_mutton",
+            "minecraft:cooked_chicken",
+            "minecraft:cooked_salmon",
+            "minecraft:mushroom_stew",
+            "minecraft:beetroot_soup",
+            "minecraft:suspicious_stew",
+            "minecraft:honey_bottle",
+            "bakery:sandwich",
+            "candlelight:tomato_mozzarella_salad",
+            "adventurez:cooked_iguana_meat",
+            "adventurez:cooked_venison",
+            "adventurez:cooked_warthog_meat",
+            "betterend:shadow_berry_cooked",
+            "betterend:end_fish_cooked",
+            "betterend:shadow_berry_jelly",
+            "betterend:chorus_mushroom_cooked",
+            "betterend:bolux_mushroom_cooked",
+            "betternether:stalagnate_bowl_wart",
+            "betternether:stalagnate_bowl_mushroom",
+            "meadow:cheesecake_slice",
+            "meadow:cheese_tart_slice",
+            "meadow:piece_of_cheese",
+            "meadow:piece_of_sheep_cheese",
+            "meadow:piece_of_grain_cheese",
+            "meadow:piece_of_amethyst_cheese",
+            "meadow:piece_of_buffalo_cheese",
+            "meadow:piece_of_goat_cheese",
+            "meadow:piece_of_warped_cheese",
+            "meadow:cheese_sandwich",
+            "meadow:cheese_roll",
+            "naturalist:cooked_duck",
+            "naturalist:cooked_venison",
+            "naturalist:cooked_catfish"
+        ]
+    },
+    "4": {
+        "replace": true,
+        "items": [
+            "bakery:strawberry_cake_slice",
+            "bakery:sweetberry_cake_slice",
+            "bakery:chocolate_cake_slice",
+            "bakery:pudding_slice",
+            "bakery:bundt_cake_slice",
+            "bakery:linzer_tart_slice",
+            "bakery:apple_pie_slice",
+            "bakery:glowberry_pie_slice",
+            "bakery:chocolate_tart_slice"
+        ],
+        "crafting": [
+            "minecraft:cooked_beef",
+            "minecraft:cooked_porkchop",
+            "minecraft:pumpkin_pie",
+            "candlelight:lettuce_salad",
+            "candlelight:beef_tartare",
+            "candlelight:lettuce_tomato",
+            "candlelight:veggie_plate",
+            "adventurez:cooked_mammoth_meat",
+            "adventurez:cooked_ender_whale_meat",
+            "adventurez:cooked_rhino_meat",
+            "betterend:sweet_berry_jelly",
+            "betterend:blossom_berry_jelly",
+            "betterend:cave_pumpkin_pie",
+            "betternether:agave_medicine",
+            "meadow:cooked_bear_meat"
+        ]
+    },
+    "5": {
+        "replace": true,
+        "items": [],
+        "crafting": [
+            "minecraft:rabbit_stew"
+        ]
+    },
+    "6": {
+        "replace": true,
+        "items": [],
+        "crafting": [
+            "betternether:herbal_medicine"
+        ]
+    },
+    "7": {
+        "replace": true,
+        "items": [],
+        "crafting": [
+            "minecraft:cake"
+        ]
+    },
+    "8": {
+        "replace": true,
+        "items": [],
+        "crafting": []
+    },
+    "10": {
+        "replace": true,
+        "items": [
+            "bakery:bread_crate"
+        ],
+        "crafting": []
+    }
+}

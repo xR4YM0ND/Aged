@@ -1,0 +1,10 @@
+{
+    "replace": true,
+    "level": 29,
+    "block": [
+      "byg:budding_ametrine_ore",
+      "byg:ametrine_ore",
+      "byg:ametrine_cluster",
+      "byg:ametrine_block"
+    ]
+}

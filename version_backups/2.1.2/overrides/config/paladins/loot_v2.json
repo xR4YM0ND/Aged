@@ -1,0 +1,209 @@
+{
+  "item_groups": {
+    "weapons_golden": {
+      "ids": [
+        "paladins:golden_mace",
+        "paladins:golden_claymore",
+        "paladins:golden_great_hammer",
+        "paladins:holy_wand"
+      ],
+      "chance": 0.4,
+      "bonus_roll": 0.2,
+      "weight": 1,
+      "enchant": {
+        "min_power": 1.0,
+        "max_power": 30.0,
+        "allow_treasure": true
+      }
+    },
+    "armor_tier_2": {
+      "ids": [
+        "paladins:crusader_armor_head",
+        "paladins:crusader_armor_chest",
+        "paladins:crusader_armor_legs",
+        "paladins:crusader_armor_feet",
+        "paladins:prior_robe_head",
+        "paladins:prior_robe_chest",
+        "paladins:prior_robe_legs",
+        "paladins:prior_robe_feet"
+      ],
+      "chance": 0.5,
+      "bonus_roll": 0.2,
+      "weight": 1
+    },
+    "weapons_tier_0": {
+      "ids": [
+        "paladins:acolyte_wand",
+        "paladins:wooden_great_hammer",
+        "paladins:stone_great_hammer",
+        "paladins:stone_claymore"
+      ],
+      "chance": 0.5,
+      "bonus_roll": 0.0,
+      "weight": 1
+    },
+    "weapons_two_handed_tier_2_enchanted": {
+      "ids": [
+        "paladins:diamond_holy_staff",
+        "paladins:diamond_claymore",
+        "paladins:diamond_great_hammer"
+      ],
+      "chance": 0.3,
+      "bonus_roll": 0.2,
+      "weight": 1,
+      "enchant": {
+        "min_power": 1.0,
+        "max_power": 30.0,
+        "allow_treasure": true
+      }
+    },
+    "armor_tier_1": {
+      "ids": [
+        "paladins:paladin_armor_head",
+        "paladins:paladin_armor_chest",
+        "paladins:paladin_armor_legs",
+        "paladins:paladin_armor_feet",
+        "paladins:priest_robe_head",
+        "paladins:priest_robe_chest",
+        "paladins:priest_robe_legs",
+        "paladins:priest_robe_feet"
+      ],
+      "chance": 0.25,
+      "bonus_roll": 0.2,
+      "weight": 1
+    },
+    "weapons_two_handed_tier_1": {
+      "ids": [
+        "paladins:holy_staff",
+        "paladins:iron_claymore",
+        "paladins:iron_great_hammer"
+      ],
+      "chance": 0.3,
+      "bonus_roll": 0.2,
+      "weight": 1
+    },
+    "weapons_two_handed_tier_2": {
+      "ids": [
+        "paladins:diamond_holy_staff",
+        "paladins:diamond_claymore",
+        "paladins:diamond_great_hammer"
+      ],
+      "chance": 0.3,
+      "bonus_roll": 0.2,
+      "weight": 1
+    },
+    "weapons_one_handed_tier_1": {
+      "ids": [
+        "paladins:holy_wand",
+        "paladins:golden_mace",
+        "paladins:iron_mace"
+      ],
+      "chance": 0.3,
+      "bonus_roll": 0.2,
+      "weight": 1
+    },
+    "weapons_one_handed_tier_2": {
+      "ids": [
+        "paladins:netherite_holy_wand",
+        "paladins:diamond_mace"
+      ],
+      "chance": 0.3,
+      "bonus_roll": 0.2,
+      "weight": 1
+    },
+    "armor_tier_1_enchanted": {
+      "ids": [
+        "paladins:paladin_armor_head",
+        "paladins:paladin_armor_chest",
+        "paladins:paladin_armor_legs",
+        "paladins:paladin_armor_feet",
+        "paladins:priest_robe_head",
+        "paladins:priest_robe_chest",
+        "paladins:priest_robe_legs",
+        "paladins:priest_robe_feet"
+      ],
+      "chance": 0.25,
+      "bonus_roll": 0.2,
+      "weight": 1,
+      "enchant": {
+        "min_power": 1.0,
+        "max_power": 30.0,
+        "allow_treasure": true
+      }
+    }
+  },
+  "loot_tables": {
+    "minecraft:chests/bastion_treasure": [
+      "weapons_two_handed_tier_2_enchanted",
+      "armor_tier_2"
+    ],
+    "minecraft:chests/underwater_ruin_small": [
+      "weapons_one_handed_tier_1"
+    ],
+    "minecraft:chests/woodland_mansion": [
+      "weapons_one_handed_tier_1",
+      "armor_tier_1_enchanted"
+    ],
+    "minecraft:chests/end_city_treasure": [
+      "weapons_two_handed_tier_2_enchanted",
+      "armor_tier_2"
+    ],
+    "minecraft:chests/shipwreck_supply": [
+      "armor_tier_1"
+    ],
+    "minecraft:chests/nether_bridge": [
+      "weapons_two_handed_tier_2"
+    ],
+    "minecraft:chests/underwater_ruin_big": [
+      "weapons_one_handed_tier_1",
+      "armor_tier_1_enchanted"
+    ],
+    "minecraft:chests/pillager_outpost": [
+      "weapons_one_handed_tier_1"
+    ],
+    "minecraft:chests/simple_dungeon": [
+      "weapons_one_handed_tier_1",
+      "armor_tier_1_enchanted"
+    ],
+    "minecraft:chests/ruined_portal": [
+      "weapons_golden"
+    ],
+    "minecraft:chests/desert_pyramid": [
+      "weapons_one_handed_tier_1"
+    ],
+    "minecraft:chests/underwater_ruin_big.json": [
+      "weapons_one_handed_tier_1",
+      "armor_tier_1_enchanted"
+    ],
+    "minecraft:chests/bastion_bridge": [
+      "weapons_one_handed_tier_1"
+    ],
+    "minecraft:chests/jungle_temple": [
+      "weapons_one_handed_tier_1"
+    ],
+    "minecraft:chests/ancient_city": [
+      "weapons_two_handed_tier_2_enchanted",
+      "armor_tier_2"
+    ],
+    "minecraft:chests/stronghold_corridor": [
+      "armor_tier_1"
+    ],
+    "minecraft:chests/stronghold_crossing": [
+      "weapons_one_handed_tier_1"
+    ],
+    "minecraft:chests/spawn_bonus_chest": [
+      "weapons_tier_0"
+    ],
+    "minecraft:chests/igloo_chest": [
+      "weapons_tier_0"
+    ],
+    "minecraft:chests/stronghold_library": [
+      "weapons_two_handed_tier_2_enchanted",
+      "armor_tier_2"
+    ],
+    "minecraft:chests/bastion_other": [
+      "weapons_one_handed_tier_1",
+      "armor_tier_1_enchanted"
+    ]
+  }
+}

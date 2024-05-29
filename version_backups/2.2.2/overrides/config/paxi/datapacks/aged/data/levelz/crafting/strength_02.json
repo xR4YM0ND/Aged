@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "skill": "strength",
+    "level": 2,
+    "item": [
+        "minecraft:wooden_sword"
+    ]
+}

@@ -1,0 +1,353 @@
+{
+    "profession": "armorer",
+    "trades": {
+        "novice": [
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 1,
+                "max_uses": 4,
+                "price": 10,
+                "buy": {
+                  "item": "minecraft:charcoal",
+                  "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "max_uses": 6,
+                "price": 5,
+                "sell": {
+                    "item": "immersive_armors:wooden_helmet",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "max_uses": 6,
+                "price": 8,
+                "sell": {
+                    "item": "immersive_armors:wooden_chestplate",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "max_uses": 6,
+                "price": 7,
+                "sell": {
+                    "item": "immersive_armors:wooden_leggings",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "max_uses": 6,
+                "price": 4,
+                "sell": {
+                    "item": "immersive_armors:wooden_boots",
+                    "count": 1
+                }
+            }
+        ],
+        "apprentice": [
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 1,
+                "max_uses": 4,
+                "price": 40,
+                "buy": {
+                  "item": "minecraft:coal",
+                  "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "max_uses": 6,
+                "price": 50,
+                "sell": {
+                    "item": "immersive_armors:bone_helmet",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "max_uses": 6,
+                "price": 80,
+                "sell": {
+                    "item": "immersive_armors:bone_chestplate",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "max_uses": 6,
+                "price": 70,
+                "sell": {
+                    "item": "immersive_armors:bone_leggings",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "max_uses": 6,
+                "price": 40,
+                "sell": {
+                    "item": "immersive_armors:bone_boots",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 3,
+                "max_uses": 8,
+                "price": 100,
+                "sell": {
+                    "item": "architects_palette:plating_block",
+                    "count": 8
+                }
+            }
+        ],
+        "journeyman": [
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 3,
+                "max_uses": 4,
+                "price": 200,
+                "buy": {
+                  "item": "minecraft:gold_ingot",
+                  "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 3,
+                "max_uses": 20,
+                "price": 1000,
+                "sell": {
+                    "item": "minecraft:gold_ingot",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 3,
+                "max_uses": 5,
+                "price": 5000,
+                "sell": {
+                    "item": "minecraft:golden_helmet",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 3,
+                "max_uses": 5,
+                "price": 250,
+                "buy": {
+                    "item": "minecraft:golden_helmet",
+                    "count": 1
+              }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 3,
+                "max_uses": 5,
+                "price": 8000,
+                "sell": {
+                    "item": "minecraft:golden_chestplate",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 3,
+                "max_uses": 5,
+                "price": 400,
+                "buy": {
+                    "item": "minecraft:golden_chestplate",
+                    "count": 1
+              }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 3,
+                "max_uses": 5,
+                "price": 7000,
+                "sell": {
+                    "item": "minecraft:golden_leggings",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 3,
+                "max_uses": 5,
+                "price": 350,
+                "buy": {
+                    "item": "minecraft:golden_leggings",
+                    "count": 1
+              }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 3,
+                "max_uses": 5,
+                "price": 4000,
+                "sell": {
+                    "item": "minecraft:golden_boots",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 3,
+                "max_uses": 5,
+                "price": 200,
+                "buy": {
+                    "item": "minecraft:golden_boots",
+                    "count": 1
+              }
+            }
+        ],
+        "expert": [
+			{
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 4,
+                "max_uses": 4,
+                "price": 200,
+                "buy": {
+                  "item": "minecraft:iron_ingot",
+                  "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 4,
+                "max_uses": 20,
+                "price": 500,
+                "sell": {
+                    "item": "minecraft:iron_ingot",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 4,
+                "max_uses": 5,
+                "price": 2500,
+                "sell": {
+                    "item": "minecraft:iron_helmet",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 4,
+                "max_uses": 5,
+                "price": 4000,
+                "sell": {
+                    "item": "minecraft:iron_chestplate",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 4,
+                "max_uses": 5,
+                "price": 3500,
+                "sell": {
+                    "item": "minecraft:iron_leggings",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 4,
+                "max_uses": 5,
+                "price": 2000,
+                "sell": {
+                    "item": "minecraft:iron_boots",
+                    "count": 1
+                }
+            }
+        ],
+        "master": [
+			{
+			    "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 5,
+                "max_uses": 4,
+                "price": 1000,
+			    "buy": {
+				    "item": "minecraft:diamond",
+				    "count": 2
+			    }
+			},
+		    {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 5,
+                "max_uses": 10,
+                "price": 5000,
+                "sell": {
+                    "item": "minecraft:diamond",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:process_item",
+                "villager_experience": 5,
+                "max_uses": 1,
+                "price": 20000,
+                "buy": {
+                    "item": "numismatic-overhaul:silver_coin",
+                    "count": 50
+                },
+                "sell": {
+                    "item": "minecraft:diamond_helmet",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 5,
+                "max_uses": 1,
+                "price": 40000,
+                "sell": {
+                    "item": "minecraft:diamond_chestplate",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:process_item",
+                "villager_experience": 5,
+                "max_uses": 1,
+                "price": 30000,
+                "buy": {
+                    "item": "numismatic-overhaul:silver_coin",
+                    "count": 50
+                },
+                "sell": {
+                    "item": "minecraft:diamond_leggings",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 5,
+                "max_uses": 1,
+                "price": 20000,
+                "sell": {
+                    "item": "minecraft:diamond_boots",
+                    "count": 1
+                }
+            }
+        ]
+    }
+}

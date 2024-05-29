@@ -1,0 +1,22 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:jungle",
+        "minecraft:bamboo_jungle",
+        "minecraft:sparse_jungle",
+        "underground_jungle:underground_jungle",
+        "wythers:jungle_canyon",
+        "wythers:jungle_island",
+        "wythers:jungle_river",
+        "wythers:bamboo_jungle_canyon",
+        "wythers:bamboo_jungle_highlands",
+        "wythers:bamboo_jungle_swamp",
+        "wythers:eucalyptus_jungle",
+        "wythers:eucalyptus_jungle_canyon",
+        "wythers:flooded_jungle",
+        "wythers:sandy_jungle",
+        "wythers:sparse_bamboo_jungle",
+        "wythers:sparse_eucalyptus_jungle",
+        "wythers:windswept_jungle"
+    ]
+}

@@ -1,0 +1,255 @@
+{
+	"argument1": {
+		"argument1": 4.0,
+		"argument2": {
+			"argument": {
+				"argument1": {
+					"argument1": "amplified_nether:climate/depth",
+					"argument2": {
+						"argument1": {
+							"argument1": {
+								"argument1": 0.0,
+								"argument2": {
+									"argument1": 1.0,
+									"argument2": {
+										"argument1": -1.0,
+										"argument2": {
+											"argument": {
+												"type": "minecraft:blend_alpha"
+											},
+											"type": "minecraft:cache_once"
+										},
+										"type": "minecraft:mul"
+									},
+									"type": "minecraft:add"
+								},
+								"type": "minecraft:mul"
+							},
+							"argument2": {
+								"argument1": {
+									"input": {
+										"spline": {
+											"coordinate": "amplified_nether:climate/continentalness",
+											"points": [
+												{
+													"derivative": 0.0,
+													"location": -0.3,
+													"value": {
+														"coordinate": "amplified_nether:climate/erosion",
+														"points": [
+															{
+																"derivative": -0.1,
+																"location": -0.25,
+																"value": {
+																	"coordinate": "amplified_nether:climate/weirdness",
+																	"points": [
+																		{
+																			"derivative": 0.0,
+																			"location": -0.5,
+																			"value": 2.25
+																		},
+																		{
+																			"derivative": 0.0,
+																			"location": 0.0,
+																			"value": 1.0
+																		},
+																		{
+																			"derivative": 0.0,
+																			"location": 0.5,
+																			"value": 0.4
+																		}
+																	]
+																}
+															},
+															{
+																"derivative": 0.0,
+																"location": 0.0,
+																"value": {
+																	"coordinate": "amplified_nether:climate/weirdness",
+																	"points": [
+																		{
+																			"derivative": 0.0,
+																			"location": 0.0,
+																			"value": 0.0
+																		}
+																	]
+																}
+															}
+														]
+													}
+												},
+												{
+													"derivative": 0.0,
+													"location": 0.0,
+													"value": {
+														"coordinate": "amplified_nether:climate/erosion",
+														"points": [
+															{
+																"derivative": 0.0,
+																"location": 0.0,
+																"value": {
+																	"coordinate": "amplified_nether:climate/weirdness",
+																	"points": [
+																		{
+																			"derivative": 0.0,
+																			"location": 0.0,
+																			"value": 0.0
+																		}
+																	]
+																}
+															}
+														]
+													}
+												},
+												{
+													"derivative": 0.0,
+													"location": 0.3,
+													"value": {
+														"coordinate": "amplified_nether:climate/erosion",
+														"points": [
+															{
+																"derivative": 0.0,
+																"location": -0.3,
+																"value": {
+																	"coordinate": "amplified_nether:climate/weirdness",
+																	"points": [
+																		{
+																			"derivative": 0.0,
+																			"location": 0.0,
+																			"value": 0.0
+																		}
+																	]
+																}
+															},
+															{
+																"derivative": 0.0,
+																"location": 0.0,
+																"value": {
+																	"coordinate": "amplified_nether:climate/weirdness",
+																	"points": [
+																		{
+																			"derivative": 0.0,
+																			"location": 0.75,
+																			"value": 0.1
+																		},
+																		{
+																			"derivative": 1.0,
+																			"location": -0.6,
+																			"value": 0.2
+																		},
+																		{
+																			"derivative": -0.5,
+																			"location": 0.3,
+																			"value": 0.1
+																		},
+																		{
+																			"derivative": 0.0,
+																			"location": 0.0,
+																			"value": 0.0
+																		},
+																		{
+																			"derivative": 2.0,
+																			"location": 0.3,
+																			"value": 0.15
+																		},
+																		{
+																			"derivative": -0.5,
+																			"location": 0.6,
+																			"value": 0.5
+																		},
+																		{
+																			"derivative": 0.0,
+																			"location": 0.75,
+																			"value": 0.1
+																		}
+																	]
+																}
+															},
+															{
+																"derivative": 0.0,
+																"location": 0.3,
+																"value": {
+																	"coordinate": "amplified_nether:climate/weirdness",
+																	"points": [
+																		{
+																			"derivative": 0.0,
+																			"location": 0.75,
+																			"value": 0.2
+																		},
+																		{
+																			"derivative": 1.0,
+																			"location": -0.6,
+																			"value": 0.425
+																		},
+																		{
+																			"derivative": -0.5,
+																			"location": 0.3,
+																			"value": 0.1
+																		},
+																		{
+																			"derivative": 0.0,
+																			"location": 0.0,
+																			"value": 0.0
+																		},
+																		{
+																			"derivative": 2.0,
+																			"location": 0.3,
+																			"value": 0.3
+																		},
+																		{
+																			"derivative": -2.0,
+																			"location": 0.6,
+																			"value": 0.9
+																		},
+																		{
+																			"derivative": 0.0,
+																			"location": 0.75,
+																			"value": 0.3
+																		}
+																	]
+																}
+															}
+														]
+													}
+												}
+											]
+										},
+										"type": "minecraft:spline"
+									},
+									"max": 1.28,
+									"min": 0.0,
+									"type": "minecraft:clamp"
+								},
+								"argument2": {
+									"argument": {
+										"type": "minecraft:blend_alpha"
+									},
+									"type": "minecraft:cache_once"
+								},
+								"type": "minecraft:mul"
+							},
+							"type": "minecraft:add"
+						},
+						"argument2": {
+							"argument": {
+								"noise": "minecraft:jagged",
+								"type": "minecraft:noise",
+								"xz_scale": 1500.0,
+								"y_scale": 15.0
+							},
+							"type": "minecraft:half_negative"
+						},
+						"type": "minecraft:mul"
+					},
+					"type": "minecraft:add"
+				},
+				"argument2": "amplified_nether:climate/factor",
+				"type": "minecraft:mul"
+			},
+			"type": "minecraft:quarter_negative"
+		},
+		"type": "minecraft:mul"
+	},
+	"argument2": "amplified_nether:math/base_3d_noise",
+	"type": "minecraft:add"
+}

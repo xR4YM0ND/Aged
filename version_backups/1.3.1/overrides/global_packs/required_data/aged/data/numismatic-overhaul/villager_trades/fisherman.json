@@ -1,0 +1,228 @@
+{
+    "profession": "fisherman",
+    "trades": {
+        "novice": [
+            {
+                "type": "numismatic-overhaul:process_item",
+                "villager_experience": 1,
+                "max_uses": 2,
+                "price": 100,
+                "buy": {
+                    "item": "numismatic-overhaul:bronze_coin",
+                    "count": 60
+                },
+                "sell": {
+                    "item": "minecraft:cod",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 1,
+                "max_uses": 2,
+                "price": 32,
+                "buy": {
+                    "item": "minecraft:cod",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:process_item",
+                "villager_experience": 1,
+                "max_uses": 2,
+                "price": 100,
+                "buy": {
+                    "item": "numismatic-overhaul:bronze_coin",
+                    "count": 60
+                },
+                "sell": {
+                    "item": "minecraft:salmon",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 1,
+                "max_uses": 2,
+                "price": 32,
+                "buy": {
+                    "item": "minecraft:cod",
+                    "count": 8
+                }
+            }
+        ],
+        "apprentice": [
+            {
+                "type": "numismatic-overhaul:process_item",
+                "villager_experience": 2,
+                "max_uses": 2,
+                "price": 100,
+                "buy": {
+                    "item": "numismatic-overhaul:bronze_coin",
+                    "count": 60
+                },
+                "sell": {
+                    "item": "minecraft:ink_sac",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 2,
+                "max_uses": 2,
+                "price": 16,
+                "buy": {
+                    "item": "minecraft:ink_sac",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "max_uses": 1,
+                "price": 50,
+                "sell": {
+                    "item": "minecraft:fishing_rod",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:process_item",
+                "villager_experience": 2,
+                "max_uses": 2,
+                "price": 200,
+                "buy": {
+                    "item": "numismatic-overhaul:bronze_coin",
+                    "count": 40
+                },
+                "sell": {
+                    "item": "architects_palette:cod_log",
+                    "count": 32
+                }
+            },
+            {
+                "type": "numismatic-overhaul:process_item",
+                "villager_experience": 2,
+                "max_uses": 2,
+                "price": 200,
+                "buy": {
+                    "item": "numismatic-overhaul:bronze_coin",
+                    "count": 40
+                },
+                "sell": {
+                    "item": "architects_palette:salmon_log",
+                    "count": 32
+                }
+            }
+        ],
+        "journeyman": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 3,
+                "max_uses": 2,
+                "price": 800,
+                "sell": {
+                    "item": "minecraft:tropical_fish",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 3,
+                "max_uses": 2,
+                "price": 160,
+                "buy": {
+                    "item": "minecraft:tropical_fish",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 3,
+                "max_uses": 2,
+                "price": 1600,
+                "sell": {
+                    "item": "minecraft:glow_ink_sac",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 3,
+                "max_uses": 2,
+                "price": 160,
+                "buy": {
+                    "item": "minecraft:glow_ink_sac",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:enchant_item",
+                "villager_experience": 3,
+                "max_uses": 1,
+                "base_price": 2000,
+                "level": 14,
+                "allow_treasure": false,
+                "item": {
+                  "item": "minecraft:fishing_rod"
+                }
+            }
+        ],
+        "expert": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 4,
+                "max_uses": 2,
+                "price": 8000,
+                "sell": {
+                    "item": "minecraft:pufferfish",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 4,
+                "max_uses": 2,
+                "price": 800,
+                "buy": {
+                    "item": "minecraft:pufferfish",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:enchant_item",
+                "villager_experience": 4,
+                "max_uses": 1,
+                "base_price": 5000,
+                "level": 22,
+                "allow_treasure": false,
+                "item": {
+                  "item": "minecraft:fishing_rod"
+                }
+            }
+        ],
+        "master": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 5,
+                "max_uses": 2,
+                "price": 80000,
+                "sell": {
+                    "item": "farmersdelight:fish_stew",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:enchant_item",
+                "villager_experience": 5,
+                "max_uses": 1,
+                "base_price": 8000,
+                "level": 30,
+                "allow_treasure": false,
+                "item": {
+                  "item": "minecraft:fishing_rod"
+                }
+            }
+        ]
+    }
+}

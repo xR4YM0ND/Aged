@@ -1,0 +1,18 @@
+{
+    "name": "Jobs",
+    "icon": "numismatic-overhaul:silver_coin",
+    "category": "patchouli:0_get_started_category",
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:image",
+            "title": "Take Jobs",
+            "images": ["aged:textures/gui/entries/jobs/jobs_screen.png"]
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Infos",
+            "text": "$(br)Jobs give you XP & coins on level up.$(br2)$(li)max 2 jobs$(li)30 minutes cooldown$(li)max level 100 per job"
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "farming",
+    "level": 30,
+    "item": "minecraft:custom_item",
+    "object": "byg:pendorite_axe"
+}

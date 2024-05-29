@@ -1,0 +1,8 @@
+{
+    "items": [
+        "immersive_armors:steampunk_helmet"
+    ],
+    "base": [
+        "minecraft:redstone_block"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "level": 24,
+    "skill": "luck",
+    "item": [
+        "immersive_armors:steampunk_helmet",
+        "immersive_armors:steampunk_chestplate",
+        "immersive_armors:steampunk_leggings",
+        "immersive_armors:steampunk_boots"
+    ]
+}

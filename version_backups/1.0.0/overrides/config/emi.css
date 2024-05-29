@@ -1,0 +1,266 @@
+/** EMI Config */
+
+#general {
+	/**
+	 * Whether EMI is enabled and visible.
+	 */
+	enabled: false;
+
+	/**
+	 * Whether cheating in items is enabled.
+	 */
+	cheat-mode: true;
+}
+
+#ui {
+	/**
+	 * Whether to move status effects to the
+	 * top of the screen.
+	 */
+	move-effects: false;
+
+	/**
+	 * Whether to have the search bar in the
+	 * center of the screen, instead of to the side.
+	 */
+	center-search-bar: true;
+
+	/**
+	 * Whether to display a gray overlay when
+	 * hovering over a stack.
+	 */
+	show-hover-overlay: false;
+
+	/**
+	 * Whether to add mod name to item tooltips
+	 * In case another mod provides behavior
+	 */
+	append-item-mod-id: true;
+
+	/**
+	 * Whether an empty search should display
+	 * craftable recipes, instead of the index.
+	 */
+	empty-search-craftable: false;
+
+	/**
+	 * The amount of columns to display
+	 * on the favorites sidebar.
+	 * A value of zero will disable it.
+	 */
+	max-favorite-columns: 999;
+
+	/**
+	 * The amount of columns to display
+	 * on the index sidebar.
+	 * A value of zero will disable it.
+	 */
+	max-index-columns: 999;
+
+	/**
+	 * The amount of vertical margin to
+	 * give in the recipe screen.
+	 */
+	vertical-margin: 20;
+
+	/**
+	 * Prevents recipes being quick crafted
+	 * from shifting around under the cursor.
+	 */
+	miscraft-prevention: true;
+
+	/**
+	 * The unit to display fluids as.
+	 */
+	fluid-unit: liters;
+
+	/**
+	 * Display cost per batch when hovering
+	 * a recipe output
+	 */
+	show-cost-per-batch: true;
+
+	/**
+	 * Whether recipes should have a button to
+	 * set as default.
+	 */
+	recipe-default-button: true;
+
+	/**
+	 * Whether recipes should have a button to
+	 * show the recipe tree.
+	 */
+	recipe-tree-button: true;
+
+	/**
+	 * Whether recipes should have a button to
+	 * fill the ingredients in a handler.
+	 */
+	recipe-fill-button: true;
+
+	/**
+	 * Whether to use the batched render system.
+	 * Batching is faster, but may have incompatibilities
+	 * with shaders or other mods.
+	 */
+	use-batched-renderer: true;
+}
+
+#binds {
+	/**
+	 * Toggle the visibility of EMI.
+	 */
+	toggle-visibility: "ctrl key.keyboard.o";
+
+	/**
+	 * Focuse the search bar.
+	 */
+	focus-search: "ctrl key.keyboard.f";
+
+	/**
+	 * Clears the search bar.
+	 */
+	clear-search: "key.keyboard.unknown";
+
+	/**
+	 * Display the recipes for creating an item.
+	 */
+	view-recipes: "key.keyboard.r";
+	view-recipes: "key.mouse.left";
+
+	/**
+	 * Display the recipes that can be created
+	 * using an item.
+	 */
+	view-uses: "key.keyboard.u";
+	view-uses: "key.mouse.right";
+
+	/**
+	 * Favorite the item to display on the
+	 * side of the screen opposite of
+	 * recipies for quick access.
+	 */
+	favorite: "key.keyboard.unknown";
+
+	/**
+	 * Display the recipe tree for a given item.
+	 */
+	view-stack-tree: "key.keyboard.unknown";
+
+	/**
+	 * Display the recipe tree.
+	 */
+	view-tree: "key.keyboard.unknown";
+
+	/**
+	 * Return to the previous page in EMI.
+	 */
+	back: "key.keyboard.backspace";
+
+	/**
+	 * Toggle between index and craftable
+	 * search modes.
+	 */
+	toggle-craftable: "key.keyboard.unknown";
+
+	/**
+	 * Toggle craftable filter between
+	 * all recipes and current workstation.
+	 */
+	toggle-local-craftable: "key.keyboard.unknown";
+
+	/**
+	 * When on a stack with an associated recipe:
+	 * Move ingredients for a single result.
+	 */
+	craft-one: "key.mouse.left";
+
+	/**
+	 * When on a stack with an associated recipe:
+	 * Move ingredients for as many results as possible.
+	 */
+	craft-all: "shift key.mouse.left";
+
+	/**
+	 * When on a stack with an associated recipe:
+	 * Move ingredients for a single result
+	 * and put in inventory if possible.
+	 */
+	craft-one-to-inventory: "key.keyboard.unknown";
+
+	/**
+	 * When on a stack with an associated recipe:
+	 * Move ingredients for as many results as possible
+	 * and put in inventory if possible.
+	 */
+	craft-all-to-inventory: "key.keyboard.unknown";
+
+	/**
+	 * When on a stack with an associated recipe:
+	 * Move ingredients for a single result
+	 * and put in cursor if possible.
+	 */
+	craft-one-to-cursor: "ctrl key.mouse.left";
+
+	/**
+	 * Display the recipe that will be used
+	 * to craft on a stack with no recipe context.
+	 */
+	show-craft: "key.keyboard.left.shift";
+
+	/**
+	 * Cheat in one of an item into the inventory.
+	 */
+	cheat-one-to-inventory: "ctrl key.mouse.right";
+
+	/**
+	 * Cheat in a stack of an item into the inventory.
+	 */
+	cheat-stack-to-inventory: "ctrl key.mouse.left";
+
+	/**
+	 * Cheat in one of an item into the cursor.
+	 */
+	cheat-one-to-cursor: "ctrl key.mouse.middle";
+
+	/**
+	 * Cheat in a stack of an item into the cursor.
+	 */
+	cheat-stack-to-cursor: "key.keyboard.unknown";
+}
+
+#dev {
+	/**
+	 * Whether certain development functions should be enabled.
+	 * Not recommended for general play.
+	 */
+	dev-mode: false;
+
+	/**
+	 * Whether to log untranslated tags as warnings.
+	 */
+	log-untranslated-tags: false;
+
+	/**
+	 * Whether hovering the output of a recipe should show
+	 * the recipe's EMI ID.
+	 */
+	show-recipe-ids: false;
+
+	/**
+	 * Whether stacks in the index should display a highlight
+	 * if they have a recipe default.
+	 */
+	highlight-defaulted: false;
+
+	/**
+	 * Whether to display exclusion areas
+	 */
+	highlight-exclusion-areas: false;
+}
+
+#persistent {
+	craftable: false;
+
+	local-craftable: true;
+}

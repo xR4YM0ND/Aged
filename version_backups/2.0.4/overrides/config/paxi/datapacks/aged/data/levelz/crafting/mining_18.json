@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "level": 18,
+    "skill": "mining",
+    "item": [
+        "betternether:cincinnasite_pickaxe",
+        "betternether:cincinnasite_shovel",
+        "geodes:echo_locator",
+        "minecraft:recovery_compass"
+    ]
+}

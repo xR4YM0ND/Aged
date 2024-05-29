@@ -1,0 +1,36 @@
+{
+	"config": {
+		"base_block_provider": {
+			"state": {
+				"Name": "minecraft:end_stone"
+			},
+			"type": "minecraft:simple_state_provider"
+		},
+		"block_provider": {
+			"state": {
+				"Name": "byg:shulkren_vine_plant"
+			},
+			"type": "minecraft:simple_state_provider"
+		},
+		"end_block_provider": {
+			"state": {
+				"Name": "byg:shulkren_vine",
+				"Properties": {
+					"age": "23"
+				}
+			},
+			"type": "minecraft:simple_state_provider"
+		},
+		"max_length": 9,
+		"min_length": 1,
+		"whitelist": [
+			{
+				"Name": "minecraft:end_stone"
+			},
+			{
+				"Name": "byg:shulkren_phylium"
+			}
+		]
+	},
+	"type": "byg:hanging_feature"
+}

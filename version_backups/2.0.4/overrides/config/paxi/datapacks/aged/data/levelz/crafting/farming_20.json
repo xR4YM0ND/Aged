@@ -1,0 +1,10 @@
+{
+    "replace": false,
+    "level": 20,
+    "skill": "farming",
+    "item": [
+        "chipped:botanist_workbench",
+        "chipped:loom_table",
+        "sootychimneys:copper_chimney"
+    ]
+}

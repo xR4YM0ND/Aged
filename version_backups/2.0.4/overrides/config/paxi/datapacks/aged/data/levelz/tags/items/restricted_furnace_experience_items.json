@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:green_dye",
+        "minecraft:dried_kelp",
+        "minecraft:nether_brick"
+    ]
+}

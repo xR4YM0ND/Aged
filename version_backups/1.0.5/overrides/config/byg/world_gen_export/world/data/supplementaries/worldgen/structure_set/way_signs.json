@@ -1,0 +1,18 @@
+{
+	"placement": {
+		"exclusion_zone": {
+			"chunk_count": 10,
+			"other_set": "minecraft:pillager_outposts"
+		},
+		"salt": 431041527,
+		"separation": 10,
+		"spacing": 19,
+		"type": "minecraft:random_spread"
+	},
+	"structures": [
+		{
+			"structure": "supplementaries:way_sign",
+			"weight": 1
+		}
+	]
+}

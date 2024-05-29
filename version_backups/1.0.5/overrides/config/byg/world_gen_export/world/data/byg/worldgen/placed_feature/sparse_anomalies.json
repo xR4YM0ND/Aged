@@ -1,0 +1,23 @@
+{
+	"feature": "byg:bulbis_anomalies",
+	"placement": [
+		{
+			"count": 1,
+			"type": "minecraft:count"
+		},
+		{
+			"type": "minecraft:in_square"
+		},
+		{
+			"heightmap": "WORLD_SURFACE_WG",
+			"type": "minecraft:heightmap"
+		},
+		{
+			"type": "minecraft:biome"
+		},
+		{
+			"chance": 4,
+			"type": "minecraft:rarity_filter"
+		}
+	]
+}

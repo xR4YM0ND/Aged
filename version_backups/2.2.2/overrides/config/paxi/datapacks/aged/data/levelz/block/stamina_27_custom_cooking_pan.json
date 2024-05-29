@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "stamina",
+    "level": 27,
+    "block": "minecraft:custom_block",
+    "object": "candlelight:cooking_pan"
+}

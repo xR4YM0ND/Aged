@@ -1,0 +1,122 @@
+{
+	// Maximum level per skills
+	"maxLevel": 30,
+	// Maximum level: 0 = disabled
+	"overallMaxLevel": 0,
+	// Applies if bonus chest world setting is enabled
+	"startPoints": 0,
+	// Enables starter points for SERVER only
+	"enableStartPoints": false,
+	"pointsPerLevel": 1,
+	// If true will reset stats on death
+	"hardMode": false,
+	"disableMobFarms": true,
+	// Amount of allowed mob kills in a chunk
+	"mobKillCount": 10,
+	// Only for Devs
+	"devMode": false,
+	// Attribute values - Bonus for each lvl
+	"healthBase": 6.0,
+	"healthBonus": 1.0,
+	// Absorption Bonus at max lvl
+	"healthAbsorptionBonus": 6.0,
+	// Levelz Screen Multiplies it by 10
+	"movementBase": 0.09,
+	"movementBonus": 0.001,
+	// Chance of damage misses player at max lvl
+	"movementMissChance": 0.05000000074505806,
+	// Reduces fall damage
+	"movementFallBonus": 0.25,
+	"attackBase": 1.0,
+	"attackBonus": 0.2,
+	// Chance of double meele damage at max lvl
+	"attackDoubleDamageChance": 0.029999999329447746,
+	"attackCritDmgBonus": 0.20000000298023224,
+	"defenseBase": 0.0,
+	"defenseBonus": 0.2,
+	// Chance of damage reflection at max lvl
+	"defenseReflectChance": 0.05000000074505806,
+	"luckBase": 0.0,
+	"luckBonus": 0.05,
+	"luckCritBonus": 0.009999999776482582,
+	// Chance of not dying at max lvl
+	"luckSurviveChance": 0.5,
+	"staminaBase": 1.100000023841858,
+	"staminaBonus": 0.019999999552965164,
+	"staminaHealthBonus": 0.05000000074505806,
+	// Food is more nutritious at max lvl
+	"staminaFoodBonus": 0.30000001192092896,
+	// Price reduction in %
+	"tradeBonus": 1.0,
+	"tradeXPBonus": 0.5,
+	// Disables bad reputation possibility at max lvl
+	"tradeReputation": true,
+	"smithingCostBonus": 0.014999999664723873,
+	// Chance of no tool damage
+	"smithingToolChance": 0.009999999776482582,
+	// Chance of no xp usage on anvil at max lvl
+	"smithingAnvilChance": 0.10000000149011612,
+	// Min level to get chance of more crops drop
+	"farmingBase": 10,
+	// Chance of more crops drop
+	"farmingChanceBonus": 0.009999999776482582,
+	// Breeding twin chance at max lvl
+	"farmingTwinChance": 0.20000000298023224,
+	// Chance of increased enchantment strength
+	"alchemyEnchantmentChance": 0.004999999888241291,
+	// Chance of drinking potion with double value at max lvl
+	"alchemyPotionChance": 0.05000000074505806,
+	"archeryInaccuracyBonus": 0.5,
+	"archeryBowExtraDamage": 0.20000000298023224,
+	"archeryCrossbowExtraDamage": 0.20000000298023224,
+	// Chance of double range damage at max lvl
+	"archeryDoubleDamageChance": 0.05000000074505806,
+	// Chance of more ore drop
+	"miningOreChance": 0.009999999776482582,
+	// Tnt power increase at max lvl
+	"miningTntBonus": 0.5,
+	// Locked blocks break slower factor
+	"miningLockedMultiplicator": 2.0,
+	// Caution! Level up use independent levelz xp system
+	"useIndependentExp": true,
+	// XP equation: lvl^exponent * multiplicator + base
+	"xpCostMultiplicator": 0.10000000149011612,
+	"xpExponent": 2,
+	"xpBaseCost": 50,
+	// 0 = no experience cap
+	"xpMaxCost": 0,
+	"resetCurrentXP": true,
+	"dropPlayerXP": true,
+	"dropXPbasedOnLvl": false,
+	// 0.01 = 1% more xp per lvl
+	"basedOnMultiplier": 0.009999999776482582,
+	"breedingXPMultiplier": 1.0,
+	"bottleXPMultiplier": 1.0,
+	"dragonXPMultiplier": 0.5,
+	"fishingXPMultiplier": 0.800000011920929,
+	"furnaceXPMultiplier": 0.10000000149011612,
+	"oreXPMultiplier": 1.0,
+	"tradingXPMultiplier": 0.30000001192092896,
+	"mobXPMultiplier": 1.0,
+	// Show the skill gui button in the inventory
+	"inventoryButton": true,
+	// Highlight locked blocks in red.
+	"highlightLocked": false,
+	"sortCraftingRecipesBySkill": false,
+	"inventorySkillLevel": true,
+	"inventorySkillLevelPosX": 0,
+	"inventorySkillLevelPosY": 62,
+	"showLevelList": true,
+	"showLevel": true,
+	// Switch levelz screen instead of closing with inventory key
+	"switch_screen": true,
+	"showLockedBlockInfo": true,
+	"lockedBlockInfoPosX": 0,
+	"lockedBlockInfoPosY": 0,
+	"miningProgression": true,
+	"itemProgression": true,
+	"blockProgression": true,
+	"entityProgression": true,
+	"brewingProgression": true,
+	"smithingProgression": true
+}

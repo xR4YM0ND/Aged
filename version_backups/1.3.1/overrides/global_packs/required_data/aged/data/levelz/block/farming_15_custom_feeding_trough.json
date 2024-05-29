@@ -1,0 +1,7 @@
+{
+    "replace": true,
+    "skill": "farming",
+    "level": 15,
+    "block": "minecraft:custom_block",
+    "object": "animal_feeding_trough:feeding_trough"
+}

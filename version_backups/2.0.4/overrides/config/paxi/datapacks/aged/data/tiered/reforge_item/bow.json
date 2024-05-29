@@ -1,0 +1,11 @@
+{
+  "product": {
+    "id": "minecraft:bow"
+  },
+  "cover": true,
+  "base": [
+    {
+      "id": "minecraft:string"
+    }
+  ]
+}

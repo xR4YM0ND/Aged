@@ -1,0 +1,16 @@
+{
+    "replace": false,
+    "skill": "stamina",
+    "level": 2,
+    "item": [
+        "candlelight:cooking_hat",
+        "candlelight:chefs_jacket",
+        "candlelight:chefs_pants",
+        "candlelight:chefs_boots",
+        "bakery:mud_stove",
+        "candlelight:mud_stove",
+        "candlelight:mud_kitchen_sink",
+        "candlelight:mud_counter",
+        "vinery:wine_press"
+    ]
+}

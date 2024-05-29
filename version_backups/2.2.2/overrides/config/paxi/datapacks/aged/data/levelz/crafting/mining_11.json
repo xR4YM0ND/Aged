@@ -1,0 +1,12 @@
+{
+    "replace": false,
+    "skill": "mining",
+    "level": 11,
+    "item": [
+        "minecraft:iron_pickaxe",
+        "minecraft:iron_shovel",
+        "candlelight:typewriter_iron",
+        "meadow:can",
+        "meadow:oil_lantern"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "replace": true,
+    "level": 12,
+    "block": [
+        "minecraft:gold_block",
+        "minecraft:raw_gold_block",
+        "minecraft:gold_ore",
+        "universal_ores:andesite_gold_ore",
+        "universal_ores:diorite_gold_ore",
+        "universal_ores:granite_gold_ore",
+        "universal_ores:calcite_gold_ore",
+        "universal_ores:tuff_gold_ore",
+        "minecraft:light_weighted_pressure_plate",
+        "minecraft:tuff",
+        "universal_ores:tuff_coal_ore",
+        "universal_ores:tuff_copper_ore",
+        "universal_ores:tuff_iron_ore"
+    ]
+}

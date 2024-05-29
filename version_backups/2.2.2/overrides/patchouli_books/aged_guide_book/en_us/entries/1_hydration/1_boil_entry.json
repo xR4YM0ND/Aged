@@ -1,0 +1,57 @@
+{
+    "name": "Boil",
+    "icon": "minecraft:campfire",
+    "category": "patchouli:1_hydration_category",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:campfire",
+            "title": "Campfire",
+            "text": "Use bottles of water on a $(l)lit$() campfire to get purified water bottles after some boil time."
+        },
+        {
+            "type": "patchouli:smelting",
+            "recipe": "dehydration:purified_water_bucket",
+            "title": "Furnace",
+            "text": "Smelt a whole bucket of water into a purified water bucket. After that use it on a copper cauldron."
+        },
+        {
+            "type": "patchouli:multiblock",
+            "text": "$(br)Can only be placed on top of a campfire",
+            "multiblock": {
+                "pattern": [
+                    [
+                        "P"
+                    ],
+                    [
+                        "0"
+                    ]
+                ],
+                "mapping": {
+                    "0": "minecraft:campfire",
+                    "P": "dehydration:campfire_cauldron"
+                },
+                "symmetrical": true
+            }
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "dehydration:campfire_cauldron",
+            "title": "Campfire Cauldron",
+            "text": "Use a copper cauldron over a lit campfire & fill it with water from bottles, buckets or flasks."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "dehydration:copper_cauldron",
+            "title": "Copper Cauldron",
+            "text": "Use a copper cauldron to gather rain water over time or use buckets on it."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "dehydration:bamboo_pump",
+            "title": "Bamboo Pump",
+            "text": "Use bottles or buckets on it.$(br2)The pump has a cooldown after each use.$(br2)This method doesnt cost you dirty water."
+        }
+    ]
+}

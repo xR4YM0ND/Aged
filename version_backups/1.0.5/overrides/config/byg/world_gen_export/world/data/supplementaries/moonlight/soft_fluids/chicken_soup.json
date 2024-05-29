@@ -1,0 +1,19 @@
+{
+	"color": "dea766",
+	"containers": [
+		{
+			"capacity": 2,
+			"empty": "minecraft:bowl",
+			"filled": [
+				"farmersdelight:chicken_soup"
+			]
+		}
+	],
+	"flowing_texture": "moonlight:soft_fluids/potion_flow",
+	"food": {
+		"divider": 2,
+		"item": "farmersdelight:chicken_soup"
+	},
+	"from_mod": "farmersdelight",
+	"still_texture": "moonlight:soft_fluids/soup_liquid"
+}

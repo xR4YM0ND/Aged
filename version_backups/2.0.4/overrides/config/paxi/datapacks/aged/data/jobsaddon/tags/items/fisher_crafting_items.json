@@ -1,0 +1,8 @@
+{
+    "replace": true,
+    "values": [
+        "minecraft:fishing_rod",
+        "gofish:blaze_rod",
+        "gofish:diamond_reinforced_rod"
+    ]
+}

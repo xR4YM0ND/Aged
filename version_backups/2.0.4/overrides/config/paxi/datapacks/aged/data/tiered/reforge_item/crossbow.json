@@ -1,0 +1,11 @@
+{
+  "product": {
+    "id": "minecraft:crossbow"
+  },
+  "cover": true,
+  "base": [
+    {
+      "id": "minecraft:iron_ingot"
+    }
+  ]
+}

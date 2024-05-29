@@ -1,0 +1,12 @@
+{
+    "values": [
+        "minecraft:copper_ore",
+        "minecraft:deepslate_copper_ore",
+        "meadow:alpine_copper_ore",
+        "universal_ores:granite_copper_ore",
+        "universal_ores:diorite_copper_ore",
+        "universal_ores:andesite_copper_ore",
+        "universal_ores:tuff_copper_ore",
+        "universal_ores:calcite_copper_ore"
+    ]
+}

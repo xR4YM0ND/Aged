@@ -1,0 +1,33 @@
+{
+    "replace": true,
+    "level": 7,
+    "block": [
+        "minecraft:tuff",
+        "twigs:tuff_stairs",
+        "twigs:tuff_slab",
+        "twigs:tuff_wall",
+        "twigs:polished_tuff",
+        "twigs:polished_tuff_stairs",
+        "twigs:polished_tuff_slab",
+        "architects_palette:tuff_bricks",
+        "architects_palette:tuff_brick_stairs",
+        "architects_palette:tuff_brick_vertical_slab",
+        "architects_palette:tuff_brick_slab",
+        "architects_palette:tuff_brick_wall",
+        "twigs:cracked_polished_tuff_bricks",
+        "twigs:polished_tuff_bricks",
+        "twigs:polished_tuff_brick_stairs",
+        "twigs:polished_tuff_brick_slab",
+        "twigs:polished_tuff_brick_wall",
+        "architects_palette:tuff_pillar",
+        "architects_palette:chiseled_tuff",
+        "architects_palette:heavy_tuff_bricks",
+        "architects_palette:tuff_lamp",
+        "universal_ores:tuff_coal_ore",
+        "minecraft:copper_ore",
+        "universal_ores:calcite_copper_ore",
+        "universal_ores:tuff_copper_ore",
+        "minecraft:raw_copper_block",
+        "minecraft:copper_block"
+    ]
+}

@@ -1,0 +1,180 @@
+{
+    "1": {
+        "replace": true,
+        "items": [
+            "minecraft:apple",
+            "minecraft:melon_slice",
+            "minecraft:honey_bottle",
+            "minecraft:chorus_fruit",
+            "ecologics:coconut_slice",
+            "ecologics:prickly_pear",
+            "farmersdelight:tomato",
+            "farmersdelight:pumpkin_slice",
+            "betterend:end_fish_raw",
+            "betterend:amber_root_raw",
+            "betterend:chorus_mushroom_raw",
+            "betternether:black_apple",
+            "vinery:red_grape",
+            "vinery:savanna_grapes_red",
+            "vinery:taiga_grapes_red",
+            "vinery:jungle_grapes_red",
+            "vinery:white_grape",
+            "vinery:savanna_grapes_white",
+            "vinery:taiga_grapes_white",
+            "vinery:jungle_grapes_white",
+            "vinery:cherry",
+            "betternether:hook_mushroom_cooked",
+            "farmersrespite:black_tea",
+            "farmersrespite:rose_hip_tea",
+            "farmersrespite:purulent_tea",
+            "farmersrespite:coffee"
+        ]
+    },
+    "2": {
+        "replace": true,
+        "items": [
+            "minecraft:potion",
+            "expandeddelight:sweet_berry_jelly",
+            "expandeddelight:glow_berry_jelly",
+            "expandeddelight:mac_and_cheese",
+            "farmersdelight:milk_bottle",
+            "farmersdelight:tomato_sauce",
+            "farmersdelight:nether_salad",
+            "farmersdelight:dumplings",
+            "minecraft:suspicious_stew",
+            "minecraft:mushroom_stew",
+            "minecraft:beetroot_soup",
+            "betterend:shadow_berry_raw",
+            "betterend:blossom_berry",
+            "vinery:milk_bread",
+            "vinery:apple_cupcake",
+            "vinery:apple_pie_slice",
+            "vinery:apple_mash",
+            "farmersrespite:yellow_tea",
+            "farmersrespite:long_black_tea",
+            "farmersrespite:dandelion_tea",
+            "farmersrespite:strong_purulent_tea",
+            "farmersrespite:long_coffee"
+        ]
+    },
+    "3": {
+        "replace": true,
+        "items": [
+            "overweight_farming:melon_juice",
+            "farmersdelight:melon_popsicle",
+            "farmersdelight:glow_berry_custard",
+            "farmersdelight:mixed_salad",
+            "betterend:shadow_berry_cooked",
+            "betterend:end_fish_cooked",
+            "betterend:shadow_berry_jelly",
+            "betternether:stalagnate_bowl_wart",
+            "farmersrespite:strong_black_tea",
+            "farmersrespite:strong_rose_hip_tea",
+            "farmersrespite:strong_coffee"
+        ]
+    },
+    "4": {
+        "replace": true,
+        "items": [
+            "minecraft:rabbit_stew",
+            "ecologics:tropical_stew",
+            "farmersdelight:fruit_salad",
+            "farmersdelight:beef_stew",
+            "farmersdelight:chicken_soup",
+            "betterend:sweet_berry_jelly",
+            "betterend:blossom_berry_jelly",
+            "betterend:cave_pumpkin_pie",
+            "betternether:stalagnate_bowl_apple",
+            "vinery:red_grapejuice_wine_bottle",
+            "vinery:white_grapejuice_wine_bottle",
+            "vinery:apple_juice",
+            "vinery:chenet_wine",
+            "vinery:king_danis_wine",
+            "vinery:noir_wine",
+            "vinery:clark_wine",
+            "vinery:mellohi_wine",
+            "vinery:bolvar_wine",
+            "vinery:cherry_wine",
+            "vinery:apple_cider",
+            "vinery:kelp_cider",
+            "vinery:solaris_wine",
+            "vinery:jellie_wine",
+            "vinery:aegis_wine",
+            "vinery:apple_wine",
+            "vinery:chorus_wine",
+            "vinery:magnetic_wine",
+            "vinery:stal_wine",
+            "vinery:strad_wine",
+            "farmersdelight:apple_cider",
+            "farmersrespite:green_tea",
+            "farmersrespite:long_yellow_tea",
+            "farmersrespite:long_dandelion_tea"
+        ]
+    },
+    "5": {
+        "replace": true,
+        "items": [
+            "minecraft:milk_bucket",
+            "expandeddelight:asparagus_soup",
+            "expandeddelight:asparagus_soup_creamy",
+            "expandeddelight:peanut_honey_soup",
+            "betternether:stalagnate_bowl_mushroom",
+            "vinery:applesauce",
+            "farmersdelight:melon_juice",
+            "brewinandchewin:beer",
+            "brewinandchewin:vodka",
+            "brewinandchewin:mead",
+            "brewinandchewin:rice_wine",
+            "brewinandchewin:egg_grog",
+            "brewinandchewin:strongroot_ale",
+            "brewinandchewin:saccharine_rum",
+            "brewinandchewin:pale_jane",
+            "brewinandchewin:dread_nog",
+            "brewinandchewin:salty_folly",
+            "brewinandchewin:steel_toe_stout",
+            "brewinandchewin:glittering_grenadine",
+            "brewinandchewin:bloody_mary",
+            "brewinandchewin:red_rum",
+            "brewinandchewin:withering_dross",
+            "brewinandchewin:kombucha"
+        ]
+    },
+    "6": {
+        "replace": true,
+        "items": [
+            "minecraft:golden_apple",
+            "expandeddelight:apple_juice",
+            "expandeddelight:sweet_berry_juice",
+            "expandeddelight:glow_berry_juice",
+            "farmersrespite:long_apple_cider",
+            "farmersdelight:vegetable_soup",
+            "farmersdelight:fish_stew",
+            "farmersdelight:baked_cod_stew",
+            "betterend:umbrella_cluster_juice",
+            "betternether:stalagnate_bowl_apple",
+            "farmersrespite:long_green_tea",
+            "farmersrespite:strong_yellow_tea"
+        ]
+    },
+    "7": {
+        "replace": true,
+        "items": [
+            "farmersdelight:pumpkin_soup",
+            "farmersdelight:noodle_soup"
+        ]
+    },
+    "8": {
+        "replace": true,
+        "items": [
+            "farmersdelight:hot_cocoa",
+            "farmersrespite:strong_melon_juice",
+            "farmersrespite:strong_green_tea"
+        ]
+    },
+    "18": {
+        "replace": true,
+        "items": [
+            "minecraft:enchanted_golden_apple"
+        ]
+    }
+}

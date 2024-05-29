@@ -1,0 +1,8 @@
+{
+    "input": {
+        "item": "minecraft:bone"
+    },
+    "result": {
+        "id": "skeletalremains:sunkenskeleton"
+    }
+}

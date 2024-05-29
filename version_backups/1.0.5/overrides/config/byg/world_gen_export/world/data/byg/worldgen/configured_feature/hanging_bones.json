@@ -1,0 +1,39 @@
+{
+	"config": {
+		"base_block_provider": {
+			"state": {
+				"Name": "minecraft:bone_block",
+				"Properties": {
+					"axis": "y"
+				}
+			},
+			"type": "minecraft:simple_state_provider"
+		},
+		"block_provider": {
+			"state": {
+				"Name": "byg:hanging_bones"
+			},
+			"type": "minecraft:simple_state_provider"
+		},
+		"end_block_provider": {
+			"state": {
+				"Name": "minecraft:air"
+			},
+			"type": "minecraft:simple_state_provider"
+		},
+		"max_length": 9,
+		"min_length": 1,
+		"whitelist": [
+			{
+				"Name": "minecraft:bone_block",
+				"Properties": {
+					"axis": "y"
+				}
+			},
+			{
+				"Name": "byg:quartzite_sand"
+			}
+		]
+	},
+	"type": "byg:hanging_feature"
+}

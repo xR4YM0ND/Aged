@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "#": {
+            "tag": "minecraft:planks"
+        },
+        "+": {
+            "item": "minecraft:emerald"
+        },
+        "C": {
+            "item": "minecraft:crossbow"
+        },
+        "S": {
+            "item": "minecraft:sentry_armor_trim_smithing_template"
+        }
+    },
+    "pattern": [
+        "#S#",
+        "+C+",
+        "#+#"
+    ],
+    "result": {
+        "count": 2,
+        "item": "minecraft:sentry_armor_trim_smithing_template"
+    },
+    "show_notification": true
+}

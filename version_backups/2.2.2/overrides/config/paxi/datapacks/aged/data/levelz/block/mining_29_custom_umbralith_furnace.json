@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "mining",
+    "level": 29,
+    "block": "minecraft:custom_block",
+    "object": "betterend:umbralith_furnace"
+}

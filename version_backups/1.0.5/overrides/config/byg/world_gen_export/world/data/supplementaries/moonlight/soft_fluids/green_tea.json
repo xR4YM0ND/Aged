@@ -1,0 +1,6 @@
+{
+	"color": "9fa63b",
+	"flowing_texture": "moonlight:soft_fluids/potion_flow",
+	"still_texture": "moonlight:soft_fluids/soup_liquid",
+	"translation_key": "item.farmersrespite.green_tea"
+}

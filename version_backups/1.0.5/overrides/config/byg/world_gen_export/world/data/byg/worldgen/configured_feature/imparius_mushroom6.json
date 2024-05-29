@@ -1,0 +1,40 @@
+{
+	"config": {
+		"max_height": 13,
+		"min_height": 6,
+		"mushroom2_provider": {
+			"state": {
+				"Name": "byg:imparius_mushroom_block"
+			},
+			"type": "minecraft:simple_state_provider"
+		},
+		"mushroom3_provider": {
+			"state": {
+				"Name": "byg:imparius_mushroom_block"
+			},
+			"type": "minecraft:simple_state_provider"
+		},
+		"mushroom_provider": {
+			"state": {
+				"Name": "byg:imparius_mushroom_block"
+			},
+			"type": "minecraft:simple_state_provider"
+		},
+		"pollen_provider": {
+			"state": {
+				"Name": "byg:pollen_block"
+			},
+			"type": "minecraft:simple_state_provider"
+		},
+		"stem_provider": {
+			"state": {
+				"Name": "byg:imparius_stem",
+				"Properties": {
+					"axis": "y"
+				}
+			},
+			"type": "minecraft:simple_state_provider"
+		}
+	},
+	"type": "byg:imparius_mushroom6"
+}

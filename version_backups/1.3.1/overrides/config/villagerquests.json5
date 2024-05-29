@@ -1,0 +1,52 @@
+{
+	// Villager will remember quests
+	"rememberQuests": true,
+	// Villager can only level up when at least one quest was finished
+	"canOnlyLevelUpWhenCompleted": false,
+	"canOnlyAddLevelSpecificQuests": false,
+	// Chance a merchant doesn't offer quests : 0.2 = 20%
+	"noQuestChance": 0.20000000298023224,
+	// Time in ticks (+ random) when a villager can offer new quests
+	"newQuestTimer": 36000,
+	// Extra quantity of quests which get added on level up
+	"villagerQuestExtraQuantity": 1,
+	// Wandering trader quest quantity
+	"wanderingQuestQuantity": 6,
+	// Time in ticks added to wandering trader despawn ticker
+	"wanderingTraderDespawnAddition": 48000,
+	"showQuestIcon": true,
+	// Flat or 3d icon
+	"flatQuestIcon": true,
+	// Squared distance showing up quest icon
+	"iconDistace": 300.0,
+	// Loose quests on death
+	"hardMode": false,
+	// Set to -20 if ontop of screen
+	"xIconPosition": 0,
+	// Set to -20 if ontop of screen
+	"yIconPosition": 0,
+	// REI/EMI exclusion zone
+	"exclusionZone": true,
+	"questTabTitleColor": 16777215,
+	"titleColor": 16777215,
+	"descriptionColor": 14540253,
+	"taskHeaderColor": 4210752,
+	"taskColor": 14540253,
+	"rewardHeaderColor": 4210752,
+	"rewardColor": 14540253,
+	"playerInfoColor": 16777215,
+	"playerActiveColor": 4161378,
+	"playerFinishedHeaderColor": 8352831,
+	"playerFinishedColor": 14211288,
+	"playerTitleColor": 2631720,
+	"playerDescriptionHeaderColor": 4013373,
+	"playerDescriptionColor": 14211288,
+	"playerTaskHeaderColor": 4013373,
+	"playerTaskColor": 14211288,
+	"playerRewardHeaderColor": 4013373,
+	"playerRewardColor": 14211288,
+	"playerRefreshHeaderColor": 8345919,
+	"playerRefreshColor": 14211288,
+	// Prints in console - only builtin
+	"structureRegistryCheck": false
+}

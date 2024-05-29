@@ -1,0 +1,222 @@
+{
+    "profession": "butcher",
+    "trades": {
+        "novice": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 20,
+                "sell": {
+                    "item": "expandeddelight:peanut_butter",
+                    "count": 1
+                },
+                "max_uses": 16
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 3,
+                "sell": {
+                    "item": "farmersdelight:fried_egg",
+                    "count": 1
+                },
+                "max_uses": 16
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 10,
+                "sell": {
+                    "item": "farmersdelight:tomato_sauce",
+                    "count": 1
+                },
+                "max_uses": 16
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "price": 10,
+                "buy": {
+                    "item": "expandeddelight:ground_salt",
+                    "count": 4
+                },
+                "max_uses": 16
+            }
+        ],
+        "apprentice": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 30,
+                "sell": {
+                    "item": "farmersdelight:cooked_rice",
+                    "count": 1
+                },
+                "max_uses": 12
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 50,
+                "sell": {
+                    "item": "expandeddelight:grilled_cheese",
+                    "count": 1
+                },
+                "max_uses": 12
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "price": 40,
+                "buy": {
+                    "item": "farmersdelight:chicken_cuts",
+                    "count": 4
+                },
+                "max_uses": 12
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "price": 40,
+                "buy": {
+                    "item": "farmersdelight:bacon",
+                    "count": 4
+                },
+                "max_uses": 12
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "price": 40,
+                "buy": {
+                    "item": "farmersdelight:minced_beef",
+                    "count": 4
+                },
+                "max_uses": 12
+            }
+        ],
+        "journeyman": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 70,
+                "sell": {
+                    "item": "farmersdelight:cabbage_rolls",
+                    "count": 1
+                },
+                "max_uses": 8
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 170,
+                "sell": {
+                    "item": "expandeddelight:asparagus_soup",
+                    "count": 1
+                },
+                "max_uses": 8
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "price": 50,
+                "buy": {
+                    "item": "adventurez:warthog_meat",
+                    "count": 1
+                },
+                "max_uses": 8
+            }
+        ],
+        "expert": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 850,
+                "sell": {
+                    "item": "expandeddelight:peperonata",
+                    "count": 1
+                },
+                "max_uses": 6
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 800,
+                "sell": {
+                    "item": "farmersdelight:hamburger",
+                    "count": 1
+                },
+                "max_uses": 6
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 900,
+                "sell": {
+                    "item": "farmersdelight:pumpkin_soup",
+                    "count": 1
+                },
+                "max_uses": 6
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 900,
+                "sell": {
+                    "item": "farmersdelight:noodle_soup",
+                    "count": 1
+                },
+                "max_uses": 6
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "price": 300,
+                "buy": {
+                    "item": "adventurez:ender_whale_meat",
+                    "count": 1
+                },
+                "max_uses": 6
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "price": 300,
+                "buy": {
+                    "item": "adventurez:mammoth_meat",
+                    "count": 1
+                },
+                "max_uses": 6
+            }
+        ],
+        "master": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 10000,
+                "sell": {
+                    "item": "farmersdelight:stuffed_pumpkin",
+                    "count": 1
+                },
+                "max_uses": 4
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 10000,
+                "sell": {
+                    "item": "farmersdelight:honey_glazed_ham",
+                    "count": 1
+                },
+                "max_uses": 4
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 10000,
+                "sell": {
+                    "item": "farmersdelight:roast_chicken",
+                    "count": 1
+                },
+                "max_uses": 4
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 10000,
+                "sell": {
+                    "item": "farmersdelight:shepherds_pie",
+                    "count": 1
+                },
+                "max_uses": 4
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "price": 2000,
+                "buy": {
+                    "item": "farmersdelight:ham",
+                    "count": 1
+                },
+                "max_uses": 4
+            }
+        ]
+    }
+}

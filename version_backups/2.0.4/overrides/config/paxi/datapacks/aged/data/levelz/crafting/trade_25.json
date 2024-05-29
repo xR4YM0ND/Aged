@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "level": 25,
+    "skill": "trade",
+    "item": [
+        "betternether:cincinnasite_helmet",
+        "betternether:cincinnasite_chestplate",
+        "betternether:cincinnasite_axe",
+        "betternether:cincinnasite_boots"
+    ]
+}

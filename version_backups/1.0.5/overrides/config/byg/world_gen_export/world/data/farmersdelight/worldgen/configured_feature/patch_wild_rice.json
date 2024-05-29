@@ -1,0 +1,37 @@
+{
+	"config": {
+		"feature": {
+			"feature": {
+				"config": {
+					"to_place": {
+						"state": {
+							"Name": "farmersdelight:wild_rice",
+							"Properties": {
+								"half": "lower",
+								"waterlogged": "true"
+							}
+						},
+						"type": "minecraft:simple_state_provider"
+					}
+				},
+				"type": "minecraft:simple_block"
+			},
+			"placement": [
+				{
+					"predicate": {
+						"predicate": {
+							"blocks": "minecraft:air",
+							"type": "minecraft:matching_blocks"
+						},
+						"type": "minecraft:not"
+					},
+					"type": "minecraft:block_predicate_filter"
+				}
+			]
+		},
+		"tries": 64,
+		"xz_spread": 4,
+		"y_spread": 4
+	},
+	"type": "minecraft:random_patch"
+}

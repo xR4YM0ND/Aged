@@ -1,0 +1,222 @@
+{
+  "replace": true,
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 9,
+          "name": "minecraft:diamond",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 4,
+          "name": "geodes:diamond_geode",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:diamond_block",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "conditions": [
+        {
+          "condition": "random_chance",
+          "chance": 0.1
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:diamond_sword"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:diamond_shovel"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:diamond_pickaxe"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:diamond_axe"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:diamond_hoe"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "medievalweapons:diamond_small_axe"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "medievalweapons:diamond_long_sword"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "medievalweapons:diamond_dagger"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "medievalweapons:diamond_francisca"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "medievalweapons:diamond_big_axe"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "medievalweapons:diamond_javelin"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "medievalweapons:diamond_lance"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "medievalweapons:diamond_healing_staff"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "medievalweapons:diamond_mace"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "medievalweapons:diamond_ninjato"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "medievalweapons:diamond_sickle"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "medievalweapons:diamond_rapier"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:diamond_helmet"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:diamond_chestplate"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:diamond_leggings"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:diamond_boots"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "farmersdelight:diamond_knife"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "betterend:diamond_hammer"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "nethersdelight:diamond_machete"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "conditions": [
+        {
+          "condition": "random_chance",
+          "chance": 0.05
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "minecraft:book",
+          "functions": [
+            {
+              "function": "enchant_randomly",
+              "enchantments": [
+                "unbreaking"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "gofish:diamond_reinforced_rod"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "minecraft:enchanting_table"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:diamond_horse_armor"
+        }
+      ]
+    }
+  ]
+}

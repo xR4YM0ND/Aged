@@ -1,0 +1,193 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 1,
+        "max": 2
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 30,
+          "name": "minecraft:mushroom_stew",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 30,
+          "name": "minecraft:beetroot_soup",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 30,
+          "name": "minecraft:bread",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "minecraft:rabbit_stew",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 25,
+          "name": "brewinandchewin:flaxen_cheese_wedge",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 25,
+          "name": "brewinandchewin:pizza_slice",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 35,
+          "name": "farmersdelight:tomato_sauce",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 30,
+          "name": "farmersdelight:fruit_salad",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 35,
+          "name": "farmersdelight:mixed_salad",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "farmersdelight:barbecue_stick"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "farmersdelight:egg_sandwich"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "name": "farmersdelight:chicken_sandwich"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "farmersdelight:hamburger"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "farmersdelight:bacon_sandwich"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "farmersdelight:mutton_wrap"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "farmersdelight:dumplings"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "farmersdelight:stuffed_potato"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 25,
+          "name": "farmersdelight:cabbage_rolls"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "farmersdelight:kelp_roll"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "farmersdelight:kelp_roll_slice"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+    "values": [
+        "ecologics:ice_bricks",
+        "ecologics:ice_brick_stairs",
+        "ecologics:ice_brick_slab",
+        "ecologics:ice_brick_wall",
+        "ecologics:snow_bricks",
+        "ecologics:snow_brick_stairs",
+        "ecologics:snow_brick_slab",
+        "ecologics:snow_brick_wall",
+        "creatures_from_the_snow:frozen_feather_block",
+        "creatures_from_the_snow:snow_bricks",
+        "creatures_from_the_snow:snow_brick_slab",
+        "creatures_from_the_snow:snow_brick_stairs",
+        "creatures_from_the_snow:snow_brick_wall",
+        "architects_palette:coarse_snow",
+        "minecraft:snow_block"
+    ]
+}

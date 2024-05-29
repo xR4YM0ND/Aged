@@ -1,0 +1,26 @@
+{
+    "replace": true,
+    "level": 9,
+    "block": [
+        "minecraft:granite",
+        "minecraft:granite_stairs",
+        "minecraft:granite_slab",
+        "minecraft:granite_wall",
+        "minecraft:polished_granite",
+        "minecraft:polished_granite_stairs",
+        "minecraft:polished_granite_slab",
+        "universal_ores:granite_coal_ore",
+        "universal_ores:granite_copper_ore",
+        "universal_ores:granite_gold_ore",
+        "minecraft:diorite",
+        "minecraft:diorite_stairs",
+        "minecraft:diorite_slab",
+        "minecraft:diorite_wall",
+        "minecraft:polished_diorite",
+        "minecraft:polished_diorite_stairs",
+        "minecraft:polished_diorite_slab",
+        "universal_ores:diorite_coal_ore",
+        "universal_ores:diorite_copper_ore",
+        "universal_ores:diorite_gold_ore"
+    ]
+}

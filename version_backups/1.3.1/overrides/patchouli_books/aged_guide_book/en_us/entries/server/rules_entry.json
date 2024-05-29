@@ -1,0 +1,53 @@
+{
+    "name": "Rules",
+    "icon": "minecraft:writable_book",
+    "category": "patchouli:server_category",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:image",
+            "images": ["aged:textures/gui/entries/rules_spawn.png"],
+            "text": "If you $(l)promote$() to $(l)Player$() you $(l)accept the following Rules$()."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Respect Others",
+            "text": "There's $(l)no need$() to say or do things to $(l)make others feel bad or upset$().$(br2)$(l)Trolling$(), generally defined as provoking a person/situation to get a response, is also $(l)not allowed$()."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Offensive Content",
+            "text": "While some $(o)minor amount$() of swearing is allowed, $(l)severe or frequent vulgarity$(), especially when $(l)directed at others$(), $(l)is not$()."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Family friendly chat",
+            "text": "Chat should be family friendly.$(br)This means $(l)certain subjects are not allowed$() in chat.$(br2)These $(l)include$(), but are $(l)not limited$() to, discussions about $(l)sex, politics, religion or drugs.$()"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "No Advertising",
+            "text": "$(l)Advertising other $()$(o)Minecraft Servers$()$(l) or other $()$(o)Discord Servers$()$(l) is strictly banned.$()$(br2)You also $(l)may not advertise:$()$(li)Websites$(li)YT Channels$(li)Twitch Streams$(br2)Or $(l)anything$() else if it's $(l)not related$() to the $(l)Aged Modpack Server.$()"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "No Spamming",
+            "text": "$(o)Spamming is filling the chat with multiple unneeded characters or messages.$()$(br2)$(l)Don't do it.$()$(br2)This rule $(l)also applies$() to $(l)spamming commands$() that don't necessarily show up in chat."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "No Cheating",
+            "text": "$(l)Cheating in any form isn't allowed.$()$(br2)$(o)Anything that is considered to give you an unfair advantage over other players is considered cheating.$()$(br2)This can include but isn't limited to:$(li)Client mods$(li)Abusing server bugs$(li)Duplicating items / blocks$(li)Generating things while afk"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "No Griefing",
+            "text": "$(o)Griefing is considered destroying or changing another players property or bulidings without their consent in any protected area.$()$(br2)This $(l)includes stealing$() as well."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Don't Scam",
+            "text": "$(o)Scamming is taking money, items, work, or anything else of value from another player dishonestly.$()"
+        }
+    ]
+}

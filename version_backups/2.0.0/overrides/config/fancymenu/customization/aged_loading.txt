@@ -1,0 +1,358 @@
+type = menu
+
+customization-meta {
+  identifier = de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  original_pos_size_calculation = true
+  x = 199
+  width = 456
+  action = deep_customization_element:drippy_overlay_logo
+  actionid = f75e9942-c984-433c-8e9a-249166133eb61677919461161
+  y = 171
+  height = 114
+}
+
+customization {
+  custom_color_hex = #252526
+  orientation = top-left
+  hidden = false
+  x = -1000000
+  width = 0
+  action = deep_customization_element:drippy_overlay_background
+  actionid = 89b90799-217e-4a60-bd48-5a7206d927ce1677919461171
+  y = -1000000
+  height = 0
+}
+
+customization {
+  custom_color_hex = #a8d58f
+  orientation = top-left
+  hidden = true
+  original_pos_size_calculation = true
+  x = 199
+  width = 456
+  action = deep_customization_element:drippy_overlay_progress_bar
+  actionid = a33e7198-e4e7-43b8-bc8c-a83e4ab6037f1677919461171
+  y = 375
+  height = 10
+}
+
+customization {
+  advanced_height = 8
+  orientation = top-left
+  shape = rectangle
+  color = #a8d58f
+  advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}/4+10","decimal":"true"}}
+  advanced_width = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}/2-20","decimal":"true"}}
+  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"}-44","decimal":"true"}}
+  x = 0
+  width = 407
+  action = addshape
+  actionid = f6cc595b-5e7d-4cb9-b71b-fd32c670ba8a1677920371904
+  y = 0
+  height = 8
+}
+
+customization {
+  advanced_height = 6
+  orientation = top-left
+  shape = rectangle
+  color = #2d2d30
+  advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}/4+11","decimal":"true"}}
+  advanced_width = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}/2-22","decimal":"true"}}
+  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"}-43","decimal":"true"}}
+  x = 0
+  width = 405
+  action = addshape
+  actionid = fe72d820-d518-4426-ba9b-2d2212de56a71677920439455
+  y = 0
+  height = 6
+}
+
+customization {
+  advanced_height = 4
+  orientation = top-left
+  advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}/4+12","decimal":"true"}}
+  progress_for_element_orientation = false
+  advanced_width = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}/2-24","decimal":"true"}}
+  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"}-42","decimal":"true"}}
+  background_color = #2d2d30
+  x = 0
+  width = 403
+  bar_color = #a8d58f
+  action = custom_layout_element:drippy_custom_loading_bar
+  actionid = eca420e7-84a3-419d-b482-c364e023e6a71677920935008
+  y = 0
+  direction = right
+  height = 4
+}
+
+customization {
+  advanced_height = {"placeholder":"guiheight"}
+  orientation = top-left
+  shape = rectangle
+  color = #1e1e1e
+  advanced_posx = 0
+  advanced_width = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}/4","decimal":"true"}}
+  advanced_posy = 0
+  x = 0
+  width = 213
+  action = addshape
+  actionid = 5434b5f7-382a-4bcd-8675-0ce283ecfb851679394642868
+  y = 0
+  height = 457
+}
+
+customization {
+  advanced_height = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"}/5.7","decimal":"true"}}
+  path = resources/aged/textures/others/aged_combined.png
+  orientation = top-left
+  x = 0
+  width = 316
+  action = addtexture
+  actionid = 4112a71c-4489-4445-8e07-c81cbeb9a6881679395128550
+  y = 0
+  advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}/2-{"placeholder":"elementwidth","values":{"id":"4112a71c-4489-4445-8e07-c81cbeb9a6881679395128550"}}/2","decimal":"true"}}
+  advanced_width = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}/2.7","decimal":"true"}}
+  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"}/2-{"placeholder":"elementheight","values":{"id":"4112a71c-4489-4445-8e07-c81cbeb9a6881679395128550"}}/2","decimal":"true"}}
+  height = 80
+}
+
+customization {
+  advanced_height = 20
+  orientation = top-left
+  enable_scrolling = false
+  shadow = true
+  scale = 2.0
+  source = 2.0.0
+  advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}/2+{"placeholder":"elementwidth","values":{"id":"4112a71c-4489-4445-8e07-c81cbeb9a6881679395128550"}}/2-{"placeholder":"elementwidth","values":{"id":"71123e47-a213-47ef-a4ba-aaa86aa0639c1679395251420"}}","decimal":"true"}}
+  text_border = 0
+  case_mode = normal
+  advanced_width = 50
+  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"}/2+{"placeholder":"elementheight","values":{"id":"4112a71c-4489-4445-8e07-c81cbeb9a6881679395128550"}}/2","decimal":"true"}}
+  source_mode = direct
+  line_spacing = 1
+  x = 0
+  width = 50
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 71123e47-a213-47ef-a4ba-aaa86aa0639c1679395251420
+  y = 0
+  alignment = centered
+  base_color = #a8d58f
+  height = 20
+}
+
+customization {
+  advanced_height = 10
+  orientation = top-left
+  enable_scrolling = false
+  shadow = true
+  scale = 1.0
+  source = {"placeholder":"realtimehour"}:{"placeholder":"realtimeminute"} {"placeholder":"realtimeday"}/{"placeholder":"realtimemonth"}/{"placeholder":"realtimeyear"}
+  advanced_posx = 0
+  text_border = 0
+  case_mode = normal
+  advanced_width = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}/4","decimal":"true"}}
+  advanced_posy = 10
+  source_mode = direct
+  line_spacing = 1
+  x = 0
+  width = 213
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 1e8ebe45-52b4-4c30-a469-9842616e83c01679395508604
+  y = 0
+  alignment = centered
+  height = 10
+}
+
+customization {
+  advanced_height = 15
+  orientation = top-left
+  enable_scrolling = false
+  shadow = true
+  scale = 1.0
+  source = {"placeholder":"playername"}
+  advanced_posx = 0
+  text_border = 0
+  case_mode = normal
+  advanced_width = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}/4","decimal":"true"}}
+  advanced_posy = 25
+  source_mode = direct
+  line_spacing = 1
+  x = 0
+  width = 213
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = ac0358a7-ee92-4567-bbd5-2c6e93d5675b1679395588877
+  y = 0
+  alignment = centered
+  height = 15
+}
+
+customization {
+  advanced_height = 25
+  orientation = top-left
+  enable_scrolling = false
+  shadow = true
+  scale = 1.0
+  source = Server {"placeholder":"serverstatus","values":{"ip":"176.9.37.250:25565"}}%n%{"placeholder":"serverplayercount","values":{"ip":"176.9.37.250:25565"}} - {"placeholder":"serverping","values":{"ip":"176.9.37.250:25565"}} ms
+  advanced_posx = 0
+  text_border = 0
+  case_mode = normal
+  advanced_width = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}/4","decimal":"true"}}
+  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"}/1.4","decimal":"true"}}
+  source_mode = direct
+  line_spacing = 2
+  x = 0
+  width = 213
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 930811af-e615-4cec-9073-b625301e19a91679395978935
+  y = 0
+  alignment = centered
+  height = 25
+}
+
+customization {
+  advanced_height = 10
+  orientation = top-left
+  enable_scrolling = false
+  shadow = true
+  scale = 1.0
+  source = Fabric {"placeholder":"mcversion"}
+  advanced_posx = 0
+  text_border = 0
+  case_mode = normal
+  advanced_width = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}/4","decimal":"true"}}
+  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"}-44","decimal":"true"}}
+  source_mode = direct
+  line_spacing = 1
+  x = 0
+  width = 213
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = fa0a332a-be77-4aac-a1ce-6b3f14a1a6c21679396124203
+  y = 0
+  alignment = centered
+  height = 10
+}
+
+customization {
+  advanced_height = 10
+  orientation = top-left
+  enable_scrolling = false
+  shadow = true
+  scale = 0.7
+  source = by Tim/xR4YM0ND & Mark/Globox_Z
+  advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}/4+10","decimal":"true"}}
+  text_border = 0
+  case_mode = normal
+  advanced_width = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}/2-20","decimal":"true"}}
+  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"}-25","decimal":"true"}}
+  source_mode = direct
+  line_spacing = 1
+  x = 0
+  width = 407
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 368cc0c3-308d-4300-907c-a75051bb52051679396970746
+  y = 0
+  alignment = centered
+  height = 10
+}
+
+customization {
+  advanced_height = {"placeholder":"guiheight"}
+  orientation = top-left
+  shape = rectangle
+  color = #1e1e1e
+  advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"} - {"placeholder":"elementwidth","values":{"id":"fe91dc13-1feb-4e94-9f39-97dfb52ac80e1679400048149"}}","decimal":"true"}}
+  advanced_width = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}/4","decimal":"true"}}
+  advanced_posy = 0
+  x = 0
+  width = 213
+  action = addshape
+  actionid = fe91dc13-1feb-4e94-9f39-97dfb52ac80e1679400048149
+  y = 0
+  height = 457
+}
+
+customization {
+  advanced_height = 15
+  orientation = top-left
+  enable_scrolling = false
+  shadow = true
+  scale = 1.0
+  source = Aged 2.0.0
+  advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}-{"placeholder":"elementwidth","values":{"id":"f8e68b1b-9e1b-4223-b2cf-467f17063ef21679400633613"}}","decimal":"true"}}
+  text_border = 0
+  case_mode = normal
+  advanced_width = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}/4","decimal":"true"}}
+  advanced_posy = 10
+  source_mode = direct
+  line_spacing = 1
+  x = 0
+  width = 213
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = f8e68b1b-9e1b-4223-b2cf-467f17063ef21679400633613
+  y = 0
+  alignment = centered
+  base_color = #a8d58f
+  height = 15
+}
+
+customization {
+  advanced_height = 20
+  orientation = top-left
+  enable_scrolling = false
+  shadow = true
+  scale = 0.8
+  source = {"placeholder":"drippy_java_vm"}%n%Version {"placeholder":"drippy_java_version"}
+  advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}-{"placeholder":"elementwidth","values":{"id":"17a683f9-5a13-4eaa-9064-97866ef42e001679400720407"}}","decimal":"true"}}
+  text_border = 0
+  case_mode = normal
+  advanced_width = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}/4","decimal":"true"}}
+  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"}-55","decimal":"true"}}
+  source_mode = direct
+  line_spacing = 2
+  x = 0
+  width = 213
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 17a683f9-5a13-4eaa-9064-97866ef42e001679400720407
+  y = 0
+  alignment = centered
+  height = 20
+}
+
+customization {
+  advanced_height = {"placeholder":"calc","values":{"expression":"{"placeholder":"elementposy","values":{"id":"17a683f9-5a13-4eaa-9064-97866ef42e001679400720407"}}-40","decimal":"true"}}
+  orientation = top-left
+  enable_scrolling = true
+  shadow = true
+  scale = 0.7
+  source = %n%## &c&nImportant:%n%&7This update changes the world generation completely.%n%%n%&7Reinstall the modpack for a clean experience.%n%%n%### &7&nFor old saves%n%&7- use version 1.3.1%n%&7- create a new world%n%%n%## &nChanged:%n%### &7Seasons%n%&7- Lowered season length to 12 hours (&oreal time&r)%n%&7- Doubled crop growth from 0.3 best to 0.6 best (&oyou can harvest up to 13 times in the right season&r)%n%### &7Entities%n%&7- Increased spawn rate (&oNecromancer / Summoner / Shaman / Amethyst Golem&r)%n%&7- Reworked Villager Trades%n%&7- Now you can buy more claims from any Villager%n%&7- Added coin drops to pillager type entities%n%&7- Iron Golem don't drop iron ingots%n%&7- Void Shadow can now respawn%n%### &7Levelz%n%&7- New levelz restrictions%n%&7- Added brewing restrictions%n%&7- Added 1 LevelZ startpoint%n%### &7Miscellaneous%n%&7- Reworked EnvironmentZ datapack  (&owinter should be playable now&r)%n%&7- Now budding geodes aren't silktouchable%n%&7- Added gypsum shard and emerald shard as alternative for reforging%n%&7- Enabled netherite shield%n%&7- Spawners get disabled instead of breaking%n%&7- Thermometer has now a better position%n%&7- Changed many miscellaneous things%n%%n%## &nRemoved:%n%&7- Accurate Block Placement%n%&7- Amplified Nether%n%&7- Architects Palette%n%&7- Colorful Azaleas%n%&7- Concurrent Chunk Management Engine%n%&7- Cosmetic Armor%n%&7- Cull Leaves%n%&7- Discerning Furnace%n%&7- Drink Beer%n%&7- Enhanced Block Entities%n%&7- Farmer's Knives%n%&7- Global Packs%n%&7- Hold That Chunk%n%&7- Loot Integrations%n%&7- Macaw's Bridges%n%&7- Macaw's Doors%n%&7- Macaw's Trapdoors%n%&7- Missing Wilds%n%&7- Mob Scarecrows%n%&7- Mouse Wheelie%n%&7- Oh The Biomes You'll Go Refabricated%n%&7- Status Effect Bars%n%&7- Talk Bubbles%n%&7- Taterzens%n%&7- TerraBlender%n%&7- Terralith%n%&7- TraderNPCs%n%&7- Twigs%n%&7- Visual Workbench%n%&7- XP Obelisk%n%%n%## &nAdded:%n%&7- Ambient Sounds (&othx to @Vybex&r)%n%&7- BCLib%n%&7- Beautify Refabricated%n%&7- Better End%n%&7- Better Ladders%n%&7- Better Nether%n%&7- Blockstates (&oResourcepack&r)%n%&7- Brewin And Chewin%n%&7- Chipped%n%&7- Craft Presence%n%&7- Creative Core%n%&7- CTM%n%&7- Dynamic Crosshair%n%&7- Dynamic Crosshair Compat%n%&7- EMI Compat%n%&7- EMI Effect%n%&7- EMI Loot%n%&7- EMI Trades%n%&7- Entity Collision FPS Fix%n%&7- ewewukek's Musket mod%n%&7- Experience Bottler%n%&7- Fabric Seasons Extras%n%&7- Fabric Shield Lib%n%&7- Farmers Respite%n%&7- Flintl0cks (&oResourcepack&r)%n%&7- Go Fish%n%&7- Grass Overhaul%n%&7- Handcrafted%n%&7- Horse Expert%n%&7- Ice Boat Nerf%n%&7- Immediately Fast%n%&7- It Takes a Pillage%n%&7- Let Me Despawn%n%&7- LibZ%n%&7- Memory Settings%n%&7- Nethers Delight%n%&7- Paxi%n%&7- RAY's 3D Ladders (&oResourcepack&r)%n%&7- Resourceful Config%n%&7- Resourceful Lib%n%&7- Simple Voice Chat%n%&7- SpoiledZ%n%&7- Traveler's Titles%n%&7- Vinery - Let's do Wine!%n%&7- William Wythers' Overhauled Overworld%n%&7- Yung's API%n%&7- Yung's Better Desert Temples%n%&7- Yung's Better Dungeons%n%&7- Yung's Better Mineshafts%n%&7- Yung's Better Nether Fortresses%n%&7- Yung's Better Ocean Monuments%n%&7- Yung's Better Strongholds%n%%n%## &nUpdated:%n%&7- &lFabric-Loader 0.14.19&r%n%&7- AdditionZ%n%&7- Attribute Fix%n%&7- Balm%n%&7- Better Combat%n%&7- Better Statistics Screen%n%&7- Bookshelf%n%&7- Collective%n%&7- Combat Roll%n%&7- Continuity%n%&7- Corgi Lib%n%&7- Creeper Overhaul%n%&7- Custom Portals%n%&7- Default Options%n%&7- Dehydration%n%&7- Drippy Loading Screen%n%&7- Early Stage%n%&7- EMI%n%&7- Enchanted Vertical Slabs%n%&7- EnvironmentZ%n%&7- Expanded Delight%n%&7- Fabric API%n%&7- Fabric Language Kotlin%n%&7- Fabric Seasons%n%&7- Fancy Menu%n%&7- Gecko Lib%n%&7- Immediately Fast%n%&7- Immersive Armors%n%&7- Inmis Addon%n%&7- Inv Move%n%&7- Iris Shaders%n%&7- Jobs Addon%n%&7- Konkrete%n%&7- LevelZ%n%&7- Lithium%n%&7- Log Begone%n%&7- Make Bubbles Pop%n%&7- Medieval Weapons%n%&7- Memory Leak Fix%n%&7- Moonlight Lib%n%&7- More Culling%n%&7- More Geodes%n%&7- Nameplate%n%&7- Naturalist%n%&7- Nether Portal Fix%n%&7- Numismatic Claim%n%&7- Open Parties and Claims%n%&7- Player Animator%n%&7- RpgDifficulty%n%&7- Spark%n%&7- Spice of Fabric%n%&7- Starter Kit%n%&7- Suggestion Tweaker%n%&7- Target Dummy%n%&7- TieredZ%n%&7- Tom's Simple Storage Mod%n%&7- Tree Chop%n%&7- Trinkets Curios Theme%n%&7- Visuality%n%&7- Xaero's World Map
+  advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}-(({"placeholder":"guiwidth"}/4)-{"placeholder":"elementwidth","values":{"id":"cc40d340-3e7c-4b72-b05f-9d25c070a7df1679400808174"}})/2-{"placeholder":"elementwidth","values":{"id":"cc40d340-3e7c-4b72-b05f-9d25c070a7df1679400808174"}}","decimal":"true"}}
+  text_border = 0
+  case_mode = normal
+  advanced_width = {"placeholder":"calc","values":{"expression":"({"placeholder":"guiwidth"}/4)/1.1","decimal":"true"}}
+  advanced_posy = 30
+  source_mode = direct
+  line_spacing = 5
+  x = 0
+  width = 194
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = cc40d340-3e7c-4b72-b05f-9d25c070a7df1679400808174
+  y = 0
+  alignment = left
+  height = 362
+}
+

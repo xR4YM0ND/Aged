@@ -1,0 +1,167 @@
+{
+    "1": {
+        "replace": true,
+        "items": [
+            "minecraft:melon_slice",
+            "minecraft:honey_bottle",
+            "minecraft:sweet_berries",
+            "bakery:strawberry",
+            "bakery:sweet_dough",
+            "bakery:dough",
+            "candlelight:lettuce",
+            "candlelight:fricasse",
+            "candlelight:roastbeef_carrots",
+            "nethervinery:crimson_grape",
+            "nethervinery:warped_grape",
+            "vinery:cherry",
+            "vinery:red_grape",
+            "vinery:white_grape",
+            "vinery:savanna_grapes_red",
+            "vinery:savanna_grapes_white",
+            "vinery:taiga_grapes_red",
+            "vinery:taiga_grapes_white"
+        ]
+    },
+    "2": {
+        "replace": true,
+        "items": [
+            "minecraft:chorus_fruit",
+            "minecraft:potion",
+            "minecraft:splash_potion",
+            "minecraft:lingering_potion",
+            "minecraft:glow_berries",
+            "candlelight:tomato",
+            "candlelight:mozzarella",
+            "candlelight:beetroot_salad",
+            "candlelight:lettuce_salad",
+            "candlelight:salmon_wine",
+            "candlelight:pasta_bolognese",
+            "candlelight:lasagne",
+            "herbalbrews:armor_flask",
+            "herbalbrews:damage_flask",
+            "herbalbrews:feral_flask",
+            "betterend:shadow_berry_raw",
+            "betterend:blossom_berry",
+            "betternether:black_apple",
+            "betternether:stalagnate_bowl_apple",
+            "vinery:jungle_grapes_red",
+            "vinery:jungle_grapes_white"
+        ]
+    },
+    "3": {
+        "replace": true,
+        "items": [
+            "minecraft:mushroom_stew",
+            "minecraft:rabbit_stew",
+            "candlelight:lettuce_beef",
+            "candlelight:veggie_plate",
+            "candlelight:chicken",
+            "betternether:stalagnate_bowl_wart",
+            "betternether:stalagnate_bowl_mushroom",
+            "vinery:mead",
+            "dehydration:water_bowl",
+            "dehydration:purified_water_bowl"
+        ]
+    },
+    "4": {
+        "replace": true,
+        "items": [
+            "minecraft:apple",
+            "minecraft:beetroot_soup",
+            "levelz:strange_potion",
+            "additionz:teleport_potion",
+            "candlelight:bolognese",
+            "candlelight:pasta_lettuce",
+            "herbalbrews:coffee",
+            "herbalbrews:armor_flask_big",
+            "herbalbrews:damage_flask_big",
+            "herbalbrews:feral_flask_big",
+            "nethervinery:improved_lava_fizz",
+            "nethervinery:improved_nether_fizz",
+            "vinery:stal_wine",
+            "vinery:strad_wine",
+            "vinery:clark_wine"
+        ]
+    },
+    "5": {
+        "replace": true,
+        "items": [
+            "minecraft:suspicious_stew",
+            "candlelight:lettuce_tomato",
+            "candlelight:tomato_mozzarella_salad",
+            "herbalbrews:black_tea",
+            "vinery:creepers_crush",
+            "vinery:villagers_fright"
+        ]
+    },
+    "6": {
+        "replace": true,
+        "items": [
+            "minecraft:golden_apple",
+            "candlelight:tomato_soup",
+            "candlelight:mushroom_soup",
+            "candlelight:pasta",
+            "herbalbrews:milk_coffee",
+            "betterend:umbrella_cluster_juice",
+            "nethervinery:blazewine_pinot",
+            "nethervinery:ghastly_grenache",
+            "vinery:magnetic_wine",
+            "vinery:mellohi_wine",
+            "vinery:chenet_wine",
+            "vinery:apple_cider",
+            "vinery:red_wine",
+            "vinery:bottle_mojang_noir"
+        ]
+    },
+    "7": {
+        "replace": true,
+        "items": [
+            "herbalbrews:green_tea",
+            "herbalbrews:yerba_mate_tea",
+            "vinery:chorus_wine",
+            "vinery:cherry_wine",
+            "vinery:noir_wine",
+            "vinery:aegis_wine",
+            "vinery:kelp_cider",
+            "vinery:glowing_wine"
+        ]
+    },
+    "8": {
+        "replace": true,
+        "items": [
+            "minecraft:enchanted_golden_apple",
+            "minecraft:milk_bucket",
+            "herbalbrews:hibiscus_tea",
+            "herbalbrews:rooibos_tea",
+            "nethervinery:netherite_nectar",
+            "nethervinery:lava_fizz",
+            "nethervinery:nether_fizz",
+            "vinery:solaris_wine",
+            "vinery:bolvar_wine",
+            "vinery:praetorian_wine",
+            "vinery:eiswein"
+        ]
+    },
+    "9": {
+        "replace": true,
+        "items": [
+            "herbalbrews:lavender_tea",
+            "herbalbrews:oolong_tea",
+            "vinery:apple_wine",
+            "vinery:cristel_wine"
+        ]
+    },
+    "10": {
+        "replace": true,
+        "items": [
+            "vinery:king_danis_wine",
+            "vinery:jo_special_mixture"
+        ]
+    },
+    "14": {
+        "replace": true,
+        "items": [
+            "vinery:jellie_wine"
+        ]
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "twigs:pebble"
+        }
+    ],
+    "result": {
+      "item": "earlystage:rock"
+    }
+}

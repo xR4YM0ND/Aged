@@ -1,0 +1,6 @@
+{
+	// Is in %
+	"minSprintStamina": 17,
+	// In ticks
+	"exhaustionTime": 40
+}

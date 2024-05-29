@@ -1,0 +1,16 @@
+{
+    "replace": true,
+    "values": [
+        "minecraft:arrow",
+        "minecraft:shield",
+        "guarding:netherite_shield",
+        "minecraft:trident",
+        "minecraft:elytra",
+        "minecraft:leather_horse_armor",
+        "farmersdelight:flint_knife",
+        "farmersdelight:golden_knife",
+        "farmersdelight:iron_knife",
+        "farmersdelight:diamond_knife",
+        "farmersdelight:netherite_knife"
+    ]
+}

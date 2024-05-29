@@ -1,0 +1,50 @@
+{
+	"config": {
+		"to_place": {
+			"entries": [
+				{
+					"data": {
+						"Name": "ecologics:seashell",
+						"Properties": {
+							"facing": "east",
+							"waterlogged": "false"
+						}
+					},
+					"weight": 1
+				},
+				{
+					"data": {
+						"Name": "ecologics:seashell",
+						"Properties": {
+							"facing": "west",
+							"waterlogged": "false"
+						}
+					},
+					"weight": 1
+				},
+				{
+					"data": {
+						"Name": "ecologics:seashell",
+						"Properties": {
+							"facing": "north",
+							"waterlogged": "false"
+						}
+					},
+					"weight": 1
+				},
+				{
+					"data": {
+						"Name": "ecologics:seashell",
+						"Properties": {
+							"facing": "south",
+							"waterlogged": "false"
+						}
+					},
+					"weight": 1
+				}
+			],
+			"type": "minecraft:weighted_state_provider"
+		}
+	},
+	"type": "ecologics:coastal"
+}

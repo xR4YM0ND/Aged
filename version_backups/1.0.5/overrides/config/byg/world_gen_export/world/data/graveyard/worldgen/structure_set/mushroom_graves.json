@@ -1,0 +1,14 @@
+{
+	"placement": {
+		"salt": 379123039,
+		"separation": 18,
+		"spacing": 24,
+		"type": "minecraft:random_spread"
+	},
+	"structures": [
+		{
+			"structure": "graveyard:mushroom_grave",
+			"weight": 1
+		}
+	]
+}

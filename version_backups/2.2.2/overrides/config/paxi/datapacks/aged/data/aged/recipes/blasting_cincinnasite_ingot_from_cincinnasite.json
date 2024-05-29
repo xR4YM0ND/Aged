@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:blasting",
+    "category": "misc",
+    "cookingtime": 2400,
+    "experience": 3,
+    "group": "cincinnasite_ingot",
+    "ingredient": {
+        "item": "betternether:cincinnasite"
+    },
+    "result": "betternether:cincinnasite_ingot"
+}

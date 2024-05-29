@@ -1,0 +1,20 @@
+{
+    "name": "Drink",
+    "icon": "dehydration:purified_water_bowl",
+    "category": "patchouli:1_hydration_category",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:potion{Potion:water}",
+            "title": "Normal Water",
+            "text": "$(li)hold right click on a source block to drink $(li)High chance of negative thirst $(li)river biomes have better chance to not get thirst"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:potion{Potion:purified_water}",
+            "title": "Purified Water",
+            "text": "$(li)consume the purified water bottle safely $(li)or consume it out of flasks or copper cauldron"
+        }
+    ]
+}

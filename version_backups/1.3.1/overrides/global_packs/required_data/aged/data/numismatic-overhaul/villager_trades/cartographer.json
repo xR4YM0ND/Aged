@@ -1,0 +1,150 @@
+{
+    "profession": "cartographer",
+    "trades": {
+        "novice": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "max_uses": 2,
+                "price": 100,
+                "sell": {
+                    "item": "minecraft:paper",
+                    "count": 10
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "max_uses": 2,
+                "price": 200,
+                "sell": {
+                    "item": "minecraft:map",
+                    "count": 1
+                }
+            }
+        ],
+        "apprentice": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "max_uses": 2,
+                "price": 400,
+                "sell": {
+                    "item": "minecraft:book",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "max_uses": 2,
+                "price": 200,
+                "sell": {
+                    "item": "minecraft:white_banner",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 3,
+                "max_uses": 2,
+                "price": 100,
+                "buy": {
+                    "item": "minecraft:writable_book",
+                    "count": 1
+                }
+            }
+        ],
+        "journeyman": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 3,
+                "max_uses": 2,
+                "price": 400,
+                "sell": {
+                    "item": "minecraft:compass",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:process_item",
+                "villager_experience": 3,
+                "max_uses": 2,
+                "price": 300,
+                "buy": {
+                    "item": "numismatic-overhaul:bronze_coin",
+                    "count": 50
+                },
+                "sell": {
+                    "item": "minecraft:daylight_detector",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_map",
+                "villager_experience": 20,
+                "max_uses": 1,
+                "price": 1000,
+                "structure": "minecraft:monument"
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 4,
+                "max_uses": 2,
+                "price": 840,
+                "buy": {
+                    "item": "minecraft:bookshelf",
+                    "count": 3
+                }
+            }
+        ],
+        "expert": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 4,
+                "max_uses": 2,
+                "price": 4000,
+                "sell": {
+                    "item": "seasons:season_calendar",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_map",
+                "villager_experience": 25,
+                "max_uses": 1,
+                "price": 10000,
+                "structure": "minecraft:manison"
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 5,
+                "max_uses": 2,
+                "price": 1000,
+                "buy": {
+                    "item": "minecraft:name_tag",
+                    "count": 1
+                }
+            }
+        ],
+        "master": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 5,
+                "max_uses": 2,
+                "price": 20000,
+                "sell": {
+                    "item": "seasons:season_detector",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_map",
+                "villager_experience": 30,
+                "max_uses": 1,
+                "price": 100000,
+                "structure": "tlc:lost_castle"
+            }
+        ]
+    }
+}

@@ -1,0 +1,7 @@
+{
+	"rotation": 0.0,
+	"target_block": {
+		"block": "minecraft:lodestone",
+		"predicate_type": "minecraft:block_match"
+	}
+}

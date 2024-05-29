@@ -1,0 +1,47 @@
+{
+	"feature": "ecologics:coconut",
+	"placement": [
+		{
+			"count": {
+				"distribution": [
+					{
+						"data": 0,
+						"weight": 1
+					},
+					{
+						"data": 1,
+						"weight": 2
+					}
+				],
+				"type": "minecraft:weighted_list"
+			},
+			"type": "minecraft:count"
+		},
+		{
+			"type": "minecraft:in_square"
+		},
+		{
+			"max_water_depth": 0,
+			"type": "minecraft:surface_water_depth_filter"
+		},
+		{
+			"heightmap": "OCEAN_FLOOR",
+			"type": "minecraft:heightmap"
+		},
+		{
+			"predicate": {
+				"state": {
+					"Name": "ecologics:coconut_seedling",
+					"Properties": {
+						"stage": "0"
+					}
+				},
+				"type": "minecraft:would_survive"
+			},
+			"type": "minecraft:block_predicate_filter"
+		},
+		{
+			"type": "minecraft:biome"
+		}
+	]
+}

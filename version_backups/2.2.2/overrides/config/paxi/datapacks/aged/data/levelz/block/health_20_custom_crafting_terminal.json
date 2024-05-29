@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "health",
+    "level": 20,
+    "block": "minecraft:custom_block",
+    "object": "toms_storage:ts.crafting_terminal"
+}

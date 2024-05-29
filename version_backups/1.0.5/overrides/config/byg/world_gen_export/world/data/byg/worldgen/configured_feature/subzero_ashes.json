@@ -1,0 +1,18 @@
+{
+	"config": {
+		"default": {
+			"feature": "byg:subzero_ash_block",
+			"placement": []
+		},
+		"features": [
+			{
+				"chance": 0.6,
+				"feature": {
+					"feature": "byg:subzero_ash",
+					"placement": []
+				}
+			}
+		]
+	},
+	"type": "minecraft:random_selector"
+}

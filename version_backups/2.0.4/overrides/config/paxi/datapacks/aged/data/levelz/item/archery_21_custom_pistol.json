@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "archery",
+    "level": 21,
+    "item": "minecraft:custom_item",
+    "object": "musketmod:pistol"
+}

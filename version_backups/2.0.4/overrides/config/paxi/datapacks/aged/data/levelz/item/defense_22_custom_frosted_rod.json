@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "defense",
+    "level": 22,
+    "item": "minecraft:custom_item",
+    "object": "gofish:frosted_rod"
+}

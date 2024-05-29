@@ -1,0 +1,29 @@
+{
+    "replace": true,
+    "values": [
+        "#levelz:farm_items",
+        "minecraft:grass",
+        "minecraft:seagrass",
+        "minecraft:sweet_berries",
+        "minecraft:glow_berries",
+        "minecraft:nether_wart",
+        "minecraft:brown_mushroom",
+        "minecraft:red_mushroom",
+        "minecraft:pumpkin",
+        "minecraft:melon_slice",
+        "minecraft:tall_grass",
+        "minecraft:fern",
+        "minecraft:large_fern",
+        "byg:wailing_grass",
+        "byg:scorched_grass",
+        "byg:tall_ether_grass",
+        "byg:ether_grass",
+        "byg:tall_prairie_grass",
+        "byg:prairie_grass",
+        "byg:beach_grass",
+        "byg:crimson_berries",
+        "byg:nightshade_berries",
+        "byg:blueberries",
+        "xps:xp_berries"
+    ]
+}

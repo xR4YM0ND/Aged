@@ -1,0 +1,12 @@
+{
+    "replace": true,
+    "level": 6,
+    "item": [
+        "minecraft:gold_ingot",
+        "minecraft:golden_sword",
+        "minecraft:golden_shovel",
+        "minecraft:golden_pickaxe",
+        "minecraft:golden_axe",
+        "minecraft:golden_hoe"
+    ]
+}

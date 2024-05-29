@@ -1,0 +1,12 @@
+{
+    "name": "Food",
+    "icon": "minecraft:smoker",
+    "category": "patchouli:5_production_category",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(br2)$(l)! Page under construction !"
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+{
+    "name": "Get Started",
+    "description": "There are some important steps for surviving in this world.$(br2)You start off with:$(br)$(li)4 Bread$(li)4 Apple$(li)1 Aged Guide Book$(li)1 Purified Water$(li)1 Campfire",
+    "icon": "minecraft:campfire",
+    "sortnum": 0
+}

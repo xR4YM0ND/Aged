@@ -1,0 +1,44 @@
+{
+	"config": {
+		"default": {
+			"feature": "byg:water_silk",
+			"placement": [
+				{
+					"predicate": {
+						"fluids": "minecraft:water",
+						"offset": [
+							0,
+							-1,
+							0
+						],
+						"type": "minecraft:matching_fluids"
+					},
+					"type": "minecraft:block_predicate_filter"
+				}
+			]
+		},
+		"features": [
+			{
+				"chance": 0.5,
+				"feature": {
+					"feature": "byg:tiny_lily_pad",
+					"placement": [
+						{
+							"predicate": {
+								"fluids": "minecraft:water",
+								"offset": [
+									0,
+									-1,
+									0
+								],
+								"type": "minecraft:matching_fluids"
+							},
+							"type": "minecraft:block_predicate_filter"
+						}
+					]
+				}
+			}
+		]
+	},
+	"type": "minecraft:random_selector"
+}

@@ -1,0 +1,158 @@
+{
+    "1": {
+        "replace": true,
+        "items": [
+            "minecraft:leather_boots",
+            "minecraft:fishing_rod",
+            "minecraft:potion",
+            "minecraft:lily_pad",
+            "minecraft:bone",
+            "minecraft:bamboo",
+            "minecraft:tripwire_hook",
+            "minecraft:bowl",
+            "minecraft:rotten_flesh",
+            "minecraft:leather",
+            "minecraft:stick",
+            "minecraft:string"
+        ],
+        "entities": [
+            "minecraft:squid"
+        ],
+        "crafting": []
+    },
+    "2": {
+        "replace": true,
+        "items": [
+            "minecraft:ink_sac"
+        ],
+        "entities": [
+            "minecraft:cod"
+        ],
+        "crafting": []
+    },
+    "3": {
+        "replace": true,
+        "items": [],
+        "entities": [
+            "minecraft:salmon",
+            "naturalist:bass"
+        ],
+        "crafting": [
+            "minecraft:fishing_rod"
+        ]
+    },
+    "4": {
+        "replace": true,
+        "items": [
+            "minecraft:cod"
+        ],
+        "entities": [
+            "minecraft:tropical_fish",
+            "naturalist:catfish"
+        ],
+        "crafting": []
+    },
+    "5": {
+        "replace": true,
+        "items": [
+            "minecraft:salmon"
+        ],
+        "entities": [
+            "minecraft:tadpole",
+            "minecraft:frog"
+        ],
+        "crafting": []
+    },
+    "6": {
+        "replace": true,
+        "items": [
+            "minecraft:pufferfish"
+        ],
+        "entities": [],
+        "crafting": []
+    },
+    "7": {
+        "replace": true,
+        "items": [],
+        "entities": [
+            "minecraft:glow_squid"
+        ],
+        "crafting": []
+    },
+    "8": {
+        "replace": true,
+        "items": [],
+        "entities": [
+            "minecraft:tropical_fish"
+        ],
+        "crafting": []
+    },
+    "9": {
+        "replace": true,
+        "items": [
+            "minecraft:bow"
+        ],
+        "entities": [],
+        "crafting": []
+    },
+    "10": {
+        "replace": true,
+        "items": [],
+        "entities": [
+            "minecraft:pufferfish"
+        ],
+        "crafting": []
+    },
+    "11": {
+        "replace": true,
+        "items": [
+            "minecraft:name_tag"
+        ],
+        "entities": [],
+        "crafting": []
+    },
+    "12": {
+        "replace": true,
+        "items": [
+            "minecraft:saddle"
+        ],
+        "entities": [
+            "minecraft:dolphin"
+        ],
+        "crafting": []
+    },
+    "13": {
+        "replace": true,
+        "items": [
+            "minecraft:enchanted_book"
+        ],
+        "entities": [
+            "betterend:end_fish"
+        ],
+        "crafting": []
+    },
+    "14": {
+        "replace": true,
+        "items": [],
+        "entities": [
+            "minecraft:guardian"
+        ],
+        "crafting": []
+    },
+    "15": {
+        "replace": true,
+        "items": [
+            "minecraft:nautilus_shell"
+        ],
+        "entities": [],
+        "crafting": []
+    },
+    "20": {
+        "replace": true,
+        "items": [],
+        "entities": [
+            "minecraft:elder_guardian"
+        ],
+        "crafting": []
+    }
+}

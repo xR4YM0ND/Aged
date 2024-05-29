@@ -1,0 +1,32 @@
+{
+    "name": "Carry",
+    "icon": "dehydration:diamond_leather_flask",
+    "category": "patchouli:1_hydration_category",
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "dehydration:purified_water_bowl",
+            "text": "There's also an option to carry water or purified water with bowls."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "dehydration:purified_water_bucket",
+            "text": "Use buckets to transport water, you can't consume it out of a bucket tho."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "dehydration:leather_flask",
+            "recipe2": "dehydration:iron_leather_flask"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "dehydration:golden_leather_flask",
+            "recipe2": "dehydration:diamond_leather_flask"
+        },
+        {
+            "type": "patchouli:smithing",
+            "recipe": "dehydration:netherite_leather_flask"
+        }
+    ]
+}

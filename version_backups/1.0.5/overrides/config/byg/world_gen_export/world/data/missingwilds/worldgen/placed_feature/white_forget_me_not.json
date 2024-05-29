@@ -1,0 +1,19 @@
+{
+	"feature": "missingwilds:white_forget_me_not",
+	"placement": [
+		{
+			"chance": 32,
+			"type": "minecraft:rarity_filter"
+		},
+		{
+			"type": "minecraft:in_square"
+		},
+		{
+			"heightmap": "MOTION_BLOCKING",
+			"type": "minecraft:heightmap"
+		},
+		{
+			"type": "minecraft:biome"
+		}
+	]
+}

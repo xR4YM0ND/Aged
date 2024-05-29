@@ -1,0 +1,7 @@
+showWhiteItems=false
+particleCount=1
+beamHeight=0.8
+beamOffset=0.2
+minimumAge=10
+beamDistance=64.0
+printErrors=false

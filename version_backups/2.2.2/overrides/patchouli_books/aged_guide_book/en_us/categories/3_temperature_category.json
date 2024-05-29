@@ -1,0 +1,6 @@
+{
+    "name": "Temperature",
+    "description": "This page features the environment / temperature aspect of the modpack.",
+    "icon": "endrem:cold_eye",
+    "sortnum": 3
+}

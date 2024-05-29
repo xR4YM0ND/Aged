@@ -1,0 +1,45 @@
+{
+    "name": "Basic Tools",
+    "icon": "earlystage:flint_axe",
+    "category": "patchouli:get_started_category",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:image",
+            "images":["aged:textures/gui/entries/overworld_stones.png","aged:textures/gui/entries/overworld_flint.png","aged:textures/gui/entries/break_leaves.png"],
+            "title": "Collect Items",
+            "text": "- Stones$(br)- Flint$(br)- Sticks"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "earlystage:crafting_rock",
+            "text": "Craft yourself a Crafting Rock that acts like a Crafting Table.$(br2)Use it to make your first Tools.$(br2)$(o)Use a Rock on it to craft items !"
+        },
+        {
+            "type": "patchouli:relations",
+            "title": "First Tools",
+            "text": "You have probably noticed that you can't break Logs with your hands.$(br2)You need to craft a Flint Axe first.",
+            "entries": ["patchouli:get_started/jobs_entry"]
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "earlystage:flint_axe",
+            "recipe2": "earlystage:flint_sword"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "earlystage:flint_pickaxe",
+            "recipe2": "earlystage:flint_shovel"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "earlystage:flint_hoe",
+            "recipe2": "farmersdelight:flint_knife"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "earlystage:wooden_bucket",
+            "recipe2": "earlystage:wooden_shield"
+        }
+    ]
+}

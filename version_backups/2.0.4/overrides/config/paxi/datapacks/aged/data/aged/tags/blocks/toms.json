@@ -1,0 +1,10 @@
+{
+    "values": [
+        "toms_storage:ts.level_emitter",
+        "toms_storage:ts.inventory_hopper_basic",
+        "toms_storage:ts.crafting_terminal",
+        "toms_storage:ts.storage_terminal",
+        "toms_storage:ts.inventory_cable_connector_filtered",
+        "toms_storage:ts.inventory_connector"
+    ]
+}

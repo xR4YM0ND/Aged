@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "luck",
+    "level": 27,
+    "block": "minecraft:custom_block",
+    "object": "xps:block_xp_obelisk"
+}

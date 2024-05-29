@@ -1,0 +1,19 @@
+{
+	"containers": [
+		{
+			"capacity": 4,
+			"empty": "minecraft:bucket",
+			"empty_sound": "minecraft:item.bucket.empty",
+			"fill_sound": "minecraft:item.bucket.fill",
+			"filled": [
+				"dehydration:purified_water_bucket"
+			]
+		}
+	],
+	"equivalent_fluids": [
+		"dehydration:purified_water"
+	],
+	"flowing_texture": "minecraft:block/water_flowing",
+	"still_texture": "minecraft:block/water_still",
+	"use_texture_from": "dehydration:purified_water"
+}

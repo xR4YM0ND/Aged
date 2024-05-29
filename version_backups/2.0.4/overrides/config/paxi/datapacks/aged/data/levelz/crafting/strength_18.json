@@ -1,0 +1,21 @@
+{
+    "replace": false,
+    "level": 18,
+    "skill": "strength",
+    "item": [
+        "betternether:cincinnasite_sword",
+        "medievalweapons:cincinnasite_small_axe",
+        "medievalweapons:cincinnasite_long_sword",
+        "medievalweapons:cincinnasite_dagger",
+        "medievalweapons:cincinnasite_big_axe",
+        "medievalweapons:cincinnasite_lance",
+        "medievalweapons:cincinnasite_healing_staff",
+        "medievalweapons:cincinnasite_mace",
+        "medievalweapons:cincinnasite_francisca",
+        "medievalweapons:cincinnasite_javelin",
+        "medievalweapons:cincinnasite_ninjato",
+        "medievalweapons:cincinnasite_sickle",
+        "medievalweapons:cincinnasite_rapier",
+        "endrem:undead_eye"
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "archery",
+    "level": 13,
+    "entity": "minecraft:custom_entity",
+    "object": "immersive_aircraft:airship"
+}

@@ -1,0 +1,14 @@
+{
+	"config": {
+		"block_provider": {
+			"state": {
+				"Name": "minecraft:water",
+				"Properties": {
+					"level": "0"
+				}
+			},
+			"type": "minecraft:simple_state_provider"
+		}
+	},
+	"type": "byg:wide_lake"
+}

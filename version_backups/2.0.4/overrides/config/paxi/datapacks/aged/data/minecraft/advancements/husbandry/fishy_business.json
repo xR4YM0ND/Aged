@@ -1,0 +1,443 @@
+{
+    "parent": "minecraft:husbandry/root",
+    "criteria": {
+        "cod": {
+            "conditions": {
+                "item": {
+                    "items": [
+                        "minecraft:cod"
+                    ]
+                }
+            },
+            "trigger": "minecraft:fishing_rod_hooked"
+        },
+        "pufferfish": {
+            "conditions": {
+                "item": {
+                    "items": [
+                        "minecraft:pufferfish"
+                    ]
+                }
+            },
+            "trigger": "minecraft:fishing_rod_hooked"
+        },
+        "salmon": {
+            "conditions": {
+                "item": {
+                    "items": [
+                        "minecraft:salmon"
+                    ]
+                }
+            },
+            "trigger": "minecraft:fishing_rod_hooked"
+        },
+        "tropical_fish": {
+            "conditions": {
+                "item": {
+                    "items": [
+                        "minecraft:tropical_fish"
+                    ]
+                }
+            },
+            "trigger": "minecraft:fishing_rod_hooked"
+        },
+        "ender_eel": {
+            "conditions": {
+                "item": {
+                    "items": [
+                        "gofish:ender_eel"
+                    ]
+                }
+            },
+            "trigger": "minecraft:fishing_rod_hooked"
+        },
+        "icicle_fish": {
+            "conditions": {
+                "item": {
+                    "items": [
+                        "gofish:icicle_fish"
+                    ]
+                }
+            },
+            "trigger": "minecraft:fishing_rod_hooked"
+        },
+        "lilyfish": {
+            "conditions": {
+                "item": {
+                    "items": [
+                        "gofish:lilyfish"
+                    ]
+                }
+            },
+            "trigger": "minecraft:fishing_rod_hooked"
+        },
+        "matrix_fish": {
+            "conditions": {
+                "item": {
+                    "items": [
+                        "gofish:matrix_fish"
+                    ]
+                }
+            },
+            "trigger": "minecraft:fishing_rod_hooked"
+        },
+        "seaweed_eel": {
+            "conditions": {
+                "item": {
+                    "items": [
+                        "gofish:seaweed_eel"
+                    ]
+                }
+            },
+            "trigger": "minecraft:fishing_rod_hooked"
+        },
+        "slimefish": {
+            "conditions": {
+                "item": {
+                    "items": [
+                        "gofish:slimefish"
+                    ]
+                }
+            },
+            "trigger": "minecraft:fishing_rod_hooked"
+        },
+        "snowball_fish": {
+            "conditions": {
+                "item": {
+                    "items": [
+                        "gofish:snowball_fish"
+                    ]
+                }
+            },
+            "trigger": "minecraft:fishing_rod_hooked"
+        },
+        "terrafish": {
+            "conditions": {
+                "item": {
+                    "items": [
+                        "gofish:terrafish"
+                    ]
+                }
+            },
+            "trigger": "minecraft:fishing_rod_hooked"
+        },
+        "carrot_carp": {
+            "conditions": {
+                "item": {
+                    "items": [
+                        "gofish:carrot_carp"
+                    ]
+                }
+            },
+            "trigger": "minecraft:fishing_rod_hooked"
+        },
+        "oakfish": {
+            "conditions": {
+                "item": {
+                    "items": [
+                        "gofish:oakfish"
+                    ]
+                }
+            },
+            "trigger": "minecraft:fishing_rod_hooked"
+        },
+        "spikerfish": {
+            "conditions": {
+                "item": {
+                    "items": [
+                        "gofish:spikerfish"
+                    ]
+                }
+            },
+            "trigger": "minecraft:fishing_rod_hooked"
+        },
+        "blackstone_trout": {
+            "conditions": {
+                "item": {
+                    "items": [
+                        "gofish:blackstone_trout"
+                    ]
+                }
+            },
+            "trigger": "minecraft:fishing_rod_hooked"
+        },
+        "bonefish": {
+            "conditions": {
+                "item": {
+                    "items": [
+                        "gofish:bonefish"
+                    ]
+                }
+            },
+            "trigger": "minecraft:fishing_rod_hooked"
+        },
+        "gilded_blackstone_carp": {
+            "conditions": {
+                "item": {
+                    "items": [
+                        "gofish:gilded_blackstone_carp"
+                    ]
+                }
+            },
+            "trigger": "minecraft:fishing_rod_hooked"
+        },
+        "smokey_salmon": {
+            "conditions": {
+                "item": {
+                    "items": [
+                        "gofish:smokey_salmon"
+                    ]
+                }
+            },
+            "trigger": "minecraft:fishing_rod_hooked"
+        },
+        "soul_salmon": {
+            "conditions": {
+                "item": {
+                    "items": [
+                        "gofish:soul_salmon"
+                    ]
+                }
+            },
+            "trigger": "minecraft:fishing_rod_hooked"
+        },
+        "magma_cod": {
+            "conditions": {
+                "item": {
+                    "items": [
+                        "gofish:magma_cod"
+                    ]
+                }
+            },
+            "trigger": "minecraft:fishing_rod_hooked"
+        },
+        "basalt_bass": {
+            "conditions": {
+                "item": {
+                    "items": [
+                        "gofish:basalt_bass"
+                    ]
+                }
+            },
+            "trigger": "minecraft:fishing_rod_hooked"
+        },
+        "obsidian_halibut": {
+            "conditions": {
+                "item": {
+                    "items": [
+                        "gofish:obsidian_halibut"
+                    ]
+                }
+            },
+            "trigger": "minecraft:fishing_rod_hooked"
+        },
+        "endfish": {
+            "conditions": {
+                "item": {
+                    "items": [
+                        "gofish:endfish"
+                    ]
+                }
+            },
+            "trigger": "minecraft:fishing_rod_hooked"
+        },
+        "chorus_cod": {
+            "conditions": {
+                "item": {
+                    "items": [
+                        "gofish:chorus_cod"
+                    ]
+                }
+            },
+            "trigger": "minecraft:fishing_rod_hooked"
+        },
+        "dragonfish": {
+            "conditions": {
+                "item": {
+                    "items": [
+                        "gofish:dragonfish"
+                    ]
+                }
+            },
+            "trigger": "minecraft:fishing_rod_hooked"
+        },
+        "omega_floater": {
+            "conditions": {
+                "item": {
+                    "items": [
+                        "gofish:omega_floater"
+                    ]
+                }
+            },
+            "trigger": "minecraft:fishing_rod_hooked"
+        },
+        "portal_puffer": {
+            "conditions": {
+                "item": {
+                    "items": [
+                        "gofish:portal_puffer"
+                    ]
+                }
+            },
+            "trigger": "minecraft:fishing_rod_hooked"
+        },
+        "lunarfish": {
+            "conditions": {
+                "item": {
+                    "items": [
+                        "gofish:lunarfish"
+                    ]
+                }
+            },
+            "trigger": "minecraft:fishing_rod_hooked"
+        },
+        "galaxy_starfish": {
+            "conditions": {
+                "item": {
+                    "items": [
+                        "gofish:galaxy_starfish"
+                    ]
+                }
+            },
+            "trigger": "minecraft:fishing_rod_hooked"
+        },
+        "starry_salmon": {
+            "conditions": {
+                "item": {
+                    "items": [
+                        "gofish:starry_salmon"
+                    ]
+                }
+            },
+            "trigger": "minecraft:fishing_rod_hooked"
+        },
+        "nebula_swordfish": {
+            "conditions": {
+                "item": {
+                    "items": [
+                        "gofish:nebula_swordfish"
+                    ]
+                }
+            },
+            "trigger": "minecraft:fishing_rod_hooked"
+        },
+        "rainy_bass": {
+            "conditions": {
+                "item": {
+                    "items": [
+                        "gofish:rainy_bass"
+                    ]
+                }
+            },
+            "trigger": "minecraft:fishing_rod_hooked"
+        },
+        "thundering_bass": {
+            "conditions": {
+                "item": {
+                    "items": [
+                        "gofish:thundering_bass"
+                    ]
+                }
+            },
+            "trigger": "minecraft:fishing_rod_hooked"
+        },
+        "blizzard_bass": {
+            "conditions": {
+                "item": {
+                    "items": [
+                        "gofish:blizzard_bass"
+                    ]
+                }
+            },
+            "trigger": "minecraft:fishing_rod_hooked"
+        },
+        "end_fish_raw": {
+            "conditions": {
+                "item": {
+                    "items": [
+                        "betterend:end_fish_raw"
+                    ]
+                }
+            },
+            "trigger": "minecraft:fishing_rod_hooked"
+        },
+        "catfish": {
+            "conditions": {
+                "item": {
+                    "items": [
+                        "naturalist:catfish"
+                    ]
+                }
+            },
+            "trigger": "minecraft:fishing_rod_hooked"
+        },
+        "bass": {
+            "conditions": {
+                "item": {
+                    "items": [
+                        "naturalist:bass"
+                    ]
+                }
+            },
+            "trigger": "minecraft:fishing_rod_hooked"
+        }
+    },
+    "display": {
+        "announce_to_chat": true,
+        "description": {
+            "translate": "advancements.husbandry.fishy_business.description"
+        },
+        "frame": "task",
+        "hidden": false,
+        "icon": {
+            "item": "minecraft:fishing_rod",
+            "nbt": "{Damage:0}"
+        },
+        "show_toast": true,
+        "title": {
+            "translate": "advancements.husbandry.fishy_business.title"
+        }
+    },
+    "requirements": [
+        [
+            "cod",
+            "tropical_fish",
+            "pufferfish",
+            "salmon",
+            "ender_eel",
+            "icicle_fish",
+            "lilyfish",
+            "matrix_fish",
+            "seaweed_eel",
+            "slimefish",
+            "snowball_fish",
+            "terrafish",
+            "carrot_carp",
+            "oakfish",
+            "spikerfish",
+            "blackstone_trout",
+            "bonefish",
+            "gilded_blackstone_carp",
+            "smokey_salmon",
+            "soul_salmon",
+            "magma_cod",
+            "basalt_bass",
+            "obsidian_halibut",
+            "endfish",
+            "chorus_cod",
+            "dragonfish",
+            "omega_floater",
+            "portal_puffer",
+            "lunarfish",
+            "galaxy_starfish",
+            "starry_salmon",
+            "nebula_swordfish",
+            "rainy_bass",
+            "thundering_bass",
+            "blizzard_bass",
+            "end_fish_raw",
+            "catfish",
+            "bass"
+        ]
+    ]
+}

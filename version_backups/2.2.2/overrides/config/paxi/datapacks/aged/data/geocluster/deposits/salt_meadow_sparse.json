@@ -1,0 +1,58 @@
+{
+    "type": "geocluster:deposit_sparse",
+    "config": {
+        "yMin": -64,
+        "yMax": 250,
+        "size": 8,
+        "spread": 3,
+        "biomeTag": "#aged:is_meadow",
+        "blockStateMatchers": [
+            "meadow:cobbled_limestone",
+            "meadow:limestone",
+            "minecraft:stone"
+        ],
+        "blocks": {
+            "default": [
+                {
+                    "block": "meadow:alpine_salt_ore",
+                    "chance": 0.7
+                },
+                {
+                    "block": "meadow:limestone",
+                    "chance": 0.3
+                }
+            ],
+            "meadow:cobbled_limestone": [
+                {
+                    "block": "meadow:alpine_salt_ore",
+                    "chance": 0.7
+                },
+                {
+                    "block": "meadow:cobbled_limestone",
+                    "chance": 0.3
+                }
+            ],
+            "minecraft:stone": [
+                {
+                    "block": "agedaddition:stone_salt_ore",
+                    "chance": 0.7
+                },
+                {
+                    "block": "minecraft:stone",
+                    "chance": 0.3
+                }
+            ]
+        },
+        "samples": [
+            {
+                "block": "agedaddition:alpine_salt_ore_sample",
+                "chance": 0.3
+            },
+            {
+                "block": null,
+                "chance": 0.7
+            }
+        ],
+        "generationWeight": 10
+    }
+}

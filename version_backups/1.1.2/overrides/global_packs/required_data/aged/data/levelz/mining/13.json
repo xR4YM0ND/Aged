@@ -1,0 +1,32 @@
+{
+    "replace": true,
+    "level": 13,
+    "block": [
+        "byg:dacite_cobblestone",
+        "byg:dacite_cobblestone_stairs",
+        "byg:dacite_cobblestone_slab",
+        "byg:dacite_cobblestone_wall",
+        "byg:podzol_dacite",
+        "byg:overgrown_dacite",
+        "byg:dacite",
+        "byg:dacite_stairs",
+        "byg:dacite_slab",
+        "byg:dacite_wall",
+        "byg:dacite_bricks",
+        "byg:dacite_brick_stairs",
+        "byg:dacite_brick_slab",
+        "byg:dacite_brick_wall",
+        "byg:dacite_pillar",
+        "byg:dacite_tile",
+        "byg:dacite_tile_stairs",
+        "byg:dacite_tile_slab",
+        "byg:dacite_tile_wall",
+        "minecraft:lapis_ore",
+        "universal_ores:calcite_lapis_ore",
+        "universal_ores:tuff_lapis_ore",
+        "universal_ores:granite_lapis_ore",
+        "universal_ores:diorite_lapis_ore",
+        "universal_ores:andesite_lapis_ore",
+        "minecraft:lapis_block"
+    ]
+}

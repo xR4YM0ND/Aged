@@ -1,0 +1,19 @@
+{
+    "name": "Partys",
+    "icon": "mythic_charms:experience_nugget",
+    "category": "patchouli:0_get_started_category",
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "patchouli:image",
+            "title": "Join a Party",
+            "images": ["aged:textures/gui/entries/partys/partys_screen.png"],
+            "text": "Better with friends."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Party Bonus",
+            "text": "$(br)$(li)Split xp via all members in the same dimension.$(li)Get extra xp"
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+{
+    "name": "Get Started ✔",
+    "description": "There are some $(l)important$() steps for $(l)surviving$() in this world.",
+    "icon": "minecraft:campfire",
+    "sortnum": 0
+}

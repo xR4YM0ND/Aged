@@ -1,0 +1,14 @@
+{
+  "CONFIG_VERSION_DO_NOT_TOUCH_PLS": "1.5.2",
+  "logWhenLoaded": true,
+  "comment1": "Enable or disable any cave biome individually.",
+  "generateFrozenCaves": true,
+  "generateMushroomCaves": true,
+  "generateMoltenCaves": true,
+  "generateAmethystCaves": true,
+  "generateBlackCaves": true,
+  "generateAridCaves": true,
+  "generateFloralLushCaves": true,
+  "generateDirtCaves": true,
+  "debug": {}
+}

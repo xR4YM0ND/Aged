@@ -1,0 +1,9 @@
+{
+    "icon": "bakery:baguette",
+    "color": "#f54f15",
+    "order": 1,
+    "default_value": 0.5,
+    "gain_multiplier": 1.0,
+    "decay_multiplier": 0.5,
+    "beneficial": true
+}

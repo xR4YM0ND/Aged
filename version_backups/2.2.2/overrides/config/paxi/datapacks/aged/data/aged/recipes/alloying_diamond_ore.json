@@ -1,0 +1,17 @@
+{
+    "type": "bclib:alloying",
+    "smelttime": 18000,
+    "experience": 21,
+    "ingredients": [
+        {
+            "tag": "aged:blasting_diamond"
+        },
+        {
+            "tag": "aged:blasting_diamond"
+        }
+    ],
+    "result": {
+        "count": 3,
+        "item": "minecraft:diamond"
+    }
+}

@@ -1,0 +1,15 @@
+{
+	"distributeVanillaXP": true,
+	// LevelZ compatibility
+	"distributeLevelZXP": true,
+	// Time in ticks
+	"invitationTime": 1200,
+	"groupSize": 7,
+	"groupXpBonus": 0.05000000074505806,
+	"fullGroupBonus": 0.5,
+	"showGroupHud": true,
+	"hudMaxWidth": 55,
+	"hudOpacity": 0.75,
+	"hudPosX": 0,
+	"hudPosY": 0
+}

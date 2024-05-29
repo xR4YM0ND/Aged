@@ -1,0 +1,19 @@
+{
+	"color": "e1ccd8",
+	"containers": [
+		{
+			"capacity": 2,
+			"empty": "ecologics:coconut_husk",
+			"filled": [
+				"ecologics:tropical_stew"
+			]
+		}
+	],
+	"flowing_texture": "moonlight:soft_fluids/potion_flow",
+	"food": {
+		"divider": 2,
+		"item": "ecologics:tropical_stew"
+	},
+	"from_mod": "ecologics",
+	"still_texture": "moonlight:soft_fluids/soup_liquid"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Roll Bench",
+    "icon": "mcde:roll_bench",
+    "category": "patchouli:8_enchant_category",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "mcde:roll_bench"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(br)$(l)! Page under construction !"
+        }
+    ]
+}

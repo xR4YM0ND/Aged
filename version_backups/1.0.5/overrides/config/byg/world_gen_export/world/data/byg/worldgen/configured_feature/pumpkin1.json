@@ -1,0 +1,31 @@
+{
+	"config": {
+		"leaves_provider": {
+			"state": {
+				"Name": "minecraft:oak_leaves",
+				"Properties": {
+					"distance": "7",
+					"persistent": "false",
+					"waterlogged": "false"
+				}
+			},
+			"type": "minecraft:simple_state_provider"
+		},
+		"pumpkin_provider": {
+			"state": {
+				"Name": "minecraft:pumpkin"
+			},
+			"type": "minecraft:simple_state_provider"
+		},
+		"stem_provider": {
+			"state": {
+				"Name": "minecraft:oak_log",
+				"Properties": {
+					"axis": "y"
+				}
+			},
+			"type": "minecraft:simple_state_provider"
+		}
+	},
+	"type": "byg:pumpkin"
+}

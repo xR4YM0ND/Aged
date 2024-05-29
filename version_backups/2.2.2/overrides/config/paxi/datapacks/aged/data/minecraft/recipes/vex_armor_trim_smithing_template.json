@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "#": {
+            "tag": "minecraft:logs"
+        },
+        "+": {
+            "item": "minecraft:emerald"
+        },
+        "C": {
+            "item": "extraordinary_extra_totems:totem_remnants"
+        },
+        "S": {
+            "item": "minecraft:vex_armor_trim_smithing_template"
+        }
+    },
+    "pattern": [
+        "#S#",
+        "+C+",
+        "#+#"
+    ],
+    "result": {
+        "count": 2,
+        "item": "minecraft:vex_armor_trim_smithing_template"
+    },
+    "show_notification": true
+}

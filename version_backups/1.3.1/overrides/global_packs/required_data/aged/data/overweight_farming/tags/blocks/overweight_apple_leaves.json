@@ -1,0 +1,10 @@
+{
+  "replace": true,
+  "values": [
+    "minecraft:oak_leaves",
+    "minecraft:dark_oak_leaves",
+    "byg:ebony_leaves",
+    "byg:joshua_leaves",
+    "byg:ripe_orchard_leaves"
+  ]
+}

@@ -1,0 +1,191 @@
+{
+    "profession": "mason",
+    "trades": {
+        "novice": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 1,
+                "max_uses": 2,
+                "price": 64,
+                "sell": {
+                    "item": "minecraft:stone_bricks",
+                    "count": 64
+                }
+            },
+            {
+                "type": "numismatic-overhaul:process_item",
+                "villager_experience": 1,
+                "max_uses": 2,
+                "price": 100,
+                "buy": {
+                    "item": "numismatic-overhaul:bronze_coin",
+                    "count": 28
+                },
+                "sell": {
+                    "item": "minecraft:mossy_stone_bricks",
+                    "count": 64
+                }
+            },
+            {
+                "type": "numismatic-overhaul:process_item",
+                "villager_experience": 1,
+                "max_uses": 2,
+                "price": 100,
+                "buy": {
+                    "item": "numismatic-overhaul:bronze_coin",
+                    "count": 28
+                },
+                "sell": {
+                    "item": "minecraft:chiseled_stone_bricks",
+                    "count": 64
+                }
+            }
+        ],
+        "apprentice": [
+            {
+                "type": "numismatic-overhaul:process_item",
+                "villager_experience": 2,
+                "max_uses": 2,
+                "price": 200,
+                "buy": {
+                    "item": "numismatic-overhaul:bronze_coin",
+                    "count": 56
+                },
+                "sell": {
+                    "item": "minecraft:bricks",
+                    "count": 64
+                }
+            },
+            {
+                "type": "numismatic-overhaul:process_item",
+                "villager_experience": 2,
+                "max_uses": 2,
+                "price": 200,
+                "buy": {
+                    "item": "numismatic-overhaul:bronze_coin",
+                    "count": 56
+                },
+                "sell": {
+                    "item": "byg:red_rock_bricks",
+                    "count": 64
+                }
+            },
+            {
+                "type": "numismatic-overhaul:process_item",
+                "villager_experience": 2,
+                "max_uses": 2,
+                "price": 200,
+                "buy": {
+                    "item": "numismatic-overhaul:bronze_coin",
+                    "count": 40
+                },
+                "sell": {
+                    "item": "architects_palette:olivestone_bricks",
+                    "count": 64
+                }
+            }
+        ],
+        "journeyman": [
+            {
+                "type": "numismatic-overhaul:process_item",
+                "villager_experience": 3,
+                "max_uses": 2,
+                "price": 500,
+                "buy": {
+                    "item": "numismatic-overhaul:bronze_coin",
+                    "count": 12
+                },
+                "sell": {
+                    "item": "architects_palette:dripstone_bricks",
+                    "count": 64
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 3,
+                "max_uses": 2,
+                "price": 64,
+                "buy": {
+                    "item": "architects_palette:dripstone_bricks",
+                    "count": 64
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 3,
+                "max_uses": 2,
+                "price": 400,
+                "sell": {
+                    "item": "architects_palette:myonite",
+                    "count": 64
+                }
+            }
+        ],
+        "expert": [
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "villager_experience": 4,
+                "max_uses": 2,
+                "price": 200,
+                "buy": {
+                    "item": "minecraft:quartz_block",
+                    "count": 64
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 4,
+                "max_uses": 2,
+                "price": 2000,
+                "sell": {
+                    "item": "minecraft:quartz_block",
+                    "count": 64
+                }
+            }
+        ],
+        "master": [
+            {
+                "type": "numismatic-overhaul:process_item",
+                "villager_experience": 5,
+                "max_uses": 2,
+                "price": 1000,
+                "buy": {
+                    "item": "numismatic-overhaul:bronze_coin",
+                    "count": 24
+                },
+                "sell": {
+                    "item": "minecraft:polished_blackstone_bricks",
+                    "count": 64
+                }
+            },
+            {
+                "type": "numismatic-overhaul:process_item",
+                "villager_experience": 5,
+                "max_uses": 4,
+                "price": 2000,
+                "buy": {
+                    "item": "numismatic-overhaul:bronze_coin",
+                    "count": 48
+                },
+                "sell": {
+                    "item": "twigs:twisting_polished_blackstone_bricks",
+                    "count": 64
+                }
+            },
+            {
+                "type": "numismatic-overhaul:process_item",
+                "villager_experience": 5,
+                "max_uses": 4,
+                "price": 2000,
+                "buy": {
+                    "item": "numismatic-overhaul:bronze_coin",
+                    "count": 48
+                },
+                "sell": {
+                    "item": "twigs:weeping_polished_blackstone_bricks",
+                    "count": 64
+                }
+            }
+        ]
+    }
+}

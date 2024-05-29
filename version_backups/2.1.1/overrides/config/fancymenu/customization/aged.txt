@@ -1,0 +1,307 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = resources/aged/textures/others/main_menu.png
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=376346%
+  action = hidebutton
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 2
+  width = 165
+  action = deep_customization_element:title_screen_branding
+  actionid = 117d5cc8-377a-45ca-b713-a510d01bc7331702114144397
+  y = 445
+  height = 10
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 530
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 76540775-13e0-458c-b77b-3b5ffec106b41702114144409
+  y = 214
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 290
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 29675b48-1dc5-4cd8-b634-c71462fd47ed1702114144409
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = true
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 381dcfc2-07ec-4ed7-90f7-e4f9ff1c03901702114144409
+  y = 0
+  height = 30
+}
+
+customization {
+  advanced_height = {"placeholder":"calc","values":{"expression":"{"placeholder":"elementheight","values":{"id":"7fe76ac8-a751-475c-beb5-1c8dc5ccf13c1702116259636"}}+{"placeholder":"elementheight","values":{"id":"cefa1d10-9245-4752-be80-638bbbc61cb51702120577269"}}+{"placeholder":"elementheight","values":{"id":"2c11986b-261f-4900-8a75-17f2812e93171702133879897"}}+{"placeholder":"elementheight","values":{"id":"e36632a5-cd92-4fde-b27b-52c2f3e0fb271702141813484"}}+{"placeholder":"elementheight","values":{"id":"0cef03be-fefa-425d-8089-68054ca229741702134047379"}}+{"placeholder":"elementheight","values":{"id":"33f217e1-d3f8-4497-b5d1-eff5401e3e301702134193689"}}","decimal":"true"}}
+  orientation = top-left
+  shape = rectangle
+  color = #ffffff
+  advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}/7","decimal":"true"}}
+  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"}/2-{"placeholder":"elementheight","values":{"id":"2e43515b-c935-4e00-bb9f-b19cbb24ff241702136336461"}}/2+30","decimal":"true"}}
+  x = 0
+  width = 100
+  action = addshape
+  actionid = 2e43515b-c935-4e00-bb9f-b19cbb24ff241702136336461
+  y = 0
+  [loading_requirement:fancymenu_loading_requirement_is_language][requirement_mode:if][req_id:83705d66-c4f6-472c-a5e3-5e1657719e811702137869060] = dangerouse
+  height = 120
+}
+
+customization {
+  advanced_height = 20
+  orientation = top-left
+  restartbackgroundanimations = true
+  buttonaction = opengui;net.minecraft.class_525%btnaction_splitter_fm%
+  backgroundhovered = resources/aged/textures/others/custom_button_hovered.png
+  label = §7Singleplayer
+  advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"elementposx","values":{"id":"2e43515b-c935-4e00-bb9f-b19cbb24ff241702136336461"}}","decimal":"true"}}
+  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"elementposy","values":{"id":"2e43515b-c935-4e00-bb9f-b19cbb24ff241702136336461"}}","decimal":"true"}}
+  loopbackgroundanimations = true
+  hoverlabel = Singleplayer
+  x = 0
+  width = 100
+  action = addbutton
+  actionid = 7fe76ac8-a751-475c-beb5-1c8dc5ccf13c1702116259636
+  y = 0
+  backgroundnormal = resources/aged/textures/others/custom_button.png
+  height = 20
+}
+
+customization {
+  advanced_height = 20
+  orientation = top-left
+  restartbackgroundanimations = true
+  buttonaction = opengui;net.minecraft.class_500%btnaction_splitter_fm%
+  backgroundhovered = resources/aged/textures/others/custom_button_hovered.png
+  label = §7Multiplayer
+  advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"elementposx","values":{"id":"2e43515b-c935-4e00-bb9f-b19cbb24ff241702136336461"}}","decimal":"true"}}
+  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"elementposy","values":{"id":"7fe76ac8-a751-475c-beb5-1c8dc5ccf13c1702116259636"}}+{"placeholder":"elementheight","values":{"id":"7fe76ac8-a751-475c-beb5-1c8dc5ccf13c1702116259636"}}","decimal":"true"}}
+  loopbackgroundanimations = true
+  hoverlabel = Multiplayer
+  x = 0
+  width = 100
+  action = addbutton
+  actionid = cefa1d10-9245-4752-be80-638bbbc61cb51702120577269
+  y = 0
+  backgroundnormal = resources/aged/textures/others/custom_button.png
+  height = 20
+}
+
+customization {
+  advanced_height = 18
+  orientation = top-left
+  restartbackgroundanimations = true
+  buttonaction = opengui;net.minecraft.class_426%btnaction_splitter_fm%
+  backgroundhovered = resources/aged/textures/others/icons/language_hovered.png
+  label = 
+  advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}-30","decimal":"true"}}
+  advanced_width = 18
+  advanced_posy = {"placeholder":"calc","values":{"expression":"10","decimal":"true"}}
+  loopbackgroundanimations = true
+  x = 0
+  width = 18
+  action = addbutton
+  actionid = 140f0ba0-9fa7-491b-a0e9-a2296d5f50851702129483221
+  y = 0
+  backgroundnormal = resources/aged/textures/others/icons/language.png
+  height = 18
+}
+
+customization {
+  advanced_height = 18
+  orientation = top-left
+  restartbackgroundanimations = true
+  buttonaction = opengui;net.minecraft.class_4189%btnaction_splitter_fm%
+  backgroundhovered = resources/aged/textures/others/icons/mannequin_hovered.png
+  label = 
+  advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"elementposx","values":{"id":"140f0ba0-9fa7-491b-a0e9-a2296d5f50851702129483221"}}-{"placeholder":"elementwidth","values":{"id":"140f0ba0-9fa7-491b-a0e9-a2296d5f50851702129483221"}}-10","decimal":"true"}}
+  advanced_width = 18
+  advanced_posy = {"placeholder":"calc","values":{"expression":"10","decimal":"true"}}
+  loopbackgroundanimations = true
+  x = 0
+  width = 18
+  action = addbutton
+  actionid = b54216b6-257b-4b07-9403-b0b16f4482861702133356564
+  y = 0
+  backgroundnormal = resources/aged/textures/others/icons/mannequin.png
+  height = 18
+}
+
+customization {
+  advanced_height = 18
+  orientation = top-left
+  restartbackgroundanimations = true
+  buttonaction = opengui;com.mrcrayfish.catalogue.client.screen.CatalogueModListScreen%btnaction_splitter_fm%
+  backgroundhovered = resources/aged/textures/others/icons/mods_hovered.png
+  label = 
+  advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"elementposx","values":{"id":"b54216b6-257b-4b07-9403-b0b16f4482861702133356564"}}-{"placeholder":"elementwidth","values":{"id":"b54216b6-257b-4b07-9403-b0b16f4482861702133356564"}}-10","decimal":"true"}}
+  advanced_width = 18
+  advanced_posy = {"placeholder":"calc","values":{"expression":"10","decimal":"true"}}
+  loopbackgroundanimations = true
+  x = 0
+  width = 18
+  action = addbutton
+  actionid = cd16d5a6-803b-46bd-8baf-29ad608190291702133394235
+  y = 0
+  backgroundnormal = resources/aged/textures/others/icons/mods.png
+  height = 18
+}
+
+customization {
+  advanced_height = 20
+  orientation = top-left
+  restartbackgroundanimations = true
+  buttonaction = opengui;net.minecraft.class_429%btnaction_splitter_fm%
+  backgroundhovered = resources/aged/textures/others/custom_button_hovered.png
+  label = §7Options
+  advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"elementposx","values":{"id":"2e43515b-c935-4e00-bb9f-b19cbb24ff241702136336461"}}","decimal":"true"}}
+  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"elementposy","values":{"id":"cefa1d10-9245-4752-be80-638bbbc61cb51702120577269"}}+{"placeholder":"elementheight","values":{"id":"cefa1d10-9245-4752-be80-638bbbc61cb51702120577269"}}","decimal":"true"}}
+  loopbackgroundanimations = true
+  hoverlabel = Options
+  x = 0
+  width = 100
+  action = addbutton
+  actionid = 2c11986b-261f-4900-8a75-17f2812e93171702133879897
+  y = 0
+  backgroundnormal = resources/aged/textures/others/custom_button.png
+  height = 20
+}
+
+customization {
+  advanced_height = 20
+  orientation = top-left
+  restartbackgroundanimations = true
+  buttonaction = openlink;https://github.com/xR4YM0ND/Aged/issues/new/choose%btnaction_splitter_fm%
+  backgroundhovered = resources/aged/textures/others/custom_button_hovered.png
+  label = §7Report Bugs
+  advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"elementposx","values":{"id":"2e43515b-c935-4e00-bb9f-b19cbb24ff241702136336461"}}","decimal":"true"}}
+  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"elementposy","values":{"id":"e36632a5-cd92-4fde-b27b-52c2f3e0fb271702141813484"}}+{"placeholder":"elementheight","values":{"id":"e36632a5-cd92-4fde-b27b-52c2f3e0fb271702141813484"}}","decimal":"true"}}
+  loopbackgroundanimations = true
+  hoverlabel = Report Bugs
+  x = 0
+  width = 100
+  action = addbutton
+  actionid = 0cef03be-fefa-425d-8089-68054ca229741702134047379
+  y = 0
+  backgroundnormal = resources/aged/textures/others/custom_button.png
+  height = 20
+}
+
+customization {
+  advanced_height = 20
+  orientation = top-left
+  restartbackgroundanimations = true
+  buttonaction = quitgame%btnaction_splitter_fm%
+  backgroundhovered = resources/aged/textures/others/custom_button_hovered.png
+  label = §7Quit
+  advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"elementposx","values":{"id":"2e43515b-c935-4e00-bb9f-b19cbb24ff241702136336461"}}","decimal":"true"}}
+  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"elementposy","values":{"id":"0cef03be-fefa-425d-8089-68054ca229741702134047379"}}+{"placeholder":"elementheight","values":{"id":"0cef03be-fefa-425d-8089-68054ca229741702134047379"}}","decimal":"true"}}
+  loopbackgroundanimations = true
+  hoverlabel = Quit
+  x = 0
+  width = 100
+  action = addbutton
+  actionid = 33f217e1-d3f8-4497-b5d1-eff5401e3e301702134193689
+  y = 0
+  backgroundnormal = resources/aged/textures/others/custom_button.png
+  height = 20
+}
+
+customization {
+  advanced_height = 20
+  orientation = top-left
+  restartbackgroundanimations = true
+  buttonaction = openlink;https://discord.gg/NDA2Xrq52q%btnaction_splitter_fm%
+  backgroundhovered = resources/aged/textures/others/custom_button_hovered.png
+  label = §7Discord
+  advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"elementposx","values":{"id":"2e43515b-c935-4e00-bb9f-b19cbb24ff241702136336461"}}","decimal":"true"}}
+  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"elementposy","values":{"id":"2c11986b-261f-4900-8a75-17f2812e93171702133879897"}}+{"placeholder":"elementheight","values":{"id":"2c11986b-261f-4900-8a75-17f2812e93171702133879897"}}","decimal":"true"}}
+  loopbackgroundanimations = true
+  hoverlabel = Discord
+  x = 0
+  width = 100
+  action = addbutton
+  actionid = e36632a5-cd92-4fde-b27b-52c2f3e0fb271702141813484
+  y = 0
+  backgroundnormal = resources/aged/textures/others/custom_button.png
+  height = 20
+}
+

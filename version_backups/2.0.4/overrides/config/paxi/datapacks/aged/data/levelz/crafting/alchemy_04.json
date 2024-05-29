@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "level": 4,
+    "skill": "alchemy",
+    "item": [
+        "minecraft:brewing_stand"
+    ]
+}

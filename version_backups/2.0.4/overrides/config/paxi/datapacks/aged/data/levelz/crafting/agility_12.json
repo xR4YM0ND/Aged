@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "level": 12,
+    "skill": "agility",
+    "item": [
+        "minecraft:cartography_table",
+        "horseexpert:monocle"
+    ]
+}

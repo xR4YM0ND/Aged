@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "strength",
+    "level": 2,
+    "item": "minecraft:custom_item",
+    "object": "tridents_n_stuff:wooden_spear"
+}

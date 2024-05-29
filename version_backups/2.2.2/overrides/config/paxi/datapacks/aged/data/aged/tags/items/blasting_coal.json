@@ -1,0 +1,12 @@
+{
+    "values": [
+        "minecraft:coal_ore",
+        "minecraft:deepslate_coal_ore",
+        "meadow:alpine_coal_ore",
+        "universal_ores:granite_coal_ore",
+        "universal_ores:diorite_coal_ore",
+        "universal_ores:andesite_coal_ore",
+        "universal_ores:tuff_coal_ore",
+        "universal_ores:calcite_coal_ore"
+    ]
+}

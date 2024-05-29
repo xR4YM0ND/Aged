@@ -1,0 +1,20 @@
+{
+    "replace": true,
+    "level": 28,
+    "item": [
+        "adventurez:stone_golem_helmet",
+        "adventurez:stone_golem_chestplate",
+        "adventurez:stone_golem_leggings",
+        "adventurez:stone_golem_boots",
+        "betterend:aeternium_sword_blade",
+        "betterend:aeternium_sword_handle",
+        "betterend:aeternium_sword",
+        "betterend:aeternium_hammer_head",
+        "betterend:aeternium_hammer",
+        "betternether:cincinnasite_sword_diamond",
+        "betternether:cincinnasite_pickaxe_diamond",
+        "betternether:cincinnasite_shovel_diamond",
+        "betternether:cincinnasite_axe_diamond",
+        "betternether:cincinnasite_hoe_diamond"
+    ]
+}

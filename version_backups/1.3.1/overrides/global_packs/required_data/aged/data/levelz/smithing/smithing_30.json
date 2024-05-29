@@ -1,0 +1,25 @@
+{
+    "replace": true,
+    "level": 30,
+    "item": [
+        "byg:pendorite_axe",
+        "byg:pendorite_pickaxe",
+        "byg:pendorite_sword",
+        "byg:pendorite_battleaxe",
+        "byg:pendorite_shovel",
+        "byg:pendorite_hoe",
+        "medievalweapons:pendorite_small_axe",
+        "medievalweapons:pendorite_long_sword",
+        "medievalweapons:pendorite_dagger",
+        "medievalweapons:pendorite_big_axe",
+        "medievalweapons:pendorite_lance",
+        "medievalweapons:pendorite_healing_staff",
+        "medievalweapons:pendorite_mace",
+        "medievalweapons:pendorite_francisca",
+        "medievalweapons:pendorite_javelin",
+        "medievalweapons:pendorite_ninjato",
+        "medievalweapons:pendorite_sickle",
+        "medievalweapons:pendorite_rapier",
+        "farmersknives:pendorite_knife"
+    ]
+}

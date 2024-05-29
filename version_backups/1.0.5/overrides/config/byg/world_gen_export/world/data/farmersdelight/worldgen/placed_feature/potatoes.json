@@ -1,0 +1,48 @@
+{
+	"feature": {
+		"config": {
+			"feature": {
+				"feature": {
+					"config": {
+						"to_place": {
+							"state": {
+								"Name": "farmersdelight:wild_potatoes"
+							},
+							"type": "minecraft:simple_state_provider"
+						}
+					},
+					"type": "minecraft:simple_block"
+				},
+				"placement": [
+					{
+						"predicate": {
+							"blocks": "minecraft:air",
+							"type": "minecraft:matching_blocks"
+						},
+						"type": "minecraft:block_predicate_filter"
+					}
+				]
+			},
+			"tries": 64,
+			"xz_spread": 2,
+			"y_spread": 2
+		},
+		"type": "minecraft:random_patch"
+	},
+	"placement": [
+		{
+			"chance": 48,
+			"type": "minecraft:rarity_filter"
+		},
+		{
+			"type": "minecraft:in_square"
+		},
+		{
+			"heightmap": "MOTION_BLOCKING",
+			"type": "minecraft:heightmap"
+		},
+		{
+			"type": "minecraft:biome"
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"feature": {
+		"config": {
+			"probability": 1.0
+		},
+		"type": "minecraft:underwater_starfish"
+	},
+	"placement": [
+		{
+			"count": 3,
+			"type": "minecraft:count"
+		},
+		{
+			"chance": 1,
+			"type": "minecraft:rarity_filter"
+		},
+		{
+			"type": "minecraft:in_square"
+		},
+		{
+			"heightmap": "WORLD_SURFACE_WG",
+			"type": "minecraft:heightmap"
+		},
+		{
+			"type": "minecraft:biome"
+		}
+	]
+}

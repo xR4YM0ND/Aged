@@ -1,0 +1,47 @@
+{
+	"config": {
+		"base_block_provider": {
+			"state": {
+				"Name": "byg:soul_shroom_block",
+				"Properties": {
+					"down": "true",
+					"east": "true",
+					"north": "true",
+					"south": "true",
+					"up": "true",
+					"west": "true"
+				}
+			},
+			"type": "minecraft:simple_state_provider"
+		},
+		"block_provider": {
+			"state": {
+				"Name": "byg:soul_shroom_spore"
+			},
+			"type": "minecraft:simple_state_provider"
+		},
+		"end_block_provider": {
+			"state": {
+				"Name": "byg:soul_shroom_spore_end",
+				"Properties": {
+					"age": "23"
+				}
+			},
+			"type": "minecraft:simple_state_provider"
+		},
+		"max_length": 9,
+		"min_length": 1,
+		"whitelist": [
+			{
+				"Name": "minecraft:soul_sand"
+			},
+			{
+				"Name": "minecraft:soul_soil"
+			},
+			{
+				"Name": "byg:warped_soul_sand"
+			}
+		]
+	},
+	"type": "byg:hanging_feature"
+}

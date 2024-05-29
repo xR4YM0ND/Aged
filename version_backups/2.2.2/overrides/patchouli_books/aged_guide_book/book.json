@@ -1,0 +1,8 @@
+{
+    "name": "Aged Guide Book",
+    "landing_text": "Welcome to your Aged Adventure!$(br2)Communicate ingame with players or hop on our $(l:https://discord.gg/WXdSYn4yHB)Discord$(/l) Server.",
+    "version": 2,
+    "creative_tab": "minecraft:tools_and_utilities",
+    "use_resource_pack": true,
+    "show_progress": false
+}

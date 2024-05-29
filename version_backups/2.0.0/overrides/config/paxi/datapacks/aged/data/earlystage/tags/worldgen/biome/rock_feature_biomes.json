@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "values": [
+        "wythers:stony_canyon",
+        "minecraft:old_growth_spruce_taiga",
+        "wythers:ancient_taiga"
+    ]
+}

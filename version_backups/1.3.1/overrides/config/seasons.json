@@ -1,0 +1,619 @@
+{
+  "seasonLength": 2160000,
+  "seasonLock": {
+    "isSeasonLocked": false,
+    "lockedSeason": "SPRING"
+  },
+  "dimensionWhitelist": [
+    "minecraft:overworld"
+  ],
+  "doTemperatureChanges": true,
+  "isSeasonTiedWithSystemTime": false,
+  "isInNorthHemisphere": true,
+  "minecraftDefaultFoliage": {
+    "springColor": 4764952,
+    "summerColor": 5038091,
+    "fallColor": 14719243,
+    "winterColor": 7689492
+  },
+  "minecraftSpruceFoliage": {
+    "springColor": 6396257,
+    "summerColor": 6396257,
+    "fallColor": 6396257,
+    "winterColor": 6396257
+  },
+  "minecraftBirchFoliage": {
+    "springColor": 8431445,
+    "summerColor": 8501316,
+    "fallColor": 14051328,
+    "winterColor": 6705190
+  },
+  "minecraftSwampGrass1": {
+    "springColor": 5011004,
+    "summerColor": 5011004,
+    "fallColor": 5011004,
+    "winterColor": 5011004
+  },
+  "minecraftSwampGrass2": {
+    "springColor": 6975545,
+    "summerColor": 6975545,
+    "fallColor": 6975545,
+    "winterColor": 6975545
+  },
+  "isDefaultHSBShiftEnabled": true,
+  "defaultHSBShift": {
+    "springHSBShift": {
+      "hue": 0.0,
+      "saturation": 100.0,
+      "brightness": 0.0
+    },
+    "summerHSBShift": {
+      "hue": 0.0,
+      "saturation": 150.0,
+      "brightness": -10.0
+    },
+    "fallHSBShift": {
+      "hue": -65.0,
+      "saturation": 125.0,
+      "brightness": -15.0
+    },
+    "winterHSBShift": {
+      "hue": -65.0,
+      "saturation": 80.0,
+      "brightness": -40.0
+    }
+  },
+  "foliageColorList": [],
+  "grassColorList": [],
+  "isSeasonMessingCrops": true,
+  "isSeasonMessingBonemeal": true,
+  "doCropsGrowsNormallyUnderground": false,
+  "defaultCropConfig": {
+    "springModifier": 0.0,
+    "summerModifier": 0.0,
+    "fallModifier": 0.0,
+    "winterModifier": 0.0
+  },
+  "cropConfigs": [
+    {
+      "cropIdentifier": "minecraft:wheat",
+      "springModifier": 0.05,
+      "summerModifier": 0.3,
+      "fallModifier": 0.15,
+      "winterModifier": 0.0
+    },
+    {
+      "cropIdentifier": "minecraft:beetroots",
+      "springModifier": 0.15,
+      "summerModifier": 0.05,
+      "fallModifier": 0.3,
+      "winterModifier": 0.0
+    },
+    {
+      "cropIdentifier": "minecraft:carrots",
+      "springModifier": 0.3,
+      "summerModifier": 0.15,
+      "fallModifier": 0.3,
+      "winterModifier": 0.05
+    },
+    {
+      "cropIdentifier": "minecraft:potatoes",
+      "springModifier": 0.0,
+      "summerModifier": 0.15,
+      "fallModifier": 0.3,
+      "winterModifier": 0.0
+    },
+    {
+      "cropIdentifier": "minecraft:pumpkin_stem",
+      "springModifier": 0.0,
+      "summerModifier": 0.0,
+      "fallModifier": 0.3,
+      "winterModifier": 0.0
+    },
+    {
+      "cropIdentifier": "minecraft:melon_stem",
+      "springModifier": 0.0,
+      "summerModifier": 0.3,
+      "fallModifier": 0.15,
+      "winterModifier": 0.0
+    },
+    {
+      "cropIdentifier": "farmersdelight:tomatoes",
+      "springModifier": 0.05,
+      "summerModifier": 0.3,
+      "fallModifier": 0.15,
+      "winterModifier": 0.0
+    },
+    {
+      "cropIdentifier": "farmersdelight:cabbages",
+      "springModifier": 0.3,
+      "summerModifier": 0.15,
+      "fallModifier": 0.3,
+      "winterModifier": 0.05
+    },
+    {
+      "cropIdentifier": "farmersdelight:onions",
+      "springModifier": 0.0,
+      "summerModifier": 0.3,
+      "fallModifier": 0.15,
+      "winterModifier": 0.0
+    },
+    {
+      "cropIdentifier": "expandeddelight:asparagus_crop",
+      "springModifier": 0.3,
+      "summerModifier": 0.05,
+      "fallModifier": 0.0,
+      "winterModifier": 0.0
+    },
+    {
+      "cropIdentifier": "expandeddelight:chili_pepper_crop",
+      "springModifier": 0.15,
+      "summerModifier": 0.3,
+      "fallModifier": 0.05,
+      "winterModifier": 0.0
+    },
+    {
+      "cropIdentifier": "expandeddelight:sweet_potatoes_crop",
+      "springModifier": 0.0,
+      "summerModifier": 0.15,
+      "fallModifier": 0.3,
+      "winterModifier": 0.0
+    },
+    {
+      "cropIdentifier": "expandeddelight:peanut_crop",
+      "springModifier": 0.05,
+      "summerModifier": 0.15,
+      "fallModifier": 0.3,
+      "winterModifier": 0.0
+    },
+    {
+      "cropIdentifier": "xps:xp_berrie_bush_block",
+      "springModifier": 0.0,
+      "summerModifier": 0.0,
+      "fallModifier": 0.0,
+      "winterModifier": 0.03
+    },
+    {
+      "cropIdentifier": "minecraft:oak_sapling",
+      "springModifier": 0.05,
+      "summerModifier": 0.25,
+      "fallModifier": 0.05,
+      "winterModifier": 0.0
+    },
+    {
+      "cropIdentifier": "minecraft:spruce_sapling",
+      "springModifier": 0.0,
+      "summerModifier": 0.0,
+      "fallModifier": 0.25,
+      "winterModifier": 0.05
+    },
+    {
+      "cropIdentifier": "minecraft:birch_sapling",
+      "springModifier": 0.25,
+      "summerModifier": 0.05,
+      "fallModifier": 0.0,
+      "winterModifier": 0.0
+    },
+    {
+      "cropIdentifier": "minecraft:jungle_sapling",
+      "springModifier": 0.05,
+      "summerModifier": 0.25,
+      "fallModifier": 0.0,
+      "winterModifier": 0.0
+    },
+    {
+      "cropIdentifier": "minecraft:acacia_sapling",
+      "springModifier": 0.05,
+      "summerModifier": 0.25,
+      "fallModifier": 0.05,
+      "winterModifier": 0.0
+    },
+    {
+      "cropIdentifier": "minecraft:dark_oak_sapling",
+      "springModifier": 0.05,
+      "summerModifier": 0.25,
+      "fallModifier": 0.05,
+      "winterModifier": 0.0
+    },
+    {
+      "cropIdentifier": "minecraft:mangrove_propagule",
+      "springModifier": 0.25,
+      "summerModifier": 0.05,
+      "fallModifier": 0.0,
+      "winterModifier": 0.0
+    },
+    {
+      "cropIdentifier": "architects_palette:twisted_sapling",
+      "springModifier": 0.0,
+      "summerModifier": 0.0,
+      "fallModifier": 0.0,
+      "winterModifier": 0.25
+    },
+    {
+      "cropIdentifier": "byg:aspen_sapling",
+      "springModifier": 0.25,
+      "summerModifier": 0.0,
+      "fallModifier": 0.05,
+      "winterModifier": 0.0
+    },
+    {
+      "cropIdentifier": "byg:baobab_sapling",
+      "springModifier": 0.0,
+      "summerModifier": 0.05,
+      "fallModifier": 0.25,
+      "winterModifier": 0.0
+    },
+    {
+      "cropIdentifier": "byg:blue_enchanted_sapling",
+      "springModifier": 0.0,
+      "summerModifier": 0.0,
+      "fallModifier": 0.0,
+      "winterModifier": 0.25
+    },
+    {
+      "cropIdentifier": "byg:pink_cherry_sapling",
+      "springModifier": 0.0,
+      "summerModifier": 0.25,
+      "fallModifier": 0.05,
+      "winterModifier": 0.0
+    },
+    {
+      "cropIdentifier": "byg:white_cherry_sapling",
+      "springModifier": 0.0,
+      "summerModifier": 0.25,
+      "fallModifier": 0.05,
+      "winterModifier": 0.0
+    },
+    {
+      "cropIdentifier": "byg:cika_sapling",
+      "springModifier": 0.0,
+      "summerModifier": 0.0,
+      "fallModifier": 0.25,
+      "winterModifier": 0.0
+    },
+    {
+      "cropIdentifier": "byg:cypress_sapling",
+      "springModifier": 0.05,
+      "summerModifier": 0.25,
+      "fallModifier": 0.05,
+      "winterModifier": 0.0
+    },
+    {
+      "cropIdentifier": "byg:ebony_sapling",
+      "springModifier": 0.0,
+      "summerModifier": 0.05,
+      "fallModifier": 0.25,
+      "winterModifier": 0.0
+    },
+    {
+      "cropIdentifier": "byg:ether_sapling",
+      "springModifier": 0.0,
+      "summerModifier": 0.0,
+      "fallModifier": 0.0,
+      "winterModifier": 0.25
+    },
+    {
+      "cropIdentifier": "byg:fir_sapling",
+      "springModifier": 0.0,
+      "summerModifier": 0.0,
+      "fallModifier": 0.25,
+      "winterModifier": 0.05
+    },
+    {
+      "cropIdentifier": "byg:green_enchanted_sapling",
+      "springModifier": 0.0,
+      "summerModifier": 0.0,
+      "fallModifier": 0.0,
+      "winterModifier": 0.25
+    },
+    {
+      "cropIdentifier": "byg:holly_sapling",
+      "springModifier": 0.0,
+      "summerModifier": 0.0,
+      "fallModifier": 0.0,
+      "winterModifier": 0.25
+    },
+    {
+      "cropIdentifier": "byg:lament_sapling",
+      "springModifier": 0.0,
+      "summerModifier": 0.0,
+      "fallModifier": 0.0,
+      "winterModifier": 0.25
+    },
+    {
+      "cropIdentifier": "byg:indigo_jacaranda_sapling",
+      "springModifier": 0.25,
+      "summerModifier": 0.05,
+      "fallModifier": 0.0,
+      "winterModifier": 0.0
+    },
+    {
+      "cropIdentifier": "byg:jacaranda_sapling",
+      "springModifier": 0.25,
+      "summerModifier": 0.05,
+      "fallModifier": 0.0,
+      "winterModifier": 0.0
+    },
+    {
+      "cropIdentifier": "byg:mahogany_sapling",
+      "springModifier": 0.0,
+      "summerModifier": 0.25,
+      "fallModifier": 0.0,
+      "winterModifier": 0.0
+    },
+    {
+      "cropIdentifier": "byg:white_mangrove_sapling",
+      "springModifier": 0.25,
+      "summerModifier": 0.05,
+      "fallModifier": 0.0,
+      "winterModifier": 0.0
+    },
+    {
+      "cropIdentifier": "byg:red_maple_sapling",
+      "springModifier": 0.0,
+      "summerModifier": 0.05,
+      "fallModifier": 0.25,
+      "winterModifier": 0.0
+    },
+    {
+      "cropIdentifier": "byg:silver_maple_sapling",
+      "springModifier": 0.0,
+      "summerModifier": 0.05,
+      "fallModifier": 0.25,
+      "winterModifier": 0.0
+    },
+    {
+      "cropIdentifier": "byg:maple_sapling",
+      "springModifier": 0.0,
+      "summerModifier": 0.05,
+      "fallModifier": 0.25,
+      "winterModifier": 0.0
+    },
+    {
+      "cropIdentifier": "byg:nightshade_sapling",
+      "springModifier": 0.0,
+      "summerModifier": 0.0,
+      "fallModifier": 0.0,
+      "winterModifier": 0.25
+    },
+    {
+      "cropIdentifier": "byg:palm_sapling",
+      "springModifier": 0.0,
+      "summerModifier": 0.25,
+      "fallModifier": 0.0,
+      "winterModifier": 0.0
+    },
+    {
+      "cropIdentifier": "byg:palo_verde_sapling",
+      "springModifier": 0.25,
+      "summerModifier": 0.05,
+      "fallModifier": 0.0,
+      "winterModifier": 0.0
+    },
+    {
+      "cropIdentifier": "byg:pine_sapling",
+      "springModifier": 0.0,
+      "summerModifier": 0.0,
+      "fallModifier": 0.25,
+      "winterModifier": 0.05
+    },
+    {
+      "cropIdentifier": "byg:rainbow_eucalyptus_sapling",
+      "springModifier": 0.0,
+      "summerModifier": 0.25,
+      "fallModifier": 0.0,
+      "winterModifier": 0.0
+    },
+    {
+      "cropIdentifier": "byg:redwood_sapling",
+      "springModifier": 0.0,
+      "summerModifier": 0.0,
+      "fallModifier": 0.25,
+      "winterModifier": 0.05
+    },
+    {
+      "cropIdentifier": "byg:skyris_sapling",
+      "springModifier": 0.05,
+      "summerModifier": 0.0,
+      "fallModifier": 0.0,
+      "winterModifier": 0.25
+    },
+    {
+      "cropIdentifier": "byg:willow_sapling",
+      "springModifier": 0.25,
+      "summerModifier": 0.05,
+      "fallModifier": 0.0,
+      "winterModifier": 0.0
+    },
+    {
+      "cropIdentifier": "byg:witch_hazel_sapling",
+      "springModifier": 0.05,
+      "summerModifier": 0.0,
+      "fallModifier": 0.25,
+      "winterModifier": 0.0
+    },
+    {
+      "cropIdentifier": "byg:zelkova_sapling",
+      "springModifier": 0.0,
+      "summerModifier": 0.0,
+      "fallModifier": 0.25,
+      "winterModifier": 0.05
+    },
+    {
+      "cropIdentifier": "byg:araucaria_sapling",
+      "springModifier": 0.0,
+      "summerModifier": 0.0,
+      "fallModifier": 0.25,
+      "winterModifier": 0.0
+    },
+    {
+      "cropIdentifier": "byg:blue_spruce_sapling",
+      "springModifier": 0.0,
+      "summerModifier": 0.0,
+      "fallModifier": 0.25,
+      "winterModifier": 0.05
+    },
+    {
+      "cropIdentifier": "byg:brown_birch_sapling",
+      "springModifier": 0.25,
+      "summerModifier": 0.05,
+      "fallModifier": 0.0,
+      "winterModifier": 0.0
+    },
+    {
+      "cropIdentifier": "byg:brown_oak_sapling",
+      "springModifier": 0.05,
+      "summerModifier": 0.25,
+      "fallModifier": 0.05,
+      "winterModifier": 0.0
+    },
+    {
+      "cropIdentifier": "byg:brown_zelkova_sapling",
+      "springModifier": 0.0,
+      "summerModifier": 0.0,
+      "fallModifier": 0.25,
+      "winterModifier": 0.05
+    },
+    {
+      "cropIdentifier": "byg:joshua_sapling",
+      "springModifier": 0.25,
+      "summerModifier": 0.05,
+      "fallModifier": 0.0,
+      "winterModifier": 0.0
+    },
+    {
+      "cropIdentifier": "byg:orange_birch_sapling",
+      "springModifier": 0.25,
+      "summerModifier": 0.05,
+      "fallModifier": 0.0,
+      "winterModifier": 0.0
+    },
+    {
+      "cropIdentifier": "byg:orange_oak_sapling",
+      "springModifier": 0.05,
+      "summerModifier": 0.25,
+      "fallModifier": 0.05,
+      "winterModifier": 0.0
+    },
+    {
+      "cropIdentifier": "byg:orange_spruce_sapling",
+      "springModifier": 0.0,
+      "summerModifier": 0.0,
+      "fallModifier": 0.25,
+      "winterModifier": 0.05
+    },
+    {
+      "cropIdentifier": "byg:orchard_sapling",
+      "springModifier": 0.25,
+      "summerModifier": 0.05,
+      "fallModifier": 0.0,
+      "winterModifier": 0.0
+    },
+    {
+      "cropIdentifier": "byg:red_birch_sapling",
+      "springModifier": 0.25,
+      "summerModifier": 0.05,
+      "fallModifier": 0.0,
+      "winterModifier": 0.0
+    },
+    {
+      "cropIdentifier": "byg:red_oak_sapling",
+      "springModifier": 0.05,
+      "summerModifier": 0.25,
+      "fallModifier": 0.05,
+      "winterModifier": 0.0
+    },
+    {
+      "cropIdentifier": "byg:red_spruce_sapling",
+      "springModifier": 0.0,
+      "summerModifier": 0.0,
+      "fallModifier": 0.25,
+      "winterModifier": 0.05
+    },
+    {
+      "cropIdentifier": "byg:yellow_birch_sapling",
+      "springModifier": 0.25,
+      "summerModifier": 0.05,
+      "fallModifier": 0.0,
+      "winterModifier": 0.0
+    },
+    {
+      "cropIdentifier": "byg:yellow_spruce_sapling",
+      "springModifier": 0.0,
+      "summerModifier": 0.0,
+      "fallModifier": 0.25,
+      "winterModifier": 0.05
+    },
+    {
+      "cropIdentifier": "expandeddelight:cinnamon_sapling",
+      "springModifier": 0.0,
+      "summerModifier": 0.0,
+      "fallModifier": 0.05,
+      "winterModifier": 0.25
+    },
+    {
+      "cropIdentifier": "ecologics:walnut_sapling",
+      "springModifier": 0.0,
+      "summerModifier": 0.05,
+      "fallModifier": 0.25,
+      "winterModifier": 0.0
+    },
+    {
+      "cropIdentifier": "ecologics:coconut_seedling",
+      "springModifier": 0.05,
+      "summerModifier": 0.25,
+      "fallModifier": 0.0,
+      "winterModifier": 0.0
+    },
+    {
+      "cropIdentifier": "colorful-azaleas:orange_azalea_sapling",
+      "springModifier": 0.30,
+      "summerModifier": 0.1,
+      "fallModifier": 0.0,
+      "winterModifier": 0.0
+    },
+    {
+      "cropIdentifier": "colorful-azaleas:red_azalea_sapling",
+      "springModifier": 0.30,
+      "summerModifier": 0.1,
+      "fallModifier": 0.0,
+      "winterModifier": 0.0
+    },
+    {
+      "cropIdentifier": "colorful-azaleas:blue_azalea_sapling",
+      "springModifier": 0.30,
+      "summerModifier": 0.1,
+      "fallModifier": 0.0,
+      "winterModifier": 0.0
+    },
+    {
+      "cropIdentifier": "colorful-azaleas:yellow_azalea_sapling",
+      "springModifier": 0.30,
+      "summerModifier": 0.1,
+      "fallModifier": 0.0,
+      "winterModifier": 0.0
+    },
+    {
+      "cropIdentifier": "colorful-azaleas:pink_azalea_sapling",
+      "springModifier": 0.30,
+      "summerModifier": 0.1,
+      "fallModifier": 0.0,
+      "winterModifier": 0.0
+    },
+    {
+      "cropIdentifier": "colorful-azaleas:purple_azalea_sapling",
+      "springModifier": 0.30,
+      "summerModifier": 0.1,
+      "fallModifier": 0.0,
+      "winterModifier": 0.0
+    },
+    {
+      "cropIdentifier": "colorful-azaleas:white_azalea_sapling",
+      "springModifier": 0.30,
+      "summerModifier": 0.1,
+      "fallModifier": 0.0,
+      "winterModifier": 0.0
+    }
+  ],
+  "doAnimalsBreedInWinter": false
+}

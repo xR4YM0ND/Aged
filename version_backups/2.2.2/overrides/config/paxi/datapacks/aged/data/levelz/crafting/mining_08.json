@@ -1,0 +1,12 @@
+{
+    "replace": false,
+    "skill": "mining",
+    "level": 8,
+    "item": [
+        "herbalbrews:stove",
+        "meadow:stove_tiles",
+        "meadow:stove_tiles_wood",
+        "meadow:stove_tiles_lid",
+        "meadow:stove_tiles_bench"
+    ]
+}

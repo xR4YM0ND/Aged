@@ -1,0 +1,10 @@
+{
+    "replace": false,
+    "level": 30,
+    "skill": "farming",
+    "item": [
+        "betternether:nether_ruby_axe",
+        "betternether:nether_ruby_hoe",
+        "minecraft:golden_apple"
+    ]
+}

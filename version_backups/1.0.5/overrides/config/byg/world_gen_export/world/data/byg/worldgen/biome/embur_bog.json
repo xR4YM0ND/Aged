@@ -1,0 +1,106 @@
+{
+	"carvers": {
+		"air": "minecraft:nether_cave"
+	},
+	"downfall": 0.0,
+	"effects": {
+		"additions_sound": {
+			"sound": "minecraft:ambient.basalt_deltas.additions",
+			"tick_chance": 0.0111
+		},
+		"ambient_sound": "minecraft:ambient.basalt_deltas.loop",
+		"fog_color": 15110510,
+		"mood_sound": {
+			"block_search_extent": 8,
+			"offset": 2.0,
+			"sound": "minecraft:ambient.basalt_deltas.mood",
+			"tick_delay": 6000
+		},
+		"music": {
+			"max_delay": 24000,
+			"min_delay": 12000,
+			"replace_current_music": false,
+			"sound": "minecraft:music.nether.basalt_deltas"
+		},
+		"particle": {
+			"options": {
+				"type": "minecraft:flame"
+			},
+			"probability": 0.00228
+		},
+		"sky_color": 15110510,
+		"water_color": 4159204,
+		"water_fog_color": 329011
+	},
+	"features": [
+		[ "byg:global/raw_generation" ],
+		[ "byg:global/lakes" ],
+		[ "byg:global/local_modifications" ],
+		[ "byg:global/underground_structures" ],
+		[ "minecraft:delta", "byg:global/surface_structures" ],
+		[ "byg:global/strongholds" ],
+		[ "byg:global/underground_ores" ],
+		[ "minecraft:spring_open", "minecraft:patch_fire", "minecraft:patch_soul_fire", "minecraft:glowstone_extra", "minecraft:glowstone", "minecraft:brown_mushroom_nether", "minecraft:red_mushroom_nether", "minecraft:ore_magma", "minecraft:spring_closed", "byg:ore_pendorite", "byg:ore_gold_blue_netherrack", "byg:ore_quartz_blue_netherrack", "byg:global/underground_decoration", "supplementaries:cave_urns", "twigs:ore_bloodstone_nether", "geodes:quartz_geode", "twigs:ore_bloodstone_nether", "geodes:quartz_geode" ],
+		[ "byg:global/fluid_springs" ],
+		[ "byg:embur_mushrooms", "byg:embur_bog_vegetation", "byg:embur_lily", "byg:embur_sprout", "byg:beehives", "byg:global/vegetal_decoration", "farmersdelight:tomatoes", "farmersdelight:tomatoes" ],
+		[ "byg:global/top_layer_modification", "rocks:crimson_stick", "rocks:nether_geyser", "rocks:nether_gravel_rock", "rocks:netherrack_rock", "rocks:soul_soil_rock", "rocks:warped_stick", "rocks:crimson_stick", "rocks:nether_geyser", "rocks:nether_gravel_rock", "rocks:netherrack_rock", "rocks:soul_soil_rock", "rocks:warped_stick" ]
+	],
+	"precipitation": "none",
+	"spawn_costs": { },
+	"spawners": {
+		"ambient": [],
+		"axolotls": [],
+		"creature": [
+			{
+				"maxCount": 2,
+				"minCount": 1,
+				"type": "minecraft:strider",
+				"weight": 60
+			}
+		],
+		"fireflies": [],
+		"misc": [],
+		"monster": [
+			{
+				"maxCount": 4,
+				"minCount": 2,
+				"type": "minecraft:blaze",
+				"weight": 20
+			},
+			{
+				"maxCount": 4,
+				"minCount": 4,
+				"type": "minecraft:zombified_piglin",
+				"weight": 80
+			},
+			{
+				"maxCount": 5,
+				"minCount": 2,
+				"type": "minecraft:magma_cube",
+				"weight": 100
+			},
+			{
+				"maxCount": 4,
+				"minCount": 4,
+				"type": "minecraft:piglin",
+				"weight": 15
+			},
+			{
+				"maxCount": 1,
+				"minCount": 1,
+				"type": "adventurez:blaze_guardian",
+				"weight": 1
+			},
+			{
+				"maxCount": 1,
+				"minCount": 1,
+				"type": "adventurez:blaze_guardian",
+				"weight": 1
+			}
+		],
+		"underground_water_creature": [],
+		"water_ambient": [],
+		"water_creature": []
+	},
+	"temperature": 2.0
+}

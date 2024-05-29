@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "level": 18,
+    "skill": "farming",
+    "item": [
+        "betternether:cincinnasite_axe",
+        "betternether:cincinnasite_hoe"
+    ]
+}

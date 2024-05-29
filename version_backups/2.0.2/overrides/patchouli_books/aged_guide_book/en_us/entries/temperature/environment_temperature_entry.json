@@ -1,0 +1,19 @@
+{
+    "name": "Environment Temperature",
+    "icon": "minecraft:compass",
+    "category": "patchouli:temperature_category",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:image",
+            "images": ["aged:textures/gui/entries/hot_environment.png", "aged:textures/gui/entries/normal_environment.png", "aged:textures/gui/entries/cold_environment.png"],
+            "title": "3 Environment Stages",
+            "text": "Hot | Normal | Cold"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Infos",
+            "text": "The Environment Temperature consists of these factors:$(br)$(li)Season$(li)Biomes$(li)Time$(li)Height$(li)Dimension$(li)Nearby Blocks"
+        }
+    ]
+}

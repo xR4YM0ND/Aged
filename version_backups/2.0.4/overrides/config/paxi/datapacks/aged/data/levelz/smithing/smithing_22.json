@@ -1,0 +1,10 @@
+{
+    "replace": true,
+    "level": 22,
+    "item": [
+        "betterend:terminite_helmet",
+        "betterend:terminite_chestplate",
+        "betterend:terminite_leggings",
+        "betterend:terminite_boots"
+    ]
+}

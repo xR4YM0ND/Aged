@@ -1,0 +1,14 @@
+{
+  "enableSplashes": true,
+  "splashRimAlpha": 0.7,
+  "enableCascades": true,
+  "cascadeSoundsVolumeMultiplier": 100,
+  "cascadeSoundDistanceBlocks": 150,
+  "shouldFlowingWaterSpawnParticlesOnFirstTick": true,
+  "lapisBlockUpdateParticleChance": 10,
+  "flowingWaterSplashingDesity": 50,
+  "rainRippleDensity": 1,
+  "enableGlowingPlankton": true,
+  "glowsquidHypnotize": true,
+  "glowsquidHypnotizeAttractCursor": true
+}

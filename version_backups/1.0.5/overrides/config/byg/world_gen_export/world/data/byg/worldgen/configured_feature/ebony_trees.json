@@ -1,0 +1,25 @@
+{
+	"config": {
+		"default": {
+			"feature": "byg:ebony_bush1",
+			"placement": []
+		},
+		"features": [
+			{
+				"chance": 0.45,
+				"feature": {
+					"feature": "byg:ebony_tree1",
+					"placement": []
+				}
+			},
+			{
+				"chance": 0.45,
+				"feature": {
+					"feature": "byg:ebony_tree2",
+					"placement": []
+				}
+			}
+		]
+	},
+	"type": "minecraft:random_selector"
+}

@@ -1,0 +1,10 @@
+{
+    "replace": false,
+    "level": 12,
+    "skill": "smithing",
+    "item": [
+        "minecraft:anvil",
+        "betterend:iron_hammer",
+        "mcwwindows:hammer"
+    ]
+}

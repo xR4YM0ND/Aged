@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "skill": "stamina",
+    "level": 18,
+    "item": [
+        "bakery:deepslate_stove",
+        "candlelight:deepslate_stove",
+        "candlelight:deepslate_kitchen_sink",
+        "candlelight:deepslate_counter"
+    ]
+}

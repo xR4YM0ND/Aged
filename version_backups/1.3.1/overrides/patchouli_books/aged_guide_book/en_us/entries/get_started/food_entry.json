@@ -1,0 +1,28 @@
+{
+    "name": "Food",
+    "icon": "minecraft:apple",
+    "category": "patchouli:get_started_category",
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Balanced Nutrition$()$(br2)You have to eat a variety of Food to stay healthy.$(br2)If you eat only 1 or 2 sorts of dishes you get less and less food out of it."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Wild Plants",
+            "text": "$(br)All over the planet you can find $(l:patchouli:farming/plants_entry)Wild Plants$().$(br2)Harvest them with your Hand, or even better with a Knife to get more outcome."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Apples",
+            "text": "$(br)You can break $(l)apple leaves$() or harvest $(l)hanging Apples$() with a $(o)Hoe$()."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "ecologics:coconut_crab",
+            "scale": 0.7,
+            "text": "$(br)You can break the coconut shell`s of them to get Coconuts."
+        }
+    ]
+}

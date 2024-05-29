@@ -1,0 +1,98 @@
+{
+	"carvers": { },
+	"downfall": 0.4,
+	"effects": {
+		"additions_sound": {
+			"sound": "minecraft:ambient.crimson_forest.additions",
+			"tick_chance": 0.0111
+		},
+		"ambient_sound": "byg:ambient_end_forest",
+		"fog_color": 8339307,
+		"mood_sound": {
+			"block_search_extent": 8,
+			"offset": 2.0,
+			"sound": "minecraft:ambient.crimson_forest.mood",
+			"tick_delay": 6000
+		},
+		"music": {
+			"max_delay": 24000,
+			"min_delay": 12000,
+			"replace_current_music": false,
+			"sound": "minecraft:music.end"
+		},
+		"particle": {
+			"options": {
+				"type": "minecraft:warped_spore"
+			},
+			"probability": 0.00128
+		},
+		"sky_color": 8364543,
+		"water_color": 1415511,
+		"water_fog_color": 2005339
+	},
+	"features": [
+		[ "byg:global/raw_generation" ],
+		[ "byg:global/lakes" ],
+		[ "byg:global/local_modifications" ],
+		[ "byg:global/underground_structures" ],
+		[ "byg:global/surface_structures" ],
+		[ "byg:global/strongholds" ],
+		[ "byg:global/underground_ores" ],
+		[ "byg:global/underground_decoration", "supplementaries:cave_urns" ],
+		[ "byg:global/fluid_springs" ],
+		[ "byg:shulkren_trees", "byg:shulkren_plants", "byg:shulkren_hanging_vines", "byg:global/vegetal_decoration", "farmersdelight:carrots", "farmersdelight:onions", "farmersdelight:carrots", "farmersdelight:onions" ],
+		[ "byg:global/top_layer_modification", "rocks:gravel_rock", "rocks:gravel_rock" ]
+	],
+	"precipitation": "none",
+	"spawn_costs": { },
+	"spawners": {
+		"ambient": [],
+		"axolotls": [],
+		"creature": [
+			{
+				"maxCount": 1,
+				"minCount": 1,
+				"type": "adventurez:ender_whale",
+				"weight": 5
+			},
+			{
+				"maxCount": 1,
+				"minCount": 1,
+				"type": "adventurez:ender_whale",
+				"weight": 5
+			}
+		],
+		"fireflies": [],
+		"misc": [],
+		"monster": [
+			{
+				"maxCount": 1,
+				"minCount": 1,
+				"type": "minecraft:shulker",
+				"weight": 1
+			},
+			{
+				"maxCount": 3,
+				"minCount": 1,
+				"type": "minecraft:enderman",
+				"weight": 60
+			},
+			{
+				"maxCount": 1,
+				"minCount": 1,
+				"type": "adventurez:enderwarthog",
+				"weight": 1
+			},
+			{
+				"maxCount": 1,
+				"minCount": 1,
+				"type": "adventurez:enderwarthog",
+				"weight": 1
+			}
+		],
+		"underground_water_creature": [],
+		"water_ambient": [],
+		"water_creature": []
+	},
+	"temperature": 0.8
+}

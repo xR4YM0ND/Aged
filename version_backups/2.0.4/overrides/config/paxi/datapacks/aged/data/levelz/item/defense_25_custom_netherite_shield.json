@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "defense",
+    "level": 25,
+    "item": "minecraft:custom_item",
+    "object": "guarding:netherite_shield"
+}

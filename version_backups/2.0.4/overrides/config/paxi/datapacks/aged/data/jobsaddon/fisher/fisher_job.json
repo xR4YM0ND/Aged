@@ -1,0 +1,167 @@
+{
+    "1": {
+        "replace": true,
+        "items": [],
+        "entities": [],
+        "crafting": [
+            "gofish:simple_lure",
+            "gofish:soul_lure"
+        ]
+    },
+    "2": {
+        "replace": true,
+        "items": [],
+        "entities": [],
+        "crafting": []
+    },
+    "3": {
+        "replace": true,
+        "items": [
+            "minecraft:cod",
+            "minecraft:salmon",
+            "minecraft:pufferfish",
+            "minecraft:tropical_fish"
+        ],
+        "entities": [
+            "minecraft:cod",
+            "minecraft:frog",
+            "minecraft:salmon",
+            "minecraft:tropical_fish",
+            "minecraft:pufferfish",
+            "minecraft:glow_squid",
+            "minecraft:squid"
+        ],
+        "crafting": [
+            "minecraft:fishing_rod"
+        ]
+    },
+    "4": {
+        "replace": true,
+        "items": [],
+        "entities": [
+            "minecraft:tadpole",
+            "creatures_from_the_snow:snow_seal"
+        ],
+        "crafting": []
+    },
+    "5": {
+        "replace": true,
+        "items": [],
+        "entities": [
+            "creatures_from_the_snow:beluga"
+        ],
+        "crafting": [
+            "gofish:blaze_rod"
+        ]
+    },
+    "6": {
+        "replace": true,
+        "items": [
+            "gofish:seaweed_eel",
+            "gofish:terrafish",
+            "gofish:oakfish",
+            "gofish:smokey_salmon",
+            "gofish:cloudy_crab"
+        ],
+        "entities": [],
+        "crafting": []
+    },
+    "7": {
+        "replace": true,
+        "items": [
+            "gofish:lilyfish",
+            "gofish:carrot_carp",
+            "gofish:basalt_bass"
+        ],
+        "entities": [],
+        "crafting": []
+    },
+    "8": {
+        "replace": true,
+        "items": [
+            "gofish:icicle_fish",
+            "gofish:snowball_fish",
+            "gofish:slimefish",
+            "gofish:lunarfish",
+            "gofish:rainy_bass"
+        ],
+        "entities": [],
+        "crafting": [
+            "gofish:diamond_reinforced_rod"
+        ]
+    },
+    "9": {
+        "replace": true,
+        "items": [
+            "gofish:spikerfish",
+            "gofish:blackstone_trout",
+            "gofish:bonefish",
+            "gofish:soul_salmon",
+            "gofish:starry_salmon",
+            "gofish:blizzard_bass"
+        ],
+        "entities": [],
+        "crafting": []
+    },
+    "10": {
+        "replace": true,
+        "items": [
+            "gofish:gilded_blackstone_carp",
+            "gofish:magma_cod",
+            "gofish:galaxy_starfish",
+            "gofish:nebula_swordfish"
+        ],
+        "entities": [],
+        "crafting": []
+    },
+    "11": {
+        "replace": true,
+        "items": [
+            "betterend:end_fish_raw",
+            "gofish:ender_eel",
+            "gofish:endfish",
+            "gofish:thundering_bass"
+        ],
+        "entities": [
+            "betterend:end_fish"
+        ],
+        "crafting": []
+    },
+    "12": {
+        "replace": true,
+        "items": [
+            "gofish:obsidian_halibut",
+            "gofish:matrix_fish"
+        ],
+        "entities": [
+            "creatures_from_the_snow:orca"
+        ],
+        "crafting": []
+    },
+    "15": {
+        "replace": true,
+        "items": [
+            "minecraft:enchanted_book",
+            "minecraft:saddle",
+            "minecraft:nautilus_shell",
+            "minecraft:name_tag",
+            "betterend:crystal_shards",
+            "gofish:chorus_cod",
+            "gofish:dragonfish",
+            "gofish:omega_floater",
+            "gofish:portal_puffer"
+        ],
+        "entities": [
+            "creatures_from_the_snow:narwhal"
+        ],
+        "crafting": []
+    },
+    "30": {
+        "replace": true,
+        "items": [
+            "gofish:golden_fish"
+        ],
+        "entities": [],
+        "crafting": []
+    }
+}

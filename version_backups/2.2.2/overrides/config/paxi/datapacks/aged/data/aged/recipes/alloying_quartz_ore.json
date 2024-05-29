@@ -1,0 +1,17 @@
+{
+    "type": "bclib:alloying",
+    "smelttime": 3000,
+    "experience": 15,
+    "ingredients": [
+        {
+            "tag": "aged:blasting_quartz"
+        },
+        {
+            "tag": "aged:blasting_quartz"
+        }
+    ],
+    "result": {
+        "count": 3,
+        "item": "minecraft:quartz"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Nutrients",
+    "icon": "bakery:vegetable_sandwich",
+    "category": "patchouli:2_nutrition_category",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:image",
+            "title": "Nutrients",
+            "images": ["aged:textures/gui/entries/nutrition/nutrients_screen.png", "aged:textures/gui/entries/nutrition/open_nutrients_screen.png"]
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(br2)Hold shift over edibles & drinks to see the nutrient values each item provides.$(br2)If you fall $(l)below 12$() you get a $(l)debuff$() for this nutrient.$(br)Same if you reach $(l)102 or above$() you'll ge a $(l)buff$() for this nutrient.$(br2)Potions currently dont work, they will only show the values but won't affect you currently."
+        }
+    ]
+}

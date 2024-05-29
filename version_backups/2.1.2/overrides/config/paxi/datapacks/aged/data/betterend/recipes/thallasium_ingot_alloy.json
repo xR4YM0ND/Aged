@@ -1,0 +1,17 @@
+{
+    "type": "bclib:alloying",
+    "experience": 2.1,
+    "ingredients": [
+        {
+            "tag": "betterend:thallasium_alloying"
+        },
+        {
+            "tag": "betterend:thallasium_alloying"
+        }
+    ],
+    "result": {
+        "count": 3,
+        "item": "betterend:thallasium_ingot"
+    },
+    "smelttime": 500
+}

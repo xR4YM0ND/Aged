@@ -1,0 +1,224 @@
+{
+    "profession": "farmer",
+    "trades": {
+        "novice": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 4,
+                "price": 50,
+                "sell": {
+                    "item": "minecraft:wheat_seeds",
+                    "count": 5
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 4,
+                "price": 50,
+                "sell": {
+                    "item": "supplementaries:flax_seeds",
+                    "count": 5
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 4,
+                "price": 50,
+                "sell": {
+                    "item": "minecraft:pumpkin_seeds",
+                    "count": 5
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 4,
+                "price": 50,
+                "sell": {
+                    "item": "minecraft:melon_seeds",
+                    "count": 5
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 4,
+                "price": 50,
+                "sell": {
+                    "item": "minecraft:cocoa_beans",
+                    "count": 5
+                }
+            }
+        ],
+        "apprentice": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 4,
+                "price": 100,
+                "sell": {
+                    "item": "minecraft:beetroot_seeds",
+                    "count": 5
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 4,
+                "price": 100,
+                "sell": {
+                    "item": "minecraft:carrot",
+                    "count": 5
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 4,
+                "price": 100,
+                "sell": {
+                    "item": "minecraft:potato",
+                    "count": 5
+                }
+            }
+        ],
+        "journeyman": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 6,
+                "price_multiplier": 0.0,
+                "max_uses": 4,
+                "price": 200,
+                "sell": {
+                    "item": "bakery:strawberry_seeds",
+                    "count": 5
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 6,
+                "price_multiplier": 0.0,
+                "max_uses": 4,
+                "price": 200,
+                "sell": {
+                    "item": "bakery:oat_seeds",
+                    "count": 5
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 6,
+                "price_multiplier": 0.0,
+                "max_uses": 4,
+                "price": 200,
+                "sell": {
+                    "item": "candlelight:tomato_seeds",
+                    "count": 5
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 6,
+                "price_multiplier": 0.0,
+                "max_uses": 4,
+                "price": 200,
+                "sell": {
+                    "item": "candlelight:lettuce_seeds",
+                    "count": 5
+                }
+            }
+        ],
+        "expert": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 8,
+                "price_multiplier": 0.0,
+                "max_uses": 4,
+                "price": 500,
+                "sell": {
+                    "item": "betterend:cave_pumpkin_seed",
+                    "count": 5
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 8,
+                "price_multiplier": 0.0,
+                "max_uses": 4,
+                "price": 500,
+                "sell": {
+                    "item": "betterend:chorus_mushroom_seed",
+                    "count": 5
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 8,
+                "price_multiplier": 0.0,
+                "max_uses": 4,
+                "price": 500,
+                "sell": {
+                    "item": "betternether:whispering_gourd_vine",
+                    "count": 5
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 8,
+                "price_multiplier": 0.0,
+                "max_uses": 4,
+                "price": 500,
+                "sell": {
+                    "item": "betterend:shadow_berry",
+                    "count": 5
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 8,
+                "price_multiplier": 0.0,
+                "max_uses": 4,
+                "price": 500,
+                "sell": {
+                    "item": "betterend:amber_root_seed",
+                    "count": 5
+                }
+            }
+        ],
+        "master": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 10,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 1000,
+                "sell": {
+                    "item": "minecraft:torchflower_seeds",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 10,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 1,
+                "sell": {
+                    "item": "vinery:straw_hat",
+                    "count": 1
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "replace": true,
+    "level": 18,
+    "item": [
+        "betterend:terminite_forged_plate",
+        "betterend:terminite_helmet",
+        "betterend:terminite_chestplate",
+        "betterend:terminite_leggings",
+        "betterend:terminite_boots",
+        "minecraft:diamond_pickaxe_head",
+        "minecraft:diamond_pickaxe",
+        "minecraft:diamond_shovel_head",
+        "minecraft:diamond_shovel",
+        "minecraft:diamond_axe_head",
+        "minecraft:diamond_axe",
+        "minecraft:diamond_hoe_head",
+        "minecraft:diamond_hoe"
+    ]
+}

@@ -1,0 +1,6 @@
+{
+    "replace": true,
+    "skill": "trade",
+    "level": 10,
+    "entity": "minecraft:wandering_trader"
+}

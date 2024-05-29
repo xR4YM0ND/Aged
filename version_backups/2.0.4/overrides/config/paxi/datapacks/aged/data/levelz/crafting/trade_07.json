@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "level": 7,
+    "skill": "trade",
+    "item": [
+        "minecraft:golden_helmet",
+        "minecraft:golden_chestplate",
+        "minecraft:golden_leggings",
+        "minecraft:golden_boots"
+    ]
+}

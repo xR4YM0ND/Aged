@@ -1,0 +1,312 @@
+{
+    "profession": "farmer",
+    "trades": {
+        "novice": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 5,
+                "sell": {
+                    "item": "minecraft:melon_seeds",
+                    "count": 1
+                },
+                "max_uses": 16
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 5,
+                "sell": {
+                    "item": "minecraft:pumpkin_seeds",
+                    "count": 1
+                },
+                "max_uses": 16
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 3,
+                "max_uses": 8,
+                "sell": {
+                    "item": "medievalweapons:wooden_sickle",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 2,
+                "max_uses": 8,
+                "sell": {
+                    "item": "minecraft:wooden_hoe",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "price": 20,
+                "max_uses": 16,
+                "buy": {
+                    "item": "minecraft:melon",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "price": 20,
+                "max_uses": 16,
+                "buy": {
+                    "item": "minecraft:pumpkin",
+                    "count": 8
+                }
+            }
+        ],
+        "apprentice": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 20,
+                "sell": {
+                    "item": "minecraft:wheat_seeds",
+                    "count": 1
+                },
+                "max_uses": 12
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 20,
+                "sell": {
+                    "item": "minecraft:beetroot_seeds",
+                    "count": 1
+                },
+                "max_uses": 12
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 20,
+                "sell": {
+                    "item": "minecraft:carrot",
+                    "count": 1
+                },
+                "max_uses": 12
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 20,
+                "sell": {
+                    "item": "minecraft:potato",
+                    "count": 1
+                },
+                "max_uses": 12
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 30,
+                "max_uses": 7,
+                "sell": {
+                    "item": "medievalweapons:stone_sickle",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 20,
+                "max_uses": 7,
+                "sell": {
+                    "item": "minecraft:stone_hoe",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "price": 20,
+                "max_uses": 12,
+                "buy": {
+                    "item": "minecraft:wheat",
+                    "count": 5
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "price": 50,
+                "max_uses": 12,
+                "buy": {
+                    "item": "minecraft:carrot",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "price": 50,
+                "max_uses": 12,
+                "buy": {
+                    "item": "minecraft:potato",
+                    "count": 8
+                }
+            }
+        ],
+        "journeyman": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 200,
+                "sell": {
+                    "item": "farmersdelight:cabbage_seeds",
+                    "count": 1
+                },
+                "max_uses": 8
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 200,
+                "sell": {
+                    "item": "farmersdelight:tomato_seeds",
+                    "count": 1
+                },
+                "max_uses": 8
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 300,
+                "max_uses": 5,
+                "sell": {
+                    "item": "medievalweapons:golden_sickle",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 200,
+                "max_uses": 5,
+                "sell": {
+                    "item": "minecraft:golden_hoe",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "price": 100,
+                "max_uses": 8,
+                "buy": {
+                    "item": "farmersdelight:cabbage",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "price": 100,
+                "max_uses": 8,
+                "buy": {
+                    "item": "farmersdelight:tomato",
+                    "count": 8
+                }
+            }
+        ],
+        "expert": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 500,
+                "sell": {
+                    "item": "expandeddelight:asparagus_seeds",
+                    "count": 1
+                },
+                "max_uses": 6
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 500,
+                "sell": {
+                    "item": "expandeddelight:chili_pepper_seeds",
+                    "count": 1
+                },
+                "max_uses": 6
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 1500,
+                "max_uses": 4,
+                "sell": {
+                    "item": "medievalweapons:iron_sickle",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 1000,
+                "max_uses": 4,
+                "sell": {
+                    "item": "minecraft:iron_hoe",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "price": 200,
+                "max_uses": 6,
+                "buy": {
+                    "item": "expandeddelight:asparagus",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "price": 200,
+                "max_uses": 6,
+                "buy": {
+                    "item": "expandeddelight:chili_pepper",
+                    "count": 8
+                }
+            }
+        ],
+        "master": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 1000,
+                "sell": {
+                    "item": "expandeddelight:peanut",
+                    "count": 1
+                },
+                "max_uses": 4
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 1000,
+                "sell": {
+                    "item": "expandeddelight:cinnamon_sapling",
+                    "count": 1
+                },
+                "max_uses": 4
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 15000,
+                "max_uses": 1,
+                "sell": {
+                    "item": "medievalweapons:diamond_sickle",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 10000,
+                "max_uses": 1,
+                "sell": {
+                    "item": "minecraft:diamond_hoe",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "price": 400,
+                "max_uses": 4,
+                "buy": {
+                    "item": "expandeddelight:raw_cinnamon",
+                    "count": 8
+                }
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "price": 400,
+                "max_uses": 4,
+                "buy": {
+                    "item": "expandeddelight:peanut",
+                    "count": 8
+                }
+            }
+        ]
+    }
+}

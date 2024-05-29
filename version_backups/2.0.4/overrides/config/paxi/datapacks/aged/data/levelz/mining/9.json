@@ -1,0 +1,24 @@
+{
+    "replace": true,
+    "level": 9,
+    "block": [
+        "minecraft:iron_block",
+        "minecraft:raw_iron_block",
+        "minecraft:iron_ore",
+        "universal_ores:andesite_iron_ore",
+        "universal_ores:diorite_iron_ore",
+        "minecraft:iron_bars",
+        "minecraft:iron_door",
+        "minecraft:iron_trapdoor",
+        "minecraft:heavy_weighted_pressure_plate",
+        "minecraft:hopper",
+        "minecraft:anvil",
+        "minecraft:chipped_anvil",
+        "minecraft:damaged_anvil",
+        "minecraft:rail",
+        "minecraft:tripwire_hook",
+        "minecraft:blast_furnace",
+        "minecraft:smithing_table",
+        "minecraft:stonecutter"
+    ]
+}

@@ -1,0 +1,307 @@
+{
+    "1": {
+        "replace": true,
+        "entities": [
+            "minecraft:frog",
+            "minecraft:cat",
+            "minecraft:cow",
+            "minecraft:snow_golem",
+            "minecraft:chicken",
+            "minecraft:sheep",
+            "minecraft:donkey",
+            "minecraft:llama",
+            "minecraft:mule",
+            "minecraft:villager",
+            "minecraft:pig",
+            "minecraft:trader_llama",
+            "minecraft:horse",
+            "minecraft:squid",
+            "minecraft:panda",
+            "minecraft:wandering_trader",
+            "minecraft:zombie_horse",
+            "minecraft:skeleton_horse",
+            "adventurez:deer",
+            "adventurez:nightmare",
+            "betternether:hydrogen_jellyfish",
+            "naturalist:bluejay",
+            "naturalist:butterfly",
+            "naturalist:canary",
+            "naturalist:cardinal",
+            "naturalist:caterpillar",
+            "naturalist:dragonfly",
+            "naturalist:duck",
+            "naturalist:finch",
+            "naturalist:firefly",
+            "naturalist:robin",
+            "naturalist:snail",
+            "naturalist:sparrow"
+        ]
+    },
+    "2": {
+        "replace": true,
+        "entities": [
+            "mobcatalog:capybara",
+            "mobcatalog:crab",
+            "mobcatalog:penguin",
+            "mobcatalog:sloth",
+            "mobcatalog:stonemaw",
+            "minecraft:bat",
+            "minecraft:ocelot",
+            "minecraft:strider",
+            "minecraft:turtle",
+            "minecraft:mooshroom",
+            "minecraft:glow_squid",
+            "minecraft:goat",
+            "minecraft:axolotl",
+            "minecraft:piglin",
+            "minecraft:wolf",
+            "minecraft:zombified_piglin",
+            "adventurez:brown_fungus",
+            "adventurez:red_fungus",
+            "adventurez:iguana",
+            "betterend:dragonfly",
+            "betterend:silk_moth",
+            "betternether:firefly",
+            "naturalist:rattlesnake"
+        ]
+    },
+    "3": {
+        "replace": true,
+        "entities": [
+            "naturalist:lizard",
+            "naturalist:lizard_tail",
+            "naturalist:tortoise"
+        ]
+    },
+    "4": {
+        "replace": true,
+        "entities": [
+            "underground_jungle:jungle_zombie",
+            "minecraft:parrot",
+            "minecraft:rabbit",
+            "minecraft:fox",
+            "minecraft:allay",
+            "minecraft:dolphin",
+            "minecraft:bee",
+            "minecraft:magma_cube",
+            "minecraft:slime",
+            "minecraft:silverfish",
+            "minecraft:endermite",
+            "minecraft:zombie_villager",
+            "minecraft:husk",
+            "minecraft:shulker",
+            "minecraft:drowned",
+            "minecraft:zombie",
+            "minecraft:creeper",
+            "creeperoverhaul:badlands_creeper",
+            "creeperoverhaul:bamboo_creeper",
+            "creeperoverhaul:beach_creeper",
+            "creeperoverhaul:cave_creeper",
+            "creeperoverhaul:dark_oak_creeper",
+            "creeperoverhaul:desert_creeper",
+            "creeperoverhaul:dripstone_creeper",
+            "creeperoverhaul:hills_creeper",
+            "creeperoverhaul:jungle_creeper",
+            "creeperoverhaul:mushroom_creeper",
+            "creeperoverhaul:savannah_creeper",
+            "creeperoverhaul:snowy_creeper",
+            "creeperoverhaul:spruce_creeper",
+            "creeperoverhaul:swamp_creeper",
+            "creeperoverhaul:ocean_creeper",
+            "betterend:cubozoa",
+            "naturalist:deer",
+            "naturalist:giraffe",
+            "naturalist:hippo",
+            "naturalist:vulture",
+            "naturalist:zebra"
+        ]
+    },
+    "5": {
+        "replace": true,
+        "entities": [
+            "underground_jungle:mossy_skeleton",
+            "minecraft:cave_spider",
+            "minecraft:phantom",
+            "minecraft:spider",
+            "minecraft:pillager",
+            "minecraft:skeleton",
+            "minecraft:stray",
+            "minecraft:enderman",
+            "adventurez:orc",
+            "betternether:flying_pig",
+            "betternether:jungle_skeleton",
+            "naturalist:boar",
+            "naturalist:coral_snake",
+            "naturalist:snake",
+            "endermanoverhaul:badlands_enderman",
+            "endermanoverhaul:cave_enderman",
+            "endermanoverhaul:crimson_forest_enderman",
+            "endermanoverhaul:dark_oak_enderman",
+            "endermanoverhaul:desert_enderman",
+            "endermanoverhaul:end_enderman",
+            "endermanoverhaul:end_islands_enderman",
+            "endermanoverhaul:flower_fields_enderman",
+            "endermanoverhaul:ice_spikes_enderman",
+            "endermanoverhaul:mushroom_fields_enderman",
+            "endermanoverhaul:nether_wastes_enderman",
+            "endermanoverhaul:coral_enderman",
+            "endermanoverhaul:savanna_enderman",
+            "endermanoverhaul:snowy_enderman",
+            "endermanoverhaul:soulsand_valley_enderman",
+            "endermanoverhaul:swamp_enderman",
+            "endermanoverhaul:warped_forest_enderman",
+            "endermanoverhaul:windswept_hills_enderman",
+            "illagerinvasion:surrendered"
+        ]
+    },
+    "8": {
+        "replace": true,
+        "entities": [
+            "minecraft:polar_bear",
+            "minecraft:hoglin",
+            "minecraft:iron_golem",
+            "minecraft:witch",
+            "minecraft:zoglin",
+            "minecraft:ghast",
+            "minecraft:wither_skeleton",
+            "minecraft:guardian",
+            "adventurez:desert_rhino",
+            "adventurez:mammoth",
+            "adventurez:skeleton_vanguard",
+            "adventurez:small_stone_golem",
+            "adventurez:soul_reaper",
+            "betterend:end_slime",
+            "naturalist:alligator",
+            "naturalist:bear",
+            "naturalist:elephant",
+            "naturalist:rhino"
+        ]
+    },
+    "10": {
+        "replace": true,
+        "entities": [
+            "minecraft:blaze",
+            "adventurez:amethyst_golem",
+            "adventurez:ender_whale",
+            "adventurez:piglin_beast",
+            "betternether:skull",
+            "naturalist:lion"
+        ]
+    },
+    "11": {
+        "replace": true,
+        "entities": [
+            "illagerinvasion:archivist",
+            "illagerinvasion:firecaller"
+        ]
+    },
+    "12": {
+        "replace": true,
+        "entities": [
+            "adventurez:summoner",
+            "adventurez:shaman",
+            "illagerinvasion:marauder",
+            "illagerinvasion:provoker"
+        ]
+    },
+    "13": {
+        "replace": true,
+        "entities": [
+            "illagerinvasion:alchemist",
+            "illagerinvasion:necromancer"
+        ]
+    },
+    "15": {
+        "replace": true,
+        "entities": [
+            "illagerinvasion:basher",
+            "illagerinvasion:sorcerer"
+        ]
+    },
+    "18": {
+        "replace": true,
+        "entities": [
+            "minecraft:vex",
+            "minecraft:vindicator",
+            "minecraft:piglin_brute",
+            "minecraft:illusioner",
+            "minecraft:evoker",
+            "adventurez:necromancer",
+            "adventurez:wither_puppet",
+            "betterend:shadow_walker",
+            "betternether:naga"
+        ]
+    },
+    "20": {
+        "replace": true,
+        "entities": [
+            "minecraft:ravager",
+            "adventurez:blaze_guardian"
+        ]
+    },
+    "25": {
+        "replace": true,
+        "entities": [
+            "illagerinvasion:inquisitor"
+        ]
+    },
+    "30": {
+        "replace": true,
+        "entities": [
+            "minecraft:elder_guardian",
+            "adventurez:enderwarthog"
+        ]
+    },
+    "40": {
+        "replace": true,
+        "entities": [
+            "minecraft:giant",
+            "adventurez:tiny_eye",
+            "illagerinvasion:invoker"
+        ]
+    },
+    "50": {
+        "replace": true,
+        "entities": [
+            "minecraft:player"
+        ]
+    },
+    "60": {
+        "replace": true,
+        "entities": [
+            "minecraft:warden"
+        ]
+    },
+    "80": {
+        "replace": true,
+        "entities": [
+            "minecraft:wither"
+        ]
+    },
+    "100": {
+        "replace": true,
+        "entities": [
+            "adventurez:void_shade"
+        ]
+    },
+    "120": {
+        "replace": true,
+        "entities": [
+            "minecraft:ender_dragon",
+            "adventurez:dragon"
+        ]
+    },
+    "180": {
+        "replace": true,
+        "entities": [
+            "adventurez:the_eye",
+            "adventurez:stone_golem"
+        ]
+    },
+    "200": {
+        "replace": true,
+        "entities": [
+            "adventurez:void_shadow"
+        ]
+    }
+}

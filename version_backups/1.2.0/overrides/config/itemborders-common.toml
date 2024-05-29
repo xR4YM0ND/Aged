@@ -1,0 +1,33 @@
+
+# If you would like to specify manual borders, add a new manual_borders section at the bottom of the file.
+# The format for each color of border is 'color = ["modid:item1", "modid:item2"]"]'. Replace the color with either a color name (like red or blue), or a RGB / ARGB hex color code like 0xFFFFFF or 0xFF00FFFF.
+# Here is a sample you can copy / paste and edit as needed:
+#[client.options.manual_borders]
+#	red = ["minecraft:torch", "minecraft:stick"]
+[client]
+
+	[client.options]
+		# If the hotbar should display item borders.
+		hotbar = true
+		# If item borders should show for common items.
+		show_for_common = false
+		# If the borders should have square corners.
+		square_corners = true
+		# If the borders should fully envelop item slots (otherwise they will only show on the bottom portion of the slot).
+		full_border = true
+		# If the borders draw over items instead of under.
+		over_items = false
+		# If the borders should have a more prominent glow.
+		extra_glow = false
+		# If automatic borders (based on item rarity) should be enabled.
+		auto_borders = true
+		# Custom border colors for specific items. Format: { <color> = ["list of selectors"] }. Selectors supported:
+		#    Item name - Use item name for vanilla items or include mod name for modded items.  Examples: minecraft:stick, iron_ore
+		#    Tag - $ followed by tag name.  Examples: $forge:stone or $planks
+		#    Mod name - @ followed by mod identifier.  Examples: @spoiledeggs
+		#    Rarity - ! followed by item's rarity.  This is ONLY vanilla rarities.  Examples: !uncommon, !rare, !epic
+		#    Item name color - # followed by color hex code, the hex code must match exactly.  Examples: #23F632
+		#    Display name - % followed by any text.  Will match any item with this text in its tooltip display name.  Examples: %[Uncommon]
+		#    Tooltip text - ^ followed by any text.  Will match any item with this text anywhere in the tooltip text (besides the name).  Examples: ^Rarity: Legendary
+		manual_borders = {}
+

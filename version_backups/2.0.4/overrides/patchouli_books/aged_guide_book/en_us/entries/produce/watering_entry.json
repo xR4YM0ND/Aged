@@ -1,0 +1,40 @@
+{
+    "name": "Watering",
+    "icon": "earlystage:water_wooden_bucket",
+    "category": "patchouli:produce_category",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "earlystage:wooden_bucket",
+            "text": "Wooden bucket has 1 time use.$(br2)You can use the normal bucket at farming level 8.$(br2)Farmland dry's out faster than usual."
+        },
+        {
+            "type": "patchouli:image",
+            "images": ["aged:textures/gui/entries/watering_range.png"],
+            "title": "Hydration Range",
+            "text": "$(li)2 Blocks"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "moisturization:sprinkler",
+            "title": "Copper Sprinkler"
+        },
+        {
+            "type": "patchouli:image",
+            "images": ["aged:textures/gui/entries/sprinkler.png"],
+            "title": "Hydration Range",
+            "text": "$(li)3 Blocks"
+        },
+        {
+            "type": "patchouli:smithing",
+            "recipe": "moisturization:netherite_sprinkler"
+        },
+        {
+            "type": "patchouli:image",
+            "images": ["aged:textures/gui/entries/netherite_sprinkler.png"],
+            "title": "Hydration Range",
+            "text": "$(li)7 Blocks"
+        }
+    ]
+}

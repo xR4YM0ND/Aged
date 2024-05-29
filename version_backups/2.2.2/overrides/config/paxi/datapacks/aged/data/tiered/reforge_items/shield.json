@@ -1,0 +1,8 @@
+{
+    "items": [
+        "minecraft:shield"
+    ],
+    "base": [
+        "minecraft:iron_ingot"
+    ]
+}

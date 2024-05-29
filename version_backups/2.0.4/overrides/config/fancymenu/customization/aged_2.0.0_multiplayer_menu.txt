@@ -1,0 +1,25 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_500
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=658972%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=658948%
+  action = hidebutton
+}
+

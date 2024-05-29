@@ -1,0 +1,18 @@
+{
+    "name": "Animal Breeding",
+    "icon": "meadow:water_buffalo_spawn_egg",
+    "category": "patchouli:4_farming_category",
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "title": "Baby Passive Mobs",
+            "text": "$(br)The time it takes for babies to grow to adults is 36000 ticks / 30 min.$(br2)A whole day in aged is 36000 ticks / 30 min.$(li)Day 24000 ticks / 20 min$(li)Night 12000 ticks / 10 min"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Age",
+            "text": "The maximum age a mob can have is 5.$(br2)After the baby turned into a mature it takes 252000 ticks / 7 ingame days to age a year.$(br2)While this happens it will have more loot dropped per year."
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+{
+  "common": {
+    "Generate_Stronghold_Comment": "Enable/Disable the generation of the stronghold",
+    "GENERATE_STRONGHOLD": false
+  }
+}

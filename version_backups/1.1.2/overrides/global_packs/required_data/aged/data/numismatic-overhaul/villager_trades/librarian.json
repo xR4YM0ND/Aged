@@ -1,0 +1,134 @@
+{
+    "profession": "librarian",
+    "trades": {
+        "novice": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 20,
+                "sell": {
+                    "item": "minecraft:paper",
+                    "count": 1
+                },
+                "max_uses": 16
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "price": 4,
+                "buy": {
+                    "item": "minecraft:paper",
+                    "count": 1
+                },
+                "max_uses": 16
+            }
+        ],
+        "apprentice": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 50,
+                "sell": {
+                    "item": "minecraft:book",
+                    "count": 1
+                },
+                "max_uses": 12
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "price": 10,
+                "buy": {
+                    "item": "minecraft:book",
+                    "count": 1
+                },
+                "max_uses": 12
+            },
+            {
+                "type": "numismatic-overhaul:enchant_item",
+                "level": 8,
+                "allow_treasure": false,
+                "item" :{
+                    "item": "minecraft:book"
+                },
+                "base_price": 1000,
+                "max_uses": 4
+            }
+        ],
+        "journeyman": [
+            {
+                "type": "numismatic-overhaul:enchant_item",
+                "level": 16,
+                "allow_treasure": false,
+                "item" :{
+                    "item": "minecraft:book"
+                },
+                "base_price": 3000,
+                "max_uses": 3
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "price": 280,
+                "buy": {
+                    "item": "minecraft:bookshelf",
+                    "count": 1
+                },
+                "max_uses": 8
+            }
+        ],
+        "expert": [
+            {
+                "type": "numismatic-overhaul:enchant_item",
+                "level": 22,
+                "allow_treasure": false,
+                "item" :{
+                    "item": "minecraft:book"
+                },
+                "base_price": 5000,
+                "max_uses": 2
+            },
+            {
+                "type": "numismatic-overhaul:enchant_item",
+                "level": 22,
+                "allow_treasure": false,
+                "item" :{
+                    "item": "minecraft:book"
+                },
+                "base_price": 5000,
+                "max_uses": 2
+            },
+            {
+                "type": "numismatic-overhaul:sell_map",
+                "structure": "minecraft:manison",
+                "price": 10000,
+                "villager_experience": 20,
+                "max_uses": 1
+            }
+        ],
+        "master": [
+            {
+                "type": "numismatic-overhaul:enchant_item",
+                "level": 30,
+                "allow_treasure": false,
+                "item" :{
+                    "item": "minecraft:book"
+                },
+                "base_price": 10000,
+                "max_uses": 2
+            },
+            {
+                "type": "numismatic-overhaul:enchant_item",
+                "level": 30,
+                "allow_treasure": false,
+                "item" :{
+                    "item": "minecraft:book"
+                },
+                "base_price": 10000,
+                "max_uses": 2
+            },
+            {
+                "type": "numismatic-overhaul:sell_map",
+                "structure": "tlc:lost_castle",
+                "price": 100000,
+                "villager_experience": 30,
+                "max_uses": 1
+            }
+        ]
+    }
+}

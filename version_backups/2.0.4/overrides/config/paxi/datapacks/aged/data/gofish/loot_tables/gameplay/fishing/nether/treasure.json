@@ -1,0 +1,76 @@
+{
+    "replace": true,
+    "type": "minecraft:fishing",
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "weight": 100,
+                    "name": "minecraft:quartz"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 40,
+                    "name": "minecraft:glowstone_dust"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 8,
+                    "name": "minecraft:netherite_scrap"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 15,
+                    "name": "minecraft:name_tag"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 10,
+                    "name": "minecraft:saddle"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 10,
+                    "functions": [
+                        {
+                            "function": "minecraft:enchant_with_levels",
+                            "levels": {
+                                "min": 10,
+                                "max": 20
+                            },
+                            "treasure": true
+                        }
+                    ],
+                    "name": "minecraft:book"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 5,
+                    "functions": [
+                        {
+                            "function": "minecraft:enchant_with_levels",
+                            "levels": {
+                                "min": 20,
+                                "max": 30
+                            },
+                            "treasure": true
+                        }
+                    ],
+                    "name": "minecraft:book"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 3,
+                    "name": "moisturization:netherite_sprinkler"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 1,
+                    "name": "minecraft:nether_star"
+                }
+            ]
+        }
+    ]
+}

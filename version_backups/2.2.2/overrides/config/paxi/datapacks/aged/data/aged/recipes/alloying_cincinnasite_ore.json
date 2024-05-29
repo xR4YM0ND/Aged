@@ -1,0 +1,17 @@
+{
+    "type": "bclib:alloying",
+    "smelttime": 7200,
+    "experience": 9,
+    "ingredients": [
+        {
+            "tag": "aged:blasting_cincinnasite"
+        },
+        {
+            "tag": "aged:blasting_cincinnasite"
+        }
+    ],
+    "result": {
+        "count": 3,
+        "item": "betternether:cincinnasite_ingot"
+    }
+}

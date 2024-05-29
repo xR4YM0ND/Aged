@@ -1,0 +1,212 @@
+{
+    "1": {
+        "replace": true,
+        "blocks": [
+            "meadow:alpine_salt_ore",
+            "geodes:gypsum_rose",
+            "minecraft:nether_quartz_ore",
+            "universal_ores:blackstone_quartz_ore",
+            "universal_ores:basalt_quartz_ore",
+            "minerally:quartz_crystal",
+            "minerally:quartz_crystal_0",
+            "minerally:quartz_crystal_1",
+            "minerally:quartz_rock",
+            "geodes:quartz_cluster"
+        ]
+    },
+    "2": {
+        "replace": true,
+        "blocks": [
+            "minecraft:coal_ore",
+            "minecraft:deepslate_coal_ore",
+            "universal_ores:granite_coal_ore",
+            "universal_ores:diorite_coal_ore",
+            "universal_ores:andesite_coal_ore",
+            "universal_ores:tuff_coal_ore",
+            "universal_ores:calcite_coal_ore",
+            "meadow:alpine_coal_ore",
+            "minerally:deepslate_coal_pile",
+            "minerally:deepslate_coal_pile_0",
+            "minerally:deepslate_coal_pile_1",
+            "minerally:coal_pile",
+            "minerally:coal_pile_0",
+            "minerally:coal_pile_1",
+            "minerally:coal_rock"
+        ]
+    },
+    "3": {
+        "replace": true,
+        "blocks": [
+            "minecraft:copper_ore",
+            "minecraft:deepslate_copper_ore",
+            "universal_ores:andesite_copper_ore",
+            "universal_ores:calcite_copper_ore",
+            "universal_ores:diorite_copper_ore",
+            "universal_ores:granite_copper_ore",
+            "universal_ores:tuff_copper_ore",
+            "meadow:alpine_copper_ore",
+            "minerally:deepslate_copper_pile",
+            "minerally:deepslate_copper_pile_0",
+            "minerally:deepslate_copper_pile_1",
+            "minerally:copper_pile",
+            "minerally:copper_pile_0",
+            "minerally:copper_pile_1",
+            "minerally:copper_rock"
+        ]
+    },
+    "4": {
+        "replace": true,
+        "blocks": [
+            "betterend:thallasium_ore",
+            "minecraft:iron_ore",
+            "minecraft:deepslate_iron_ore",
+            "universal_ores:granite_iron_ore",
+            "universal_ores:diorite_iron_ore",
+            "universal_ores:andesite_iron_ore",
+            "universal_ores:tuff_iron_ore",
+            "universal_ores:calcite_iron_ore",
+            "meadow:alpine_iron_ore",
+            "minerally:deepslate_iron_pile",
+            "minerally:deepslate_iron_pile_0",
+            "minerally:deepslate_iron_pile_1",
+            "minerally:iron_pile",
+            "minerally:iron_pile_0",
+            "minerally:iron_pile_1",
+            "minerally:iron_rock"
+        ]
+    },
+    "5": {
+        "replace": true,
+        "blocks": [
+            "minecraft:gold_ore",
+            "minecraft:deepslate_gold_ore",
+            "universal_ores:granite_gold_ore",
+            "universal_ores:diorite_gold_ore",
+            "universal_ores:andesite_gold_ore",
+            "universal_ores:tuff_gold_ore",
+            "universal_ores:calcite_gold_ore",
+            "minecraft:nether_gold_ore",
+            "universal_ores:blackstone_gold_ore",
+            "universal_ores:basalt_gold_ore",
+            "meadow:alpine_gold_ore",
+            "minerally:deepslate_gold_pile",
+            "minerally:deepslate_gold_pile_0",
+            "minerally:deepslate_gold_pile_1",
+            "minerally:gold_pile",
+            "minerally:gold_pile_0",
+            "minerally:gold_pile_1",
+            "minerally:nether_gold_pile",
+            "minerally:nether_gold_pile_0",
+            "minerally:nether_gold_pile_1",
+            "minerally:gold_rock"
+        ]
+    },
+    "6": {
+        "replace": true,
+        "blocks": [
+            "minecraft:redstone_ore",
+            "minecraft:deepslate_redstone_ore",
+            "universal_ores:granite_redstone_ore",
+            "universal_ores:diorite_redstone_ore",
+            "universal_ores:andesite_redstone_ore",
+            "universal_ores:tuff_redstone_ore",
+            "universal_ores:calcite_redstone_ore",
+            "meadow:alpine_redstone_ore",
+            "betternether:nether_redstone_ore",
+            "minerally:deepslate_redstone_pile",
+            "minerally:deepslate_redstone_pile_0",
+            "minerally:deepslate_redstone_pile_1",
+            "minerally:redstone_pile",
+            "minerally:redstone_pile_0",
+            "minerally:redstone_pile_1",
+            "minerally:redstone_rock",
+            "minecraft:lapis_ore",
+            "minecraft:deepslate_lapis_ore",
+            "universal_ores:granite_lapis_ore",
+            "universal_ores:diorite_lapis_ore",
+            "universal_ores:andesite_lapis_ore",
+            "universal_ores:tuff_lapis_ore",
+            "universal_ores:calcite_lapis_ore",
+            "meadow:alpine_lapis_ore",
+            "betternether:nether_lapis_ore",
+            "minerally:deepslate_lapis_pile",
+            "minerally:deepslate_lapis_pile_0",
+            "minerally:deepslate_lapis_pile_1",
+            "minerally:lapis_pile",
+            "minerally:lapis_pile_0",
+            "minerally:lapis_pile_1",
+            "minerally:lapis_rock",
+            "geodes:lapis_cluster"
+        ]
+    },
+    "7": {
+        "replace": true,
+        "blocks": [
+            "minecraft:amethyst_cluster",
+            "betternether:cincinnasite_ore"
+        ]
+    },
+    "8": {
+        "replace": true,
+        "blocks": [
+            "minecraft:emerald_ore",
+            "minecraft:deepslate_emerald_ore",
+            "universal_ores:granite_emerald_ore",
+            "universal_ores:diorite_emerald_ore",
+            "universal_ores:andesite_emerald_ore",
+            "universal_ores:tuff_emerald_ore",
+            "universal_ores:calcite_emerald_ore",
+            "meadow:alpine_emerald_ore",
+            "minerally:emerald_crystal",
+            "minerally:emerald_crystal_0",
+            "minerally:emerald_crystal_1",
+            "minerally:deepslate_emerald_crystal",
+            "minerally:deepslate_emerald_crystal_0",
+            "minerally:deepslate_emerald_crystal_1",
+            "minerally:emerald_rock",
+            "geodes:emerald_cluster"
+        ]
+    },
+    "9": {
+        "replace": true,
+        "blocks": [
+            "geodes:echo_cluster"
+        ]
+    },
+    "10": {
+        "replace": true,
+        "blocks": [
+            "minecraft:diamond_ore",
+            "minecraft:deepslate_diamond_ore",
+            "universal_ores:granite_diamond_ore",
+            "universal_ores:diorite_diamond_ore",
+            "universal_ores:andesite_diamond_ore",
+            "universal_ores:tuff_diamond_ore",
+            "universal_ores:calcite_diamond_ore",
+            "geodes:diamond_cluster",
+            "minerally:diamond_crystal",
+            "minerally:diamond_crystal_0",
+            "minerally:diamond_crystal_1",
+            "minerally:deepslate_diamond_crystal",
+            "minerally:deepslate_diamond_crystal_0",
+            "minerally:deepslate_diamond_crystal_1",
+            "minerally:diamond_rock"
+        ]
+    },
+    "15": {
+        "replace": true,
+        "blocks": []
+    },
+    "25": {
+        "replace": true,
+        "blocks": [
+            "betternether:nether_ruby_ore"
+        ]
+    },
+    "30": {
+        "replace": true,
+        "blocks": [
+            "minecraft:ancient_debris"
+        ]
+    }
+}

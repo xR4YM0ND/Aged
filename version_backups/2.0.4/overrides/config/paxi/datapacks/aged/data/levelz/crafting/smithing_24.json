@@ -1,0 +1,20 @@
+{
+    "replace": false,
+    "level": 24,
+    "skill": "smithing",
+    "item": [
+        "betterend:aeternium_anvil",
+        "medievalweapons:aeternium_small_axe",
+        "medievalweapons:aeternium_long_sword",
+        "medievalweapons:aeternium_dagger",
+        "medievalweapons:aeternium_big_axe",
+        "medievalweapons:aeternium_lance",
+        "medievalweapons:aeternium_healing_staff",
+        "medievalweapons:aeternium_mace",
+        "medievalweapons:aeternium_francisca",
+        "medievalweapons:aeternium_javelin",
+        "medievalweapons:aeternium_ninjato",
+        "medievalweapons:aeternium_sickle",
+        "medievalweapons:aeternium_rapier"
+    ]
+}

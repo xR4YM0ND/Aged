@@ -1,0 +1,73 @@
+# This holds the schematic version for internal purposes. DO NOT TOUCH!
+schematicVersion = 2
+
+# This category holds configs that define ship behaviour.
+[Ship]
+	#This category holds configs that define general ship behaviour.
+	[Ship.General]
+		shipGeneralCollisionDamage = 7.5
+		shipGeneralSailCooldown = 30
+		shipGeneralDoItemDrop = true
+
+		#This category holds configs that define behaviour of fleeing water animals.
+		[Ship.General."Fleeing Water Animals"]
+			waterAnimalFleeSpeed = 1.5
+			waterAnimalFleeDistance = 10.0
+			waterAnimalFleeRadius = 15.0
+		#General speed modifier for ships.
+		[Ship.General.Modifier]
+			#Maximum speed penalty for a filled container in percent.
+			shipGeneralContainerModifier = 10.0
+			#Speed bonus for a paddle ship while paddling in percent.
+			shipGeneralPaddlingModifier = 35.0
+	[Ship.Cog]
+		#Default configs for the container of the Cog.
+		[Ship.Cog.Container]
+			#Set container size for the Cog (value must be divisible by 9 and bigger than 0).
+			shipContainerCogContainerSize = 108
+		#Default attributes for the Cog. Speed in km/h, Health in default mc health points
+		[Ship.Cog.Attributes]
+			shipAttributeCogMaxRotationSpeed = 4.5
+			shipAttributeCogMaxSpeed = 30.0
+			shipAttributeCogMaxHealth = 300.0
+			shipAttributeCogRotationAcceleration = 0.7
+			shipAttributeCogMaxReverseSpeed = 0.1
+			shipAttributeCogAcceleration = 0.015
+		#Cog specific speed modifier.
+		[Ship.Cog.Modifier]
+			#-1 = none, 0 = cold, 1 = neutral or 2 = warm Biomes
+			shipModifierCogBiome = 0
+	[Ship.Brigg]
+		#Default configs for the container of the Brigg.
+		[Ship.Brigg.Container]
+			#Set container size for the Brigg (value must be divisible by 9 and bigger than 0).
+			shipContainerBriggContainerSize = 162
+		#Default attributes for the Brigg. Speed in km/h, Health in default mc health points
+		[Ship.Brigg.Attributes]
+			shipAttributeBriggMaxSpeed = 35.0
+			shipAttributeBriggMaxReverseSpeed = 0.1
+			shipAttributeBriggRotationAcceleration = 0.55
+			shipAttributeBriggMaxHealth = 450.0
+			shipAttributeBriggAcceleration = 0.015
+			shipAttributeBriggMaxRotationSpeed = 4.0
+		#Brigg specific speed modifier.
+		[Ship.Brigg.Modifier]
+			#-1 = none, 0 = cold, 1 = neutral or 2 = warm Biomes
+			shipModifierBriggBiome = 0
+	[Ship.Galley]
+		#Default configs for the container of the Galley.
+		[Ship.Galley.Container]
+			#Set container size for the Galley (value must be divisible by 9 and bigger than 0).
+			shipContainerGalleyContainerSize = 54
+		#Default attributes for the Galley. Speed in km/h, Health in default mc health points
+		[Ship.Galley.Attributes]
+			shipAttributeGalleyAcceleration = 0.015
+			shipAttributeGalleyMaxSpeed = 30.0
+			shipAttributeGalleyMaxHealth = 200.0
+			shipAttributeGalleyMaxReverseSpeed = 0.1
+			shipAttributeGalleyMaxRotationSpeed = 5.0
+			shipAttributeGalleyRotationAcceleration = 1.0
+		#Galley specific speed modifier.
+		[Ship.Galley.Modifier]
+			#-1 = none, 0 = cold, 1 = neutral or 2 = warm Biomes
+			shipModifierGalleyBiome = 2

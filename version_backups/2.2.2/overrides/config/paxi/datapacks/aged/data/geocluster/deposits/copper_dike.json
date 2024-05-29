@@ -1,0 +1,113 @@
+{
+    "type": "geocluster:deposit_dike",
+    "config": {
+        "yMin": -30,
+        "yMax": 30,
+        "maxHeight": 10,
+        "baseRadius": 5,
+        "biomeTag": "#minecraft:is_overworld",
+        "blockStateMatchers": [
+            "minecraft:stone",
+            "minecraft:deepslate",
+            "minecraft:granite",
+            "minecraft:diorite",
+            "minecraft:andesite",
+            "minecraft:calcite",
+            "minecraft:tuff",
+            "meadow:limestone"
+        ],
+        "blocks": {
+            "default": [
+                {
+                    "block": "copper_ore",
+                    "chance": 0.3
+                },
+                {
+                    "block": "stone",
+                    "chance": 0.7
+                }
+            ],
+            "minecraft:deepslate": [
+                {
+                    "block": "deepslate_copper_ore",
+                    "chance": 0.3
+                },
+                {
+                    "block": "deepslate",
+                    "chance": 0.7
+                }
+            ],
+            "minecraft:granite": [
+                {
+                    "block": "universal_ores:granite_copper_ore",
+                    "chance": 0.3
+                },
+                {
+                    "block": "granite",
+                    "chance": 0.7
+                }
+            ],
+            "minecraft:diorite": [
+                {
+                    "block": "universal_ores:diorite_copper_ore",
+                    "chance": 0.3
+                },
+                {
+                    "block": "diorite",
+                    "chance": 0.7
+                }
+            ],
+            "minecraft:andesite": [
+                {
+                    "block": "universal_ores:andesite_copper_ore",
+                    "chance": 0.3
+                },
+                {
+                    "block": "andesite",
+                    "chance": 0.7
+                }
+            ],
+            "minecraft:tuff": [
+                {
+                    "block": "universal_ores:tuff_copper_ore",
+                    "chance": 0.3
+                },
+                {
+                    "block": "tuff",
+                    "chance": 0.7
+                }
+            ],
+            "minecraft:calcite": [
+                {
+                    "block": "universal_ores:calcite_copper_ore",
+                    "chance": 0.3
+                },
+                {
+                    "block": "calcite",
+                    "chance": 0.7
+                }
+            ],
+            "meadow:limestone": [
+                {
+                    "block": "meadow:alpine_copper_ore",
+                    "chance": 0.3
+                },
+                {
+                    "block": "meadow:limestone",
+                    "chance": 0.7
+                }
+            ]
+        },
+        "samples": [
+            {
+                "block": "geocluster:copper_ore_sample",
+                "chance": 0.7
+            },
+            {
+                "block": null,
+                "chance": 0.3
+            }
+        ],
+        "generationWeight": 10
+    }
+}

@@ -1,0 +1,207 @@
+{
+    "profession": "shepherd",
+    "trades": {
+        "novice": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 10,
+                "sell": {
+                    "item": "minecraft:string",
+                    "count": 4
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 4,
+                "price": 20,
+                "sell": {
+                    "item": "minecraft:cobweb",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 2,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 20,
+                "sell": {
+                    "item": "minecraft:white_wool",
+                    "count": 2
+                }
+            }
+        ],
+        "apprentice": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 40,
+                "sell": {
+                    "item": "minecraft:white_bed",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 4,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 30,
+                "sell": {
+                    "item": "sleep_tight:hammock_white",
+                    "count": 1
+                }
+            }
+        ],
+        "journeyman": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 6,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 50,
+                "sell": {
+                    "item": "handcrafted:oak_couch",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 6,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 50,
+                "sell": {
+                    "item": "candlelight:sofa",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 6,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 50,
+                "sell": {
+                    "item": "candlelight:lamp",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 6,
+                "price_multiplier": 0.0,
+                "max_uses": 2,
+                "price": 80,
+                "sell": {
+                    "item": "handcrafted:oak_fancy_bed",
+                    "count": 1
+                }
+            }
+        ],
+        "expert": [
+            {
+                "type": "numismatic-overhaul:process_item",
+                "villager_experience": 8,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 100,
+                "sell": {
+                    "item": "candlelight:cooking_hat",
+                    "count": 1
+                },
+                "buy": {
+                    "item": "numismatic-overhaul:bronze_coin",
+                    "count": 40
+                }
+            },
+            {
+                "type": "numismatic-overhaul:process_item",
+                "villager_experience": 8,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 100,
+                "sell": {
+                    "item": "candlelight:cooking_hat",
+                    "count": 1
+                },
+                "buy": {
+                    "item": "numismatic-overhaul:bronze_coin",
+                    "count": 80
+                }
+            },
+            {
+                "type": "numismatic-overhaul:process_item",
+                "villager_experience": 8,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 300,
+                "sell": {
+                    "item": "candlelight:chefs_pants",
+                    "count": 1
+                },
+                "buy": {
+                    "item": "numismatic-overhaul:bronze_coin",
+                    "count": 25
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 8,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 90,
+                "sell": {
+                    "item": "candlelight:chefs_boots",
+                    "count": 1
+                }
+            }
+        ],
+        "master": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 10,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 300,
+                "sell": {
+                    "item": "chipped:loom_table",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "villager_experience": 10,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 100,
+                "sell": {
+                    "item": "naturalist:teddy_bear",
+                    "count": 1
+                }
+            },
+            {
+                "type": "numismatic-overhaul:process_item",
+                "villager_experience": 10,
+                "price_multiplier": 0.0,
+                "max_uses": 1,
+                "price": 1000,
+                "sell": {
+                    "item": "sleep_tight:night_bag",
+                    "count": 1
+                },
+                "buy": {
+                    "item": "numismatic-overhaul:bronze_coin",
+                    "count": 1
+                }
+            }
+        ]
+    }
+}

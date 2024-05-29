@@ -1,0 +1,29 @@
+{
+    "replace": true,
+    "level": 13,
+    "block": [
+        "minecraft:redstone_block",
+        "minecraft:redstone_ore",
+        "universal_ores:andesite_redstone_ore",
+        "universal_ores:diorite_redstone_ore",
+        "universal_ores:granite_redstone_ore",
+        "universal_ores:calcite_redstone_ore",
+        "universal_ores:tuff_redstone_ore",
+        "earlystage:redstone_sieve",
+        "minecraft:comparator",
+        "minecraft:repeater",
+        "minecraft:redstone_torch",
+        "minecraft:redstone_wire",
+        "minecraft:sticky_piston",
+        "minecraft:piston",
+        "minecraft:observer",
+        "minecraft:dropper",
+        "minecraft:dispenser",
+        "minecraft:detector_rail",
+        "minecraft:activator_rail",
+        "minecraft:powered_rail",
+        "minecraft:dripstone_block",
+        "minecraft:pointed_dripstone",
+        "minecraft:magma_block"
+    ]
+}

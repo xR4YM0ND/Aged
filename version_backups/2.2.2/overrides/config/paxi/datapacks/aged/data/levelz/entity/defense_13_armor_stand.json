@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "defense",
+    "level": 13,
+    "entity": "minecraft:custom_entity",
+    "object": "minecraft:armor_stand"
+}

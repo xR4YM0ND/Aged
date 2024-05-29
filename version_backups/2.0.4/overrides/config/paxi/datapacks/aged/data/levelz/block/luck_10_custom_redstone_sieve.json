@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "luck",
+    "level": 10,
+    "block": "minecraft:custom_block",
+    "object": "earlystage:redstone_sieve"
+}

@@ -1,0 +1,28 @@
+{
+  "hideSecondLayerUnderArmor": true,
+  "enableEffects": true,
+  "enableEnchantmentGlint": true,
+  "_documentation": "https://github.com/Luke100000/ImmersiveArmors/blob/HEAD/config.md",
+  "hudClockX": -111,
+  "hudClockXOffhand": 155,
+  "hudClockY": -20,
+  "hudCompassX": 135,
+  "hudCompassXOffhand": 124,
+  "hudCompassY": -20,
+  "lootChance": 0.025,
+  "mobEntityUseImmersiveArmorChance": 0.5,
+  "overwriteValues": {},
+  "enabledArmors": {
+    "prismarine": true,
+    "steampunk": true,
+    "robe": true,
+    "warrior": true,
+    "wooden": true,
+    "bone": true,
+    "divine": true,
+    "wither": true,
+    "heavy": true,
+    "slime": true
+  },
+  "version": 1
+}

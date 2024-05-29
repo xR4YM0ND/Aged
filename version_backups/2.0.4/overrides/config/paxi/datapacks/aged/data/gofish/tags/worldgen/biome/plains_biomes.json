@@ -1,0 +1,12 @@
+{
+    "replace": true,
+    "values": [
+      "minecraft:plains",
+      "minecraft:sunflower_plains",
+      "wythers:autumnal_plains",
+      "wythers:cold_plains",
+      "wythers:cool_plains",
+      "wythers:highland_plains",
+      "wythers:lapacho_plains"
+    ]
+}

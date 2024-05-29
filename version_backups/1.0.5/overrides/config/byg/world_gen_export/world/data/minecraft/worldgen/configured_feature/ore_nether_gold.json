@@ -1,0 +1,36 @@
+{
+	"config": {
+		"discard_chance_on_air_exposure": 0.0,
+		"size": 10,
+		"targets": [
+			{
+				"state": {
+					"Name": "universal_ores:blackstone_gold_ore"
+				},
+				"target": {
+					"block": "minecraft:blackstone",
+					"predicate_type": "minecraft:block_match"
+				}
+			},
+			{
+				"state": {
+					"Name": "universal_ores:basalt_gold_ore"
+				},
+				"target": {
+					"block": "minecraft:basalt",
+					"predicate_type": "minecraft:block_match"
+				}
+			},
+			{
+				"state": {
+					"Name": "minecraft:nether_gold_ore"
+				},
+				"target": {
+					"block": "minecraft:netherrack",
+					"predicate_type": "minecraft:block_match"
+				}
+			}
+		]
+	},
+	"type": "minecraft:ore"
+}

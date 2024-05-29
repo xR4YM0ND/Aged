@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "I": {
+            "item": "minecraft:copper_ingot"
+        },
+        "N": {
+            "item": "agedaddition:copper_nugget"
+        },
+        "S": {
+            "item": "minecraft:stick"
+        }
+    },
+    "pattern": [
+        "NI",
+        " S"
+    ],
+    "result": {
+        "item": "geocluster:copper_prospectors_pick"
+    },
+    "show_notification": true
+}

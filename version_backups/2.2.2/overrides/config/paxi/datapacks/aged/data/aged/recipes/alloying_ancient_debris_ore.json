@@ -1,0 +1,17 @@
+{
+    "type": "bclib:alloying",
+    "smelttime": 36000,
+    "experience": 45,
+    "ingredients": [
+        {
+            "tag": "aged:blasting_ancient_debris"
+        },
+        {
+            "tag": "aged:blasting_ancient_debris"
+        }
+    ],
+    "result": {
+        "count": 3,
+        "item": "agedaddition:netherite_scrap_piece"
+    }
+}

@@ -1,0 +1,14 @@
+{
+	"placement": {
+		"salt": 529239621,
+		"separation": 12,
+		"spacing": 14,
+		"type": "minecraft:random_spread"
+	},
+	"structures": [
+		{
+			"structure": "graveyard:memorial_tree",
+			"weight": 1
+		}
+	]
+}

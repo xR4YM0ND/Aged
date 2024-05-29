@@ -1,0 +1,10 @@
+{
+    "replace": true,
+    "values": [
+        "minecraft:dirt_path",
+        "sod:path_sod_block",
+        "sod:path_sod_stairs",
+        "sod:path_sod_slab",
+        "sod:path_sod_patch"
+    ]
+}

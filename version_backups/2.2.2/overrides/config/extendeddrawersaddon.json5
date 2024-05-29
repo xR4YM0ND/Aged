@@ -1,0 +1,8 @@
+{
+	// Drawer items affect all slots, used for hiding only
+	"affectAllSlots": true,
+	"showDrawerIcons": false,
+	"flatTextures": false,
+	// Will decrease performance when changed, 1.8 is recommended
+	"blockRenderScale": 1.0
+}

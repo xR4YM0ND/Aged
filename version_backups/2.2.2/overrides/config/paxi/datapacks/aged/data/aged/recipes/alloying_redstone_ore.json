@@ -1,0 +1,17 @@
+{
+    "type": "bclib:alloying",
+    "smelttime": 1800,
+    "experience": 9,
+    "ingredients": [
+        {
+            "tag": "aged:blasting_redstone"
+        },
+        {
+            "tag": "aged:blasting_redstone"
+        }
+    ],
+    "result": {
+        "count": 3,
+        "item": "minecraft:redstone"
+    }
+}

@@ -1,0 +1,30 @@
+{
+	"feature": "byg:ore_soapstone",
+	"placement": [
+		{
+			"chance": 6,
+			"type": "minecraft:rarity_filter"
+		},
+		{
+			"type": "minecraft:in_square"
+		},
+		{
+			"height": {
+				"max_inclusive": {
+					"absolute": 128
+				},
+				"min_inclusive": {
+					"absolute": 64
+				},
+				"type": "minecraft:uniform"
+			},
+			"type": "minecraft:height_range"
+		},
+		{
+			"type": "byg:is_dimension_filter",
+			"valid_dimensions": [
+				"minecraft:overworld"
+			]
+		}
+	]
+}

@@ -1,0 +1,9 @@
+enable = true
+transitionSpeed = 1.0
+nimbleMounting = true
+mountingEntityBlocklist = []
+nimbleElytra = true
+elytraRollScreen = true
+elytraRollStrength = 20
+elytraTickDelay = 10
+frontKeyToggleMode = false

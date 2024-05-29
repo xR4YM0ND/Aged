@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "level": 20,
+    "skill": "mining",
+    "item": [
+        "chipped:mason_table"
+    ]
+}

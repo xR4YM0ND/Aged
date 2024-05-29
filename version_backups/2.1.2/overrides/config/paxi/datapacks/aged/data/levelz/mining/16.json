@@ -1,0 +1,20 @@
+{
+    "replace": true,
+    "level": 16,
+    "block": [
+        "minerally:diamond_rock",
+        "minerally:diamond_crystal_1",
+        "minerally:diamond_crystal_0",
+        "minerally:diamond_crystal",
+        "geodes:diamond_cluster",
+        "geodes:diamond_crystal_block",
+        "minecraft:diamond_ore",
+        "universal_ores:andesite_diamond_ore",
+        "universal_ores:tuff_diamond_ore",
+        "meadow:alpine_diamond_ore",
+        "universal_ores:diorite_diamond_ore",
+        "universal_ores:calcite_diamond_ore",
+        "universal_ores:granite_diamond_ore",
+        "minecraft:diamond_block"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+	"config": {
+		"default": {
+			"feature": "byg:nether_bristle",
+			"placement": []
+		},
+		"features": [
+			{
+				"chance": 0.33,
+				"feature": {
+					"feature": "byg:soul_shroom",
+					"placement": []
+				}
+			},
+			{
+				"chance": 0.33,
+				"feature": {
+					"feature": "byg:death_cap",
+					"placement": []
+				}
+			}
+		]
+	},
+	"type": "minecraft:random_selector"
+}

@@ -1,0 +1,14 @@
+{
+    "replace": false,
+    "level": 15,
+    "skill": "farming",
+    "item": [
+        "sootychimneys:brick_chimney",
+        "vinery:wood_fired_oven",
+        "vinery:stove",
+        "vinery:kitchen_sink",
+        "farmersdelight:stove",
+        "farmersdelight:cooking_pot",
+        "nethersdelight:blackstone_stove"
+    ]
+}

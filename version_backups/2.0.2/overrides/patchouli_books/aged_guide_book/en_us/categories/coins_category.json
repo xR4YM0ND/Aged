@@ -1,0 +1,6 @@
+{
+    "name": "Coins",
+    "description": "The ingame currency.$(br2)$(o)Bye Bye Emeralds$()",
+    "icon": "numismatic-overhaul:gold_coin",
+    "sortnum": 4
+}

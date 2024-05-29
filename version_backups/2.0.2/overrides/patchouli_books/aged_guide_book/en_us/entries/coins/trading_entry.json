@@ -1,0 +1,14 @@
+{
+    "name": "Trading",
+    "icon": "numismatic-overhaul:silver_coin",
+    "category": "patchouli:coins_category",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:image",
+            "images": ["aged:textures/gui/entries/trading_screen.png"],
+            "title": "Trading Screen",
+            "text": "Villager now trade Coins instead of Emeralds."
+        }
+    ]
+}

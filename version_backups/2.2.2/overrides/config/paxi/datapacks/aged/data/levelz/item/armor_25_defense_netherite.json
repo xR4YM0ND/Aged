@@ -1,0 +1,7 @@
+{
+    "replace": true,
+    "skill": "defense",
+    "level": 25,
+    "item": "minecraft:armor",
+    "material": "netherite"
+}

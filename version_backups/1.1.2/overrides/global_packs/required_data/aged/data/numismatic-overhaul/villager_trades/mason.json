@@ -1,0 +1,123 @@
+{
+    "profession": "mason",
+    "trades": {
+        "novice": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 8,
+                "sell": {
+                    "item": "minecraft:stone_bricks",
+                    "count": 8
+                },
+                "max_uses": 16
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 16,
+                "sell": {
+                    "item": "minecraft:mossy_stone_bricks",
+                    "count": 8
+                },
+                "max_uses": 16
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 16,
+                "sell": {
+                    "item": "minecraft:chiseled_stone_bricks",
+                    "count": 8
+                },
+                "max_uses": 16
+            }
+        ],
+        "apprentice": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 32,
+                "sell": {
+                    "item": "minecraft:bricks",
+                    "count": 8
+                },
+                "max_uses": 12
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 32,
+                "sell": {
+                    "item": "byg:red_rock_bricks",
+                    "count": 8
+                },
+                "max_uses": 12
+            }
+        ],
+        "journeyman": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 64,
+                "sell": {
+                    "item": "architects_palette:dripstone_bricks",
+                    "count": 8
+                },
+                "max_uses": 8
+            },
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "price": 8,
+                "buy": {
+                    "item": "architects_palette:dripstone_bricks",
+                    "count": 8
+                },
+                "max_uses": 8
+            }
+        ],
+        "expert": [
+            {
+                "type": "numismatic-overhaul:buy_item",
+                "price": 20,
+                "buy": {
+                    "item": "minecraft:quartz_block",
+                    "count": 1
+                },
+                "max_uses": 8
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 200,
+                "sell": {
+                    "item": "minecraft:quartz_block",
+                    "count": 1
+                },
+                "max_uses": 8
+            }
+        ],
+        "master": [
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 128,
+                "sell": {
+                    "item": "minecraft:polished_blackstone_bricks",
+                    "count": 8
+                },
+                "max_uses": 4
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 256,
+                "sell": {
+                    "item": "twigs:twisting_polished_blackstone_bricks",
+                    "count": 8
+                },
+                "max_uses": 4
+            },
+            {
+                "type": "numismatic-overhaul:sell_stack",
+                "price": 256,
+                "sell": {
+                    "item": "twigs:weeping_polished_blackstone_bricks",
+                    "count": 8
+                },
+                "max_uses": 4
+            }
+        ]
+    }
+}

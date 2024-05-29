@@ -1,0 +1,11 @@
+{
+  "product": {
+    "id": "minecraft:trident"
+  },
+  "cover": true,
+  "base": [
+    {
+      "id": "minecraft:prismarine_crystals"
+    }
+  ]
+}

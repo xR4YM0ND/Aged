@@ -1,0 +1,17 @@
+{
+  "levelMultiplier": 15,
+  "nameColor": 553648127,
+  "backgroundColor": -1,
+  "backgroundOpacity": 0.4,
+  "showHealth": false,
+  "showLevel": true,
+  "showHostileOnly": false,
+  "squaredDistance": 128.0,
+  "excludedEntities": [
+    "minecraft:ender_dragon",
+    "minecraft:wither",
+    "adventurez:stone_golem",
+    "adventurez:void_shadow",
+    "adventurez:the_eye"
+  ]
+}

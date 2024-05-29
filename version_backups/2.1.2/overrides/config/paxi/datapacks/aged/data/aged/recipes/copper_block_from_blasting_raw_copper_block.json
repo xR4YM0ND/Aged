@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "cookingtime": 4000,
+    "experience": 10.0,
+    "ingredient": {
+        "item": "minecraft:raw_copper_block"
+    },
+    "result": "minecraft:copper_block"
+}

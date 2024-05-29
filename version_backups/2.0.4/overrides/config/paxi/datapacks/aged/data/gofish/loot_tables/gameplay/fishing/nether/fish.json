@@ -1,0 +1,147 @@
+{
+  "replace": true,
+  "type": "minecraft:fishing",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 30,
+          "name": "gofish:smokey_salmon"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 30,
+          "name": "gofish:magma_cod",
+          "conditions": [
+            {
+              "condition": "gofish:match_biome",
+              "biome": {
+                "valid": [
+                  "betternether:magma_land"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 15,
+          "name": "gofish:bonefish",
+          "conditions": [
+            {
+              "condition": "gofish:match_biome",
+              "biome": {
+                "valid": [
+                  "betternether:bone_reef",
+                  "betternether:sulfuric_bone_reef"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 15,
+          "name": "gofish:obsidian_halibut",
+          "conditions": [
+            {
+              "condition": "gofish:match_biome",
+              "biome": {
+                "valid": [
+                  "minecraft:warped_forest",
+                  "betternether:old_warped_woods",
+                  "betterend:umbra_valley"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 15,
+          "name": "gofish:basalt_bass",
+          "conditions": [
+            {
+              "condition": "gofish:match_biome",
+              "biome": {
+                "valid": [
+                  "minecraft:basalt_deltas",
+                  "betternether:flooded_deltas",
+                  "wythers:savanna_basaltic_incursions"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 15,
+          "name": "gofish:spikerfish",
+          "conditions": [
+            {
+              "condition": "gofish:match_biome",
+              "biome": {
+                "valid": [
+                  "minecraft:crimson_forest",
+                  "betternether:crimson_glowing_woods",
+                  "betternether:crimson_pinewood"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 15,
+          "name": "gofish:gilded_blackstone_carp",
+          "conditions": [
+            {
+              "condition": "gofish:match_biome",
+              "biome": {
+                "valid": [
+                  "betternether:nether_mushroom_forest",
+                  "betternether:nether_mushroom_forest_edge",
+                  "betternether:old_fungiwoods"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 15,
+          "name": "gofish:blackstone_trout",
+          "conditions": [
+            {
+              "condition": "gofish:match_biome",
+              "biome": {
+                "valid": [
+                  "minecraft:basalt_deltas",
+                  "betternether:flooded_deltas"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 15,
+          "name": "gofish:soul_salmon",
+          "conditions": [
+            {
+              "condition": "gofish:match_biome",
+              "biome": {
+                "valid": [
+                  "minecraft:soul_sand_valley",
+                  "betternether:soul_plain"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

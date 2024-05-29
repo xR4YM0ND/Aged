@@ -1,0 +1,7 @@
+{
+	"color": "f8a0db",
+	"flowing_texture": "moonlight:soft_fluids/potion_flow",
+	"from_mod": "iceandfire",
+	"still_texture": "moonlight:soft_fluids/dragon_breath_liquid",
+	"translation_key": "item.iceandfire.ambrosia"
+}

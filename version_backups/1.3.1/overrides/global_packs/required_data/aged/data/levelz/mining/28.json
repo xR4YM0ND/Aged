@@ -1,0 +1,8 @@
+{
+    "replace": true,
+    "level": 28,
+    "block": [
+        "minecraft:end_rod",
+        "byg:cryptic_end_rod"
+    ]
+}

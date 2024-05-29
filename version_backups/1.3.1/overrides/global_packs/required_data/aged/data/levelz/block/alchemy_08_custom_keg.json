@@ -1,0 +1,7 @@
+{
+    "replace": true,
+    "skill": "alchemy",
+    "level": 8,
+    "block": "minecraft:custom_block",
+    "object": "drinkbeer:beer_barrel"
+}

@@ -1,0 +1,19 @@
+{
+    "replace": true,
+    "level": 22,
+    "block": [
+        "byg:pervaded_netherrack",
+        "minecraft:glowstone",
+        "architects_palette:runic_glowstone",
+        "architects_palette:polished_glowstone",
+        "architects_palette:polished_glowstone_vertical_slab",
+        "architects_palette:polished_glowstone_slab",
+        "architects_palette:polished_glowstone_wall",
+        "byg:glowstone_lamp",
+        "byg:glowstone_lantern",
+        "architects_palette:glowstone_cage_lantern",
+        "byg:brimstone",
+        "byg:brimstone_nether_gold_ore",
+        "byg:brimstone_nether_quartz_ore"
+    ]
+}

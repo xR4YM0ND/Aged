@@ -1,0 +1,7 @@
+{
+  "enabled": true,
+  "volume": 1.0,
+  "dripChance": 1,
+  "useDripstoneSounds": true,
+  "soundCategory": "extrasounds_master"
+}

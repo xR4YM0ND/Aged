@@ -1,0 +1,40 @@
+{
+	"config": {
+		"to_place": {
+			"entries": [
+				{
+					"data": {
+						"Name": "rocks:seashell",
+						"Properties": {
+							"variation": "yellow",
+							"waterlogged": "false"
+						}
+					},
+					"weight": 7
+				},
+				{
+					"data": {
+						"Name": "rocks:seashell",
+						"Properties": {
+							"variation": "pink",
+							"waterlogged": "false"
+						}
+					},
+					"weight": 2
+				},
+				{
+					"data": {
+						"Name": "rocks:seashell",
+						"Properties": {
+							"variation": "white",
+							"waterlogged": "false"
+						}
+					},
+					"weight": 6
+				}
+			],
+			"type": "minecraft:weighted_state_provider"
+		}
+	},
+	"type": "minecraft:simple_block"
+}

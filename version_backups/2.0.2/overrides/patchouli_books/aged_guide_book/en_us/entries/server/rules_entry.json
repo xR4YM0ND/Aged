@@ -1,0 +1,53 @@
+{
+    "name": "Rules",
+    "icon": "minecraft:writable_book",
+    "category": "patchouli:server_category",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:image",
+            "images": ["aged:textures/gui/entries/rules_spawn.png"],
+            "text": "If you promote to Player you accept the following Rules."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Respect Others",
+            "text": "There's no need$() to say or do things to make others feel bad or upset.$(br2)Trolling, generally defined as provoking a person/situation to get a response, is also not allowed."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Offensive Content",
+            "text": "While some $(o)minor amount$() of swearing is allowed, severe or frequent vulgarity, especially when directed at others, is not."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Family friendly chat",
+            "text": "Chat should be family friendly.$(br)This means certain subjects are not allowed in chat.$(br2)These include, but are not limited to, discussions about sex, politics, religion or drugs."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "No Advertising",
+            "text": "Advertising other $(o)Minecraft Servers$() or other $(o)Discord Servers$() is strictly banned.$(br2)You also may not advertise:$(li)Websites$(li)YT Channels$(li)Twitch Streams$(br2)Or anything else if it's not related to the Aged Modpack Server."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "No Spamming",
+            "text": "$(o)Spamming is filling the chat with multiple unneeded characters or messages.$()$(br2)Don't do it.$(br2)This rule also applies to spamming commands that don't necessarily show up in chat."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "No Cheating",
+            "text": "Cheating in any form isn't allowed.$(br2)$(o)Anything that is considered to give you an unfair advantage over other players is considered cheating.$()$(br2)This can include but isn't limited to:$(li)Client mods$(li)Abusing server bugs$(li)Duplicating items / blocks$(li)Generating things while afk"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "No Griefing",
+            "text": "$(o)Griefing is considered destroying or changing another players property or bulidings without their consent in any protected area.$()$(br2)This includes stealing as well."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Don't Scam",
+            "text": "$(o)Scamming is taking money, items, work, or anything else of value from another player dishonestly.$()"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "product": {
+        "id": "immersive_armors:divine_chestplate"
+    },
+    "cover": true,
+    "base": [
+        {
+            "id": "minecraft:gold_block"
+        }
+    ]
+}

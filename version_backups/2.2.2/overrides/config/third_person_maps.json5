@@ -1,0 +1,12 @@
+{
+	// Scale the mini-map to a given % of the height of your screen.
+	"forceMapScaling": 30,
+	// Enter an integer which will offset the mini-map horizontally
+	"mapHorizontalOffsetRightHand": 0,
+	// Enter an integer which will offset the mini-map vertically
+	"mapVerticalOffsetRightHand": 0,
+	// Enter an integer which will offset the mini-map horizontally
+	"mapHorizontalOffsetLeftHand": 0,
+	// Enter an integer which will offset the mini-map vertically
+	"mapVerticalOffsetLeftHand": 0
+}

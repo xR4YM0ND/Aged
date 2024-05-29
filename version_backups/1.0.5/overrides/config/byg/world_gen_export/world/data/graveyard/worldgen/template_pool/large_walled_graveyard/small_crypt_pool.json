@@ -1,0 +1,15 @@
+{
+	"elements": [
+		{
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "graveyard:large_graveyard/small_crypt_pool/small_crypt",
+				"processors": "graveyard:waterlogged_processor_list",
+				"projection": "rigid"
+			},
+			"weight": 1
+		}
+	],
+	"fallback": "minecraft:empty",
+	"name": "graveyard:large_walled_graveyard/small_crypt_pool"
+}

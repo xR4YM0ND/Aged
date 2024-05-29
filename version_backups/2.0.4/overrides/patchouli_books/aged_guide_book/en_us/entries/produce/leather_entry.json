@@ -1,0 +1,38 @@
+{
+    "name": "Leather",
+    "icon": "rotten:prepared_hide",
+    "category": "patchouli:produce_category",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "rotten:rotten_leather",
+            "text": "$(br)Start off by crafting rotten leather."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "rotten:wood_rack",
+            "text": "$(br)Place the wood rack on a block and hang the rotten leather onto it."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "rotten:hide",
+            "text": "$(br)After some time you get hide out of rotten leather.$(br2)$(o)Animals now drop hide instead of leather."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "rotten:prepared_hide",
+            "text": "$(br)Combine hide with sugar or salt."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "rotten:wood_rack",
+            "text": "$(br)Place the wood rack on a block and hang the prepared hide onto it."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:leather",
+            "text": "$(br)After some time you get leather out of prepared hide."
+        }
+    ]
+}

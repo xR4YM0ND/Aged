@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "skill": "archery",
+    "level": 2,
+    "item": [
+        "immersive_armors:wooden_helmet",
+        "immersive_armors:wooden_chestplate",
+        "immersive_armors:wooden_leggings",
+        "immersive_armors:wooden_boots"
+    ]
+}

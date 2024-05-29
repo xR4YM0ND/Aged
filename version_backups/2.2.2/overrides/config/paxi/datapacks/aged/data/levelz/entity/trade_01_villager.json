@@ -1,0 +1,6 @@
+{
+    "replace": true,
+    "skill": "trade",
+    "level": 1,
+    "entity": "minecraft:villager"
+}
