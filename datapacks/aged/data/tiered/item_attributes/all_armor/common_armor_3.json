@@ -1,0 +1,37 @@
+{
+    "id": "tiered:common_armor_3",
+    "verifiers": [
+        {
+            "tag": "c:helmets"
+        },
+        {
+            "tag": "c:chestplates"
+        },
+        {
+            "tag": "c:leggings"
+        },
+        {
+            "tag": "c:boots"
+        }
+    ],
+    "weight": 50,
+    "style": {
+        "color": "gray"
+    },
+    "attributes": [
+        {
+            "type": "tiered:generic.durable",
+            "modifier": {
+                "name": "tiered:common_armor_3",
+                "operation": "MULTIPLY_TOTAL",
+                "amount": -0.5
+            },
+            "optional_equipment_slots": [
+                "FEET",
+                "LEGS",
+                "CHEST",
+                "HEAD"
+            ]
+        }
+    ]
+}

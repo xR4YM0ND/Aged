@@ -1,0 +1,47 @@
+{
+    "id": "tiered:epic_melee_1",
+    "verifiers": [
+        {
+            "tag": "c:swords"
+        }
+    ],
+    "weight": 8,
+    "style": {
+        "color": "dark_purple"
+    },
+    "attributes": [
+        {
+            "type": "generic.attack_damage",
+            "modifier": {
+                "name": "tiered:epic_melee_1",
+                "operation": "MULTIPLY_TOTAL",
+                "amount": 0.1
+            },
+            "optional_equipment_slots": [
+                "MAINHAND"
+            ]
+        },
+        {
+            "type": "tiered:generic.crit_chance",
+            "modifier": {
+                "name": "tiered:epic_melee_1",
+                "operation": "MULTIPLY_TOTAL",
+                "amount": 0.1
+            },
+            "optional_equipment_slots": [
+                "MAINHAND"
+            ]
+        },
+        {
+            "type": "generic.luck",
+            "modifier": {
+                "name": "tiered:epic_melee_1",
+                "operation": "ADDITION",
+                "amount": 1
+            },
+            "optional_equipment_slots": [
+                "MAINHAND"
+            ]
+        }
+    ]
+}

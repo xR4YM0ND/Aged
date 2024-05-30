@@ -1,0 +1,8 @@
+{
+    "items": [
+        "immersive_armors:wither_boots"
+    ],
+    "base": [
+        "minecraft:nether_brick"
+    ]
+}

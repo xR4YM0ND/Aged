@@ -1,0 +1,65 @@
+{
+    "id": "tiered:unique_armor_1",
+    "verifiers": [
+        {
+            "tag": "c:helmets"
+        },
+        {
+            "tag": "c:chestplates"
+        },
+        {
+            "tag": "c:leggings"
+        },
+        {
+            "tag": "c:boots"
+        }
+    ],
+    "weight": 0,
+    "style": {
+        "color": "light_purple"
+    },
+    "attributes": [
+        {
+            "type": "generic.armor",
+            "modifier": {
+                "name": "tiered:unique_armor_1",
+                "operation": "ADDITION",
+                "amount": 4
+            },
+            "optional_equipment_slots": [
+                "FEET",
+                "LEGS",
+                "CHEST",
+                "HEAD"
+            ]
+        },
+        {
+            "type": "generic.armor_toughness",
+            "modifier": {
+                "name": "tiered:unique_armor_1",
+                "operation": "ADDITION",
+                "amount": 2
+            },
+            "optional_equipment_slots": [
+                "FEET",
+                "LEGS",
+                "CHEST",
+                "HEAD"
+            ]
+        },
+        {
+            "type": "generic.max_health",
+            "modifier": {
+                "name": "tiered:unique_armor_1",
+                "operation": "ADDITION",
+                "amount": 6
+            },
+            "optional_equipment_slots": [
+                "FEET",
+                "LEGS",
+                "CHEST",
+                "HEAD"
+            ]
+        }
+    ]
+}

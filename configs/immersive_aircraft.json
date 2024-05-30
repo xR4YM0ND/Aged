@@ -1,0 +1,10 @@
+{
+    "enableCrashBlockDestruction": true,
+    "enableCrashFire": true,
+    "crashExplosionRadius": 3.0,
+    "dropUpgrades": true,
+    "fuelList": {
+        "minecraft:blaze_powder": 1200,
+        "minecraft:coal": 80
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "id": "tiered:uncommon_shield_2",
+    "verifiers": [
+        {
+            "tag": "c:shields"
+        }
+    ],
+    "weight": 35,
+    "style": {
+        "color": "dark_green"
+    },
+    "attributes": [
+        {
+            "type": "tiered:generic.durable",
+            "modifier": {
+                "name": "tiered:uncommon_shield_2",
+                "operation": "MULTIPLY_TOTAL",
+                "amount": -0.1
+            },
+            "optional_equipment_slots": [
+                "MAINHAND",
+                "OFFHAND"
+            ]
+        },
+        {
+            "type": "generic.max_health",
+            "modifier": {
+                "name": "tiered:uncommon_shield_2",
+                "operation": "ADDITION",
+                "amount": -2
+            },
+            "optional_equipment_slots": [
+                "MAINHAND",
+                "OFFHAND"
+            ]
+        },
+        {
+            "type": "generic.movement_speed",
+            "modifier": {
+                "name": "tiered:uncommon_shield_2",
+                "operation": "MULTIPLY_TOTAL",
+                "amount": -0.1
+            },
+            "optional_equipment_slots": [
+                "MAINHAND",
+                "OFFHAND"
+            ]
+        }
+    ]
+}

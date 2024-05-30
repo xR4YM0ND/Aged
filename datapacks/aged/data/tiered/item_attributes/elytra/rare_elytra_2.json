@@ -1,0 +1,36 @@
+{
+    "id": "tiered:rare_elytra_2",
+    "verifiers": [
+        {
+            "id": "minecraft:elytra"
+        }
+    ],
+    "weight": 15,
+    "style": {
+        "color": "blue"
+    },
+    "attributes": [
+        {
+            "type": "generic.max_health",
+            "modifier": {
+                "name": "tiered:rare_elytra_2",
+                "operation": "ADDITION",
+                "amount": 2
+            },
+            "optional_equipment_slots": [
+                "CHEST"
+            ]
+        },
+        {
+            "type": "generic.movement_speed",
+            "modifier": {
+                "name": "tiered:rare_elytra_2",
+                "operation": "MULTIPLY_TOTAL",
+                "amount": 0.05
+            },
+            "optional_equipment_slots": [
+                "CHEST"
+            ]
+        }
+    ]
+}

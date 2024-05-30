@@ -1,0 +1,1362 @@
+{
+    "drops": [
+        {
+            "replace": true,
+            "block_id": "minecraft:grass_block",
+            "block_drops": [
+                {
+                    "item_id": "minecraft:stick",
+                    "chance": 0.4,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:string",
+                    "chance": 0.1,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:feather",
+                    "chance": 0.1,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:bone_meal",
+                    "chance": 0.1,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "earlystage:rock",
+                    "chance": 0.05,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:wheat_seeds",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:pumpkin_seeds",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:melon_seeds",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "bakery:strawberry_seeds",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "bakery:oat_seeds",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "brewery:hops_seeds",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "brewery:barley_seeds",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "candlelight:tomato_seeds",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "candlelight:lettuce_seeds",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "vinery:red_grape_seeds",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "vinery:white_grape_seeds",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "betterarcheology:artifact_shards",
+                    "chance": 0.005,
+                    "rolls": 1
+                }
+            ]
+        },
+        {
+            "replace": true,
+            "block_id": "minecraft:dirt",
+            "block_drops": [
+                {
+                    "item_id": "minecraft:stick",
+                    "chance": 0.3,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:string",
+                    "chance": 0.1,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:feather",
+                    "chance": 0.1,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:bone_meal",
+                    "chance": 0.1,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "earlystage:rock",
+                    "chance": 0.05,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:wheat_seeds",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:pumpkin_seeds",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:melon_seeds",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "bakery:strawberry_seeds",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "bakery:oat_seeds",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "brewery:hops_seeds",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "brewery:barley_seeds",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "candlelight:tomato_seeds",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "candlelight:lettuce_seeds",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "vinery:red_grape_seeds",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "vinery:white_grape_seeds",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "betterarcheology:artifact_shards",
+                    "chance": 0.005,
+                    "rolls": 1
+                }
+            ]
+        },
+        {
+            "replace": true,
+            "block_id": "minecraft:coarse_dirt",
+            "block_drops": [
+                {
+                    "item_id": "minecraft:stick",
+                    "chance": 0.15,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:string",
+                    "chance": 0.05,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:feather",
+                    "chance": 0.05,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:bone_meal",
+                    "chance": 0.05,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "earlystage:rock",
+                    "chance": 0.1,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:flint",
+                    "chance": 0.5,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "earlystage:flint",
+                    "chance": 0.2,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "vinery:taiga_grape_seeds_red",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "vinery:taiga_grape_seeds_white",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "betterarcheology:artifact_shards",
+                    "chance": 0.005,
+                    "rolls": 1
+                }
+            ]
+        },
+        {
+            "replace": true,
+            "block_id": "minecraft:rooted_dirt",
+            "block_drops": [
+                {
+                    "item_id": "minecraft:stick",
+                    "chance": 0.7,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:string",
+                    "chance": 0.4,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:feather",
+                    "chance": 0.1,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:bone_meal",
+                    "chance": 0.3,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:hanging_roots",
+                    "chance": 0.6,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "earlystage:rock",
+                    "chance": 0.05,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:wheat_seeds",
+                    "chance": 0.06,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:pumpkin_seeds",
+                    "chance": 0.06,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:melon_seeds",
+                    "chance": 0.06,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "bakery:strawberry_seeds",
+                    "chance": 0.06,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "bakery:oat_seeds",
+                    "chance": 0.06,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "brewery:hops_seeds",
+                    "chance": 0.06,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "brewery:barley_seeds",
+                    "chance": 0.06,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "candlelight:tomato_seeds",
+                    "chance": 0.06,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "candlelight:lettuce_seeds",
+                    "chance": 0.06,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "vinery:red_grape_seeds",
+                    "chance": 0.06,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "vinery:white_grape_seeds",
+                    "chance": 0.06,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "betterarcheology:artifact_shards",
+                    "chance": 0.005,
+                    "rolls": 1
+                }
+            ]
+        },
+        {
+            "replace": true,
+            "block_id": "betterarcheology:suspicious_dirt",
+            "block_drops": [
+                {
+                    "item_id": "minecraft:stick",
+                    "chance": 0.3,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:string",
+                    "chance": 0.1,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:feather",
+                    "chance": 0.1,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:bone_meal",
+                    "chance": 0.1,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "earlystage:rock",
+                    "chance": 0.4,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:wheat_seeds",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:pumpkin_seeds",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:melon_seeds",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "bakery:strawberry_seeds",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "bakery:oat_seeds",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "brewery:hops_seeds",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "brewery:barley_seeds",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "candlelight:tomato_seeds",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "candlelight:lettuce_seeds",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "vinery:red_grape_seeds",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "vinery:white_grape_seeds",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "betterarcheology:artifact_shards",
+                    "chance": 0.005,
+                    "rolls": 3
+                },
+                {
+                    "item_id": "betterarcheology:unidentified_artifact",
+                    "chance": 0.001,
+                    "rolls": 1
+                }
+            ]
+        },
+        {
+            "replace": true,
+            "block_id": "betterarcheology:fossiliferous_dirt",
+            "block_drops": [
+                {
+                    "item_id": "minecraft:bone_meal",
+                    "chance": 0.6,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:bone",
+                    "chance": 0.3,
+                    "rolls": 3
+                },
+                {
+                    "item_id": "minecraft:cobweb",
+                    "chance": 0.2,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:bone_block",
+                    "chance": 0.01,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "betterarcheology:artifact_shards",
+                    "chance": 0.005,
+                    "rolls": 3
+                },
+                {
+                    "item_id": "betterarcheology:unidentified_artifact",
+                    "chance": 0.001,
+                    "rolls": 1
+                }
+            ]
+        },
+        {
+            "replace": true,
+            "block_id": "minecraft:podzol",
+            "block_drops": [
+                {
+                    "item_id": "minecraft:stick",
+                    "chance": 0.4,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:string",
+                    "chance": 0.1,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:feather",
+                    "chance": 0.1,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:bone_meal",
+                    "chance": 0.1,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:cobweb",
+                    "chance": 0.08,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "earlystage:rock",
+                    "chance": 0.05,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:brown_mushroom",
+                    "chance": 0.3,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:red_mushroom",
+                    "chance": 0.2,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:wheat_seeds",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:pumpkin_seeds",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:melon_seeds",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "bakery:strawberry_seeds",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "bakery:oat_seeds",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "brewery:hops_seeds",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "brewery:barley_seeds",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "candlelight:tomato_seeds",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "candlelight:lettuce_seeds",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "vinery:red_grape_seeds",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "vinery:white_grape_seeds",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "vinery:taiga_grape_seeds_red",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "vinery:taiga_grape_seeds_white",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "betterarcheology:artifact_shards",
+                    "chance": 0.005,
+                    "rolls": 1
+                }
+            ]
+        },
+        {
+            "replace": true,
+            "block_id": "minecraft:mycelium",
+            "block_drops": [
+                {
+                    "item_id": "minecraft:stick",
+                    "chance": 0.4,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:string",
+                    "chance": 0.1,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:feather",
+                    "chance": 0.1,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:cobweb",
+                    "chance": 0.1,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:bone_meal",
+                    "chance": 0.1,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "earlystage:rock",
+                    "chance": 0.05,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:brown_mushroom",
+                    "chance": 0.7,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:red_mushroom",
+                    "chance": 0.5,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:wheat_seeds",
+                    "chance": 0.1,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:pumpkin_seeds",
+                    "chance": 0.1,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:melon_seeds",
+                    "chance": 0.1,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "bakery:strawberry_seeds",
+                    "chance": 0.1,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "bakery:oat_seeds",
+                    "chance": 0.1,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "brewery:hops_seeds",
+                    "chance": 0.1,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "brewery:barley_seeds",
+                    "chance": 0.1,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "candlelight:tomato_seeds",
+                    "chance": 0.1,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "candlelight:lettuce_seeds",
+                    "chance": 0.1,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "vinery:red_grape_seeds",
+                    "chance": 0.1,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "vinery:white_grape_seeds",
+                    "chance": 0.1,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "betterarcheology:artifact_shards",
+                    "chance": 0.005,
+                    "rolls": 1
+                }
+            ]
+        },
+        {
+            "replace": true,
+            "block_id": "minecraft:moss_block",
+            "block_drops": [
+                {
+                    "item_id": "minecraft:stick",
+                    "chance": 0.1,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:string",
+                    "chance": 0.2,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:feather",
+                    "chance": 0.05,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:bone_meal",
+                    "chance": 0.5,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:moss_carpet",
+                    "chance": 0.3,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:cobweb",
+                    "chance": 0.07,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:azalea",
+                    "chance": 0.05,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:flowering_azalea",
+                    "chance": 0.03,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:spore_blossom",
+                    "chance": 0.01,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:wheat_seeds",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:pumpkin_seeds",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:melon_seeds",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "bakery:strawberry_seeds",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "bakery:oat_seeds",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "brewery:hops_seeds",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "brewery:barley_seeds",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "candlelight:tomato_seeds",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "candlelight:lettuce_seeds",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "vinery:red_grape_seeds",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "vinery:white_grape_seeds",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "betterarcheology:artifact_shards",
+                    "chance": 0.005,
+                    "rolls": 1
+                }
+            ]
+        },
+        {
+            "replace": true,
+            "block_id": "underground_jungle:jungle_grass",
+            "block_drops": [
+                {
+                    "item_id": "minecraft:grass",
+                    "chance": 0.2,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:tall_grass",
+                    "chance": 0.1,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:large_fern",
+                    "chance": 0.15,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:lily_pad",
+                    "chance": 0.1,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:vine",
+                    "chance": 0.05,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "vinery:jungle_grape_seeds_red",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "vinery:jungle_grape_seeds_white",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "underground_jungle:jungle_vines",
+                    "chance": 0.1,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:turtle_egg",
+                    "chance": 0.008,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:sniffer_egg",
+                    "chance": 0.005,
+                    "rolls": 1
+                }
+            ]
+        },
+        {
+            "replace": true,
+            "block_id": "minecraft:mud",
+            "block_drops": [
+                {
+                    "item_id": "minecraft:lily_pad",
+                    "chance": 0.1,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:vine",
+                    "chance": 0.05,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:frogspawn",
+                    "chance": 0.05,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:turtle_egg",
+                    "chance": 0.008,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:sniffer_egg",
+                    "chance": 0.005,
+                    "rolls": 1
+                }
+            ]
+        },
+        {
+            "replace": true,
+            "block_id": "minecraft:clay",
+            "block_drops": [
+                {
+                    "item_id": "minecraft:kelp",
+                    "chance": 0.1,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:seagrass",
+                    "chance": 0.3,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:sea_pickle",
+                    "chance": 0.05,
+                    "rolls": 1
+                }
+            ]
+        },
+        {
+            "replace": true,
+            "block_id": "minecraft:gravel",
+            "block_drops": [
+                {
+                    "item_id": "minecraft:flint",
+                    "chance": 0.7,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "earlystage:flint",
+                    "chance": 0.3,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "earlystage:rock",
+                    "chance": 0.05,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "agedaddition:coal_piece",
+                    "chance": 0.1,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "agedaddition:raw_copper_nugget",
+                    "chance": 0.05,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "agedaddition:raw_iron_nugget",
+                    "chance": 0.01,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "agedaddition:raw_gold_nugget",
+                    "chance": 0.005,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "agedaddition:quartz_piece",
+                    "chance": 0.01,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "agedaddition:lapis_lazuli_piece",
+                    "chance": 0.005,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "agedaddition:emerald_piece",
+                    "chance": 0.002,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "agedaddition:diamond_piece",
+                    "chance": 0.001,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "betterarcheology:artifact_shards",
+                    "chance": 0.005,
+                    "rolls": 1
+                }
+            ]
+        },
+        {
+            "replace": true,
+            "block_id": "minecraft:suspicious_gravel",
+            "block_drops": [
+                {
+                    "item_id": "minecraft:flint",
+                    "chance": 0.7,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "earlystage:flint",
+                    "chance": 0.3,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "agedaddition:coal_piece",
+                    "chance": 0.1,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "agedaddition:raw_copper_nugget",
+                    "chance": 0.05,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "agedaddition:raw_iron_nugget",
+                    "chance": 0.01,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "agedaddition:raw_gold_nugget",
+                    "chance": 0.005,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "agedaddition:quartz_piece",
+                    "chance": 0.01,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "agedaddition:lapis_lazuli_piece",
+                    "chance": 0.005,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "agedaddition:emerald_piece",
+                    "chance": 0.002,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "agedaddition:diamond_piece",
+                    "chance": 0.001,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "betterarcheology:artifact_shards",
+                    "chance": 0.005,
+                    "rolls": 3
+                },
+                {
+                    "item_id": "betterarcheology:unidentified_artifact",
+                    "chance": 0.001,
+                    "rolls": 1
+                }
+            ]
+        },
+        {
+            "replace": true,
+            "block_id": "minecraft:sand",
+            "block_drops": [
+                {
+                    "item_id": "minecraft:bone",
+                    "chance": 0.1,
+                    "rolls": 4
+                },
+                {
+                    "item_id": "minecraft:dead_bush",
+                    "chance": 0.05,
+                    "rolls": 4
+                },
+                {
+                    "item_id": "agedaddition:raw_gold_nugget",
+                    "chance": 0.03,
+                    "rolls": 2
+                },
+                {
+                    "item_id": "vinery:savanna_grape_seeds_red",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "vinery:savanna_grape_seeds_white",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "betterarcheology:artifact_shards",
+                    "chance": 0.005,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:turtle_egg",
+                    "chance": 0.01,
+                    "rolls": 1
+                }
+            ]
+        },
+        {
+            "replace": true,
+            "block_id": "minecraft:suspicious_sand",
+            "block_drops": [
+                {
+                    "item_id": "minecraft:bone",
+                    "chance": 0.1,
+                    "rolls": 4
+                },
+                {
+                    "item_id": "minecraft:dead_bush",
+                    "chance": 0.05,
+                    "rolls": 4
+                },
+                {
+                    "item_id": "agedaddition:raw_gold_nugget",
+                    "chance": 0.03,
+                    "rolls": 2
+                },
+                {
+                    "item_id": "betterarcheology:artifact_shards",
+                    "chance": 0.005,
+                    "rolls": 3
+                },
+                {
+                    "item_id": "vinery:savanna_grape_seeds_red",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "vinery:savanna_grape_seeds_white",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:turtle_egg",
+                    "chance": 0.01,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "betterarcheology:unidentified_artifact",
+                    "chance": 0.001,
+                    "rolls": 1
+                }
+            ]
+        },
+        {
+            "replace": true,
+            "block_id": "minecraft:red_sand",
+            "block_drops": [
+                {
+                    "item_id": "minecraft:bone",
+                    "chance": 0.1,
+                    "rolls": 4
+                },
+                {
+                    "item_id": "agedaddition:raw_gold_nugget",
+                    "chance": 0.03,
+                    "rolls": 2
+                },
+                {
+                    "item_id": "betterarcheology:artifact_shards",
+                    "chance": 0.005,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "vinery:savanna_grape_seeds_red",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "vinery:savanna_grape_seeds_white",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:turtle_egg",
+                    "chance": 0.01,
+                    "rolls": 1
+                }
+            ]
+        },
+        {
+            "replace": true,
+            "block_id": "betterarcheology:suspicious_red_sand",
+            "block_drops": [
+                {
+                    "item_id": "minecraft:bone",
+                    "chance": 0.1,
+                    "rolls": 4
+                },
+                {
+                    "item_id": "agedaddition:raw_gold_nugget",
+                    "chance": 0.03,
+                    "rolls": 2
+                },
+                {
+                    "item_id": "betterarcheology:artifact_shards",
+                    "chance": 0.005,
+                    "rolls": 3
+                },
+                {
+                    "item_id": "minecraft:turtle_egg",
+                    "chance": 0.01,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "vinery:savanna_grape_seeds_red",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "vinery:savanna_grape_seeds_white",
+                    "chance": 0.02,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "betterarcheology:unidentified_artifact",
+                    "chance": 0.001,
+                    "rolls": 1
+                }
+            ]
+        },
+        {
+            "replace": true,
+            "block_id": "minecraft:soul_sand",
+            "block_drops": [
+                {
+                    "item_id": "minecraft:bone",
+                    "chance": 0.2,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "gardens_of_the_dead:soul_spore",
+                    "chance": 0.1,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "gardens_of_the_dead:glowing_soul_spore",
+                    "chance": 0.05,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:nether_wart",
+                    "chance": 0.01,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "endrem:undead_soul",
+                    "chance": 0.001,
+                    "rolls": 1
+                }
+            ]
+        },
+        {
+            "replace": true,
+            "block_id": "minecraft:soul_soil",
+            "block_drops": [
+                {
+                    "item_id": "minecraft:bone",
+                    "chance": 0.2,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "gardens_of_the_dead:soul_spore",
+                    "chance": 0.1,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:glow_lichen",
+                    "chance": 0.05,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "gardens_of_the_dead:glowing_soul_spore",
+                    "chance": 0.05,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "agedaddition:quartz_piece",
+                    "chance": 0.03,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:gunpowder",
+                    "chance": 0.01,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "endrem:undead_soul",
+                    "chance": 0.001,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:torchflower_seeds",
+                    "chance": 0.03,
+                    "rolls": 1
+                }
+            ]
+        },
+        {
+            "replace": true,
+            "block_id": "gardens_of_the_dead:blightwart_block",
+            "block_drops": [
+                {
+                    "item_id": "gardens_of_the_dead:soulblight_sprouts",
+                    "chance": 0.2,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "gardens_of_the_dead:soulblight_fungus",
+                    "chance": 0.1,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:glowstone_dust",
+                    "chance": 0.01,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:torchflower_seeds",
+                    "chance": 0.05,
+                    "rolls": 1
+                }
+            ]
+        },
+        {
+            "replace": true,
+            "block_id": "minecraft:nether_wart_block",
+            "block_drops": [
+                {
+                    "item_id": "minecraft:crimson_roots",
+                    "chance": 0.4,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:crimson_fungus",
+                    "chance": 0.2,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "earlystage:crimson_bark",
+                    "chance": 0.1,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "nethervinery:crimson_grape_seeds",
+                    "chance": 0.01,
+                    "rolls": 1
+                }
+            ]
+        },
+        {
+            "replace": true,
+            "block_id": "minecraft:warped_wart_block",
+            "block_drops": [
+                {
+                    "item_id": "minecraft:warped_roots",
+                    "chance": 0.4,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "minecraft:warped_fungus",
+                    "chance": 0.2,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "earlystage:warped_bark",
+                    "chance": 0.1,
+                    "rolls": 1
+                },
+                {
+                    "item_id": "nethervinery:warped_grape_seeds",
+                    "chance": 0.01,
+                    "rolls": 1
+                }
+            ]
+        }
+    ]
+}

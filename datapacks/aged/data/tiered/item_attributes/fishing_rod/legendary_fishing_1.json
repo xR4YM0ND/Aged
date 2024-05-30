@@ -1,0 +1,26 @@
+{
+    "id": "tiered:legendary_fishing_1",
+    "verifiers": [
+        {
+            "id": "minecraft:fishing_rod"
+        }
+    ],
+    "weight": 3,
+    "style": {
+        "color": "gold"
+    },
+    "attributes": [
+        {
+            "type": "generic.luck",
+            "modifier": {
+                "name": "tiered:legendary_fishing_1",
+                "operation": "ADDITION",
+                "amount": 1.5
+            },
+            "optional_equipment_slots": [
+                "MAINHAND",
+                "OFFHAND"
+            ]
+        }
+    ]
+}

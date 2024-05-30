@@ -1,0 +1,1423 @@
+{
+    "minecraft:snow_block": {
+        "max_count": 2,
+        "0": -2,
+        "1": -1,
+        "2": 0,
+        "3": 0
+    },
+    "minecraft:snow": {
+        "max_count": 2,
+        "0": -2,
+        "1": -1,
+        "2": 0,
+        "3": 0
+    },
+    "minecraft:ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "minecraft:packed_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "minecraft:blue_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:packed_ice_bricks": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:packed_ice_mini_tiles": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:packed_ice_pillar": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:packed_ice_pillar_top": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:packed_ice_scales": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:angry_packed_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:blank_packed_ice_carving": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:carved_packed_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:checkered_packed_ice_tiles": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:cobbled_packed_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:cracked_packed_ice_bricks": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:cracked_disordered_packed_ice_bricks": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:cracked_flat_packed_ice_tiles": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:creeper_packed_ice_carving": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:crying_packed_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:cut_blank_packed_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:glad_packed_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:duh_packed_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:engraved_packed_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:eroded_packed_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:etched_packed_ice_bricks": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:flat_packed_ice_tiles": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:inlayed_packed_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:inscribed_packed_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:layed_packed_ice_bricks": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:loded_packed_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:offset_packed_ice_bricks": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:pillar_packed_ice_bricks": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:prismal_packed_ice_remnants": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:rough_packed_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:rounded_packed_ice_bricks": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:runic_carved_packed_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:sad_packed_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:sanded_packed_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:small_packed_ice_bricks": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:smooth_inlayed_packed_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:smooth_ringed_packed_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:smoothed_double_inlayed_packed_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:spider_packed_ice_carving": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:spiraled_packed_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:stacked_packed_ice_bricks": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:tiled_packed_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:tiny_packed_ice_bricks": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:tiny_layered_packed_ice_bricks": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:tiny_layered_packed_ice_slabs": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:trodden_packed_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:unamused_packed_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:vertical_cut_packed_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:vertical_disordered_packed_ice_bricks": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:weathered_packed_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:bordered_packed_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:brick_bordered_packed_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:cut_packed_ice_column": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:edged_packed_ice_bricks": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:overlapping_packed_ice_tiles": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:polished_packed_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:smooth_packed_ice_column": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:thick_inlayed_packed_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:tiled_packed_ice_column": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:tiled_bordered_packed_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:tiny_brick_bordered_packed_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:curly_packed_ice_pillar": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:fine_packed_ice_pillar": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:ornate_packed_ice_pillar": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:simple_packed_ice_pillar": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:massive_packed_ice_bricks": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:ice_bricks": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:ice_mini_tiles": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:ice_pillar": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:ice_pillar_top": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:ice_scales": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:angry_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:blank_ice_carving": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:carved_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:checkered_ice_tiles": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:cobbled_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:cracked_ice_bricks": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:cracked_disordered_ice_bricks": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:cracked_flat_ice_tiles": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:creeper_ice_carving": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:crying_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:cut_blank_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:glad_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:duh_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:engraved_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:eroded_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:etched_ice_bricks": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:flat_ice_tiles": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:inlayed_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:inscribed_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:layed_ice_bricks": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:loded_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:offset_ice_bricks": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:pillar_ice_bricks": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:prismal_ice_remnants": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:rough_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:rounded_ice_bricks": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:runic_carved_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:sad_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:sanded_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:small_ice_bricks": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:smooth_inlayed_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:smooth_ringed_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:smoothed_double_inlayed_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:spider_ice_carving": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:spiraled_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:stacked_ice_bricks": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:tiled_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:tiny_ice_bricks": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:tiny_layered_ice_bricks": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:tiny_layered_ice_slabs": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:trodden_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:unamused_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:vertical_cut_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:vertical_disordered_ice_bricks": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:weathered_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:bordered_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:brick_bordered_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:cut_ice_column": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:edged_ice_bricks": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:overlapping_ice_tiles": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:polished_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:smooth_ice_column": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:thick_inlayed_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:tiled_ice_column": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:tiled_bordered_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:tiny_brick_bordered_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:curly_ice_pillar": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:fine_ice_pillar": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:ornate_ice_pillar": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:simple_ice_pillar": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:massive_ice_bricks": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:blue_ice_bricks": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:blue_ice_mini_tiles": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:blue_ice_pillar": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:blue_ice_pillar_top": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:blue_ice_scales": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:angry_blue_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:blank_blue_ice_carving": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:carved_blue_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:checkered_blue_ice_tiles": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:cobbled_blue_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:cracked_blue_ice_bricks": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:cracked_disordered_blue_ice_bricks": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:cracked_flat_blue_ice_tiles": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:creeper_blue_ice_carving": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:crying_blue_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:cut_blank_blue_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:glad_blue_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:duh_blue_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:engraved_blue_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:eroded_blue_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:etched_blue_ice_bricks": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:flat_blue_ice_tiles": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:inlayed_blue_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:inscribed_blue_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:layed_blue_ice_bricks": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:loded_blue_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:offset_blue_ice_bricks": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:pillar_blue_ice_bricks": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:prismal_blue_ice_remnants": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:rough_blue_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:rounded_blue_ice_bricks": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:runic_carved_blue_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:sad_blue_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:sanded_blue_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:small_blue_ice_bricks": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:smooth_inlayed_blue_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:smooth_ringed_blue_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:smoothed_double_inlayed_blue_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:spider_blue_ice_carving": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:spiraled_blue_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:stacked_blue_ice_bricks": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:tiled_blue_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:tiny_blue_ice_bricks": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:tiny_layered_blue_ice_bricks": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:tiny_layered_blue_ice_slabs": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:trodden_blue_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:unamused_blue_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:vertical_cut_blue_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:vertical_disordered_blue_ice_bricks": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:weathered_blue_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:bordered_blue_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:brick_bordered_blue_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:cut_blue_ice_column": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:edged_blue_ice_bricks": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:overlapping_blue_ice_tiles": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:polished_blue_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:smooth_blue_ice_column": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:thick_inlayed_blue_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:tiled_blue_ice_column": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:tiled_bordered_blue_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:tiny_brick_bordered_blue_ice": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:curly_blue_ice_pillar": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:fine_blue_ice_pillar": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:ornate_blue_ice_pillar": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:simple_blue_ice_pillar": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    },
+    "chipped:massive_blue_ice_bricks": {
+        "max_count": 2,
+        "0": -3,
+        "1": -2,
+        "2": -1,
+        "3": 0
+    }
+}

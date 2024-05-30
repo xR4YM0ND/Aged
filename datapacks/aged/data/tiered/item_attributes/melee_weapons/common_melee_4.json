@@ -1,0 +1,47 @@
+{
+    "id": "tiered:common_melee_4",
+    "verifiers": [
+        {
+            "tag": "c:swords"
+        }
+    ],
+    "weight": 50,
+    "style": {
+        "color": "gray"
+    },
+    "attributes": [
+        {
+            "type": "generic.attack_damage",
+            "modifier": {
+                "name": "tiered:common_melee_4",
+                "operation": "MULTIPLY_TOTAL",
+                "amount": -0.3
+            },
+            "optional_equipment_slots": [
+                "MAINHAND"
+            ]
+        },
+        {
+            "type": "tiered:generic.durable",
+            "modifier": {
+                "name": "tiered:common_melee_4",
+                "operation": "MULTIPLY_TOTAL",
+                "amount": -0.3
+            },
+            "optional_equipment_slots": [
+                "MAINHAND"
+            ]
+        },
+        {
+            "type": "generic.luck",
+            "modifier": {
+                "name": "tiered:common_melee_4",
+                "operation": "ADDITION",
+                "amount": -2
+            },
+            "optional_equipment_slots": [
+                "MAINHAND"
+            ]
+        }
+    ]
+}

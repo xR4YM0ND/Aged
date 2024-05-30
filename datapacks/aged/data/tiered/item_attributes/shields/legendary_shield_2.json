@@ -1,0 +1,50 @@
+{
+    "id": "tiered:legendary_shield_2",
+    "verifiers": [
+        {
+            "tag": "c:shields"
+        }
+    ],
+    "weight": 3,
+    "style": {
+        "color": "gold"
+    },
+    "attributes": [
+        {
+            "type": "tiered:generic.durable",
+            "modifier": {
+                "name": "tiered:legendary_shield_2",
+                "operation": "MULTIPLY_TOTAL",
+                "amount": 0.3
+            },
+            "optional_equipment_slots": [
+                "MAINHAND",
+                "OFFHAND"
+            ]
+        },
+        {
+            "type": "generic.max_health",
+            "modifier": {
+                "name": "tiered:legendary_shield_2",
+                "operation": "ADDITION",
+                "amount": 4
+            },
+            "optional_equipment_slots": [
+                "MAINHAND",
+                "OFFHAND"
+            ]
+        },
+        {
+            "type": "generic.movement_speed",
+            "modifier": {
+                "name": "tiered:legendary_shield_2",
+                "operation": "MULTIPLY_TOTAL",
+                "amount": 0.05
+            },
+            "optional_equipment_slots": [
+                "MAINHAND",
+                "OFFHAND"
+            ]
+        }
+    ]
+}

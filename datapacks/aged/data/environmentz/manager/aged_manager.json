@@ -1,0 +1,136 @@
+{
+    "thermometer_temperature": {
+        "replace": true,
+        "very_cold": -6,
+        "cold": -2,
+        "hot": 2,
+        "very_hot": 6
+    },
+    "acclimatization": {
+        "replace": true,
+        "hot_body_temperature": 180,
+        "hot_body": -10,
+        "very_hot_body_temperature": 1680,
+        "very_hot_body": -20,
+        "cold_body_temperature": -180,
+        "cold_body": 10,
+        "very_cold_body_temperature": -1680,
+        "very_cold_body": 20
+    },
+    "effect": {
+        "bakery:stuffed": {
+            "replace": true,
+            "temperature": 0,
+            "heat_protection": 1,
+            "cold_protection": 1
+        }
+    },
+    "minecraft:overworld": {
+        "replace": true,
+        "standard": {
+            "very_cold": 0,
+            "cold": 0,
+            "normal": 0,
+            "hot": 0,
+            "very_hot": 0
+        },
+        "day": {
+            "very_cold": -4,
+            "cold": -2,
+            "normal": 0,
+            "hot": 2,
+            "very_hot": 4
+        },
+        "night": {
+            "very_cold": -6,
+            "cold": -3,
+            "normal": 0,
+            "hot": 1,
+            "very_hot": 2
+        },
+        "armor": {
+            "very_cold": 1,
+            "cold": 1,
+            "normal": 1,
+            "hot": 1,
+            "very_hot": 1
+        },
+        "insulated_armor": {
+            "very_cold": 3,
+            "cold": 3,
+            "normal": 3,
+            "hot": 3,
+            "very_hot": 3
+        },
+        "iced_armor": {
+            "very_cold": -4,
+            "cold": -4,
+            "normal": -4,
+            "hot": -4,
+            "very_hot": -4
+        },
+        "soaked": {
+            "very_cold": -6,
+            "cold": -6,
+            "normal": -6,
+            "hot": -6,
+            "very_hot": -6
+        },
+        "wett": {
+            "very_cold": -3,
+            "cold": -3,
+            "normal": -3,
+            "hot": -3,
+            "very_hot": -3
+        },
+        "sweat": {
+            "hot": -1,
+            "very_hot": -2
+        },
+        "shadow": {
+            "very_cold": -1,
+            "cold": -1,
+            "normal": -1,
+            "hot": -1,
+            "very_hot": -1
+        },
+        "height": {
+            "very_low": 2,
+            "very_low_height": 0,
+            "low": 1,
+            "low_height": 30,
+            "high": -1,
+            "high_height": 120,
+            "very_high": -2,
+            "very_high_height": 190
+        }
+    },
+    "minecraft:the_nether": {
+        "replace": true,
+        "basic": true,
+        "standard": 5,
+        "armor": 1,
+        "insulated_armor": 3,
+        "iced_armor": -4,
+        "soaked": -6,
+        "wett": -3,
+        "sweat": -3,
+        "shadow": 0,
+        "height": 0,
+        "acclimatization": 0
+    },
+    "minecraft:the_end": {
+        "replace": true,
+        "basic": true,
+        "standard": -5,
+        "armor": 1,
+        "insulated_armor": 3,
+        "iced_armor": -4,
+        "soaked": -6,
+        "wett": -3,
+        "sweat": -1,
+        "shadow": 0,
+        "height": 0,
+        "acclimatization": 0
+    }
+}

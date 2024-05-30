@@ -1,0 +1,47 @@
+{
+    "id": "tiered:legendary_melee_3",
+    "verifiers": [
+        {
+            "tag": "c:swords"
+        }
+    ],
+    "weight": 3,
+    "style": {
+        "color": "gold"
+    },
+    "attributes": [
+        {
+            "type": "tiered:generic.crit_chance",
+            "modifier": {
+                "name": "tiered:legendary_melee_3",
+                "operation": "MULTIPLY_TOTAL",
+                "amount": 0.15
+            },
+            "optional_equipment_slots": [
+                "MAINHAND"
+            ]
+        },
+        {
+            "type": "tiered:generic.durable",
+            "modifier": {
+                "name": "tiered:legendary_melee_3",
+                "operation": "MULTIPLY_TOTAL",
+                "amount": 0.3
+            },
+            "optional_equipment_slots": [
+                "MAINHAND"
+            ]
+        },
+        {
+            "type": "generic.luck",
+            "modifier": {
+                "name": "tiered:legendary_melee_3",
+                "operation": "ADDITION",
+                "amount": 2
+            },
+            "optional_equipment_slots": [
+                "MAINHAND"
+            ]
+        }
+    ]
+}

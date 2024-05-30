@@ -1,0 +1,26 @@
+{
+    "id": "tiered:unique_fishing_1",
+    "verifiers": [
+        {
+            "id": "minecraft:fishing_rod"
+        }
+    ],
+    "weight": 0,
+    "style": {
+        "color": "light_purple"
+    },
+    "attributes": [
+        {
+            "type": "generic.luck",
+            "modifier": {
+                "name": "tiered:unique_fishing_1",
+                "operation": "ADDITION",
+                "amount": 2
+            },
+            "optional_equipment_slots": [
+                "MAINHAND",
+                "OFFHAND"
+            ]
+        }
+    ]
+}

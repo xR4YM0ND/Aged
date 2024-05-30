@@ -1,0 +1,36 @@
+{
+    "id": "tiered:legendary_elytra_2",
+    "verifiers": [
+        {
+            "id": "minecraft:elytra"
+        }
+    ],
+    "weight": 3,
+    "style": {
+        "color": "gold"
+    },
+    "attributes": [
+        {
+            "type": "generic.max_health",
+            "modifier": {
+                "name": "tiered:legendary_elytra_2",
+                "operation": "ADDITION",
+                "amount": 4
+            },
+            "optional_equipment_slots": [
+                "CHEST"
+            ]
+        },
+        {
+            "type": "tiered:generic.durable",
+            "modifier": {
+                "name": "tiered:legendary_elytra_2",
+                "operation": "MULTIPLY_TOTAL",
+                "amount": 0.3
+            },
+            "optional_equipment_slots": [
+                "CHEST"
+            ]
+        }
+    ]
+}

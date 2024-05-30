@@ -1,0 +1,56 @@
+{
+    "id": "tiered:legendary_tool_4",
+    "verifiers": [
+        {
+            "tag": "c:axes"
+        },
+        {
+            "tag": "c:pickaxes"
+        },
+        {
+            "tag": "c:shovels"
+        },
+        {
+            "tag": "c:hoes"
+        }
+    ],
+    "weight": 3,
+    "style": {
+        "color": "gold"
+    },
+    "attributes": [
+        {
+            "type": "tiered:generic.durable",
+            "modifier": {
+                "name": "tiered:legendary_tool_4",
+                "operation": "MULTIPLY_TOTAL",
+                "amount": 0.3
+            },
+            "optional_equipment_slots": [
+                "MAINHAND"
+            ]
+        },
+        {
+            "type": "tiered:generic.dig_speed",
+            "modifier": {
+                "name": "tiered:legendary_tool_4",
+                "operation": "MULTIPLY_TOTAL",
+                "amount": 0.2
+            },
+            "optional_equipment_slots": [
+                "MAINHAND"
+            ]
+        },
+        {
+            "type": "generic.movement_speed",
+            "modifier": {
+                "name": "tiered:legendary_tool_4",
+                "operation": "MULTIPLY_TOTAL",
+                "amount": 0.05
+            },
+            "optional_equipment_slots": [
+                "MAINHAND"
+            ]
+        }
+    ]
+}

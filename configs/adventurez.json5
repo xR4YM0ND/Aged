@@ -1,0 +1,8 @@
+{
+	"necromancer_spawn_weight": 2,
+	"summoner_thunder_spawn_chance": 8,
+	"desert_rhino_well_spawn_chance": 4,
+	"shaman_spawn_weight": 5,
+	"resummoned_ender_dragon_drops_egg": true,
+	"allow_ender_dragon_nether_portal": true
+}

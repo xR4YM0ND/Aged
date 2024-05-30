@@ -1,0 +1,11 @@
+{
+    "endrem:nether_eye": {
+        "temperature": 3
+    },
+    "earlystage:lava_brick_bucket": {
+        "temperature": 4
+    },
+    "endermanoverhaul:crimson_pearl": {
+        "temperature": 2
+    }
+}

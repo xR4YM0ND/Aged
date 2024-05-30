@@ -1,0 +1,8 @@
+{
+    "replace": true,
+    "values": [
+        "#c:ores",
+        "minecraft:ancient_debris",
+        "minecraft:amethyst_cluster"
+    ]
+}

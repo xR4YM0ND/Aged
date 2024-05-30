@@ -1,0 +1,36 @@
+{
+    "id": "tiered:uncommon_elytra_2",
+    "verifiers": [
+        {
+            "id": "minecraft:elytra"
+        }
+    ],
+    "weight": 35,
+    "style": {
+        "color": "dark_green"
+    },
+    "attributes": [
+        {
+            "type": "tiered:generic.durable",
+            "modifier": {
+                "name": "tiered:uncommon_elytra_2",
+                "operation": "MULTIPLY_TOTAL",
+                "amount": 0.1
+            },
+            "optional_equipment_slots": [
+                "CHEST"
+            ]
+        },
+        {
+            "type": "generic.movement_speed",
+            "modifier": {
+                "name": "tiered:uncommon_elytra_2",
+                "operation": "MULTIPLY_TOTAL",
+                "amount": -0.05
+            },
+            "optional_equipment_slots": [
+                "CHEST"
+            ]
+        }
+    ]
+}

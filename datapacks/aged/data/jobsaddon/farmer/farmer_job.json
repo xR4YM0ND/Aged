@@ -1,0 +1,318 @@
+{
+    "1": {
+        "replace": true,
+        "items": [
+            "minecraft:sweet_berries",
+            "minecraft:brown_mushroom",
+            "minecraft:red_mushroom",
+            "minecraft:pumpkin",
+            "minecraft:melon_slice",
+            "minecraft:glow_berries",
+            "minecraft:chorus_fruit",
+            "minecraft:apple",
+            "vinery:red_grape",
+            "vinery:white_grape",
+            "vinery:savanna_grapes_red",
+            "vinery:savanna_grapes_white",
+            "vinery:taiga_grapes_red",
+            "vinery:taiga_grapes_white",
+            "vinery:jungle_grapes_red",
+            "vinery:jungle_grapes_white",
+            "vinery:cherry",
+            "bakery:strawberry_cake_slice",
+            "bakery:sweetberry_cake_slice",
+            "bakery:chocolate_cake_slice",
+            "bakery:chocolate_gateau_slice",
+            "bakery:bundt_cake_slice",
+            "bakery:linzer_tart_slice",
+            "bakery:apple_pie_slice",
+            "bakery:glowberry_pie_slice",
+            "bakery:chocolate_tart_slice",
+            "bakery:pudding_slice",
+            "bakery:chocolate_glazed_cookie",
+            "bakery:sweetberry_glazed_cookie",
+            "bakery:strawberry_glazed_cookie",
+            "brewery:dried_wheat",
+            "brewery:dried_barley",
+            "brewery:dried_corn",
+            "meadow:cheesecake_slice",
+            "meadow:cheese_tart_slice",
+            "meadow:piece_of_cheese",
+            "meadow:piece_of_sheep_cheese",
+            "meadow:piece_of_grain_cheese",
+            "meadow:piece_of_amethyst_cheese",
+            "meadow:piece_of_buffalo_cheese",
+            "meadow:piece_of_goat_cheese",
+            "meadow:piece_of_warped_cheese"
+        ],
+        "crafting": [
+            "bakery:yeast",
+            "bakery:apple_jam",
+            "bakery:strawberry_jam",
+            "bakery:sweetberry_jam",
+            "bakery:glowberry_jam",
+            "minecraft:beetroot_soup",
+            "brewery:gingerbread",
+            "brewery:pretzel",
+            "candlelight:butter",
+            "candlelight:dough",
+            "meadow:cheese_roll",
+            "meadow:cheese_sandwich",
+            "nethervinery:crimson_grapejuice",
+            "nethervinery:warped_grapejuice",
+            "vinery:apple_juice",
+            "vinery:red_grapejuice",
+            "vinery:white_grapejuice",
+            "vinery:red_taiga_grapejuice",
+            "vinery:white_taiga_grapejuice",
+            "vinery:red_jungle_grapejuice",
+            "vinery:white_jungle_grapejuice",
+            "vinery:red_savanna_grapejuice",
+            "vinery:white_savanna_grapejuice",
+            "minecraft:bread",
+            "minecraft:cookie"
+        ]
+    },
+    "2": {
+        "replace": true,
+        "items": [
+            "minecraft:wheat",
+            "minecraft:carrot",
+            "minecraft:potato",
+            "minecraft:beetroot",
+            "bakery:strawberry",
+            "bakery:oat",
+            "brewery:hops",
+            "brewery:barley",
+            "brewery:corn",
+            "candlelight:tomato",
+            "candlelight:lettuce",
+            "herbalbrews:coffee_beans",
+            "vinery:rotten_cherry",
+            "bakery:apple_cupcake",
+            "bakery:sweetberry_cupcake",
+            "bakery:strawberry_cupcake"
+        ],
+        "crafting": [
+            "bakery:dough",
+            "bakery:sweet_dough",
+            "bakery:cake_dough",
+            "bakery:chocolate_truffle",
+            "bakery:croissant",
+            "bakery:waffle",
+            "bakery:jam_roll",
+            "brewery:potato_salad",
+            "brewery:sausage",
+            "brewery:fried_chicken",
+            "brewery:pork_knuckle",
+            "candlelight:mozzarella",
+            "candlelight:pasta_raw",
+            "minecraft:baked_potato",
+            "minecraft:cooked_cod",
+            "minecraft:cooked_salmon"
+        ]
+    },
+    "3": {
+        "replace": true,
+        "items": [
+            "minecraft:nether_wart",
+            "minecraft:poisonous_potato",
+            "herbalbrews:tea_blossom",
+            "herbalbrews:green_tea_leaf",
+            "herbalbrews:yerba_mate_leaf",
+            "herbalbrews:rooibos_leaf",
+            "nethervinery:crimson_grape",
+            "nethervinery:warped_grape"
+        ],
+        "crafting": [
+            "bakery:pudding",
+            "bakery:chocolate_jam",
+            "bakery:braided_bread",
+            "bakery:toast",
+            "bakery:cornet",
+            "bakery:glowberry_tart",
+            "bakery:crusty_bread",
+            "bakery:bun",
+            "bakery:baguette",
+            "bakery:bread",
+            "candlelight:mushroom_soup",
+            "candlelight:chocolate",
+            "meadow:cheesecake",
+            "meadow:cheese_tart",
+            "meadow:cheese_block",
+            "meadow:sheep_cheese_block",
+            "meadow:grain_cheese_block",
+            "meadow:amethyst_cheese_block",
+            "meadow:buffalo_cheese_block",
+            "meadow:goat_cheese_block",
+            "meadow:warped_cheese_block",
+            "meadow:cheese_stick",
+            "minecraft:mushroom_stew",
+            "herbalbrews:milk_coffee"
+        ]
+    },
+    "4": {
+        "replace": true,
+        "items": [],
+        "crafting": [
+            "bakery:chocolate_tart",
+            "bakery:misslilitu_biscuit",
+            "candlelight:beetroot_salad",
+            "candlelight:lettuce_salad",
+            "candlelight:salmon_wine",
+            "herbalbrews:rooibos_tea",
+            "herbalbrews:hibiscus_tea",
+            "herbalbrews:green_tea",
+            "herbalbrews:lavender_tea",
+            "herbalbrews:yerba_mate_tea",
+            "herbalbrews:black_tea",
+            "herbalbrews:oolong_tea",
+            "herbalbrews:coffee",
+            "minecraft:cooked_beef",
+            "minecraft:cooked_porkchop",
+            "minecraft:cooked_mutton",
+            "minecraft:cooked_chicken",
+            "minecraft:cooked_rabbit",
+            "minecraft:suspicious_stew",
+            "minecraft:golden_carrot"
+        ]
+    },
+    "5": {
+        "replace": true,
+        "items": [
+            "minecraft:honey_bottle",
+            "brewery:beer_wheat",
+            "brewery:beer_barley",
+            "brewery:beer_hops",
+            "brewery:beer_haley"
+        ],
+        "crafting": [
+            "minecraft:rabbit_stew",
+            "bakery:apple_pie",
+            "bakery:linzer_tart",
+            "bakery:bundt_cake",
+            "candlelight:tomato_soup",
+            "candlelight:tomato_mozzarella_salad",
+            "candlelight:pasta_lettuce",
+            "candlelight:chicken",
+            "candlelight:tropical_fish_supreme",
+            "meadow:cooked_buffalo_meat",
+            "minecraft:rabbit_stew"
+        ]
+    },
+    "6": {
+        "replace": true,
+        "items": [
+            "bakery:strawberry_cake",
+            "bakery:sweetberry_cake",
+            "bakery:chocolate_cake",
+            "bakery:chocolate_gateau"
+        ],
+        "crafting": [
+            "candlelight:pork_ribs",
+            "candlelight:pasta_bolognese",
+            "candlelight:veggie_plate",
+            "candlelight:chicken_alfredo",
+            "herbalbrews:armor_flask",
+            "herbalbrews:feral_flask",
+            "herbalbrews:damage_flask",
+            "minecraft:pumpkin_pie",
+            "bakery:vegetable_sandwich",
+            "bakery:sandwich"
+        ]
+    },
+    "7": {
+        "replace": true,
+        "items": [
+            "brewery:mashed_potatoes"
+        ],
+        "crafting": [
+            "candlelight:beef_tartare",
+            "candlelight:chicken_teriyaki",
+            "candlelight:lettuce_tomato",
+            "candlelight:cooked_beef",
+            "candlelight:lettuce_beef",
+            "candlelight:roastbeef_carrots",
+            "meadow:sausage_with_cheese",
+            "vinery:chorus_wine",
+            "vinery:cherry_wine",
+            "vinery:magnetic_wine",
+            "vinery:noir_wine",
+            "vinery:lilitu_wine",
+            "vinery:mellohi_wine",
+            "vinery:stal_wine",
+            "vinery:strad_wine",
+            "vinery:solaris_wine",
+            "vinery:bolvar_wine",
+            "vinery:aegis_wine",
+            "vinery:clark_wine",
+            "vinery:chenet_wine",
+            "vinery:kelp_cider",
+            "vinery:apple_wine",
+            "vinery:apple_cider",
+            "vinery:jellie_wine",
+            "vinery:red_wine"
+        ]
+    },
+    "8": {
+        "replace": true,
+        "items": [
+            "brewery:whiskey_jojannik",
+            "brewery:whiskey_lilitusinglemalt",
+            "brewery:whiskey_cristelwalker",
+            "brewery:whiskey_maggoallan",
+            "brewery:whiskey_carrasconlabel"
+        ],
+        "crafting": [
+            "meadow:roasted_ham",
+            "nethervinery:blazewine_pinot",
+            "nethervinery:netherite_nectar",
+            "nethervinery:ghastly_grenache",
+            "nethervinery:lava_fizz",
+            "nethervinery:nether_fizz",
+            "minecraft:cake"
+        ]
+    },
+    "9": {
+        "replace": true,
+        "items": [
+            "brewery:half_chicken"
+        ],
+        "crafting": [
+            "brewery:dumplings",
+            "candlelight:pasta",
+            "candlelight:bolognese",
+            "candlelight:fricasse",
+            "candlelight:pancake"
+        ]
+    },
+    "10": {
+        "replace": true,
+        "items": [],
+        "crafting": [
+            "candlelight:beef_wellington",
+            "herbalbrews:feral_flask_big",
+            "herbalbrews:armor_flask_big",
+            "herbalbrews:damage_flask_big",
+            "vinery:lamroc_wine",
+            "vinery:eiswein",
+            "vinery:bottle_mojang_noir",
+            "vinery:mead",
+            "vinery:glowing_wine",
+            "vinery:villagers_fright",
+            "vinery:creepers_crush",
+            "vinery:cristel_wine",
+            "vinery:jo_special_mixture",
+            "vinery:knulp_wine",
+            "minecraft:golden_apple"
+        ]
+    },
+    "15": {
+        "replace": true,
+        "items": [],
+        "crafting": [
+            "nethervinery:improved_nether_fizz",
+            "nethervinery:improved_lava_fizz"
+        ]
+    }
+}

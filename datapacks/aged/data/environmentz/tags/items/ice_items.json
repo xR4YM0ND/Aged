@@ -1,0 +1,11 @@
+{
+    "replace": true,
+    "values": [
+        "minecraft:ice",
+        "minecraft:packed_ice",
+        "minecraft:blue_ice",
+        "endrem:cold_eye",
+        "vinery:eiswein",
+        "endermanoverhaul:icy_pearl"
+    ]
+}

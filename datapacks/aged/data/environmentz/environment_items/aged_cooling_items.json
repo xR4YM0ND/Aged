@@ -1,0 +1,14 @@
+{
+    "endrem:cold_eye": {
+        "temperature": -3
+    },
+    "minecraft:heart_of_the_sea": {
+        "temperature": -2
+    },
+    "vinery:eiswein": {
+        "temperature": -3
+    },
+    "endermanoverhaul:icy_pearl": {
+        "temperature": -2
+    }
+}

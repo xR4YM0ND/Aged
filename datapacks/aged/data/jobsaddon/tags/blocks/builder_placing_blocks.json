@@ -1,0 +1,31 @@
+{
+    "replace": true,
+    "values": [
+        "#minecraft:planks",
+        "#minecraft:stairs",
+        "#minecraft:stone_bricks",
+        "#minecraft:walls",
+        "#minecraft:slabs",
+        "#minecraft:fences",
+        "#minecraft:doors",
+        "#minecraft:impermeable",
+        "minecraft:obsidian",
+        "minecraft:crying_obsidian",
+        "#another_furniture:chairs",
+        "#another_furniture:shelves",
+        "#another_furniture:tables",
+        "#another_furniture:stools",
+        "#another_furniture:shutters",
+        "#another_furniture:flower_boxes",
+        "#another_furniture:curtains",
+        "#another_furniture:benches",
+        "#another_furniture:drawers",
+        "#another_furniture:lamps",
+        "#another_furniture:sofas",
+        "#another_furniture:tall_stools",
+        "#tales_of_aged:letsdo_deco",
+        "#tales_of_aged:letsdo_functional",
+        "#tales_of_aged:letsdo_stones",
+        "#aged_lite:builder_placing"
+    ]
+}

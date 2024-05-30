@@ -1,0 +1,8 @@
+{
+	"cropTickChance": 0.4,
+	"cropGrowthChance": 0.1,
+	"cropGrowthStagesMin": 1,
+	"cropGrowthStagesMax": 2,
+	"cropExtraRollChance": 0.1,
+	"cropExtraRollMax": 2
+}

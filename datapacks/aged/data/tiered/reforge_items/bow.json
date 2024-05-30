@@ -1,0 +1,8 @@
+{
+    "items": [
+        "minecraft:bow"
+    ],
+    "base": [
+        "minecraft:string"
+    ]
+}

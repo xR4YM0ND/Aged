@@ -1,0 +1,51 @@
+{
+    "id": "tiered:uncommon_armor_2",
+    "verifiers": [
+        {
+            "tag": "c:helmets"
+        },
+        {
+            "tag": "c:chestplates"
+        },
+        {
+            "tag": "c:leggings"
+        },
+        {
+            "tag": "c:boots"
+        }
+    ],
+    "weight": 35,
+    "style": {
+        "color": "dark_green"
+    },
+    "attributes": [
+        {
+            "type": "generic.armor",
+            "modifier": {
+                "name": "tiered:uncommon_armor_2",
+                "operation": "ADDITION",
+                "amount": -1
+            },
+            "optional_equipment_slots": [
+                "FEET",
+                "LEGS",
+                "CHEST",
+                "HEAD"
+            ]
+        },
+        {
+            "type": "generic.max_health",
+            "modifier": {
+                "name": "tiered:uncommon_armor_2",
+                "operation": "ADDITION",
+                "amount": 1
+            },
+            "optional_equipment_slots": [
+                "FEET",
+                "LEGS",
+                "CHEST",
+                "HEAD"
+            ]
+        }
+    ]
+}

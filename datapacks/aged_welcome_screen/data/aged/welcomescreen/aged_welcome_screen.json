@@ -1,0 +1,102 @@
+{
+    "title": {
+        "center": true,
+        "object_center": true,
+        "pos": [
+            0,
+            10
+        ],
+        "text": "Welcome to the Aged Modpack!"
+    },
+    "button_1": {
+        "center": false,
+        "object_center": false,
+        "pos": [
+            10,
+            10
+        ],
+        "size": [
+            100,
+            20
+        ],
+        "text": "Join our Discord",
+        "link": "https://discord.gg/2peBqWRwVp"
+    },
+    "text_1": {
+        "center": true,
+        "object_center": true,
+        "pos": [
+            60,
+            -40
+        ],
+        "text": [
+            "Before you start your journey we want you",
+            "to know that you can get the guide book",
+            "via a command /get-lavender-book."
+        ]
+    },
+    "text_2": {
+        "center": true,
+        "object_center": true,
+        "pos": [
+            60,
+            0
+        ],
+        "text": [
+            "One of your first tasks are getting food and fresh water.",
+            "Another one is to pick up stones and flint from the ground.",
+            "Craft a crafting rock, put sticks from leaves and flint",
+            "on it and hit it a few times with another rock."
+        ]
+    },
+    "text_3": {
+        "center": true,
+        "object_center": true,
+        "pos": [
+            60,
+            60
+        ],
+        "text": [
+            "Have fun playing and feel free to share your builds",
+            "at our Discord!"
+        ]
+    },
+    "image_1": {
+        "center": true,
+        "object_center": true,
+        "pos": [
+            -150,
+            20
+        ],
+        "size": [
+            256,
+            256
+        ],
+        "id": "aged:textures/pack.png"
+    },
+    "close": {
+        "center": true,
+        "object_center": true,
+        "pos": [
+            60,
+            105
+        ],
+        "text": "Start"
+    },
+    "commands": [
+        "/item replace entity @s hotbar.0 with minecraft:bread 4",
+        "/item replace entity @s hotbar.1 with minecraft:apple 4",
+        "/item replace entity @s hotbar.4 with lavender:dynamic_book{BookId:'aged:aged_guide_book'}",
+        "/item replace entity @s hotbar.7 with minecraft:potion{Potion:'minecraft:purified_water'}",
+        "/item replace entity @s hotbar.8 with minecraft:campfire"
+    ],
+    "background": {
+        "center": false,
+        "object_center": false,
+        "id": "textures/gui/advancements/backgrounds/stone.png",
+        "size": [
+            0,
+            0
+        ]
+    }
+}

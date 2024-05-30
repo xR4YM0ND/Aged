@@ -1,0 +1,36 @@
+{
+    "id": "tiered:epic_elytra_2",
+    "verifiers": [
+        {
+            "id": "minecraft:elytra"
+        }
+    ],
+    "weight": 8,
+    "style": {
+        "color": "dark_purple"
+    },
+    "attributes": [
+        {
+            "type": "tiered:generic.durable",
+            "modifier": {
+                "name": "tiered:epic_elytra_2",
+                "operation": "MULTIPLY_TOTAL",
+                "amount": 0.2
+            },
+            "optional_equipment_slots": [
+                "CHEST"
+            ]
+        },
+        {
+            "type": "generic.movement_speed",
+            "modifier": {
+                "name": "tiered:epic_elytra_2",
+                "operation": "MULTIPLY_TOTAL",
+                "amount": 0.05
+            },
+            "optional_equipment_slots": [
+                "CHEST"
+            ]
+        }
+    ]
+}

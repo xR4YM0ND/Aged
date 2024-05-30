@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:echo_shard",
+        "minecraft:amethyst_shard",
+        "adventurez:gilded_blackstone_shard",
+        "betterarcheology:artifact_shards"
+    ]
+}

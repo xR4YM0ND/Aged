@@ -1,0 +1,7 @@
+{
+	"maxNutrition": 120,
+	"negativeNutrition": 12,
+	"positiveNutrition": 108,
+	"vitaminItemId": "candlelight:lettuce",
+	"mineralItemId": "meadow:alpine_salt"
+}

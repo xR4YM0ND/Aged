@@ -1,0 +1,45 @@
+{
+    "id": "tiered:rare_tool_2",
+    "verifiers": [
+        {
+            "tag": "c:axes"
+        },
+        {
+            "tag": "c:pickaxes"
+        },
+        {
+            "tag": "c:shovels"
+        },
+        {
+            "tag": "c:hoes"
+        }
+    ],
+    "weight": 15,
+    "style": {
+        "color": "blue"
+    },
+    "attributes": [
+        {
+            "type": "tiered:generic.durable",
+            "modifier": {
+                "name": "tiered:rare_tool_2",
+                "operation": "MULTIPLY_TOTAL",
+                "amount": 0.2
+            },
+            "optional_equipment_slots": [
+                "MAINHAND"
+            ]
+        },
+        {
+            "type": "generic.movement_speed",
+            "modifier": {
+                "name": "tiered:rare_tool_2",
+                "operation": "MULTIPLY_TOTAL",
+                "amount": -0.05
+            },
+            "optional_equipment_slots": [
+                "MAINHAND"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+{
+	"grape_growth_speed": 5,
+	"years_per_effect_level": 1,
+	"wine_trader_chance": 20,
+	"year_length_in_days": 64
+}

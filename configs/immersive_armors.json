@@ -1,0 +1,10 @@
+{
+    "hudClockX": -113,
+    "hudClockXOffhand": -113,
+    "hudClockY": -48,
+    "hudCompassX": -135,
+    "hudCompassXOffhand": -135,
+    "hudCompassY": -48,
+    "lootChance": 0.015,
+    "mobEntityUseImmersiveArmorChance": 0.2
+}

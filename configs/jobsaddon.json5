@@ -1,0 +1,21 @@
+{
+	"employedJobs": 3,
+	"jobChangeTime": 24000,
+	"jobMaxLevel": 150,
+	"jobXPBaseCost": 100,
+	"jobXPCostMultiplicator": 1.6,
+	"jobXPExponent": 1,
+	"jobXPMaxCost": 0,
+	"brewerXP": 1,
+	"builderXP": 1,
+	"farmerXP": 1,
+	"fisherXP": 1,
+	"lumberjackXP": 1,
+	"minerXP": 1,
+	"smitherXP": 1,
+	"warriorXP": 1,
+	"xpMultiplicator": 1,
+	"levelZXPMultiplicator": 1,
+	"moneyMultiplicator": 1,
+	"allowMaxLvlProgress": true
+}

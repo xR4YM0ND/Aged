@@ -1,0 +1,15 @@
+{
+    "showLevel": false,
+    "levelTitle": false,
+    "excludedEntities": [
+        "minecraft:ender_dragon",
+        "minecraft:wither",
+        "adventurez:stone_golem",
+        "adventurez:void_shadow",
+        "adventurez:the_eye",
+        "minecraft:villager",
+        "minecraft:wandering_trader",
+        "bakery:wandering_baker",
+        "vinery:wandering_winemaker"
+    ]
+}

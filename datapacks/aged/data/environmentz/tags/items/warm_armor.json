@@ -1,0 +1,22 @@
+{
+    "replace": true,
+    "values": [
+        "minecraft:leather_helmet",
+        "minecraft:leather_chestplate",
+        "minecraft:leather_leggings",
+        "minecraft:leather_boots",
+        "environmentz:wolf_helmet",
+        "environmentz:wolf_chestplate",
+        "environmentz:wolf_leggings",
+        "environmentz:wolf_boots",
+        "immersive_armors:steampunk_helmet",
+        "immersive_armors:steampunk_chestplate",
+        "immersive_armors:steampunk_leggings",
+        "immersive_armors:steampunk_boots",
+        "meadow:fur_helmet",
+        "meadow:fur_chestplate",
+        "meadow:fur_leggings",
+        "meadow:fur_boots",
+        "endermanoverhaul:snowy_hood"
+    ]
+}

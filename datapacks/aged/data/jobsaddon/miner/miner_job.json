@@ -1,0 +1,87 @@
+{
+    "3": {
+        "replace": true,
+        "blocks": [
+            "minecraft:coal_ore",
+            "minecraft:deepslate_coal_ore",
+            "meadow:alpine_coal_ore",
+            "minecraft:nether_gold_ore"
+        ]
+    },
+    "4": {
+        "replace": true,
+        "blocks": [
+            "minecraft:copper_ore",
+            "minecraft:deepslate_copper_ore",
+            "meadow:alpine_copper_ore",
+            "minecraft:nether_quartz_ore"
+        ]
+    },
+    "5": {
+        "replace": true,
+        "blocks": [
+            "agedaddition:stone_salt_ore",
+            "meadow:alpine_salt_ore"
+        ]
+    },
+    "6": {
+        "replace": true,
+        "blocks": [
+            "minecraft:redstone_ore",
+            "minecraft:deepslate_redstone_ore",
+            "meadow:alpine_redstone_ore"
+        ]
+    },
+    "7": {
+        "replace": true,
+        "blocks": [
+            "minecraft:iron_ore",
+            "minecraft:deepslate_iron_ore",
+            "meadow:alpine_iron_ore"
+        ]
+    },
+    "8": {
+        "replace": true,
+        "blocks": [
+            "minecraft:lapis_ore",
+            "minecraft:deepslate_lapis_ore",
+            "meadow:alpine_lapis_ore"
+        ]
+    },
+    "9": {
+        "replace": true,
+        "blocks": [
+            "minecraft:amethyst_cluster"
+        ]
+    },
+    "10": {
+        "replace": true,
+        "blocks": [
+            "minecraft:gold_ore",
+            "minecraft:deepslate_gold_ore",
+            "meadow:alpine_gold_ore"
+        ]
+    },
+    "15": {
+        "replace": true,
+        "blocks": [
+            "minecraft:emerald_ore",
+            "minecraft:deepslate_emerald_ore",
+            "meadow:alpine_emerald_ore"
+        ]
+    },
+    "20": {
+        "replace": true,
+        "blocks": [
+            "minecraft:diamond_ore",
+            "minecraft:deepslate_diamond_ore",
+            "meadow:alpine_diamond_ore"
+        ]
+    },
+    "30": {
+        "replace": true,
+        "blocks": [
+            "minecraft:ancient_debris"
+        ]
+    }
+}

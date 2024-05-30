@@ -1,0 +1,25 @@
+{
+    "id": "tiered:uncommon_elytra_1",
+    "verifiers": [
+        {
+            "id": "minecraft:elytra"
+        }
+    ],
+    "weight": 35,
+    "style": {
+        "color": "dark_green"
+    },
+    "attributes": [
+        {
+            "type": "tiered:generic.durable",
+            "modifier": {
+                "name": "tiered:uncommon_elytra_1",
+                "operation": "MULTIPLY_TOTAL",
+                "amount": -0.25
+            },
+            "optional_equipment_slots": [
+                "CHEST"
+            ]
+        }
+    ]
+}

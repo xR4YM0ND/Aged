@@ -1,0 +1,6 @@
+{
+	"itemThrowing": false,
+	"itemsActAsProjectiles": false,
+	"renderFullTooltip": false,
+	"blocksLayFlat": true
+}

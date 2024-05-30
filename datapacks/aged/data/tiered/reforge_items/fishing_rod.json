@@ -1,0 +1,8 @@
+{
+    "items": [
+        "minecraft:fishing_rod"
+    ],
+    "base": [
+        "minecraft:string"
+    ]
+}

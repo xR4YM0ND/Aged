@@ -1,0 +1,36 @@
+{
+    "id": "tiered:unique_elytra_2",
+    "verifiers": [
+        {
+            "id": "minecraft:elytra"
+        }
+    ],
+    "weight": 0,
+    "style": {
+        "color": "light_purple"
+    },
+    "attributes": [
+        {
+            "type": "tiered:generic.durable",
+            "modifier": {
+                "name": "tiered:unique_elytra_2",
+                "operation": "MULTIPLY_TOTAL",
+                "amount": 0.5
+            },
+            "optional_equipment_slots": [
+                "CHEST"
+            ]
+        },
+        {
+            "type": "generic.max_health",
+            "modifier": {
+                "name": "tiered:unique_elytra_2",
+                "operation": "ADDITION",
+                "amount": 6
+            },
+            "optional_equipment_slots": [
+                "CHEST"
+            ]
+        }
+    ]
+}

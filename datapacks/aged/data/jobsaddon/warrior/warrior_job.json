@@ -1,0 +1,236 @@
+{
+    "1": {
+        "replace": true,
+        "entities": [
+            "minecraft:bat",
+            "minecraft:parrot",
+            "minecraft:frog",
+            "minecraft:cat",
+            "minecraft:ocelot",
+            "minecraft:rabbit",
+            "minecraft:allay",
+            "minecraft:chicken",
+            "minecraft:snow_golem",
+            "minecraft:villager",
+            "minecraft:trader_llama",
+            "minecraft:wandering_trader",
+            "minecraft:cod",
+            "minecraft:salmon",
+            "minecraft:tadpole",
+            "minecraft:tropical_fish"
+        ]
+    },
+    "2": {
+        "replace": true,
+        "entities": [
+            "minecraft:cow",
+            "minecraft:sheep",
+            "minecraft:fox",
+            "minecraft:turtle",
+            "minecraft:pig",
+            "minecraft:mooshroom",
+            "minecraft:horse",
+            "minecraft:glow_squid",
+            "minecraft:squid",
+            "minecraft:magma_cube",
+            "minecraft:pufferfish",
+            "adventurez:deer",
+            "meadow:wooly_cow",
+            "vinery:wandering_winemaker",
+            "bakery:wandering_baker"
+        ]
+    },
+    "3": {
+        "replace": true,
+        "entities": [
+            "minecraft:donkey",
+            "minecraft:llama",
+            "minecraft:mule",
+            "minecraft:bee",
+            "minecraft:slime",
+            "minecraft:wolf",
+            "minecraft:camel",
+            "adventurez:iguana",
+            "meadow:water_buffalo",
+            "vinery:mule"
+        ]
+    },
+    "4": {
+        "replace": true,
+        "entities": [
+            "minecraft:strider",
+            "minecraft:dolphin",
+            "minecraft:panda",
+            "minecraft:axolotl",
+            "minecraft:piglin",
+            "minecraft:shulker",
+            "minecraft:zombified_piglin"
+        ]
+    },
+    "5": {
+        "replace": true,
+        "entities": [
+            "minecraft:goat",
+            "minecraft:spider",
+            "minecraft:husk",
+            "minecraft:drowned",
+            "minecraft:zombie",
+            "adventurez:red_fungus",
+            "adventurez:brown_fungus"
+        ]
+    },
+    "6": {
+        "replace": true,
+        "entities": [
+            "minecraft:cave_spider",
+            "minecraft:endermite",
+            "minecraft:skeleton",
+            "minecraft:zombie_villager",
+            "minecraft:stray",
+            "minecraft:enderman",
+            "underground_jungle:jungle_zombie",
+            "adventurez:wither_puppet"
+        ]
+    },
+    "7": {
+        "replace": true,
+        "entities": [
+            "minecraft:phantom",
+            "minecraft:zombie_horse",
+            "minecraft:creeper",
+            "minecraft:skeleton_horse",
+            "underground_jungle:mossy_skeleton",
+            "spider_caves:black_recluse",
+            "adventurez:nightmare"
+        ]
+    },
+    "8": {
+        "replace": true,
+        "entities": [
+            "minecraft:hoglin",
+            "minecraft:witch",
+            "minecraft:zoglin",
+            "minecraft:vex",
+            "minecraft:guardian",
+            "adventurez:ender_whale"
+        ]
+    },
+    "10": {
+        "replace": true,
+        "entities": [
+            "minecraft:polar_bear",
+            "minecraft:pillager",
+            "minecraft:sniffer"
+        ]
+    },
+    "11": {
+        "replace": true,
+        "entities": [
+            "minecraft:blaze",
+            "adventurez:skeleton_vanguard"
+        ]
+    },
+    "12": {
+        "replace": true,
+        "entities": [
+            "minecraft:iron_golem",
+            "adventurez:orc",
+            "adventurez:enderwarthog"
+        ]
+    },
+    "13": {
+        "replace": true,
+        "entities": [
+            "adventurez:summoner"
+        ]
+    },
+    "14": {
+        "replace": true,
+        "entities": [
+            "minecraft:wither_skeleton",
+            "adventurez:desert_rhino"
+        ]
+    },
+    "15": {
+        "replace": true,
+        "entities": [
+            "minecraft:ghast",
+            "adventurez:necromancer",
+            "adventurez:shaman",
+            "adventurez:void_fragment"
+        ]
+    },
+    "20": {
+        "replace": true,
+        "entities": [
+            "minecraft:piglin_brute",
+            "minecraft:elder_guardian",
+            "adventurez:soul_reaper",
+            "adventurez:blaze_guardian",
+            "adventurez:amethyst_golem",
+            "adventurez:mammoth"
+        ]
+    },
+    "25": {
+        "replace": true,
+        "entities": [
+            "minecraft:illusioner",
+            "minecraft:player",
+            "adventurez:mini_blackstone_golem",
+            "brewery:beer_elemental"
+        ]
+    },
+    "30": {
+        "replace": true,
+        "entities": [
+            "minecraft:vindicator",
+            "minecraft:ravager",
+            "minecraft:evoker",
+            "minecraft:giant"
+        ]
+    },
+    "50": {
+        "replace": true,
+        "entities": [
+            "adventurez:piglin_beast",
+            "adventurez:void_shade",
+            "adventurez:dragon"
+        ]
+    },
+    "100": {
+        "replace": true,
+        "entities": [
+            "minecraft:wither"
+        ]
+    },
+    "150": {
+        "replace": true,
+        "entities": [
+            "minecraft:warden"
+        ]
+    },
+    "200": {
+        "replace": true,
+        "entities": [
+            "adventurez:blackstone_golem"
+        ]
+    },
+    "500": {
+        "replace": true,
+        "entities": [
+            "minecraft:ender_dragon"
+        ]
+    },
+    "750": {
+        "replace": true,
+        "entities": [
+            "adventurez:the_eye"
+        ]
+    },
+    "1000": {
+        "replace": true,
+        "entities": [
+            "adventurez:void_shadow"
+        ]
+    }
+}

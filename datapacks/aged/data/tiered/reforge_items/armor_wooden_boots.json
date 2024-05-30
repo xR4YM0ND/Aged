@@ -1,0 +1,19 @@
+{
+    "items": [
+        "immersive_armors:wooden_boots"
+    ],
+    "base": [
+        "minecraft:oak_log",
+        "minecraft:spruce_log",
+        "minecraft:birch_log",
+        "minecraft:jungle_log",
+        "minecraft:acacia_log",
+        "minecraft:dark_oak_log",
+        "minecraft:mangrove_log",
+        "minecraft:cherry_log",
+        "betterarcheology:rotten_log",
+        "meadow:pine_log",
+        "vinery:cherry_log",
+        "vinery:apple_log"
+    ]
+}

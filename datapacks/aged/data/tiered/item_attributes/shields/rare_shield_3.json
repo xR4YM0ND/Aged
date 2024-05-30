@@ -1,0 +1,50 @@
+{
+    "id": "tiered:rare_shield_3",
+    "verifiers": [
+        {
+            "tag": "c:shields"
+        }
+    ],
+    "weight": 15,
+    "style": {
+        "color": "blue"
+    },
+    "attributes": [
+        {
+            "type": "generic.armor",
+            "modifier": {
+                "name": "tiered:rare_shield_3",
+                "operation": "ADDITION",
+                "amount": 1
+            },
+            "optional_equipment_slots": [
+                "MAINHAND",
+                "OFFHAND"
+            ]
+        },
+        {
+            "type": "tiered:generic.durable",
+            "modifier": {
+                "name": "tiered:rare_shield_3",
+                "operation": "MULTIPLY_TOTAL",
+                "amount": 0.1
+            },
+            "optional_equipment_slots": [
+                "MAINHAND",
+                "OFFHAND"
+            ]
+        },
+        {
+            "type": "generic.movement_speed",
+            "modifier": {
+                "name": "tiered:rare_shield_3",
+                "operation": "MULTIPLY_TOTAL",
+                "amount": -0.05
+            },
+            "optional_equipment_slots": [
+                "MAINHAND",
+                "OFFHAND"
+            ]
+        }
+    ]
+}

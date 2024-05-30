@@ -1,0 +1,42 @@
+{
+    "1": {
+        "replace": true,
+        "blocks": [
+            "betterarcheology:rotten_log"
+        ]
+    },
+    "2": {
+        "replace": true,
+        "blocks": [
+            "minecraft:jungle_log"
+        ]
+    },
+    "3": {
+        "replace": true,
+        "blocks": [
+            "minecraft:birch_log",
+            "minecraft:spruce_log",
+            "minecraft:mangrove_log",
+            "minecraft:dark_oak_log",
+            "minecraft:acacia_log",
+            "minecraft:oak_log",
+            "minecraft:cherry_log"
+        ]
+    },
+    "4": {
+        "replace": true,
+        "blocks": [
+            "meadow:pine_log",
+            "minecraft:crimson_stem",
+            "minecraft:warped_stem",
+            "gardens_of_the_dead:soulblight_stem"
+        ]
+    },
+    "5": {
+        "replace": true,
+        "blocks": [
+            "vinery:apple_log",
+            "vinery:cherry_log"
+        ]
+    }
+}

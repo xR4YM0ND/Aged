@@ -1,0 +1,9 @@
+{
+    "hydrating_factor": 2.0,
+    "thirst_effect_factor": 0.03,
+    "potion_bad_thirst_chance": 0.15,
+    "flask_dirty_thirst_chance": 0.3,
+    "flask_dirty_thirst_duration": 200,
+    "water_sip_thirst_chance": 0.5,
+    "water_sip_thirst_duration": 300
+}
