@@ -3,6 +3,9 @@
     "verifiers": [
         {
             "tag": "c:swords"
+        },
+        {
+            "tag": "aged:melee"
         }
     ],
     "weight": 50,

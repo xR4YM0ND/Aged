@@ -1,0 +1,8 @@
+{
+    "items": [
+        "dungeonnowloading:spawner_sword"
+    ],
+    "base": [
+        "dungeonnowloading:spawner_frame"
+    ]
+}
