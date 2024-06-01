@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "skill": "alchemy",
+    "level": 5,
+    "item": [
+        "minecraft:cauldron"
+    ]
+}

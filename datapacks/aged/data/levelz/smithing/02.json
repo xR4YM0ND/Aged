@@ -1,0 +1,15 @@
+{
+    "replace": true,
+    "level": 2,
+    "item": [
+        "environmentz:wolf_pelt",
+        "environmentz:wolf_helmet",
+        "environmentz:wolf_chestplate",
+        "environmentz:wolf_leggings",
+        "environmentz:wolf_boots",
+        "environmentz:wanderer_helmet",
+        "environmentz:wanderer_chestplate",
+        "environmentz:wanderer_leggings",
+        "environmentz:wanderer_boots"
+    ]
+}

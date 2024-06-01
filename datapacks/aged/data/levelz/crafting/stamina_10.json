@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "skill": "stamina",
+    "level": 10,
+    "item": [
+        "minecraft:loom"
+    ]
+}

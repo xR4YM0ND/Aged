@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "skill": "agility",
+    "level": 18,
+    "item": [
+        "minecraft:respawn_anchor"
+    ]
+}

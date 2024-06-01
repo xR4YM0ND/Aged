@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "skill": "stamina",
+    "level": 16,
+    "item": [
+        "brewery:breathalyzer"
+    ]
+}

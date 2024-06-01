@@ -33,7 +33,8 @@
     "hudTesting": false,
     "excludedEntity": [
         "minecraft:warden",
-        "minecraft:ender_dragon"
+        "minecraft:ender_dragon",
+        "dungeonnowloading:chaos_spawner"
     ],
     "allowSpecialZombie": true,
     "bigZombieChance": 10,

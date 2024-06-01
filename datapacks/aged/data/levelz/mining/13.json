@@ -1,0 +1,16 @@
+{
+    "replace": true,
+    "level": 13,
+    "block": [
+        "minecraft:emerald_ore",
+        "meadow:alpine_emerald_ore",
+        "minecraft:emerald_block",
+        "earlystage:steel_block",
+        "minecraft:basalt",
+        "minecraft:smooth_basalt",
+        "minecraft:polished_basalt",
+        "candlelight:basalt_stove",
+        "candlelight:basalt_kitchen_sink",
+        "candlelight:basalt_counter"
+    ]
+}

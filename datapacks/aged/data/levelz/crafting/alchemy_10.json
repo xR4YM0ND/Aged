@@ -1,0 +1,10 @@
+{
+    "replace": false,
+    "skill": "alchemy",
+    "level": 10,
+    "item": [
+        "brewery:copper_brewingstation",
+        "herbalbrews:witch_hat",
+        "inmis:ender_pouch"
+    ]
+}

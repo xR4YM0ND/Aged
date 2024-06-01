@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "farming",
+    "level": 6,
+    "block": "minecraft:custom_block",
+    "object": "nethervinery:warped_apple_press"
+}

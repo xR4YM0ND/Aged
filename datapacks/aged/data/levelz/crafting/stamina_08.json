@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "skill": "stamina",
+    "level": 8,
+    "item": [
+        "minecraft:fishing_rod"
+    ]
+}

@@ -10,6 +10,7 @@
         "minecraft:villager",
         "minecraft:wandering_trader",
         "bakery:wandering_baker",
-        "vinery:wandering_winemaker"
+        "vinery:wandering_winemaker",
+        "dungeonnowloading:chaos_spawner"
     ]
 }

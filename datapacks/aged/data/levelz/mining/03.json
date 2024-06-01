@@ -1,0 +1,17 @@
+{
+    "replace": true,
+    "level": 3,
+    "block": [
+        "minecraft:calcite",
+        "minecraft:bricks",
+        "minecraft:brick_stairs",
+        "minecraft:brick_slab",
+        "minecraft:brick_wall",
+        "bakery:kitchen_sink",
+        "bakery:brick_stove",
+        "bakery:brick_counter",
+        "bakery:baker_station",
+        "minecraft:flower_pot",
+        "minecraft:decorated_pot"
+    ]
+}

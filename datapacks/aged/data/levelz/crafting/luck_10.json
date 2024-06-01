@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "skill": "luck",
+    "level": 10,
+    "item": [
+        "minecraft:jukebox"
+    ]
+}

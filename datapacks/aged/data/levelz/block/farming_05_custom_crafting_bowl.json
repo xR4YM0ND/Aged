@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "farming",
+    "level": 5,
+    "block": "minecraft:custom_block",
+    "object": "bakery:crafting_bowl"
+}

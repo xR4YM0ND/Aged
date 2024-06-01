@@ -1,0 +1,7 @@
+{
+    "replace": true,
+    "skill": "luck",
+    "level": 10,
+    "block": "minecraft:custom_block",
+    "object": "minecraft:jukebox"
+}

@@ -1,0 +1,13 @@
+{
+    "replace": true,
+    "level": 7,
+    "block": [
+        "minecraft:diorite",
+        "minecraft:diorite_stairs",
+        "minecraft:diorite_slab",
+        "minecraft:diorite_wall",
+        "minecraft:polished_diorite",
+        "minecraft:polished_diorite_stairs",
+        "minecraft:polished_diorite_slab"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "replace": false,
+    "skill": "farming",
+    "level": 14,
+    "item": [
+        "underground_jungle:axe_of_regrowth",
+        "niftycarts:supply_cart",
+        "meadow:cooking_pot"
+    ]
+}

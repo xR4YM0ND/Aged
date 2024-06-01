@@ -1,0 +1,7 @@
+{
+    "replace": true,
+    "skill": "defense",
+    "level": 5,
+    "item": "minecraft:armor",
+    "material": "wolf_pelt"
+}

@@ -1,0 +1,16 @@
+{
+    "replace": true,
+    "level": 8,
+    "item": [
+        "minecraft:brush",
+        "minecraft:bone",
+        "immersive_armors:bone_helmet",
+        "immersive_armors:bone_chestplate",
+        "immersive_armors:bone_leggings",
+        "immersive_armors:bone_boots",
+        "immersive_armors:wither_helmet",
+        "immersive_armors:wither_chestplate",
+        "immersive_armors:wither_leggings",
+        "immersive_armors:wither_boots"
+    ]
+}

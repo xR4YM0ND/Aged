@@ -1,0 +1,14 @@
+{
+    "replace": true,
+    "level": 15,
+    "item": [
+        "brewery:brewfest_hat",
+        "brewery:brewfest_regalia",
+        "brewery:brewfest_trousers",
+        "brewery:brewfest_boots",
+        "brewery:brewfest_hat_red",
+        "brewery:brewfest_dress",
+        "brewery:brewfest_blouse",
+        "brewery:brewfest_shoes"
+    ]
+}

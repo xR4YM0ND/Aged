@@ -1,0 +1,11 @@
+{
+    "replace": true,
+    "level": 13,
+    "item": [
+        "minecraft:prismarine_crystals",
+        "immersive_armors:prismarine_helmet",
+        "immersive_armors:prismarine_chestplate",
+        "immersive_armors:prismarine_leggings",
+        "immersive_armors:prismarine_boots"
+    ]
+}

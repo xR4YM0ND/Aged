@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "skill": "archery",
+    "level": 10,
+    "item": [
+        "minecraft:fletching_table"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "replace": false,
+    "skill": "alchemy",
+    "level": 12,
+    "item": [
+        "vinery:fermentation_barrel",
+        "nethervinery:crimson_fermentation_barrel",
+        "nethervinery:warped_fermentation_barrel",
+        "immersive_armors:wither_helmet",
+        "immersive_armors:wither_chestplate",
+        "immersive_armors:wither_leggings",
+        "immersive_armors:wither_boots"
+    ]
+}

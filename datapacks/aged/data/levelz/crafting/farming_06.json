@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "skill": "farming",
+    "level": 6,
+    "item": [
+        "minecraft:golden_axe",
+        "minecraft:golden_hoe",
+        "niftycarts:plow",
+        "vinery:apple_press",
+        "nethervinery:crimson_apple_press",
+        "nethervinery:warped_apple_press"
+    ]
+}

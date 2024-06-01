@@ -1,0 +1,32 @@
+{
+    "replace": true,
+    "values": [
+        "minecraft:wheat",
+        "minecraft:carrot",
+        "minecraft:potato",
+        "minecraft:beetroot",
+        "minecraft:torchflower",
+        "bakery:strawberry",
+        "bakery:oat",
+        "brewery:hops",
+        "brewery:barley",
+        "brewery:corn",
+        "candlelight:tomato",
+        "candlelight:lettuce",
+        "herbalbrews:green_tea_leaf",
+        "herbalbrews:yerba_mate_leaf",
+        "herbalbrews:rooibos_leaf",
+        "herbalbrews:coffee_beans",
+        "nethervinery:crimson_grape",
+        "nethervinery:warped_grape",
+        "vinery:cherry",
+        "vinery:red_grape",
+        "vinery:white_grape",
+        "vinery:savanna_grapes_red",
+        "vinery:savanna_grapes_white",
+        "vinery:taiga_grapes_red",
+        "vinery:taiga_grapes_white",
+        "vinery:jungle_grapes_white",
+        "vinery:jungle_grapes_red"
+    ]
+}

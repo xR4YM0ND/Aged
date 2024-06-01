@@ -1,0 +1,22 @@
+{
+    "replace": true,
+    "level": 19,
+    "block": [
+        "minecraft:obsidian",
+        "minecraft:crying_obsidian",
+        "minecraft:respawn_anchor",
+        "nethervinery:obsidian_stem",
+        "minecraft:enchanting_table",
+        "minecraft:beacon",
+        "minecraft:end_stone",
+        "minecraft:end_stone_bricks",
+        "minecraft:end_stone_brick_stairs",
+        "minecraft:end_stone_brick_slab",
+        "minecraft:end_stone_brick_wall",
+        "bakery:end_stove",
+        "candlelight:end_stove",
+        "candlelight:end_kitchen_sink",
+        "candlelight:end_counter",
+        "extended_drawers:shadow_drawer"
+    ]
+}

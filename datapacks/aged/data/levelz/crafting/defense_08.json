@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "skill": "defense",
+    "level": 8,
+    "item": [
+        "minecraft:iron_helmet",
+        "minecraft:iron_chestplate",
+        "minecraft:iron_leggings",
+        "minecraft:iron_boots"
+    ]
+}

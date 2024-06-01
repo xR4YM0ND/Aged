@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "skill": "alchemy",
+    "level": 2,
+    "item": [
+        "dehydration:copper_cauldron",
+        "dehydration:campfire_cauldron"
+    ]
+}

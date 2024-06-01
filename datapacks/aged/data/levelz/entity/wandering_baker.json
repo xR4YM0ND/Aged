@@ -1,0 +1,7 @@
+{
+    "replace": true,
+    "skill": "trade",
+    "level": 10,
+    "entity": "minecraft:custom_entity",
+    "object": "bakery:wandering_baker"
+}

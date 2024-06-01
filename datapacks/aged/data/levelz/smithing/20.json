@@ -1,0 +1,11 @@
+{
+    "replace": true,
+    "level": 20,
+    "item": [
+        "adventurez:gilded_netherite_fragment",
+        "adventurez:gilded_netherite_helmet",
+        "adventurez:gilded_netherite_chestplate",
+        "adventurez:gilded_netherite_leggings",
+        "adventurez:gilded_netherite_boots"
+    ]
+}

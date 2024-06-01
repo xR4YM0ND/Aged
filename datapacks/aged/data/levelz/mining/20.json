@@ -1,0 +1,15 @@
+{
+    "replace": true,
+    "level": 20,
+    "block": [
+        "minecraft:ancient_debris",
+        "minecraft:netherite_block",
+        "brewery:netherite_brewingstation",
+        "minecraft:purpur_block",
+        "minecraft:purpur_pillar",
+        "minecraft:purpur_stairs",
+        "minecraft:purpur_slab",
+        "extended_drawers:access_point",
+        "minecraft:end_rod"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "skill": "agility",
+    "level": 8,
+    "item": [
+        "meadow:fur_helmet",
+        "meadow:fur_chestplate",
+        "meadow:fur_leggings",
+        "meadow:fur_boots"
+    ]
+}

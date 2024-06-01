@@ -90,7 +90,8 @@
             "minecraft:long_regeneration",
             "minecraft:strong_regeneration",
             "minecraft:slow_falling",
-            "minecraft:long_slow_falling"
+            "minecraft:long_slow_falling",
+            "naturalist:forest_dasher"
         ],
         "enchantments": [
             "additionz:dexterity",

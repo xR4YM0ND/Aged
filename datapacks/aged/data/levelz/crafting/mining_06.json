@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "skill": "mining",
+    "level": 6,
+    "item": [
+        "minecraft:golden_pickaxe",
+        "minecraft:golden_shovel"
+    ]
+}

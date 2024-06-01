@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "skill": "defense",
+    "level": 5,
+    "item": [
+        "environmentz:wolf_helmet",
+        "environmentz:wolf_chestplate",
+        "environmentz:wolf_leggings",
+        "environmentz:wolf_boots"
+    ]
+}

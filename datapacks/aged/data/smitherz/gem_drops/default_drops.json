@@ -19,7 +19,22 @@
             "minecraft:cave_spider",
             "minecraft:zombie_villager",
             "adventurez:brown_fungus",
-            "adventurez:orc"
+            "adventurez:orc",
+            "creeperoverhaul:badlands_creeper",
+            "creeperoverhaul:bamboo_creeper",
+            "creeperoverhaul:beach_creeper",
+            "creeperoverhaul:cave_creeper",
+            "creeperoverhaul:dark_oak_creeper",
+            "creeperoverhaul:desert_creeper",
+            "creeperoverhaul:dripstone_creeper",
+            "creeperoverhaul:hills_creeper",
+            "creeperoverhaul:jungle_creeper",
+            "creeperoverhaul:mushroom_creeper",
+            "creeperoverhaul:ocean_creeper",
+            "creeperoverhaul:savannah_creeper",
+            "creeperoverhaul:snowy_creeper",
+            "creeperoverhaul:spruce_creeper",
+            "creeperoverhaul:swamp_creeper"
         ],
         "rarity_group": 0,
         "difficulty_multiplier": 1.0
@@ -43,8 +58,45 @@
             "minecraft:skeleton",
             "minecraft:cave_spider",
             "minecraft:zombie_villager",
+            "minecraft:enderman",
             "adventurez:ender_whale",
-            "adventurez:mammoth"
+            "adventurez:mammoth",
+            "creeperoverhaul:badlands_creeper",
+            "creeperoverhaul:bamboo_creeper",
+            "creeperoverhaul:beach_creeper",
+            "creeperoverhaul:cave_creeper",
+            "creeperoverhaul:dark_oak_creeper",
+            "creeperoverhaul:desert_creeper",
+            "creeperoverhaul:dripstone_creeper",
+            "creeperoverhaul:hills_creeper",
+            "creeperoverhaul:jungle_creeper",
+            "creeperoverhaul:mushroom_creeper",
+            "creeperoverhaul:ocean_creeper",
+            "creeperoverhaul:savannah_creeper",
+            "creeperoverhaul:snowy_creeper",
+            "creeperoverhaul:spruce_creeper",
+            "creeperoverhaul:swamp_creeper",
+            "endermanoverhaul:badlands_enderman",
+            "endermanoverhaul:cave_enderman",
+            "endermanoverhaul:coral_enderman",
+            "endermanoverhaul:crimson_forest_enderman",
+            "endermanoverhaul:dark_oak_enderman",
+            "endermanoverhaul:desert_enderman",
+            "endermanoverhaul:end_enderman",
+            "endermanoverhaul:end_islands_enderman",
+            "endermanoverhaul:flower_fields_enderman",
+            "endermanoverhaul:ice_spikes_enderman",
+            "endermanoverhaul:mushroom_fields_enderman",
+            "endermanoverhaul:nether_wastes_enderman",
+            "endermanoverhaul:savanna_enderman",
+            "endermanoverhaul:snowy_enderman",
+            "endermanoverhaul:soulsand_valley_enderman",
+            "endermanoverhaul:swamp_enderman",
+            "endermanoverhaul:warped_forest_enderman",
+            "endermanoverhaul:windswept_hills_enderman",
+            "naturalist:bear",
+            "naturalist:alligator",
+            "naturalist:lion"
         ],
         "rarity_group": 1,
         "difficulty_multiplier": 1.5
@@ -81,7 +133,26 @@
             "adventurez:summoner",
             "underground_jungle:jungle_zombie",
             "underground_jungle:mossy_skeleton",
-            "spider_caves:black_recluse"
+            "spider_caves:black_recluse",
+            "endermanoverhaul:badlands_enderman",
+            "endermanoverhaul:cave_enderman",
+            "endermanoverhaul:coral_enderman",
+            "endermanoverhaul:crimson_forest_enderman",
+            "endermanoverhaul:dark_oak_enderman",
+            "endermanoverhaul:desert_enderman",
+            "endermanoverhaul:end_enderman",
+            "endermanoverhaul:end_islands_enderman",
+            "endermanoverhaul:flower_fields_enderman",
+            "endermanoverhaul:ice_spikes_enderman",
+            "endermanoverhaul:mushroom_fields_enderman",
+            "endermanoverhaul:nether_wastes_enderman",
+            "endermanoverhaul:savanna_enderman",
+            "endermanoverhaul:snowy_enderman",
+            "endermanoverhaul:soulsand_valley_enderman",
+            "endermanoverhaul:swamp_enderman",
+            "endermanoverhaul:warped_forest_enderman",
+            "endermanoverhaul:windswept_hills_enderman",
+            "naturalist:rhino"
         ],
         "rarity_group": 2,
         "difficulty_multiplier": 2.0
@@ -106,7 +177,9 @@
             "adventurez:mini_blackstone_golem",
             "adventurez:shaman",
             "adventurez:soul_reaper",
-            "brewery:beer_elemental"
+            "brewery:beer_elemental",
+            "dungeonnowloading:hollow",
+            "dungeonnowloading:spawner_carrier"
         ],
         "rarity_group": 3,
         "difficulty_multiplier": 2.0
@@ -184,6 +257,21 @@
         "drop_chance": 1.5,
         "mob_types": [
             "adventurez:void_shadow"
+        ],
+        "rarity_group": 4,
+        "difficulty_multiplier": 2.0
+    },
+    "boss_chaos_spawner": {
+        "items": [
+            "smitherz:strength_5_gem",
+            "smitherz:defense_5_gem",
+            "smitherz:health_5_gem",
+            "smitherz:speed_5_gem",
+            "smitherz:attack_speed_5_gem"
+        ],
+        "drop_chance": 2.0,
+        "mob_types": [
+            "dungeonnowloading:chaos_spawner"
         ],
         "rarity_group": 4,
         "difficulty_multiplier": 2.0

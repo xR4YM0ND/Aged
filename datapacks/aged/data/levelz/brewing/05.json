@@ -1,0 +1,9 @@
+{
+    "replace": true,
+    "level": 5,
+    "item": [
+        "minecraft:charcoal",
+        "minecraft:fire_charge",
+        "minecraft:snowball"
+    ]
+}

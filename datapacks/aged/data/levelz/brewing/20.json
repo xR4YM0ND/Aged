@@ -1,0 +1,8 @@
+{
+    "replace": true,
+    "level": 20,
+    "item": [
+        "minecraft:nether_star",
+        "revive:revival_star"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "replace": false,
+    "skill": "farming",
+    "level": 3,
+    "item": [
+        "minecraft:wooden_axe",
+        "minecraft:wooden_hoe",
+        "minecraft:composter"
+    ]
+}

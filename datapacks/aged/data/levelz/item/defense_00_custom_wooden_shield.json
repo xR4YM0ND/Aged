@@ -1,0 +1,7 @@
+{
+    "replace": true,
+    "skill": "defense",
+    "level": 0,
+    "item": "minecraft:custom_item",
+    "object": "earlystage:wooden_shield"
+}

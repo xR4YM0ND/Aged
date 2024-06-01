@@ -1,0 +1,10 @@
+{
+    "replace": true,
+    "level": 10,
+    "block": [
+        "minecraft:lapis_ore",
+        "meadow:alpine_lapis_ore",
+        "minecraft:lapis_block",
+        "minecraft:tuff"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "skill": "farming",
+    "level": 7,
+    "item": [
+        "minecraft:smoker",
+        "meadow:woodcutter"
+    ]
+}

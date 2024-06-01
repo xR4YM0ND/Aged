@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "skill": "stamina",
+    "level": 5,
+    "item": [
+        "herbalbrews:copper_tea_kettle"
+    ]
+}

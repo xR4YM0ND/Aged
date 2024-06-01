@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "skill": "health",
+    "level": 12,
+    "item": [
+        "inmis:bejeweled_backpack",
+        "extended_drawers:t3_upgrade"
+    ]
+}

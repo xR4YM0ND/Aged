@@ -1,0 +1,21 @@
+{
+    "replace": true,
+    "level": 2,
+    "block": [
+        "vinery:loam",
+        "vinery:loam_stairs",
+        "vinery:loam_slab",
+        "minecraft:mud_bricks",
+        "minecraft:mud_brick_stairs",
+        "minecraft:mud_brick_slab",
+        "minecraft:mud_brick_wall",
+        "bakery:mud_stove",
+        "betterarcheology:infested_mud_bricks",
+        "betterarcheology:cracked_mud_bricks",
+        "betterarcheology:cracked_mud_brick_slab",
+        "betterarcheology:cracked_mud_brick_stairs",
+        "candlelight:mud_stove",
+        "candlelight:mud_kitchen_sink",
+        "candlelight:mud_counter"
+    ]
+}

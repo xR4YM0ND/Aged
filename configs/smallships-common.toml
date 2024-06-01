@@ -1,0 +1,17 @@
+schematicVersion = 5
+
+[Ship]
+[Ship.General]
+[Ship.General.Modifier]
+mountBlackList = [
+    "minecraft:ender_dragon",
+    "minecraft:wither",
+    "minecraft:ghast",
+    "minecraft:warden",
+    "minecraft:ravager",
+    "minecraft:elder_guardian",
+    "dungeonnowloading:chaos_spawner",
+    "adventurez:void_shadow",
+    "adventurez:the_eye",
+    "adventurez:blackstone_golem"
+]
