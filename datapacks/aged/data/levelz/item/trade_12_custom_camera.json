@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "trade",
+    "level": 12,
+    "item": "minecraft:custom_item",
+    "object": "exposure:camera"
+}

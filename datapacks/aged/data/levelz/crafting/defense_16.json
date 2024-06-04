@@ -1,0 +1,12 @@
+{
+    "replace": false,
+    "skill": "defense",
+    "level": 16,
+    "item": [
+        "minecraft:iron_helmet",
+        "minecraft:iron_chestplate",
+        "minecraft:iron_leggings",
+        "minecraft:iron_boots",
+        "immersive_aircraft:hull_reinforcement"
+    ]
+}

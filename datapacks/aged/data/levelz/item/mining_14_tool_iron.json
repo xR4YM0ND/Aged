@@ -1,0 +1,7 @@
+{
+    "replace": true,
+    "skill": "mining",
+    "level": 14,
+    "item": "minecraft:tool",
+    "material": "iron"
+}

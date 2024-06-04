@@ -1,0 +1,20 @@
+{
+    "replace": true,
+    "level": 30,
+    "item": [
+        "adventurez:gilded_netherite_fragment",
+        "adventurez:gilded_netherite_helmet",
+        "adventurez:gilded_netherite_chestplate",
+        "adventurez:gilded_netherite_leggings",
+        "adventurez:gilded_netherite_boots",
+        "adventurez:blackstone_golem_arm",
+        "dungeonnowloading:skull_of_chaos",
+        "dungeonnowloading:scepter_of_sealed_chaos",
+        "dungeonnowloading:life_stealer",
+        "dungeonnowloading:spawner_sword",
+        "dungeonnowloading:spawner_helmet",
+        "dungeonnowloading:spawner_chestplate",
+        "dungeonnowloading:spawner_leggings",
+        "dungeonnowloading:spawner_boots"
+    ]
+}

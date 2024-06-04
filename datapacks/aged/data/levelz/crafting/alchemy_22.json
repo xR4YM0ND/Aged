@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "skill": "alchemy",
+    "level": 22,
+    "item": [
+        "spider_caves:spider_helmet",
+        "spider_caves:spider_chestplate",
+        "spider_caves:spider_leggings",
+        "spider_caves:spider_boots"
+    ]
+}

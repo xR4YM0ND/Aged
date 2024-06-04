@@ -1,0 +1,7 @@
+{
+    "replace": true,
+    "skill": "agility",
+    "level": 10,
+    "item": "minecraft:armor",
+    "material": "turtle"
+}

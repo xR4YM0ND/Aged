@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "farming",
+    "level": 18,
+    "block": "minecraft:custom_block",
+    "object": "bakery:deepslate_stove"
+}

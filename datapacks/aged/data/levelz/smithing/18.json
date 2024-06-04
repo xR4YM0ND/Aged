@@ -2,6 +2,20 @@
     "replace": true,
     "level": 18,
     "item": [
-        "minecraft:trident"
+        "earlystage:steel_ingot",
+        "earlystage:steel_helmet",
+        "earlystage:steel_chestplate",
+        "earlystage:steel_leggings",
+        "earlystage:steel_boots",
+        "earlystage:steel_sword",
+        "earlystage:steel_shovel",
+        "earlystage:steel_pickaxe",
+        "earlystage:steel_axe",
+        "earlystage:steel_hoe",
+        "minecraft:flint_and_steel",
+        "immersive_armors:heavy_helmet",
+        "immersive_armors:heavy_chestplate",
+        "immersive_armors:heavy_leggings",
+        "immersive_armors:heavy_boots"
     ]
 }

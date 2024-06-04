@@ -2,14 +2,18 @@
     "replace": true,
     "level": 20,
     "block": [
-        "minecraft:ancient_debris",
-        "minecraft:netherite_block",
-        "brewery:netherite_brewingstation",
-        "minecraft:purpur_block",
-        "minecraft:purpur_pillar",
-        "minecraft:purpur_stairs",
-        "minecraft:purpur_slab",
-        "extended_drawers:access_point",
-        "minecraft:end_rod"
+        "minecraft:prismarine",
+        "minecraft:prismarine_stairs",
+        "minecraft:prismarine_slab",
+        "bbb:prismarine_layer",
+        "minecraft:prismarine_wall",
+        "minecraft:prismarine_bricks",
+        "minecraft:prismarine_brick_stairs",
+        "minecraft:prismarine_brick_slab",
+        "bbb:prismarine_brick_layer",
+        "minecraft:dark_prismarine",
+        "minecraft:dark_prismarine_stairs",
+        "minecraft:dark_prismarine_slab",
+        "bbb:dark_prismarine_layer"
     ]
 }

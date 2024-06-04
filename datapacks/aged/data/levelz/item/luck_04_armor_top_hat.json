@@ -1,0 +1,7 @@
+{
+    "replace": true,
+    "skill": "luck",
+    "level": 4,
+    "item": "minecraft:custom_item",
+    "object": "herbalbrews:top_hat"
+}

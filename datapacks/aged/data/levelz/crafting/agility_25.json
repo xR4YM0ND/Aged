@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "skill": "agility",
+    "level": 25,
+    "item": [
+        "minecraft:respawn_anchor",
+        "immersive_aircraft:biplane"
+    ]
+}

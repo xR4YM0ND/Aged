@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "farming",
+    "level": 28,
+    "block": "minecraft:custom_block",
+    "object": "candlelight:cooking_pan"
+}

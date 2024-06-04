@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "alchemy",
+    "level": 28,
+    "block": "minecraft:custom_block",
+    "object": "brewery:netherite_brewingstation"
+}

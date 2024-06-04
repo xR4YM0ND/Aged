@@ -1,0 +1,7 @@
+{
+    "replace": true,
+    "skill": "stamina",
+    "level": 22,
+    "block": "minecraft:custom_block",
+    "object": "herbalbrews:tea_kettle"
+}

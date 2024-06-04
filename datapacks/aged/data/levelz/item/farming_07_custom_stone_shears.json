@@ -1,0 +1,7 @@
+{
+    "replace": true,
+    "skill": "farming",
+    "level": 7,
+    "item": "minecraft:custom_item",
+    "object": "earlystage:stone_shears"
+}

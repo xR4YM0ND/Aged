@@ -2,12 +2,10 @@
     "replace": true,
     "level": 9,
     "item": [
-        "minecraft:scute",
-        "minecraft:turtle_helmet",
-        "minecraft:slime_ball",
-        "immersive_armors:slime_helmet",
-        "immersive_armors:slime_chestplate",
-        "immersive_armors:slime_leggings",
-        "immersive_armors:slime_boots"
+        "minecraft:bow",
+        "spider_caves:spider_helmet",
+        "spider_caves:spider_chestplate",
+        "spider_caves:spider_leggings",
+        "spider_caves:spider_boots"
     ]
 }

@@ -1,0 +1,7 @@
+{
+    "replace": true,
+    "skill": "agility",
+    "level": 13,
+    "entity": "minecraft:custom_entity",
+    "object": "naturalist:giraffe"
+}

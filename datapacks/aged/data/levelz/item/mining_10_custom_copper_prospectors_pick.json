@@ -1,0 +1,7 @@
+{
+    "replace": true,
+    "skill": "mining",
+    "level": 10,
+    "item": "minecraft:custom_item",
+    "object": "geocluster:copper_prospectors_pick"
+}

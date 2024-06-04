@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "alchemy",
+    "level": 15,
+    "item": "minecraft:custom_item",
+    "object": "additionz:teleport_potion"
+}

@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "skill": "smithing",
+    "level": 1,
+    "item": [
+        "minecraft:anvil",
+        "minecraft:smithing_table"
+    ]
+}

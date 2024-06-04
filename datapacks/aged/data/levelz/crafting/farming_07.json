@@ -3,7 +3,8 @@
     "skill": "farming",
     "level": 7,
     "item": [
-        "minecraft:smoker",
-        "meadow:woodcutter"
+        "minecraft:stone_axe",
+        "minecraft:stone_hoe",
+        "earlystage:stone_shears"
     ]
 }

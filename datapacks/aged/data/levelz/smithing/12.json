@@ -2,15 +2,9 @@
     "replace": true,
     "level": 12,
     "item": [
-        "earlystage:steel_ingot",
-        "earlystage:steel_helmet",
-        "earlystage:steel_chestplate",
-        "earlystage:steel_leggings",
-        "earlystage:steel_boots",
-        "earlystage:steel_sword",
-        "earlystage:steel_shovel",
-        "earlystage:steel_pickaxe",
-        "earlystage:steel_axe",
-        "earlystage:steel_hoe"
+        "minecraft:chainmail_helmet",
+        "minecraft:chainmail_chestplate",
+        "minecraft:chainmail_leggings",
+        "minecraft:chainmail_boots"
     ]
 }

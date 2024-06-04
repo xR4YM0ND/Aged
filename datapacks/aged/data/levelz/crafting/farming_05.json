@@ -3,9 +3,6 @@
     "skill": "farming",
     "level": 5,
     "item": [
-        "minecraft:stone_axe",
-        "minecraft:stone_hoe",
-        "earlystage:stone_shears",
         "bakery:crafting_bowl"
     ]
 }

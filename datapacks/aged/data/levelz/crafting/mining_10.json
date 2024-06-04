@@ -3,7 +3,7 @@
     "skill": "mining",
     "level": 10,
     "item": [
-        "minecraft:iron_pickaxe",
-        "minecraft:iron_shovel"
+        "geocluster:copper_prospectors_pick",
+        "minecraft:stonecutter"
     ]
 }

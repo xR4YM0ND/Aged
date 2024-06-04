@@ -2,13 +2,11 @@
     "replace": true,
     "level": 15,
     "item": [
-        "brewery:brewfest_hat",
-        "brewery:brewfest_regalia",
-        "brewery:brewfest_trousers",
-        "brewery:brewfest_boots",
-        "brewery:brewfest_hat_red",
-        "brewery:brewfest_dress",
-        "brewery:brewfest_blouse",
-        "brewery:brewfest_shoes"
+        "immersive_armors:warrior_helmet",
+        "immersive_armors:warrior_chestplate",
+        "immersive_armors:warrior_leggings",
+        "immersive_armors:warrior_boots",
+        "endermanoverhaul:corrupted_shield",
+        "endermanoverhaul:corrupted_blade"
     ]
 }

@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "skill": "defense",
+    "level": 15,
+    "item": [
+        "minecraft:shield"
+    ]
+}

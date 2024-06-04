@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "alchemy",
+    "level": 24,
+    "block": "minecraft:custom_block",
+    "object": "herbalbrews:cauldron"
+}

@@ -3,6 +3,9 @@
     "skill": "agility",
     "level": 4,
     "item": [
-        "minecraft:turtle_helmet"
+        "immersive_armors:bone_helmet",
+        "immersive_armors:bone_chestplate",
+        "immersive_armors:bone_leggings",
+        "immersive_armors:bone_boots"
     ]
 }

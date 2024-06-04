@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "skill": "agility",
+    "level": 30,
+    "item": [
+        "vc_gliders:paraglider_netherite"
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "skill": "archery",
+    "level": 18,
+    "item": [
+        "medievalweapons:recurve_bow"
+    ]
+}

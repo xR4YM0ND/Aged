@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "skill": "agility",
+    "level": 22,
+    "item": [
+        "immersive_armors:slime_helmet",
+        "immersive_armors:slime_chestplate",
+        "immersive_armors:slime_leggings",
+        "immersive_armors:slime_boots"
+    ]
+}

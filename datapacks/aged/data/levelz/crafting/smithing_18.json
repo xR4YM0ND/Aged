@@ -1,0 +1,10 @@
+{
+    "replace": false,
+    "skill": "smithing",
+    "level": 18,
+    "item": [
+        "minecraft:flint_and_steel",
+        "minecraft:blast_furnace",
+        "immersive_aircraft:engine"
+    ]
+}

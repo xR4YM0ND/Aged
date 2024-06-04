@@ -1,0 +1,7 @@
+{
+    "replace": true,
+    "skill": "agility",
+    "level": 25,
+    "block": "minecraft:custom_block",
+    "object": "minecraft:respawn_anchor"
+}

@@ -1,0 +1,10 @@
+{
+    "replace": false,
+    "skill": "smithing",
+    "level": 5,
+    "item": [
+        "niftycarts:wheel",
+        "extended_drawers:upgrade_frame",
+        "immersive_aircraft:boiler"
+    ]
+}

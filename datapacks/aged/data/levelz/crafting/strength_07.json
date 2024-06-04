@@ -1,0 +1,20 @@
+{
+    "replace": false,
+    "skill": "strength",
+    "level": 7,
+    "item": [
+        "minecraft:stone_sword",
+        "medievalweapons:stone_small_axe",
+        "medievalweapons:stone_long_sword",
+        "medievalweapons:stone_dagger",
+        "medievalweapons:stone_francisca",
+        "medievalweapons:stone_big_axe",
+        "medievalweapons:stone_javelin",
+        "medievalweapons:stone_lance",
+        "medievalweapons:stone_healing_staff",
+        "medievalweapons:stone_mace",
+        "medievalweapons:stone_ninjato",
+        "medievalweapons:stone_sickle",
+        "medievalweapons:stone_rapier"
+    ]
+}

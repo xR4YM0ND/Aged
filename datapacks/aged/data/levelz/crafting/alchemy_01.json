@@ -3,7 +3,7 @@
     "skill": "alchemy",
     "level": 1,
     "item": [
-        "brewery:silo_wood",
-        "minecraft:brewing_stand"
+        "minecraft:brewing_stand",
+        "brewery:silo_wood"
     ]
 }

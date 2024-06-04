@@ -7,6 +7,10 @@
         "earlystage:flint_shovel",
         "earlystage:flint_pickaxe",
         "earlystage:flint_axe",
-        "earlystage:flint_hoe"
+        "earlystage:flint_hoe",
+        "environmentz:wanderer_helmet",
+        "environmentz:wanderer_chestplate",
+        "environmentz:wanderer_leggings",
+        "environmentz:wanderer_boots"
     ]
 }

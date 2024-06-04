@@ -1,0 +1,7 @@
+{
+    "replace": true,
+    "skill": "strength",
+    "level": 30,
+    "item": "minecraft:sword",
+    "material": "netherite"
+}

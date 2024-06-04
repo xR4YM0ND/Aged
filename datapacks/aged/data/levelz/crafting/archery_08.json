@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "skill": "archery",
+    "level": 8,
+    "item": [
+        "minecraft:crossbow",
+        "immersive_aircraft:telescope"
+    ]
+}

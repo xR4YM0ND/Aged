@@ -1,0 +1,17 @@
+{
+    "replace": false,
+    "skill": "trade",
+    "level": 12,
+    "item": [
+        "exposure:camera",
+        "smallships:oak_cog",
+        "smallships:spruce_cog",
+        "smallships:birch_cog",
+        "smallships:jungle_cog",
+        "smallships:acacia_cog",
+        "smallships:cherry_cog",
+        "smallships:dark_oak_cog",
+        "smallships:mangrove_cog",
+        "smallships:bamboo_cog"
+    ]
+}

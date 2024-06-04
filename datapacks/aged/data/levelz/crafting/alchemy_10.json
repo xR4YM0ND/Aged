@@ -3,8 +3,13 @@
     "skill": "alchemy",
     "level": 10,
     "item": [
-        "brewery:copper_brewingstation",
-        "herbalbrews:witch_hat",
-        "inmis:ender_pouch"
+        "brewery:brewfest_hat",
+        "brewery:brewfest_regalia",
+        "brewery:brewfest_trousers",
+        "brewery:brewfest_boots",
+        "brewery:brewfest_hat_red",
+        "brewery:brewfest_blouse",
+        "brewery:brewfest_dress",
+        "brewery:brewfest_shoes"
     ]
 }

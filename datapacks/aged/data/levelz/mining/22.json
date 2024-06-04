@@ -1,0 +1,13 @@
+{
+    "replace": true,
+    "level": 22,
+    "block": [
+        "minecraft:small_amethyst_bud",
+        "minecraft:medium_amethyst_bud",
+        "minecraft:large_amethyst_bud",
+        "minecraft:amethyst_cluster",
+        "minecraft:budding_amethyst",
+        "minecraft:amethyst_block",
+        "minecraft:glowstone"
+    ]
+}

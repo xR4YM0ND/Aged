@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "alchemy",
+    "level": 11,
+    "block": "minecraft:custom_block",
+    "object": "brewery:barrel_main"
+}

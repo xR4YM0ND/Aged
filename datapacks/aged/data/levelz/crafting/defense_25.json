@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "skill": "defense",
+    "level": 25,
+    "item": [
+        "immersive_aircraft:warship"
+    ]
+}

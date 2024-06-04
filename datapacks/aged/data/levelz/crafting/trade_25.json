@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "skill": "trade",
+    "level": 25,
+    "item": [
+        "immersive_aircraft:gyrodyne"
+    ]
+}

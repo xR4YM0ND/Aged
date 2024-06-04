@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "farming",
+    "level": 14,
+    "block": "minecraft:custom_block",
+    "object": "meadow:cheese_form"
+}

@@ -1,0 +1,7 @@
+{
+    "replace": true,
+    "skill": "alchemy",
+    "level": 15,
+    "entity": "minecraft:custom_entity",
+    "object": "adventurez:nightmare"
+}

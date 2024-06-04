@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "alchemy",
+    "level": 18,
+    "item": "minecraft:custom_item",
+    "object": "endermanoverhaul:corrupted_shield"
+}

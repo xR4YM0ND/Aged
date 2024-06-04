@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "skill": "alchemy",
+    "level": 7,
+    "item": [
+        "brewery:wooden_brewingstation"
+    ]
+}

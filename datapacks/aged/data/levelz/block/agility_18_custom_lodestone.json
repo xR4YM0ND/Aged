@@ -1,0 +1,7 @@
+{
+    "replace": true,
+    "skill": "agility",
+    "level": 18,
+    "block": "minecraft:custom_block",
+    "object": "minecraft:lodestone"
+}

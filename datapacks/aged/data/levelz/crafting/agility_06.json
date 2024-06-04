@@ -3,6 +3,6 @@
     "skill": "agility",
     "level": 6,
     "item": [
-        "minecraft:cartography_table"
+        "vc_gliders:paraglider_wood"
     ]
 }

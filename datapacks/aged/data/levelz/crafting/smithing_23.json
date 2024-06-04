@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "skill": "smithing",
+    "level": 23,
+    "item": [
+        "immersive_aircraft:industrial_gears",
+        "immersive_aircraft:sturdy_pipes"
+    ]
+}

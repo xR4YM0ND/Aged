@@ -2,13 +2,6 @@
     "replace": true,
     "level": 11,
     "block": [
-        "minecraft:gold_ore",
-        "minecraft:nether_gold_ore",
-        "meadow:alpine_gold_ore",
-        "minecraft:gold_block",
-        "minecraft:raw_gold_block",
-        "minecraft:light_weighted_pressure_plate",
-        "minecraft:bell",
         "minecraft:terracotta",
         "minecraft:white_terracotta",
         "minecraft:light_gray_terracotta",
@@ -41,6 +34,11 @@
         "minecraft:blue_glazed_terracotta",
         "minecraft:purple_glazed_terracotta",
         "minecraft:magenta_glazed_terracotta",
-        "minecraft:pink_glazed_terracotta"
+        "minecraft:pink_glazed_terracotta",
+        "minecraft:gold_ore",
+        "meadow:alpine_gold_ore",
+        "minecraft:gold_block",
+        "minecraft:raw_gold_block",
+        "dungeonnowloading:gold_ingot_pile"
     ]
 }

@@ -1,0 +1,7 @@
+{
+    "replace": true,
+    "skill": "mining",
+    "level": 30,
+    "item": "minecraft:tool",
+    "material": "netherite"
+}

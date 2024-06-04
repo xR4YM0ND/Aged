@@ -1,0 +1,9 @@
+{
+    "replace": true,
+    "level": 25,
+    "block": [
+        "minecraft:obsidian",
+        "minecraft:crying_obsidian",
+        "nethervinery:obsidian_stem"
+    ]
+}

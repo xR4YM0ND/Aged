@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "stamina",
+    "level": 22,
+    "item": "minecraft:custom_item",
+    "object": "brewery:breathalyzer"
+}

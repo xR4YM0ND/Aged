@@ -1,0 +1,16 @@
+{
+    "replace": false,
+    "skill": "trade",
+    "level": 24,
+    "item": [
+        "smallships:oak_drakkar",
+        "smallships:spruce_drakkar",
+        "smallships:birch_drakkar",
+        "smallships:jungle_drakkar",
+        "smallships:acacia_drakkar",
+        "smallships:cherry_drakkar",
+        "smallships:dark_oak_drakkar",
+        "smallships:mangrove_drakkar",
+        "smallships:bamboo_drakkar"
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "farming",
+    "level": 8,
+    "block": "minecraft:custom_block",
+    "object": "meadow:woodcutter"
+}

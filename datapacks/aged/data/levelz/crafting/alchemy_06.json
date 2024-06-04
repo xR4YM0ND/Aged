@@ -3,7 +3,8 @@
     "skill": "alchemy",
     "level": 6,
     "item": [
-        "brewery:wooden_brewingstation",
-        "minecraft:enchanting_table"
+        "herbalbrews:witch_hat",
+        "minecraft:enchanting_table",
+        "immersive_aircraft:gyroscope"
     ]
 }

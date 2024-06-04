@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "luck",
+    "level": 30,
+    "item": "minecraft:custom_item",
+    "object": "dungeonnowloading:life_stealer"
+}

@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "health",
+    "level": 6,
+    "item": "minecraft:custom_item",
+    "object": "inmis:frayed_backpack"
+}

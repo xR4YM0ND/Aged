@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "stamina",
+    "level": 4,
+    "item": "minecraft:custom_item",
+    "object": "naturalist:bug_net"
+}

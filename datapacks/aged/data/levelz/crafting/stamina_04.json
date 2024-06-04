@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "skill": "stamina",
+    "level": 4,
+    "item": [
+        "naturalist:bug_net"
+    ]
+}

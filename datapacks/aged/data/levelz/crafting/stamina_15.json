@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "skill": "stamina",
+    "level": 15,
+    "item": [
+        "chipped:loom_table"
+    ]
+}

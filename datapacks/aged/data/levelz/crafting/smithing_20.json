@@ -1,0 +1,18 @@
+{
+    "replace": false,
+    "skill": "smithing",
+    "level": 20,
+    "item": [
+        "minecraft:minecart",
+        "minecraft:hopper_minecart",
+        "minecraft:chest_minecart",
+        "minecraft:furnace_minecart",
+        "minecraft:tnt_minecart",
+        "minecraft:rail",
+        "minecraft:powered_rail",
+        "minecraft:detector_rail",
+        "minecraft:activator_rail",
+        "immersive_aircraft:enhanced_propeller",
+        "immersive_aircraft:steel_boiler"
+    ]
+}

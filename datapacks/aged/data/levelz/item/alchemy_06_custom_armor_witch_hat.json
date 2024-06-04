@@ -1,0 +1,7 @@
+{
+    "replace": true,
+    "skill": "alchemy",
+    "level": 6,
+    "item": "minecraft:custom_item",
+    "object": "herbalbrews:witch_hat"
+}

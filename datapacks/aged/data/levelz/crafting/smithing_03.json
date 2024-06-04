@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "skill": "smithing",
+    "level": 3,
+    "item": [
+        "minecraft:furnace"
+    ]
+}

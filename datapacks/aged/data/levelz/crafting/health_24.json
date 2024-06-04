@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "skill": "health",
+    "level": 24,
+    "item": [
+        "extended_drawers:t3_upgrade"
+    ]
+}

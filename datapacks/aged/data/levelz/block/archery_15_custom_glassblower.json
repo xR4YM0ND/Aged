@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "archery",
+    "level": 15,
+    "block": "minecraft:custom_block",
+    "object": "chipped:glassblower"
+}

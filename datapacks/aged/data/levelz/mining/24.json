@@ -1,0 +1,17 @@
+{
+    "replace": true,
+    "level": 24,
+    "block": [
+        "minecraft:end_stone",
+        "minecraft:end_stone_bricks",
+        "minecraft:end_stone_brick_stairs",
+        "minecraft:end_stone_brick_slab",
+        "bbb:end_stone_brick_layer",
+        "minecraft:end_stone_brick_wall",
+        "bakery:end_stove",
+        "candlelight:end_stove",
+        "candlelight:end_kitchen_sink",
+        "candlelight:end_counter",
+        "extended_drawers:shadow_drawer"
+    ]
+}

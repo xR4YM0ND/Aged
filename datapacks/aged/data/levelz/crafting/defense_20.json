@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "skill": "defense",
+    "level": 20,
+    "item": [
+        "earlystage:steel_helmet",
+        "earlystage:steel_chestplate",
+        "earlystage:steel_leggings",
+        "earlystage:steel_boots"
+    ]
+}

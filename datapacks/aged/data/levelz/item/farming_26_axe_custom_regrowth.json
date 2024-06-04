@@ -1,0 +1,7 @@
+{
+    "replace": true,
+    "skill": "farming",
+    "level": 26,
+    "item": "minecraft:custom_item",
+    "object": "underground_jungle:axe_of_regrowth"
+}

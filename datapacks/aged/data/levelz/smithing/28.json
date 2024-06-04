@@ -1,0 +1,32 @@
+{
+    "replace": true,
+    "level": 28,
+    "item": [
+        "minecraft:netherite_ingot",
+        "minecraft:netherite_shovel",
+        "minecraft:netherite_pickaxe",
+        "minecraft:netherite_axe",
+        "minecraft:netherite_hoe",
+        "minecraft:netherite_sword",
+        "minecraft:netherite_helmet",
+        "minecraft:netherite_chestplate",
+        "minecraft:netherite_leggings",
+        "minecraft:netherite_boots",
+        "brewery:netherite_brewingstation",
+        "dehydration:netherite_leather_flask",
+        "medievalweapons:netherite_small_axe",
+        "medievalweapons:netherite_long_sword",
+        "medievalweapons:netherite_dagger",
+        "medievalweapons:netherite_francisca",
+        "medievalweapons:netherite_big_axe",
+        "medievalweapons:netherite_javelin",
+        "medievalweapons:netherite_lance",
+        "medievalweapons:netherite_healing_staff",
+        "medievalweapons:netherite_mace",
+        "medievalweapons:netherite_ninjato",
+        "medievalweapons:netherite_sickle",
+        "medievalweapons:netherite_rapier",
+        "brewery:netherite_brewingstation",
+        "vc_gliders:paraglider_netherite"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "replace": false,
+    "skill": "strength",
+    "level": 24,
+    "item": [
+        "minecraft:diamond_sword",
+        "medievalweapons:diamond_small_axe",
+        "medievalweapons:diamond_long_sword",
+        "medievalweapons:diamond_dagger",
+        "medievalweapons:diamond_francisca",
+        "medievalweapons:diamond_big_axe",
+        "medievalweapons:diamond_javelin",
+        "medievalweapons:diamond_lance",
+        "medievalweapons:diamond_healing_staff",
+        "medievalweapons:diamond_mace",
+        "medievalweapons:diamond_ninjato",
+        "medievalweapons:diamond_sickle",
+        "medievalweapons:diamond_rapier"
+    ]
+}

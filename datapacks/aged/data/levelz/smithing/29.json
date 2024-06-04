@@ -1,0 +1,12 @@
+{
+    "replace": true,
+    "level": 29,
+    "item": [
+        "minecraft:trident",
+        "minecraft:elytra",
+        "adventurez:prime_eye",
+        "adventurez:ender_flute",
+        "betterarcheology:torrent_totem",
+        "betterarcheology:soul_totem"
+    ]
+}

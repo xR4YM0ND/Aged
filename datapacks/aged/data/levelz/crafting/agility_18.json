@@ -3,6 +3,7 @@
     "skill": "agility",
     "level": 18,
     "item": [
-        "minecraft:respawn_anchor"
+        "vc_gliders:paraglider_gold",
+        "minecraft:lodestone"
     ]
 }

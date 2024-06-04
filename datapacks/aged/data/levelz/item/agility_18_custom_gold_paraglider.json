@@ -1,0 +1,7 @@
+{
+    "replace": true,
+    "skill": "agility",
+    "level": 18,
+    "item": "minecraft:custom_item",
+    "object": "vc_gliders:paraglider_gold"
+}

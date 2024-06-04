@@ -3,9 +3,6 @@
     "skill": "luck",
     "level": 14,
     "item": [
-        "immersive_armors:divine_helmet",
-        "immersive_armors:divine_chestplate",
-        "immersive_armors:divine_leggings",
-        "immersive_armors:divine_boots"
+        "betterarcheology:iron_brush"
     ]
 }

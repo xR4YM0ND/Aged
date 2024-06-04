@@ -1,0 +1,7 @@
+{
+    "replace": true,
+    "skill": "farming",
+    "level": 14,
+    "item": "minecraft:custom_item",
+    "object": "natures_spirit:cheese_bucket"
+}

@@ -1,0 +1,7 @@
+{
+    "replace": true,
+    "skill": "farming",
+    "level": 10,
+    "entity": "minecraft:custom_entity",
+    "object": "meadow:water_buffalo"
+}

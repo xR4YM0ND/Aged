@@ -1,0 +1,7 @@
+{
+    "replace": true,
+    "skill": "alchemy",
+    "level": 30,
+    "item": "minecraft:armor",
+    "material": "dungeonnowloading:spawner"
+}

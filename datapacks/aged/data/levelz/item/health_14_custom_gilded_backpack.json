@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "health",
+    "level": 14,
+    "item": "minecraft:custom_item",
+    "object": "inmis:gilded_backpack"
+}

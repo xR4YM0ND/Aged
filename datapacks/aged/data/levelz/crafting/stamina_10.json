@@ -3,6 +3,7 @@
     "skill": "stamina",
     "level": 10,
     "item": [
+        "minecraft:fishing_rod",
         "minecraft:loom"
     ]
 }

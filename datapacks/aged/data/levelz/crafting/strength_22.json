@@ -1,0 +1,12 @@
+{
+    "replace": false,
+    "skill": "strength",
+    "level": 22,
+    "item": [
+        "immersive_armors:warrior_helmet",
+        "immersive_armors:warrior_chestplate",
+        "immersive_armors:warrior_leggings",
+        "immersive_armors:warrior_boots",
+        "immersive_aircraft:bomb_bay"
+    ]
+}

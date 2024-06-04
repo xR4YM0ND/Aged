@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "skill": "farming",
+    "level": 26,
+    "item": [
+        "underground_jungle:axe_of_regrowth",
+        "meadow:fondue"
+    ]
+}

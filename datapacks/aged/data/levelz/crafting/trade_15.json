@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "skill": "trade",
+    "level": 15,
+    "item": [
+        "niftycarts:supply_cart"
+    ]
+}

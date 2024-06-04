@@ -1,0 +1,7 @@
+{
+    "replace": true,
+    "skill": "strength",
+    "level": 26,
+    "item": "minecraft:custom_item",
+    "object": "underground_jungle:blade_of_the_jungle"
+}

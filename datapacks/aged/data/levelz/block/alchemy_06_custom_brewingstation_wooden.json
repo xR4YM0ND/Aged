@@ -1,7 +1,0 @@
-{
-    "replace": false,
-    "skill": "alchemy",
-    "level": 6,
-    "block": "minecraft:custom_block",
-    "object": "brewery:wooden_brewingstation"
-}

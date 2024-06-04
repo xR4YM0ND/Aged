@@ -1,0 +1,7 @@
+{
+    "replace": true,
+    "skill": "trade",
+    "level": 30,
+    "item": "minecraft:armor",
+    "material": "gilded_netherite"
+}

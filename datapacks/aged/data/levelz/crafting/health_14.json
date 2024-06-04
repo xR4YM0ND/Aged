@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "skill": "health",
+    "level": 14,
+    "item": [
+        "inmis:gilded_backpack",
+        "extended_drawers:t2_upgrade"
+    ]
+}

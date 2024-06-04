@@ -1,0 +1,12 @@
+{
+    "replace": false,
+    "skill": "alchemy",
+    "level": 30,
+    "item": [
+        "dungeonnowloading:spawner_helmet",
+        "dungeonnowloading:spawner_chestplate",
+        "dungeonnowloading:spawner_leggings",
+        "dungeonnowloading:spawner_boots",
+        "dungeonnowloading:spawner_sword"
+    ]
+}

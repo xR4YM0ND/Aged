@@ -1,0 +1,7 @@
+{
+    "replace": true,
+    "skill": "farming",
+    "level": 11,
+    "entity": "minecraft:custom_entity",
+    "object": "meadow:wooly_cow"
+}

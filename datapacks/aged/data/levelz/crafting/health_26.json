@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "skill": "health",
+    "level": 26,
+    "item": [
+        "inmis:withered_backpack"
+    ]
+}

@@ -3,6 +3,10 @@
     "skill": "stamina",
     "level": 16,
     "item": [
-        "brewery:breathalyzer"
+        "candlelight:cooking_hat",
+        "candlelight:chefs_jacket",
+        "candlelight:chefs_pants",
+        "candlelight:chefs_boots",
+        "herbalbrews:copper_tea_kettle"
     ]
 }

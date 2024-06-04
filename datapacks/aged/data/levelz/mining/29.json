@@ -1,0 +1,11 @@
+{
+    "replace": true,
+    "level": 29,
+    "block": [
+        "minecraft:purpur_block",
+        "minecraft:purpur_pillar",
+        "minecraft:purpur_stairs",
+        "minecraft:purpur_slab",
+        "bbb:purpur_layer"
+    ]
+}

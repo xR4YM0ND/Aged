@@ -1,0 +1,20 @@
+{
+    "replace": false,
+    "skill": "strength",
+    "level": 4,
+    "item": [
+        "minecraft:wooden_sword",
+        "medievalweapons:wooden_small_axe",
+        "medievalweapons:wooden_long_sword",
+        "medievalweapons:wooden_dagger",
+        "medievalweapons:wooden_francisca",
+        "medievalweapons:wooden_big_axe",
+        "medievalweapons:wooden_javelin",
+        "medievalweapons:wooden_lance",
+        "medievalweapons:wooden_healing_staff",
+        "medievalweapons:wooden_mace",
+        "medievalweapons:wooden_ninjato",
+        "medievalweapons:wooden_sickle",
+        "medievalweapons:wooden_rapier"
+    ]
+}

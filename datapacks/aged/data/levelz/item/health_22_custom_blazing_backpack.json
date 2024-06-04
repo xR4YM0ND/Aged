@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "health",
+    "level": 22,
+    "item": "minecraft:custom_item",
+    "object": "inmis:blazing_backpack"
+}

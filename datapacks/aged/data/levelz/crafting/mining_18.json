@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "skill": "mining",
+    "level": 18,
+    "item": [
+        "earlystage:steel_pickaxe",
+        "earlystage:steel_shovel"
+    ]
+}

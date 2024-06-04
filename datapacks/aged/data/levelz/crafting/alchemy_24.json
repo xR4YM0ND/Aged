@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "skill": "alchemy",
+    "level": 24,
+    "item": [
+        "herbalbrews:cauldron",
+        "immersive_aircraft:nether_engine"
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "skill": "archery",
+    "level": 12,
+    "item": [
+        "minecraft:bow"
+    ]
+}

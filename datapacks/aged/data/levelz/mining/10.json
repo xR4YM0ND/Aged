@@ -2,9 +2,18 @@
     "replace": true,
     "level": 10,
     "block": [
-        "minecraft:lapis_ore",
-        "meadow:alpine_lapis_ore",
-        "minecraft:lapis_block",
-        "minecraft:tuff"
+        "minecraft:granite",
+        "minecraft:granite_stairs",
+        "minecraft:granite_slab",
+        "bbb:granite_layer",
+        "minecraft:granite_wall",
+        "minecraft:polished_granite",
+        "minecraft:polished_granite_stairs",
+        "minecraft:polished_granite_slab",
+        "bbb:polished_granite_layer",
+        "bakery:granite_stove",
+        "candlelight:granite_stove",
+        "candlelight:granite_kitchen_sink",
+        "candlelight:granite_counter"
     ]
 }

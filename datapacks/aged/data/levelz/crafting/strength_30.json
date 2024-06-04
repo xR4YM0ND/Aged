@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "skill": "strength",
+    "level": 30,
+    "item": [
+        "immersive_aircraft:rotary_cannon"
+    ]
+}

@@ -2,15 +2,18 @@
     "replace": true,
     "level": 13,
     "block": [
-        "minecraft:emerald_ore",
-        "meadow:alpine_emerald_ore",
-        "minecraft:emerald_block",
-        "earlystage:steel_block",
-        "minecraft:basalt",
-        "minecraft:smooth_basalt",
-        "minecraft:polished_basalt",
-        "candlelight:basalt_stove",
-        "candlelight:basalt_kitchen_sink",
-        "candlelight:basalt_counter"
+        "minecraft:tuff",
+        "minecraft:iron_ore",
+        "meadow:alpine_iron_ore",
+        "minecraft:iron_block",
+        "minecraft:iron_bars",
+        "minecraft:iron_door",
+        "minecraft:iron_trapdoor",
+        "minecraft:raw_iron_block",
+        "bakery:iron_table",
+        "bakery:iron_chair",
+        "bbb:iron_fence",
+        "candlelight:typewriter_iron",
+        "dungeonnowloading:iron_ingot_pile"
     ]
 }

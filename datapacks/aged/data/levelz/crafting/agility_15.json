@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "skill": "agility",
+    "level": 15,
+    "item": [
+        "exposure:lightroom",
+        "immersive_aircraft:airship"
+    ]
+}

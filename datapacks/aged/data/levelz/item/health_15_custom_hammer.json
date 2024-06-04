@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "health",
+    "level": 15,
+    "item": "minecraft:custom_item",
+    "object": "bbb:hammer"
+}

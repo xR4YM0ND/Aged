@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "alchemy",
+    "level": 17,
+    "block": "minecraft:custom_block",
+    "object": "vinery:fermentation_barrel"
+}

@@ -1,8 +1,9 @@
 {
     "replace": false,
     "skill": "alchemy",
-    "level": 18,
+    "level": 17,
     "item": [
-        "herbalbrews:cauldron"
+        "endermanoverhaul:corrupted_shield",
+        "endermanoverhaul:corrupted_blade"
     ]
 }

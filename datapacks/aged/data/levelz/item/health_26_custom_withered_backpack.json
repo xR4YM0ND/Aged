@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "health",
+    "level": 26,
+    "item": "minecraft:custom_item",
+    "object": "inmis:withered_backpack"
+}

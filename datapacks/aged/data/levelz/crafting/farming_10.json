@@ -3,19 +3,6 @@
     "skill": "farming",
     "level": 10,
     "item": [
-        "minecraft:iron_axe",
-        "minecraft:iron_hoe",
-        "minecraft:shears",
-        "minecraft:bucket",
-        "niftycarts:animal_cart",
-        "bakery:stone_bricks_stove",
-        "bakery:cobblestone_stove",
-        "bakery:deepslate_stove",
-        "bakery:granite_stove",
-        "bakery:mud_stove",
-        "bakery:sandstone_stove",
-        "bakery:end_stove",
-        "bakery:red_nether_bricks_stove",
-        "bakery:quartz_stove"
+        "minecraft:smoker"
     ]
 }

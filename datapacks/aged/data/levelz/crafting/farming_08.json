@@ -3,10 +3,8 @@
     "skill": "farming",
     "level": 8,
     "item": [
-        "vinery:straw_hat",
-        "vinery:winemaker_apron",
-        "vinery:winemaker_leggings",
-        "vinery:winemaker_boots",
-        "minecraft:beehive"
+        "minecraft:golden_axe",
+        "minecraft:golden_hoe",
+        "meadow:woodcutter"
     ]
 }

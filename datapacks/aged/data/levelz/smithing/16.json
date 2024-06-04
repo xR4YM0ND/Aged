@@ -1,5 +1,10 @@
 {
     "replace": true,
     "level": 16,
-    "item": []
+    "item": [
+        "immersive_armors:divine_helmet",
+        "immersive_armors:divine_chestplate",
+        "immersive_armors:divine_leggings",
+        "immersive_armors:divine_boots"
+    ]
 }
