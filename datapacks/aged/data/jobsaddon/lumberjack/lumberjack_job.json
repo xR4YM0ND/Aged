@@ -8,7 +8,11 @@
     "2": {
         "replace": true,
         "blocks": [
-            "minecraft:jungle_log"
+            "minecraft:jungle_log",
+            "natures_spirit:cypress_log",
+            "natures_spirit:aspen_log",
+            "natures_spirit:wisteria_log",
+            "natures_spirit:redwood_log"
         ]
     },
     "3": {
@@ -20,7 +24,13 @@
             "minecraft:dark_oak_log",
             "minecraft:acacia_log",
             "minecraft:oak_log",
-            "minecraft:cherry_log"
+            "minecraft:cherry_log",
+            "natures_spirit:ghaf_log",
+            "natures_spirit:joshua_log",
+            "natures_spirit:maple_log",
+            "natures_spirit:willow_log",
+            "natures_spirit:fir_log",
+            "natures_spirit:sugi_log"
         ]
     },
     "4": {
@@ -29,14 +39,21 @@
             "meadow:pine_log",
             "minecraft:crimson_stem",
             "minecraft:warped_stem",
-            "gardens_of_the_dead:soulblight_stem"
+            "gardens_of_the_dead:soulblight_stem",
+            "natures_spirit:coconut_log",
+            "natures_spirit:palo_verde_log"
         ]
     },
     "5": {
         "replace": true,
         "blocks": [
             "vinery:apple_log",
-            "vinery:cherry_log"
+            "vinery:cherry_log",
+            "natures_spirit:larch_log",
+            "natures_spirit:cedar_log",
+            "natures_spirit:mahogany_log",
+            "natures_spirit:saxaul_log",
+            "natures_spirit:olive_log"
         ]
     }
 }

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "I": {
+            "item": "minecraft:cobblestone"
+        },
+        "N": {
+            "tag": "aged:stone_pieces"
+        },
+        "S": {
+            "item": "minecraft:stick"
+        }
+    },
+    "pattern": [
+        "NI",
+        " S"
+    ],
+    "result": {
+        "item": "geocluster:stone_prospectors_pick"
+    },
+    "show_notification": true
+}

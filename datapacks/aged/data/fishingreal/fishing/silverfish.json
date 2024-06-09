@@ -1,0 +1,8 @@
+{
+    "input": {
+        "item": "minecraft:iron_nugget"
+    },
+    "result": {
+        "id": "minecraft:silverfish"
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "type": "geocluster:deposit_sparse",
+    "config": {
+        "yMin": 0,
+        "yMax": 250,
+        "size": 10,
+        "spread": 5,
+        "biomeTag": "#minecraft:is_overworld",
+        "blockStateMatchers": [
+            "minecraft:stone",
+            "minecraft:deepslate",
+            "minecraft:granite",
+            "minecraft:diorite",
+            "minecraft:andesite",
+            "minecraft:calcite",
+            "minecraft:tuff",
+            "meadow:limestone",
+            "natures_spirit:chert"
+        ],
+        "blocks": {
+            "default": [
+                {
+                    "block": "coal_ore",
+                    "chance": 0.8
+                },
+                {
+                    "block": "minecraft:stone",
+                    "chance": 0.2
+                }
+            ],
+            "minecraft:deepslate": [
+                {
+                    "block": "deepslate_coal_ore",
+                    "chance": 0.8
+                },
+                {
+                    "block": "minecraft:deepslate",
+                    "chance": 0.2
+                }
+            ],
+            "minecraft:granite": [
+                {
+                    "block": "coal_ore",
+                    "chance": 0.8
+                },
+                {
+                    "block": "granite",
+                    "chance": 0.2
+                }
+            ],
+            "minecraft:diorite": [
+                {
+                    "block": "coal_ore",
+                    "chance": 0.8
+                },
+                {
+                    "block": "diorite",
+                    "chance": 0.2
+                }
+            ],
+            "minecraft:andesite": [
+                {
+                    "block": "coal_ore",
+                    "chance": 0.8
+                },
+                {
+                    "block": "andesite",
+                    "chance": 0.2
+                }
+            ],
+            "minecraft:tuff": [
+                {
+                    "block": "coal_ore",
+                    "chance": 0.8
+                },
+                {
+                    "block": "tuff",
+                    "chance": 0.2
+                }
+            ],
+            "minecraft:calcite": [
+                {
+                    "block": "coal_ore",
+                    "chance": 0.8
+                },
+                {
+                    "block": "calcite",
+                    "chance": 0.2
+                }
+            ],
+            "meadow:limestone": [
+                {
+                    "block": "meadow:alpine_coal_ore",
+                    "chance": 0.8
+                },
+                {
+                    "block": "meadow:limestone",
+                    "chance": 0.2
+                }
+            ],
+            "natures_spirit:chert": [
+                {
+                    "block": "natures_spirit:chert_coal_ore",
+                    "chance": 0.8
+                },
+                {
+                    "block": "natures_spirit:chert",
+                    "chance": 0.2
+                }
+            ]
+        },
+        "samples": [
+            {
+                "block": "geocluster:coal_ore_sample",
+                "chance": 0.2
+            },
+            {
+                "block": null,
+                "chance": 0.8
+            }
+        ],
+        "generationWeight": 20
+    }
+}

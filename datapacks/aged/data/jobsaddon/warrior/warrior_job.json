@@ -14,10 +14,12 @@
             "minecraft:villager",
             "minecraft:trader_llama",
             "minecraft:wandering_trader",
-            "minecraft:cod",
-            "minecraft:salmon",
-            "minecraft:tadpole",
-            "minecraft:tropical_fish"
+            "naturalist:coral_snake",
+            "naturalist:duck",
+            "naturalist:lizard",
+            "naturalist:rattlesnake",
+            "naturalist:snail",
+            "naturalist:snake"
         ]
     },
     "2": {
@@ -37,7 +39,9 @@
             "adventurez:deer",
             "meadow:wooly_cow",
             "vinery:wandering_winemaker",
-            "bakery:wandering_baker"
+            "bakery:wandering_baker",
+            "naturalist:deer",
+            "naturalist:tortoise"
         ]
     },
     "3": {
@@ -52,7 +56,9 @@
             "minecraft:camel",
             "adventurez:iguana",
             "meadow:water_buffalo",
-            "vinery:mule"
+            "vinery:mule",
+            "naturalist:vulture",
+            "naturalist:zebra"
         ]
     },
     "4": {
@@ -64,7 +70,11 @@
             "minecraft:axolotl",
             "minecraft:piglin",
             "minecraft:shulker",
-            "minecraft:zombified_piglin"
+            "minecraft:zombified_piglin",
+            "naturalist:boar",
+            "naturalist:elephant",
+            "naturalist:giraffe",
+            "naturalist:hippo"
         ]
     },
     "5": {
@@ -76,7 +86,9 @@
             "minecraft:drowned",
             "minecraft:zombie",
             "adventurez:red_fungus",
-            "adventurez:brown_fungus"
+            "adventurez:brown_fungus",
+            "naturalist:bear",
+            "naturalist:rhino"
         ]
     },
     "6": {
@@ -89,7 +101,27 @@
             "minecraft:stray",
             "minecraft:enderman",
             "underground_jungle:jungle_zombie",
-            "adventurez:wither_puppet"
+            "adventurez:wither_puppet",
+            "endermanoverhaul:badlands_enderman",
+            "endermanoverhaul:cave_enderman",
+            "endermanoverhaul:coral_enderman",
+            "endermanoverhaul:crimson_forest_enderman",
+            "endermanoverhaul:dark_oak_enderman",
+            "endermanoverhaul:desert_enderman",
+            "endermanoverhaul:end_enderman",
+            "endermanoverhaul:end_islands_enderman",
+            "endermanoverhaul:flower_fields_enderman",
+            "endermanoverhaul:ice_spikes_enderman",
+            "endermanoverhaul:mushroom_fields_enderman",
+            "endermanoverhaul:nether_wastes_enderman",
+            "endermanoverhaul:savanna_enderman",
+            "endermanoverhaul:snowy_enderman",
+            "endermanoverhaul:soulsand_valley_enderman",
+            "endermanoverhaul:swamp_enderman",
+            "endermanoverhaul:warped_forest_enderman",
+            "endermanoverhaul:windswept_hills_enderman",
+            "naturalist:alligator",
+            "naturalist:lion"
         ]
     },
     "7": {
@@ -101,7 +133,22 @@
             "minecraft:skeleton_horse",
             "underground_jungle:mossy_skeleton",
             "spider_caves:black_recluse",
-            "adventurez:nightmare"
+            "adventurez:nightmare",
+            "creeperoverhaul:badlands_creeper",
+            "creeperoverhaul:bamboo_creeper",
+            "creeperoverhaul:beach_creeper",
+            "creeperoverhaul:cave_creeper",
+            "creeperoverhaul:dark_oak_creeper",
+            "creeperoverhaul:desert_creeper",
+            "creeperoverhaul:dripstone_creeper",
+            "creeperoverhaul:hills_creeper",
+            "creeperoverhaul:jungle_creeper",
+            "creeperoverhaul:mushroom_creeper",
+            "creeperoverhaul:ocean_creeper",
+            "creeperoverhaul:savannah_creeper",
+            "creeperoverhaul:snowy_creeper",
+            "creeperoverhaul:spruce_creeper",
+            "creeperoverhaul:swamp_creeper"
         ]
     },
     "8": {
@@ -177,7 +224,9 @@
             "minecraft:illusioner",
             "minecraft:player",
             "adventurez:mini_blackstone_golem",
-            "brewery:beer_elemental"
+            "brewery:beer_elemental",
+            "dungeonnowloading:hollow",
+            "dungeonnowloading:spawner_carrier"
         ]
     },
     "30": {
@@ -230,7 +279,8 @@
     "1000": {
         "replace": true,
         "entities": [
-            "adventurez:void_shadow"
+            "adventurez:void_shadow",
+            "dungeonnowloading:chaos_spawner"
         ]
     }
 }

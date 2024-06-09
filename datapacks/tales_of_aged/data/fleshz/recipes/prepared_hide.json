@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "fleshz:hide"
+        },
+        {
+            "item": "fleshz:hide"
+        },
+        {
+            "tag": "tales_of_aged:hide_ingredients"
+        },
+        {
+            "tag": "tales_of_aged:hide_ingredients"
+        }
+    ],
+    "result": {
+        "item": "fleshz:prepared_hide",
+        "count": 1
+    }
+}

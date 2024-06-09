@@ -2,9 +2,19 @@
     "1": {
         "replace": true,
         "crafting": [],
-        "items": [],
+        "items": [
+            "minecraft:cod",
+            "minecraft:salmon"
+        ],
         "entities": [
-            "minecraft:tadpole"
+            "minecraft:cod",
+            "minecraft:salmon",
+            "minecraft:tropical_fish",
+            "minecraft:pufferfish",
+            "minecraft:glow_squid",
+            "minecraft:squid",
+            "naturalist:bass",
+            "naturalist:catfish"
         ]
     },
     "2": {
@@ -12,18 +22,22 @@
         "crafting": [
             "minecraft:fishing_rod"
         ],
-        "items": [],
-        "entities": [
-            "minecraft:cod",
-            "minecraft:frog",
-            "minecraft:salmon",
+        "items": [
             "minecraft:tropical_fish",
-            "minecraft:pufferfish",
-            "minecraft:glow_squid",
-            "minecraft:squid"
-        ]
+            "minecraft:pufferfish"
+        ],
+        "entities": []
     },
     "3": {
+        "replace": true,
+        "crafting": [],
+        "items": [
+            "naturalist:bass",
+            "naturalist:catfish"
+        ],
+        "entities": []
+    },
+    "4": {
         "replace": true,
         "crafting": [],
         "items": [],
@@ -32,19 +46,13 @@
     "5": {
         "replace": true,
         "crafting": [],
-        "items": [
-            "minecraft:cod",
-            "minecraft:salmon"
-        ],
+        "items": [],
         "entities": []
     },
     "10": {
         "replace": true,
         "crafting": [],
-        "items": [
-            "minecraft:tropical_fish",
-            "minecraft:pufferfish"
-        ],
+        "items": [],
         "entities": []
     },
     "15": {

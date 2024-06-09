@@ -33,6 +33,8 @@
             "medievalweapons:wooden_ninjato",
             "medievalweapons:wooden_sickle",
             "medievalweapons:wooden_rapier",
+            "minecraft:fishing_rod",
+            "meadow:watering_can",
             "bakery:rolling_pin",
             "another_furniture:furniture_hammer",
             "earlystage:wooden_shield",
@@ -84,6 +86,7 @@
             "medievalweapons:stone_sickle",
             "medievalweapons:stone_rapier",
             "earlystage:stone_shears",
+            "geocluster:stone_prospectors_pick",
             "minecraft:bone",
             "immersive_armors:bone_helmet",
             "immersive_armors:bone_chestplate",
@@ -108,6 +111,10 @@
             "minecraft:leather_chestplate",
             "minecraft:leather_leggings",
             "minecraft:leather_boots",
+            "endermanoverhaul:badlands_hood",
+            "endermanoverhaul:savanna_hood",
+            "endermanoverhaul:snowy_hood",
+            "vc_gliders:paraglider_wood",
             "minecraft:rabbit_hide",
             "minecraft:gold_ingot",
             "minecraft:golden_shovel",
@@ -130,7 +137,8 @@
             "medievalweapons:golden_mace",
             "medievalweapons:golden_ninjato",
             "medievalweapons:golden_sickle",
-            "medievalweapons:golden_rapier"
+            "medievalweapons:golden_rapier",
+            "vc_gliders:paraglider_gold"
         ]
     },
     "4": {
@@ -172,8 +180,11 @@
             "betterarcheology:iron_brush",
             "bakery:bread_knife",
             "bakery:small_cooking_pot",
+            "candlelight:cooking_pan",
             "minecraft:shears",
-            "minecraft:shield"
+            "minecraft:shield",
+            "vc_gliders:paraglider_iron",
+            "geocluster:iron_prospectors_pick"
         ]
     },
     "7": {
@@ -187,6 +198,8 @@
             "vinery:winemaker_boots",
             "brewery:silo_copper",
             "brewery:copper_brewingstation",
+            "geocluster:copper_prospectors_pick",
+            "bbb:hammer",
             "minecraft:spyglass"
         ]
     },
@@ -231,7 +244,9 @@
         "replace": true,
         "items": [
             "environmentz:heating_stones",
-            "environmentz:ice_pack"
+            "environmentz:ice_pack",
+            "endermanoverhaul:corrupted_shield",
+            "endermanoverhaul:corrupted_blade"
         ]
     },
     "10": {
@@ -250,7 +265,10 @@
     },
     "12": {
         "replace": true,
-        "items": []
+        "items": [
+            "adventurez:prime_eye",
+            "adventurez:ender_flute"
+        ]
     },
     "13": {
         "replace": true,
@@ -333,7 +351,8 @@
     "27": {
         "replace": true,
         "items": [
-            "minecraft:gold_block"
+            "minecraft:gold_block",
+            "adventurez:blackstone_golem_arm"
         ]
     },
     "30": {
@@ -374,7 +393,8 @@
             "medievalweapons:diamond_ninjato",
             "medievalweapons:diamond_sickle",
             "medievalweapons:diamond_rapier",
-            "betterarcheology:diamond_brush"
+            "betterarcheology:diamond_brush",
+            "vc_gliders:paraglider_diamond"
         ]
     },
     "50": {
@@ -408,7 +428,6 @@
             "minecraft:netherite_chestplate",
             "minecraft:netherite_leggings",
             "minecraft:netherite_boots",
-            "brewery:netherite_brewingstation",
             "dehydration:netherite_leather_flask",
             "medievalweapons:netherite_small_axe",
             "medievalweapons:netherite_long_sword",
@@ -423,6 +442,7 @@
             "medievalweapons:netherite_sickle",
             "medievalweapons:netherite_rapier",
             "brewery:netherite_brewingstation",
+            "vc_gliders:paraglider_netherite",
             "brewery:beer_standard",
             "bakery:bakery_standard",
             "candlelight:candlelight_standard",
@@ -438,7 +458,15 @@
             "adventurez:gilded_netherite_helmet",
             "adventurez:gilded_netherite_chestplate",
             "adventurez:gilded_netherite_leggings",
-            "adventurez:gilded_netherite_boots"
+            "adventurez:gilded_netherite_boots",
+            "dungeonnowloading:skull_of_chaos",
+            "dungeonnowloading:scepter_of_sealed_chaos",
+            "dungeonnowloading:life_stealer",
+            "dungeonnowloading:spawner_sword",
+            "dungeonnowloading:spawner_helmet",
+            "dungeonnowloading:spawner_chestplate",
+            "dungeonnowloading:spawner_leggings",
+            "dungeonnowloading:spawner_boots"
         ]
     }
 }

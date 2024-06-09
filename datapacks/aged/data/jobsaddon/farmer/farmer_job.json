@@ -43,7 +43,8 @@
             "meadow:piece_of_amethyst_cheese",
             "meadow:piece_of_buffalo_cheese",
             "meadow:piece_of_goat_cheese",
-            "meadow:piece_of_warped_cheese"
+            "meadow:piece_of_warped_cheese",
+            "natures_spirit:desert_turnip"
         ],
         "crafting": [
             "bakery:yeast",

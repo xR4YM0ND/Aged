@@ -1,0 +1,68 @@
+{
+    "type": "geocluster:deposit_dense",
+    "config": {
+        "yMin": -64,
+        "yMax": 250,
+        "size": 35,
+        "biomeTag": "#aged:is_water",
+        "blockStateMatchers": [
+            "minecraft:dirt",
+            "minecraft:gravel",
+            "minecraft:stone",
+            "minecraft:sand"
+        ],
+        "blocks": {
+            "default": [
+                {
+                    "block": "agedaddition:stone_salt_ore",
+                    "chance": 0.4
+                },
+                {
+                    "block": "minecraft:stone",
+                    "chance": 0.6
+                }
+            ],
+            "minecraft:dirt": [
+                {
+                    "block": "agedaddition:stone_salt_ore",
+                    "chance": 0.4
+                },
+                {
+                    "block": "minecraft:dirt",
+                    "chance": 0.6
+                }
+            ],
+            "minecraft:gravel": [
+                {
+                    "block": "agedaddition:stone_salt_ore",
+                    "chance": 0.4
+                },
+                {
+                    "block": "minecraft:gravel",
+                    "chance": 0.6
+                }
+            ],
+            "minecraft:sand": [
+                {
+                    "block": "agedaddition:stone_salt_ore",
+                    "chance": 0.4
+                },
+                {
+                    "block": "minecraft:sand",
+                    "chance": 0.6
+                }
+            ]
+        },
+        "samples": [
+            {
+                "block": "agedaddition:stone_salt_ore_sample",
+                "chance": 0.6
+            },
+            {
+                "block": null,
+                "chance": 0.4
+            }
+        ],
+        "generationWeight": 7
+    }
+}

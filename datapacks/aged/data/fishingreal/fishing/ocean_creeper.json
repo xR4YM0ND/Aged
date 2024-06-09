@@ -1,0 +1,8 @@
+{
+    "input": {
+        "item": "minecraft:gunpowder"
+    },
+    "result": {
+        "id": "creeperoverhaul:ocean_creeper"
+    }
+}
