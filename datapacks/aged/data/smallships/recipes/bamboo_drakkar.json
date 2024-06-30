@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "drakkar",
+    "pattern": [
+      "sys",
+      "xlx",
+      "bbb"
+    ],
+    "key": {
+      "y": {
+        "item": "smallships:sail"
+      },
+      "x": {
+        "item": "minecraft:chest"
+      },
+      "l": {
+        "item": "minecraft:lead"
+      },
+      "s": {
+        "item": "minecraft:string"
+      },
+      "b": {
+        "item": "minecraft:bamboo_raft"
+      }
+    },
+    "result": {
+      "item": "smallships:bamboo_drakkar"
+    }
+  }

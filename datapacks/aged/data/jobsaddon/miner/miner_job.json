@@ -16,9 +16,7 @@
             "minecraft:deepslate_copper_ore",
             "meadow:alpine_copper_ore",
             "natures_spirit:chert_copper",
-            "minecraft:nether_quartz_ore",
-            "geocluster:quartz_ore",
-            "geocluster:deepslate_quartz_ore"
+            "minecraft:nether_quartz_ore"
         ]
     },
     "5": {
@@ -91,8 +89,7 @@
     "30": {
         "replace": true,
         "blocks": [
-            "minecraft:ancient_debris",
-            "geocluster:ancient_debris_ore"
+            "minecraft:ancient_debris"
         ]
     }
 }

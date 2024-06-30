@@ -42,7 +42,6 @@
         "minecraft:deepslate_iron_ore",
         "minecraft:deepslate_lapis_ore",
         "minecraft:deepslate_redstone_ore",
-        "minecraft:deepslate_emerald_ore",
-        "geocluster:deepslate_quartz_ore"
+        "minecraft:deepslate_emerald_ore"
     ]
 }

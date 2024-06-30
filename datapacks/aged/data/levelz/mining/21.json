@@ -3,7 +3,7 @@
     "level": 21,
     "block": [
         "minecraft:diamond_ore",
-        "meadow:apline_diamond_ore",
+        "meadow:alpine_diamond_ore",
         "natures_spirit:chert_diamond_ore",
         "minecraft:deepslate_diamond_ore",
         "minecraft:diamond_block"

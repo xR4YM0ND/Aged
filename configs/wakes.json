@@ -1,6 +1,0 @@
-{
-    "effectSpawningRules": {
-		"boat": "ONLY_SIMULATION",
-		"player": "ONLY_SIMULATION"
-	}
-}

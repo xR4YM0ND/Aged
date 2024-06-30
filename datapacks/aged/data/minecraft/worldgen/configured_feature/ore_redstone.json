@@ -1,0 +1,100 @@
+{
+    "type": "minecraft:scattered_ore",
+    "config": {
+        "discard_chance_on_air_exposure": 0.0,
+        "size": 11,
+        "targets": [
+            {
+                "target": {
+                    "predicate_type": "minecraft:random_block_match",
+                    "block": "minecraft:stone",
+                    "probability": 0.5
+                },
+                "state": {
+                    "Name": "minecraft:redstone_ore",
+                    "Properties": {
+                        "lit": "false"
+                    }
+                }
+            },
+            {
+                "target": {
+                    "predicate_type": "minecraft:random_block_match",
+                    "block": "minecraft:andesite",
+                    "probability": 0.5
+                },
+                "state": {
+                    "Name": "minecraft:redstone_ore",
+                    "Properties": {
+                        "lit": "false"
+                    }
+                }
+            },
+            {
+                "target": {
+                    "predicate_type": "minecraft:random_block_match",
+                    "block": "minecraft:diorite",
+                    "probability": 0.5
+                },
+                "state": {
+                    "Name": "minecraft:redstone_ore",
+                    "Properties": {
+                        "lit": "false"
+                    }
+                }
+            },
+            {
+                "target": {
+                    "predicate_type": "minecraft:random_block_match",
+                    "block": "minecraft:granite",
+                    "probability": 0.5
+                },
+                "state": {
+                    "Name": "minecraft:redstone_ore",
+                    "Properties": {
+                        "lit": "false"
+                    }
+                }
+            },
+            {
+                "target": {
+                    "predicate_type": "minecraft:random_block_match",
+                    "block": "minecraft:deepslate",
+                    "probability": 0.5
+                },
+                "state": {
+                    "Name": "minecraft:deepslate_redstone_ore",
+                    "Properties": {
+                        "lit": "false"
+                    }
+                }
+            },
+            {
+                "target": {
+                    "predicate_type": "minecraft:random_block_match",
+                    "block": "meadow:limestone",
+                    "probability": 0.5
+                },
+                "state": {
+                    "Name": "meadow:alpine_redstone_ore",
+                    "Properties": {
+                        "lit": "false"
+                    }
+                }
+            },
+            {
+                "target": {
+                    "predicate_type": "minecraft:random_block_match",
+                    "block": "natures_spirit:chert",
+                    "probability": 0.5
+                },
+                "state": {
+                    "Name": "natures_spirit:chert_redstone_ore",
+                    "Properties": {
+                        "lit": "false"
+                    }
+                }
+            }
+        ]
+    }
+}

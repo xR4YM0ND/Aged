@@ -1,0 +1,79 @@
+{
+    "type": "minecraft:ore",
+    "config": {
+        "size": 18,
+        "discard_chance_on_air_exposure": 0.5,
+        "targets": [
+            {
+                "target": {
+                    "predicate_type": "minecraft:random_block_match",
+                    "block": "minecraft:stone",
+                    "probability": 0.5
+                },
+                "state": {
+                    "Name": "minecraft:gold_ore"
+                }
+            },
+            {
+                "target": {
+                    "predicate_type": "minecraft:random_block_match",
+                    "block": "minecraft:andesite",
+                    "probability": 0.5
+                },
+                "state": {
+                    "Name": "minecraft:gold_ore"
+                }
+            },
+            {
+                "target": {
+                    "predicate_type": "minecraft:random_block_match",
+                    "block": "minecraft:diorite",
+                    "probability": 0.5
+                },
+                "state": {
+                    "Name": "minecraft:gold_ore"
+                }
+            },
+            {
+                "target": {
+                    "predicate_type": "minecraft:random_block_match",
+                    "block": "minecraft:granite",
+                    "probability": 0.5
+                },
+                "state": {
+                    "Name": "minecraft:gold_ore"
+                }
+            },
+            {
+                "target": {
+                    "predicate_type": "minecraft:random_block_match",
+                    "block": "minecraft:deepslate",
+                    "probability": 0.5
+                },
+                "state": {
+                    "Name": "minecraft:deepslate_gold_ore"
+                }
+            },
+            {
+                "target": {
+                    "predicate_type": "minecraft:random_block_match",
+                    "block": "meadow:limestone",
+                    "probability": 0.5
+                },
+                "state": {
+                    "Name": "meadow:alpine_gold_ore"
+                }
+            },
+            {
+                "target": {
+                    "predicate_type": "minecraft:random_block_match",
+                    "block": "natures_spirit:chert",
+                    "probability": 0.5
+                },
+                "state": {
+                    "Name": "natures_spirit:chert_gold_ore"
+                }
+            }
+        ]
+    }
+}

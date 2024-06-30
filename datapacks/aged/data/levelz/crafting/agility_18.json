@@ -3,7 +3,6 @@
     "skill": "agility",
     "level": 18,
     "item": [
-        "vc_gliders:paraglider_gold",
         "minecraft:lodestone"
     ]
 }

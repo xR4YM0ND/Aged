@@ -86,7 +86,6 @@
             "medievalweapons:stone_sickle",
             "medievalweapons:stone_rapier",
             "earlystage:stone_shears",
-            "geocluster:stone_prospectors_pick",
             "minecraft:bone",
             "immersive_armors:bone_helmet",
             "immersive_armors:bone_chestplate",
@@ -114,7 +113,6 @@
             "endermanoverhaul:badlands_hood",
             "endermanoverhaul:savanna_hood",
             "endermanoverhaul:snowy_hood",
-            "vc_gliders:paraglider_wood",
             "minecraft:rabbit_hide",
             "minecraft:gold_ingot",
             "minecraft:golden_shovel",
@@ -137,8 +135,7 @@
             "medievalweapons:golden_mace",
             "medievalweapons:golden_ninjato",
             "medievalweapons:golden_sickle",
-            "medievalweapons:golden_rapier",
-            "vc_gliders:paraglider_gold"
+            "medievalweapons:golden_rapier"
         ]
     },
     "4": {
@@ -182,9 +179,7 @@
             "bakery:small_cooking_pot",
             "candlelight:cooking_pan",
             "minecraft:shears",
-            "minecraft:shield",
-            "vc_gliders:paraglider_iron",
-            "geocluster:iron_prospectors_pick"
+            "minecraft:shield"
         ]
     },
     "7": {
@@ -198,7 +193,6 @@
             "vinery:winemaker_boots",
             "brewery:silo_copper",
             "brewery:copper_brewingstation",
-            "geocluster:copper_prospectors_pick",
             "bbb:hammer",
             "minecraft:spyglass"
         ]
@@ -393,8 +387,7 @@
             "medievalweapons:diamond_ninjato",
             "medievalweapons:diamond_sickle",
             "medievalweapons:diamond_rapier",
-            "betterarcheology:diamond_brush",
-            "vc_gliders:paraglider_diamond"
+            "betterarcheology:diamond_brush"
         ]
     },
     "50": {
@@ -442,7 +435,6 @@
             "medievalweapons:netherite_sickle",
             "medievalweapons:netherite_rapier",
             "brewery:netherite_brewingstation",
-            "vc_gliders:paraglider_netherite",
             "brewery:beer_standard",
             "bakery:bakery_standard",
             "candlelight:candlelight_standard",

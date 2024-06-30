@@ -2,7 +2,6 @@
     "replace": true,
     "level": 27,
     "block": [
-        "geocluster:ancient_debris_ore",
         "minecraft:ancient_debris",
         "minecraft:netherite_block",
         "brewery:netherite_brewingstation"

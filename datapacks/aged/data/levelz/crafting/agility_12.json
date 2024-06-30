@@ -3,7 +3,6 @@
     "skill": "agility",
     "level": 12,
     "item": [
-        "vc_gliders:paraglider_iron",
         "immersive_aircraft:improved_landing_gear"
     ]
 }

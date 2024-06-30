@@ -97,12 +97,12 @@
                             ]
                         }
                     ],
-                    "name": "naturalist:gunpowder",
+                    "name": "minecraft:gunpowder",
                     "weight": 10
                 },
                 {
                     "type": "minecraft:item",
-                    "name": "naturalist:iron_nugget",
+                    "name": "minecraft:iron_nugget",
                     "weight": 1
                 }
             ],

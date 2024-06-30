@@ -20,7 +20,6 @@
         "medievalweapons:stone_sickle",
         "medievalweapons:stone_rapier",
         "earlystage:stone_shears",
-        "environmentz:heating_stones",
-        "geocluster:stone_prospectors_pick"
+        "environmentz:heating_stones"
     ]
 }

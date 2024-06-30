@@ -1,0 +1,79 @@
+{
+    "type": "minecraft:scattered_ore",
+    "config": {
+        "discard_chance_on_air_exposure": 0.5,
+        "size": 10,
+        "targets": [
+            {
+                "target": {
+                    "predicate_type": "minecraft:random_block_match",
+                    "block": "minecraft:stone",
+                    "probability": 0.5
+                },
+                "state": {
+                    "Name": "minecraft:diamond_ore"
+                }
+            },
+            {
+                "target": {
+                    "predicate_type": "minecraft:random_block_match",
+                    "block": "minecraft:andesite",
+                    "probability": 0.5
+                },
+                "state": {
+                    "Name": "minecraft:diamond_ore"
+                }
+            },
+            {
+                "target": {
+                    "predicate_type": "minecraft:random_block_match",
+                    "block": "minecraft:diorite",
+                    "probability": 0.5
+                },
+                "state": {
+                    "Name": "minecraft:diamond_ore"
+                }
+            },
+            {
+                "target": {
+                    "predicate_type": "minecraft:random_block_match",
+                    "block": "minecraft:granite",
+                    "probability": 0.5
+                },
+                "state": {
+                    "Name": "minecraft:diamond_ore"
+                }
+            },
+            {
+                "target": {
+                    "predicate_type": "minecraft:random_block_match",
+                    "block": "minecraft:deepslate",
+                    "probability": 0.5
+                },
+                "state": {
+                    "Name": "minecraft:deepslate_diamond_ore"
+                }
+            },
+            {
+                "target": {
+                    "predicate_type": "minecraft:random_block_match",
+                    "block": "meadow:limestone",
+                    "probability": 0.5
+                },
+                "state": {
+                    "Name": "meadow:alpine_diamond_ore"
+                }
+            },
+            {
+                "target": {
+                    "predicate_type": "minecraft:random_block_match",
+                    "block": "natures_spirit:chert",
+                    "probability": 0.5
+                },
+                "state": {
+                    "Name": "natures_spirit:chert_diamond_ore"
+                }
+            }
+        ]
+    }
+}
