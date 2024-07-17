@@ -26,7 +26,7 @@
         "center": true,
         "object_center": true,
         "pos": [
-            60,
+            90,
             -40
         ],
         "text": [
@@ -39,7 +39,7 @@
         "center": true,
         "object_center": true,
         "pos": [
-            60,
+            90,
             0
         ],
         "text": [
@@ -53,7 +53,7 @@
         "center": true,
         "object_center": true,
         "pos": [
-            60,
+            90,
             60
         ],
         "text": [
@@ -78,7 +78,7 @@
         "center": true,
         "object_center": true,
         "pos": [
-            60,
+            90,
             105
         ],
         "text": "Start"
@@ -86,7 +86,7 @@
     "commands": [
         "/item replace entity @s hotbar.0 with minecraft:bread 4",
         "/item replace entity @s hotbar.1 with minecraft:apple 4",
-        "/item replace entity @s hotbar.4 with lavender:dynamic_book{BookId:'tales_of_aged:tales_of_aged_guide_book'}",
+        "/item replace entity @s hotbar.4 with lavender:dynamic_book{BookId:'aged:aged_guide_book'}",
         "/item replace entity @s hotbar.7 with minecraft:potion{Potion:'minecraft:purified_water'}",
         "/item replace entity @s hotbar.8 with minecraft:campfire"
     ],

@@ -449,7 +449,38 @@
             "vinery:dark_oak_lattice",
             "vinery:mangrove_lattice",
             "vinery:bamboo_lattice",
-            "vinery:cherry_lattice"
+            "vinery:cherry_lattice",
+            "natures_spirit:paper_block",
+            "natures_spirit:paper_panel",
+            "natures_spirit:paper_door",
+            "natures_spirit:paper_trapdoor",
+            "natures_spirit:framed_paper_block",
+            "natures_spirit:framed_paper_panel",
+            "natures_spirit:framed_paper_door",
+            "natures_spirit:framed_paper_trapdoor",
+            "natures_spirit:blooming_paper_block",
+            "natures_spirit:blooming_paper_panel",
+            "natures_spirit:blooming_paper_door",
+            "natures_spirit:blooming_paper_trapdoor",
+            "natures_spirit:paper_sign",
+            "natures_spirit:paper_hanging_sign",
+            "natures_spirit:paper_lantern",
+            "natures_spirit:white_paper_lantern",
+            "natures_spirit:light_gray_paper_lantern",
+            "natures_spirit:gray_paper_lantern",
+            "natures_spirit:black_paper_lantern",
+            "natures_spirit:brown_paper_lantern",
+            "natures_spirit:red_paper_lantern",
+            "natures_spirit:orange_paper_lantern",
+            "natures_spirit:yellow_paper_lantern",
+            "natures_spirit:lime_paper_lantern",
+            "natures_spirit:green_paper_lantern",
+            "natures_spirit:blue_paper_lantern",
+            "natures_spirit:light_blue_paper_lantern",
+            "natures_spirit:cyan_paper_lantern",
+            "natures_spirit:purple_paper_lantern",
+            "natures_spirit:magenta_paper_lantern",
+            "natures_spirit:pink_paper_lantern"
         ]
     },
     "3": {
@@ -468,7 +499,8 @@
             "minecraft:bubble_coral_block",
             "minecraft:fire_coral_block",
             "minecraft:horn_coral_block",
-            "minecraft:sea_lantern"
+            "minecraft:sea_lantern",
+            "amarite:amarite_spark"
         ]
     },
     "4": {
@@ -480,6 +512,19 @@
             "minecraft:ochre_froglight",
             "minecraft:verdant_froglight",
             "minecraft:pearlescent_froglight"
+        ]
+    },
+    "5": {
+        "replace": true,
+        "blocks": [
+            "dungeonnowloading:labyrinth_trophy",
+            "chipped:botanist_workbench",
+            "chipped:glassblower",
+            "chipped:carpenters_table",
+            "chipped:loom_table",
+            "chipped:mason_table",
+            "chipped:alchemy_bench",
+            "chipped:tinkering_table"
         ]
     }
 }

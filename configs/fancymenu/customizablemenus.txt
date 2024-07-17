@@ -1,0 +1,59 @@
+type = customizablemenus
+
+net.minecraft.class_442 {
+}
+
+net.minecraft.class_429 {
+}
+
+net.minecraft.class_440 {
+}
+
+net.minecraft.class_6777 {
+}
+
+net.minecraft.class_443 {
+}
+
+net.minecraft.class_458 {
+}
+
+net.minecraft.class_426 {
+}
+
+net.minecraft.class_8219 {
+}
+
+me.jellysquid.mods.sodium.client.gui.SodiumOptionsGUI {
+}
+
+net.irisshaders.iris.gui.screen.ShaderPackScreen {
+}
+
+net.minecraft.class_7944 {
+}
+
+hantonik.fbp.screen.FBPOptionsScreen {
+}
+
+net.minecraft.class_4288 {
+}
+
+net.minecraft.class_404 {
+}
+
+net.minecraft.class_407 {
+}
+
+loaderCommon.fabric.com.seibel.distanthorizons.common.wrappers.gui.ClassicConfigGUI$ConfigScreen {
+}
+
+net.minecraft.class_434 {
+}
+
+net.minecraft.class_420 {
+}
+
+net.minecraft.class_422 {
+}
+

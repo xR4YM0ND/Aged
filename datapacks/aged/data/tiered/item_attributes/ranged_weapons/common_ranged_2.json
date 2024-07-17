@@ -3,6 +3,12 @@
     "verifiers": [
         {
             "tag": "c:bows"
+        },
+        {
+            "id": "minecraft:trident"
+        },
+        {
+            "id": "amarite:amarite_disc"
         }
     ],
     "weight": 50,

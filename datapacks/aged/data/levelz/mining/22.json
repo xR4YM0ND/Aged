@@ -2,12 +2,18 @@
     "replace": true,
     "level": 22,
     "block": [
+        "minecraft:glowstone",
         "minecraft:small_amethyst_bud",
         "minecraft:medium_amethyst_bud",
         "minecraft:large_amethyst_bud",
         "minecraft:amethyst_cluster",
         "minecraft:budding_amethyst",
         "minecraft:amethyst_block",
-        "minecraft:glowstone"
+        "amarite:amethyst_bricks",
+        "amarite:amethyst_pillar",
+        "amarite:chiseled_amethyst",
+        "amarite:amethyst_brick_stairs",
+        "amarite:amethyst_brick_slab",
+        "amarite:amethyst_brick_wall"
     ]
 }

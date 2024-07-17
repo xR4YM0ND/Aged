@@ -1,4 +1,5 @@
 {
+	"maxLevel": 30,
 	"startPoints": 2,
 	"enableStartPoints": true,
 	"disableMobFarms": true,

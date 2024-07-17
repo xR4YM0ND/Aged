@@ -1,0 +1,31 @@
+{
+    "keys": {
+        "o": "minecraft:obsidian",
+        "c": "minecraft:crying_obsidian",
+        "r": "minecraft:end_rod",
+        "e": "minecraft:dragon_egg"
+    },
+    "layers": [
+        [
+            "ooooo",
+            "ooooo",
+            "ooooo",
+            "ooooo",
+            "ooooo"
+        ],
+        [
+            "r   r",
+            " ccc ",
+            " ccc ",
+            " ccc ",
+            "r   r"
+        ],
+        [
+            "     ",
+            " r r ",
+            "  e  ",
+            " r r ",
+            "     "
+        ]
+    ]
+}

@@ -6,6 +6,12 @@
         "minecraft:purpur_pillar",
         "minecraft:purpur_stairs",
         "minecraft:purpur_slab",
-        "bbb:purpur_layer"
+        "bbb:purpur_layer",
+        "amarite:amarite_block",
+        "amarite:budding_amarite",
+        "amarite:amarite_cluster",
+        "amarite:partial_amarite_bud",
+        "amarite:fresh_amarite_bud",
+        "amarite:amarite_spark"
     ]
 }

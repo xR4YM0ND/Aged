@@ -63,7 +63,6 @@
         "candlelight:stone_bricks_stove",
         "candlelight:stone_bricks_kitchen_sink",
         "candlelight:stone_bricks_counter",
-        "earlystage:redstone_sieve",
-        "agedaddition:stone_salt_ore"
+        "earlystage:redstone_sieve"
     ]
 }

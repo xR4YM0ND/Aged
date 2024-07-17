@@ -22,7 +22,6 @@
     "5": {
         "replace": true,
         "blocks": [
-            "agedaddition:stone_salt_ore",
             "meadow:alpine_salt_ore"
         ]
     },

@@ -26,8 +26,7 @@
             "minecraft:efficiency",
             "minecraft:multishot",
             "minecraft:piercing",
-            "minecraft:quick_charge",
-            "passableleaves:leaf_walker"
+            "minecraft:quick_charge"
         ]
     },
     "3": {
@@ -97,7 +96,10 @@
             "additionz:dexterity",
             "minecraft:depth_strider",
             "minecraft:luck_of_the_sea",
-            "minecraft:sharpness"
+            "minecraft:sharpness",
+            "amarite:double_dash",
+            "amarite:accumulate",
+            "amarite:rebound"
         ]
     },
     "6": {

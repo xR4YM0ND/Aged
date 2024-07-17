@@ -1,0 +1,22 @@
+{
+    "keys": {
+        "a": "adventurez:chiseled_polished_blackstone_holder",
+        "p": "minecraft:polished_blackstone",
+        "b": "minecraft:polished_blackstone_bricks"
+    },
+    "layers": [
+        [
+            "     a     ",
+            " ppppppppp ",
+            " pbbbbbbbp ",
+            " pbpppppbp ",
+            " pbpbbbpbp ",
+            "apbpbpbpbpa",
+            " pbpbbbbbp ",
+            " pbpppppbp ",
+            " pbbbbbbbp ",
+            " ppppppppp ",
+            "     a     "
+        ]
+    ]
+}

@@ -26,6 +26,7 @@
         "#tales_of_aged:letsdo_deco",
         "#tales_of_aged:letsdo_functional",
         "#tales_of_aged:letsdo_stones",
-        "#aged:builder_placing"
+        "#aged:builder_placing",
+        "#c:block_items"
     ]
 }

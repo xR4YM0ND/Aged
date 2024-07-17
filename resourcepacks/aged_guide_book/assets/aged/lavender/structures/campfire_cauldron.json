@@ -1,0 +1,14 @@
+{
+    "keys": {
+        "a": "minecraft:campfire",
+        "b": "dehydration:campfire_cauldron"
+    },
+    "layers": [
+        [
+            "a"
+        ],
+        [
+            "b"
+        ]
+    ]
+}

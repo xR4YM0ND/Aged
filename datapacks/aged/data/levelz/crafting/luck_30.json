@@ -5,6 +5,7 @@
     "item": [
         "dungeonnowloading:life_stealer",
         "dungeonnowloading:scepter_of_sealed_chaos",
-        "minecraft:beacon"
+        "minecraft:beacon",
+        "amarite:amarite_mirror"
     ]
 }

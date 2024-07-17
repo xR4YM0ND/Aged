@@ -1,3 +1,4 @@
 {
-    "mods_button_style": "replace_realms"
+    "mods_button_style": "replace_realms",
+    "button_update_badge": false
 }

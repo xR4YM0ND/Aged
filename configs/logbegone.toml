@@ -1,3 +1,28 @@
 [logbegone]
-phrases = []
+phrases = [
+    "Early-load attempt at getting custom sound block group failed. Ignoring for now.",
+    "[STDOUT]: Registered Resource Key for biome:",
+    "Sound event naturalist:",
+    "Filter [exposure:",
+    "Missing sound for event: ",
+    "This line is printed by an example mod mixin from Fabric!",
+    "MC Version: Fabric",
+    "Generating YACL screen",
+    "[Antique Atlas] Set fallback biome for",
+    "[Antique Atlas] No fallback could be found for",
+    "Running SQL update script: [sqlScripts/",
+    "Failed to remove item with identifier",
+    "Detected setBlock in a far chunk ",
+    "Empty height range: ",
+    "Hanging entity at invalid position:",
+    "Sound Keyframe found for",
+    "Skipping Entity with id",
+    "Received passengers for unknown entity",
+    "Ignoring unknown attribute 'forge:",
+    "has been sitting for 100 ticks, forgetting",
+    "[STDOUT]: []",
+    "Empty or non-existent pool: create-the-server:generic",
+    "has a broken icon, loading default icon",
+    "was corrected from null to its default,"
+]
 regex = []
