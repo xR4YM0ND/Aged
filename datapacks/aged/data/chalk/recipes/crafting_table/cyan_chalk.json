@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "chalk:chalk",
+    "ingredients": [
+        {
+            "item": "natures_spirit:chalk_powder"
+        },
+        {
+            "item": "natures_spirit:chalk_powder"
+        },
+        {
+            "item": "natures_spirit:chalk_powder"
+        },
+        {
+            "item": "natures_spirit:chalk_powder"
+        },
+        {
+            "item": "minecraft:cyan_dye"
+        }
+    ],
+    "result": {
+        "item": "chalk:cyan_chalk"
+    }
+}

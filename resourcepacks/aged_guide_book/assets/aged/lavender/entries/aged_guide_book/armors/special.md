@@ -223,6 +223,17 @@ Special Armor examples:
 ;;;;;
 
 
+**Spawner Armor**
+
+---
+
+<item;dungeonnowloading:spawner_helmet>
+<item;dungeonnowloading:spawner_chestplate>
+<item;dungeonnowloading:spawner_leggings>
+<item;dungeonnowloading:spawner_boots>
+
+;;;;;
+
 **More**
 
 ---

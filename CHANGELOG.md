@@ -1,7 +1,7 @@
 # Aged 3.0.0
 
 3.0.0 ain't compatible with older version.
-Reinstall the modpack entirely.
+Reinstall the modpack entirely for a clean experience.
 Backup your files & create a new world.
 
 Aged is now built for singleplayer, it still works on multiplayer & servers.
@@ -11,24 +11,351 @@ Also the lavender guide book probably won't work on servers.
 ## Fixed:
 - no more butterflys
 - baby backpack now further craftable
+- A lot of MISC
 
 ## Changed:
-- World generation from wwee to wwoo & natures spirit
+- World generation from `wwee` to `wwoo` & `natures spirit`
+- Changed Nether & End generation completely
 - Trades now vanilla instead of custom & coins
 - Enchanting now vanilla instead of mc dungeons
+- Ore generation back to vanilla (slightly rarer to find)
+- Vanilla villager trades & emerald drops instead of coins
+- A lot of MISC
+
+## Added:
+- [Let's Do] Brewery `1.1.9`
+- AdvancementsFullscreen `1.0`
+- AdvancementsSearch `1.0`
+- Amarite `1.0.8`
+- Another Furniture `3.0.1`
+- Antique Atlas 4 `2.9.12`
+- Astrocraft `1.3.2`
+- Better End Cities Vanilla `1.20.1`
+- Birds | Boids Addon `1.1.0`
+- Boids `1.2.2`
+- Building But Better `1.0.2`
+- CameraOverhaul `1.4.1`
+- Chalk `2.2.4`
+- Chalk: Colorful Addon `2.1.1`
+- Charmonium `6.0.7`
+- Create The Server Datapack `0.2`
+- Crop Growth Modifier `1.1.1`
+- DEUF Refabricated `1.1.0`
+- Distant Horizons `2.1.2 a`
+- Dungeon Now Loading `1.5%`
+- Dungeons and Taverns Ancient City Overhaul `1`
+- Dungeons and Taverns Pillager Outpost Rework `1.1`
+- Dungeons and Taverns Stronghold Rework `1`
+- Dungeons+ `1.8.4 b`
+- EMI `1.1.10`
+- EMI Enchanting `0.1.0`
+- EMI Loot `0.6.6`
+- EMI Ores `0.4`
+- EMI Trades `1.2.1`
+- EMIffect `1.1.2`
+- Fancy Block Particles - Renewed `20.1.0.2 b`
+- First-person Model `2.4.3`
+- Formations (Structure Library) `1.0.2`
+- Formations Nether `1.0.5`
+- Formations Overworld `1.0.4`
+- Fresh Animations - Extensions `1.4`
+- Fresh Moves (with eyes) `3.0.1`
+- Gardens of the Dead `4.0.1`
+- Hearts `1.0.1`
+- Hopo Better Mineshaft `1.1.8`
+- Immersive Snow `1.3.0`
+- Immersive UI `0.1.1`
+- Iris/Oculus & GeckoLib Compat `1.0.0`
+- Leaf Me Alone `1.0.1`
+- Load My F***ing Tags `1.0.2`
+- Medieval Buildings `1.0.2`
+- Melody `1.0.4`
+- Mod Menu `7.2.2`
+- Nature's Spirit `1.5.5`
+- Necronomicon API `1.4.2`
+- Nimble `5.0.1`
+- Overflowing Bars `8.0.0`
+- Particular `1.1.1`
+- Scholar `1.0.0`
+- Ships `3.0.3`
+- Smooth Swapping `0.9.3.1`
+- Spider Caves `20.1.0`
+- Sushi Bar `0.2.1`
+- TCDCommons API `3.12.2`
+- Unnamed Deserts `1.3.0`
 
 ## Removed:
-- 
+- Alternate Current
+- AmbientSounds
+- Amecs
+- Archers (RPG Series)
+- Areas
+- Armorful
+- AttributeFix
+- Auto Third Person
+- AzureLib
+- AzureLib Armor
+- BCLib
+- Beautify: Refabricated
+- Better Advancements
+- Better Clouds
+- Better Flame Particles
+- Better Mount HUD
+- Better Nether Map
+- Better Smithing Table
+- Better Than Mending
+- Better Third Person
+- BetterEnd
+- BetterNether
+- Biome Moss
+- Blossom
+- Boat Item View
+- Bookshelf
+- Bushier Flowers
+- CIT Resewn
+- Carpeted Stairs & Slabs
+- Catalogue
+- Cave Dust
+- Charm of Undying
+- ClearDespawn
+- Collective
+- Colorful Hearts
+- CompleteConfig
+- Continents
+- Continuity
+- Controlling
+- Corality
+- CraftPresence
+- CreativeCore
+- Cristel Lib
+- Custom Portals
+- Dark Loading Screen
+- Dawn API
+- Debugify
+- Deeper Oceans
+- Detail Armor Bar
+- Disable Accessibility Screen
+- Dismount Entity
+- Do a Barrel Roll
+- Dyed
+- Dynamic Crosshair
+- Dynamic Crosshair Compat
+- e4mc
+- Early Loading Screen
+- Eating Animation
+- Elytra Slot
+- Elytra Trims
+- Enchantment Descriptions
+- Enhanced Workbenches
+- Eugene's Wealthy Plains
+- Extraordinary Extra Totems
+- FPS Reducer
+- Fabric Language Kotlin
+- Fabric Seasons: Extras
+- Falling Leaves
+- Fzzy Core
+- Gazebos (RPG Series)
+- Gear Core
+- Geocluster
+- Geophilic
+- Guard Villagers
+- Guarding
+- Handcrafted
+- Hellion's Sniffer+
+- Hero Proof
+- Hopo Better Ruined Portals
+- Horse Expert
+- Iceberg
+- Illager Invasion
+- Immersive Melodies
+- Inventory Sorting
+- ItemSwapper
+- Items Displayed
+- Kiwi
+- Krypton
+- LazyDFU
+- Linkart
+- Loyal Items
+- MC Dungeons Enchanting
+- Macaw's Fences and Walls
+- Macaw's Roofs
+- Macaw's Windows
+- MakeUp - Ultra Fast
+- Masik's Puzzle Dungeon
+- Menulogue
+- Mixin Conflict Helper
+- MixinTrace
+- Mob Catalog
+- More Chat History
+- More Geodes
+- More Mob Variants
+- More Mob Variants x Fresh Animations
+- Mythic Charms
+- No Chat Reports
+- Not Enough Animations
+- Numismatic Overhaul
+- NumismaticClaim
+- On Soul Fire
+- Open Parties and Claims
+- Packet Fixer
+- Panda's Extra Details
+- Particle Tweaks
+- Passable Foliage
+- Passive Shield
+- Patchouli
+- PatchouliButton
+- Pehkui
+- Polymorph
+- Prism
+- Projectile Damage Attribute
+- Quality Sounds
+- Reacharound
+- Realistic Bees
+- Reese's Sodium Options
+- Respawning Animals
+- Roughly Enough Items (REI)
+- Roughly Enough Professions (REP)
+- Sculk Expansion
+- Searchables
+- Show Me Your Skin!
+- Simple Voice Chat
+- Skeletal Remains
+- SleepWarp
+- Snow Under Trees (Fabric)
+- Snuffles (Fabric)
+- Sodium Extra
+- Sodium Shadowy Path Blocks
+- Sooty Chimneys for Fabric
+- Sound Controller
+- Spell Engine
+- Spell Power Attributes
+- Spyglass Astronomy
+- Stamina
+- Starlight (Fabric)
+- Stendhal
+- Structure Pool API
+- Suggestion Tweaker
+- Supplementaries
+- Supplementaries Squared
+- Third Person Maps
+- Tidal Towns
+- Tom's Simple Storage
+- Towns and Towers
+- Tridents 'n' Stuff
+- Trowel
+- Ultreon Modding Library
+- Unique Enchanted Books
+- Universal Ores
+- Video Tape
+- Villagers: Far From Home
+- Visuality
+- Wakes
+- William Wythers' Expanded Ecosphere
+- Xaero's World Map
+- YUNG's Better Dungeons
+- YUNG's Better Mineshafts
+- YUNG's Better Strongholds
+- YUNG's Better Witch Huts
+- YUNG's Extras
+- YUNG's Menu Tweaks
+- YetAnotherConfigLib
 
 ## Updated:
-- **Fabric Loader 0.15.11**
+- **Fabric Loader 0.16.0**
+- [EMF] Entity Model Features `2.1.3`
+- [ETF] Entity Texture Features `6.1.3`
+- [Let's Do] API `1.2.15`
+- [Let's Do] Bakery `1.1.14`
+- [Let's Do] Candlelight `1.2.13`
+- [Let's Do] HerbalBrews `1.0.8.1`
+- [Let's Do] Meadow `1.3.18`
+- [Let's Do] NetherVinery `1.2.14`
+- [Let's Do] Vinery `1.4.26`
+- 3D Skin Layers `1.6.6`
+- AdditionZ `1.3.2`
+- AdventureZ `1.4.20`
+- Aged Addition `1.0.6`
+- Architectury API `9.2.14`
+- Async Locator `1.3.0`
+- Athena `3.1.2`
+- BadOptimizations `2.1.4`
+- Balm `7.3.6`
+- Better Archeology `1.1.9`
+- Better Combat `1.8.5`
+- Better Statistics Screen `3.12.4`
+- Chipped `3.0.6`
+- Combat Roll `1.3.2`
+- Creeper Overhaul `3.0.2`
+- Dehydration `1.3.5`
+- Dungeons and Taverns `3.0.3 fix`
+- DungeonZ `1.0.6`
+- Entity Culling `1.6.6`
+- Exposure `1.7.4`
+- Fabric API `0.92.2`
+- FancyMenu `3.2.3`
+- Fishing Real `1.7.2`
+- Fresh Animations `1.9.2`
+- Geckolib `4.4.7`
+- Grass Overhaul `23.10.11`
+- HT's TreeChop `0.19.0`
+- HerdsPanic `1.1.0`
+- ImmediatelyFast `1.2.18`
+- Immersive Aircraft `1.0.1`
+- Indium `1.0.34`
+- Iris Shaders `1.7.2`
+- JobsAddon `1.1.6`
+- Konkrete `1.8.1`
+- Let Me Despawn `1.2.1`
+- M.R.U `0.4.4`
+- MES - Moog's End Structures `1.3.1`
+- MNS - Moog's Nether Structures `1.0.1`
+- Model Gap Fix `1.15`
+- ModernFix `5.18.10`
+- Moonlight Lib `2.12.9`
+- More Culling `0.24.0`
+- Neruina - Ticking Entity Fixer `2.1.0`
+- NiftyCarts `3.0.2`
+- Noisium `2.0.3`
+- NutritionZ `1.0.9`
+- Phantom Loader `20.1.5`
+- Presence Footsteps `1.9.4`
+- Profundis: Seven New Quality Cave Biomes `1.6.2`
+- Puzzles Lib `8.1.21`
+- Raise Sound Limit Simplified `1.1.4`
+- RAY's 3D Rails `1.8`
+- Resourceful Lib `2.1.25`
+- SeasonHUD-Fabric `1.9.6`
+- Small Ships `2.0.0 b 1.3.1`
+- Smarter Farmers (farmers replant) `1.8.2`
+- SmitherZ `1.0.4`
+- Sodium `0.5.11`
+- Sound Physics Remastered `1.4.5`
+- Sounds `1.1.1`
+- Sparse Structures `2.2`
+- SpoiledZ `1.0.10`
+- Spyglass Improvements `1.5.1`
+- Superb Steeds `4`
+- TerraBlender `3.0.1.6`
+- TieredZ `1.3.3`
+- Trinkets `3.7.2`
+- True Ending: Ender Dragon Overhaul `1.1.0 c`
+- Underground Jungle `20.1.2`
+- Villager Transportation `1.3.1`
+- VoidZ `1.0.11`
+- YUNG's Better API `4.0.5`
+- YUNG's Better End Island `2.0.6`
+- YUNG's Better Jungle Temples `2.0.5`
+- YUNG's Better Nether Fortresses `2.0.6`
 
+---
 
 # Aged 2.2.2
 
 ## Fixed:
 - Wrong server side / client side information in instance.json
 - hopefully fixed all major bugs for now ^^
+
+---
 
 # Aged 2.2.1
 
@@ -42,11 +369,14 @@ Also the lavender guide book probably won't work on servers.
 - Fancy Menu (downgrade)
 - Supplementaries
 
+---
+
 # Aged 2.2.0
 
 ## Important
 This update should break the world generation!  
 Create a new world & also reinstall Aged for the best experience, enjoy <3
+
 ## Fixed:
 - Missing archers armor restrictions
 - Smither job exp for ingots / nuggets
@@ -59,6 +389,7 @@ Create a new world & also reinstall Aged for the best experience, enjoy <3
 - Cleaned up the console
 - Low FPS in screens
 - Removed Advancements triggerz on startupz
+
 ## Changed:
 - Implemented food system
 - Implemented stamina
@@ -72,6 +403,7 @@ Create a new world & also reinstall Aged for the best experience, enjoy <3
 - Removed sprinklers
 - Made Globox happy again (removed minerally)
 - Added aged welcome screen
+
 ## Removed:
 - Dynamic FPS
 - EMI
@@ -92,6 +424,7 @@ Create a new world & also reinstall Aged for the best experience, enjoy <3
 - Structory
 - Structory: Towers
 - Tool Trims
+
 ## Added:
 - Async Locator
 - AzureLib
@@ -130,6 +463,7 @@ Create a new world & also reinstall Aged for the best experience, enjoy <3
 - Underground Jungle
 - Villager Transportation
 - WelcomeScreen
+
 ## Updated:
 - **Fabric Loader 0.15.3**
 - [EMF] Entity Model Features
@@ -213,20 +547,22 @@ Create a new world & also reinstall Aged for the best experience, enjoy <3
 - Wakes
 - William Wythers' Expanded Ecosphere
 
+---
+
 # Aged 2.1.2
 
 ## Fixed:
 - Singleplayer button linked to create a new world
 - Forgot to add the datapack changes
-## Changed:
--
+
 ## Removed:
 - Particle Rain
+
 ## Added:
 - Entity Culling
 - More Culling
-## Updated:
--
+
+---
 
 # Aged 2.1.1
 
@@ -294,6 +630,8 @@ Create a new world & also reinstall Aged for the best experience, enjoy <3
 - Structory: Towers
 - Towns and Towers
 - Xaero's World Map
+
+---
 
 # Aged 2.1.0
 
@@ -684,7 +1022,8 @@ Also some mods haven't updated yet / some are removed & some are new to Aged.
 - YUNG's Better Ocean Monuments
 - YUNG's Better Strongholds
 
-*****
+---
+
 # Aged 2.0.4
 
 ## Fixed:
@@ -733,7 +1072,8 @@ Also some mods haven't updated yet / some are removed & some are new to Aged.
 - Smooth Swapping
 - Tom's Simple Storage
 
-*****
+---
+
 # Aged 2.0.3 Hotfix
 
 ## Fixed:
@@ -747,7 +1087,8 @@ Also some mods haven't updated yet / some are removed & some are new to Aged.
 - EnvironmentZ
 - Nameplate
 
-*****
+---
+
 # Aged 2.0.3
 
 ## Fixed:
@@ -787,7 +1128,8 @@ Also some mods haven't updated yet / some are removed & some are new to Aged.
 - Rpg Difficulty
 - Simple Voice Chat
 
-*****
+---
+
 # Aged 2.0.2
 
 ## Changed:
@@ -826,7 +1168,8 @@ Also some mods haven't updated yet / some are removed & some are new to Aged.
 - Tom's Simple Storage
 - Xaero's World Map
 
-*****
+---
+
 # Aged 2.0.1
 
 ## Fixed:
@@ -872,7 +1215,8 @@ Also some mods haven't updated yet / some are removed & some are new to Aged.
 - William Wythers Overhauled Overworld
 - Xaero's World Map
 
-*****
+---
+
 # Aged 2.0.0
 
 ! WARNING !

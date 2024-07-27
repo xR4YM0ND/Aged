@@ -18,6 +18,10 @@
     {
         "structure": "formationsoverworld:witch_tower",
         "factor": 8
+    },
+    {
+        "structure": "create-the-server:dsms/generic",
+        "factor": 2
     }
     // add the structures you want to modify in the format:
     // {

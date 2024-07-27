@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "chalk:chalk",
+    "ingredients": [
+        {
+            "item": "natures_spirit:chalk_powder"
+        },
+        {
+            "item": "natures_spirit:chalk_powder"
+        },
+        {
+            "item": "natures_spirit:chalk_powder"
+        },
+        {
+            "item": "natures_spirit:chalk_powder"
+        },
+        {
+            "item": "minecraft:light_gray_dye"
+        },
+        {
+            "item": "minecraft:glow_ink_sac"
+        }
+    ],
+    "result": {
+        "item": "chalk:light_gray_glow_chalk"
+    }
+}

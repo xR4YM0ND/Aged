@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "chalk:chalk",
+    "ingredients": [
+        {
+            "item": "natures_spirit:red_chalk"
+        },
+        {
+            "item": "minecraft:glow_ink_sac"
+        }
+    ],
+    "result": {
+        "item": "chalk:red_glow_chalk"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "chalk:chalk",
+    "ingredients": [
+        {
+            "item": "natures_spirit:purple_chalk"
+        }
+    ],
+    "result": {
+        "item": "chalk:purple_chalk"
+    }
+}

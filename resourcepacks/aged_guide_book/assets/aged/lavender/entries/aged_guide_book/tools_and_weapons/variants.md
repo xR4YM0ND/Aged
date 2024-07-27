@@ -139,3 +139,69 @@ Plants saplings when cutting down trees.
 <item;medievalweapons:thalleous_sword>
 
 Only obtainable after you killed the [void shadow](^aged:battle/void_shadow).
+
+;;;;;
+
+
+**Amarite Longsword**
+
+---
+
+<recipe;amarite:amarite_longsword>
+
+Can block attacks to absorb half the damage dealt.
+
+Obtainable in [Amarite Geodes](^aged:produce/amarite).
+
+;;;;;
+
+
+**Amarite Disc**
+
+---
+
+<recipe;amarite:amarite_disc>
+
+Can hold multiple discs.
+{light_purple}Attack / Destroy{} to instantly return all discs.
+
+Obtainable in [Amarite Geodes](^aged:produce/amarite).
+
+;;;;;
+
+
+**Spawner Sword**
+
+---
+
+<recipe;dungeonnowloading:spawner_sword>
+
+Harms the user by 1 damage, but deals 3 additional damage.
+
+Obtainable in [The Labyrinth](^aged:battle/chaos_spawner).
+
+;;;;;
+
+
+**Life Stealer**
+
+---
+
+<recipe;dungeonnowloading:life_stealer>
+
+Heals the user 20% of the dealt damage.
+
+Obtainable in [The Labyrinth](^aged:battle/chaos_spawner).
+
+;;;;;
+
+
+**Scepter of Sealed Chaos**
+
+---
+
+<recipe;dungeonnowloading:scepter_of_sealed_chaos>
+
+Summons a Sealed Chaos that aids the user in battle.
+
+Obtainable in [The Labyrinth](^aged:battle/chaos_spawner).

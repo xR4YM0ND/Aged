@@ -23,6 +23,8 @@ phrases = [
     "[STDOUT]: []",
     "Empty or non-existent pool: create-the-server:generic",
     "has a broken icon, loading default icon",
-    "was corrected from null to its default,"
+    "was corrected from null to its default,",
+    "because it is of the wrong type, a type of float is expected.",
+    "Can not return client level proxy, client level clone has not been cached. This might only occur once on load."
 ]
 regex = []
