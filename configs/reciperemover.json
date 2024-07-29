@@ -1,5 +1,5 @@
 {
-    "inventoryRecipeBookX": 0,
+    "inventoryRecipeBookX": 40,
     "inventoryRecipeBookY": 0,
     "printErrorMessage": true,
     "recipeList": [
@@ -65,6 +65,7 @@
         "minecraft:cooked_cod",
         "minecraft:cooked_salmon",
         "minecraft:popped_chorus_fruit",
+        "minecraft:bread",
         "adventurez:cooked_ender_whale_meat",
         "adventurez:cooked_iguana_meat",
         "adventurez:cooked_mammoth_meat",

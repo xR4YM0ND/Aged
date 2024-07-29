@@ -1,3 +1,39 @@
+# Aged 3.0.1
+
+## Fixed:
+
+- Disabled trinket slot arrangement `// crashes server side`
+
+## Changed:
+
+- New backslot & beltslot slot position
+- New recipebook position
+- Removed wheat to bread recipe
+
+## Added:
+
+- [Let's Do Addon] EMI Compat `1.2`
+- Kiwi Library `11.6.3`
+- Passable Foliage `8.2.1`
+
+## Removed:
+
+- Leaf Me Alone `// Passable Foliage works with DH`
+
+## Updated:
+
+- [Let's Do] Bakery `1.1.15`
+- [Let's Do] Meadow `1.3.19`
+- [Let's Do] Vinery `1.4.27`
+- Exposure `1.7.5`
+- ModernFix `5.19.0`
+- Nature's Spirit `1.6.0`
+- SeasonHUD-Fabric `1.9.8`
+- Small Ships `2.0.0 b 1.4`
+- Sounds `1.1.3`
+
+---
+
 # Aged 3.0.0
 
 3.0.0 ain't compatible with older version.

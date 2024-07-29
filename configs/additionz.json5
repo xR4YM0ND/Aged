@@ -9,7 +9,6 @@
 	"botte_air_amount": 0,
 	"campfire_rain_extinguish": 60,
     "phantom_tick_time": 144000,
-	"trinket_slot_arrangement": true,
 	"passive_entity_modifications": true,
 	"passiveEntityConfig": {
 		"baby_to_adult_time": -2304000,
