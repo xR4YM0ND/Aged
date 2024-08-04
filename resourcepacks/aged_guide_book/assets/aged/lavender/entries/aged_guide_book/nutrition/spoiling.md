@@ -7,7 +7,7 @@
 }
 ```
 
-Ontop of a harsh start food begins to spoil when obtained.
+Ontop of a harsh start, food begins to spoil when obtained.
 
 {gray}// As of right now you can't do anything against that.{}
 

@@ -16,7 +16,7 @@ Frayed Backpacks can be dyed in various colors.
 You can upgrade a baby backpack to a frayed backpack.
 
 
-All backpacks can be equipt in a trinket slot.
+All backpacks can be equipped in a trinket slot.
 
 ;;;;;
 
