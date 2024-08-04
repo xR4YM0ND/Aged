@@ -6,7 +6,7 @@
 }
 ```
 
-Your character is quite weak to beginning.
+Your character is quite weak at the beginning.
 
 
 Spend your [points](^aged:character/skills) wisely & apply for more than one [job](^aged:character/jobs).
