@@ -71,7 +71,6 @@ key_key.presencefootsteps.settings:key.keyboard.f10:NONE
 key_key.presencefootsteps.toggle:key.keyboard.unknown:NONE
 key_seamless_loading_screen.keybind.config:key.keyboard.unknown:NONE
 key_key.smallships.ship_sail:key.keyboard.n:NONE
-key_key.spyglass-improvements.use:key.keyboard.z:NONE
 key_treechop.key.toggle_chopping:key.keyboard.unknown:NONE
 key_treechop.key.toggle_felling:key.keyboard.unknown:NONE
 key_treechop.key.cycle_sneak_behavior:key.keyboard.unknown:NONE

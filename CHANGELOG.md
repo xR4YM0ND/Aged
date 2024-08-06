@@ -1,3 +1,32 @@
+# Aged 3.0.2
+
+## Fixed:
+
+- Removed Interactic server side `// fixes server startup crash`
+- Added barks & wheat to crafting rock items
+- Fixed conflicting recipes -> changed the recipes
+
+## Changed:
+
+- Disabled Rain & Snow Block Particles
+- Removed Sandstorms
+
+## Removed:
+- Spyglass Improvements `// strong client side lag / stutter`
+
+## Updated:
+
+- Antique Atlas 4 `2.9.13`
+- Astrocraft `1.4.0`
+- First-person Model `2.4.4`
+- Kiwi Library `11.8.19`
+- Moonlight Lib `2.12.10`
+- Neruina `2.1.1`
+- RAY's 3D Ladders `1.2`
+- Unnamed Deserts `1.3.1`
+
+---
+
 # Aged 3.0.1
 
 ## Fixed:

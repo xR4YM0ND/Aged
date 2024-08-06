@@ -97,7 +97,10 @@
         "earlystage:steel_ingot_from_blasting",
         "adventurez:netherite_scrap_from_warthog_piece",
         "chalk:crafting_table/chalk",
-        "chalk:crafting_table/glow_chalk"
+        "chalk:crafting_table/glow_chalk",
+        "charmony:variant_wood/chest_minecart",
+        "charmony:variant_wood/bamboo_variant_chest_raft",
+        "vinery:dirt_slab"
     ],
     "advancementList": []
 }

@@ -1,0 +1,19 @@
+{
+    "global": {
+      "freezeEffect": false
+    },
+    "rain": {
+      "enabled": false,
+      "waterPhysics": false
+    },
+    "snow": {
+      "enabled": false
+    },
+    "animations": {
+      "fancyPlacingAnimation": false,
+      "smoothAnimationLighting": false
+    },
+    "overlay": {
+      "freezeEffectOverlay": false
+    }
+  }
