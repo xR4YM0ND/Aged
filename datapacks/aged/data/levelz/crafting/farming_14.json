@@ -7,6 +7,7 @@
         "minecraft:iron_hoe",
         "minecraft:shears",
         "minecraft:bucket",
-        "meadow:cheese_form"
+        "meadow:cheese_form",
+        "farm_and_charm:pitchfork"
     ]
 }

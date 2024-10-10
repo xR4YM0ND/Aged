@@ -4,6 +4,6 @@
     "level": 1,
     "item": [
         "minecraft:brewing_stand",
-        "brewery:silo_wood"
+        "farm_and_charm:silo_wood"
     ]
 }

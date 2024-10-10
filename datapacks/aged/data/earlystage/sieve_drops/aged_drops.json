@@ -45,12 +45,12 @@
                     "rolls": 1
                 },
                 {
-                    "item_id": "bakery:strawberry_seeds",
+                    "item_id": "farm_and_charm:strawberry_seeds",
                     "chance": 0.02,
                     "rolls": 1
                 },
                 {
-                    "item_id": "bakery:oat_seeds",
+                    "item_id": "farm_and_charm:oat_seeds",
                     "chance": 0.02,
                     "rolls": 1
                 },
@@ -60,17 +60,17 @@
                     "rolls": 1
                 },
                 {
-                    "item_id": "brewery:barley_seeds",
+                    "item_id": "farm_and_charm:barley_seeds",
                     "chance": 0.02,
                     "rolls": 1
                 },
                 {
-                    "item_id": "candlelight:tomato_seeds",
+                    "item_id": "farm_and_charm:tomato_seeds",
                     "chance": 0.02,
                     "rolls": 1
                 },
                 {
-                    "item_id": "candlelight:lettuce_seeds",
+                    "item_id": "farm_and_charm:lettuce_seeds",
                     "chance": 0.02,
                     "rolls": 1
                 },
@@ -136,12 +136,12 @@
                     "rolls": 1
                 },
                 {
-                    "item_id": "bakery:strawberry_seeds",
+                    "item_id": "farm_and_charm:strawberry_seeds",
                     "chance": 0.02,
                     "rolls": 1
                 },
                 {
-                    "item_id": "bakery:oat_seeds",
+                    "item_id": "farm_and_charm:oat_seeds",
                     "chance": 0.02,
                     "rolls": 1
                 },
@@ -151,17 +151,17 @@
                     "rolls": 1
                 },
                 {
-                    "item_id": "brewery:barley_seeds",
+                    "item_id": "farm_and_charm:barley_seeds",
                     "chance": 0.02,
                     "rolls": 1
                 },
                 {
-                    "item_id": "candlelight:tomato_seeds",
+                    "item_id": "farm_and_charm:tomato_seeds",
                     "chance": 0.02,
                     "rolls": 1
                 },
                 {
-                    "item_id": "candlelight:lettuce_seeds",
+                    "item_id": "farm_and_charm:lettuce_seeds",
                     "chance": 0.02,
                     "rolls": 1
                 },
@@ -288,12 +288,12 @@
                     "rolls": 1
                 },
                 {
-                    "item_id": "bakery:strawberry_seeds",
+                    "item_id": "farm_and_charm:strawberry_seeds",
                     "chance": 0.06,
                     "rolls": 1
                 },
                 {
-                    "item_id": "bakery:oat_seeds",
+                    "item_id": "farm_and_charm:oat_seeds",
                     "chance": 0.06,
                     "rolls": 1
                 },
@@ -303,17 +303,17 @@
                     "rolls": 1
                 },
                 {
-                    "item_id": "brewery:barley_seeds",
+                    "item_id": "farm_and_charm:barley_seeds",
                     "chance": 0.06,
                     "rolls": 1
                 },
                 {
-                    "item_id": "candlelight:tomato_seeds",
+                    "item_id": "farm_and_charm:tomato_seeds",
                     "chance": 0.06,
                     "rolls": 1
                 },
                 {
-                    "item_id": "candlelight:lettuce_seeds",
+                    "item_id": "farm_and_charm:lettuce_seeds",
                     "chance": 0.06,
                     "rolls": 1
                 },
@@ -379,12 +379,12 @@
                     "rolls": 1
                 },
                 {
-                    "item_id": "bakery:strawberry_seeds",
+                    "item_id": "farm_and_charm:strawberry_seeds",
                     "chance": 0.02,
                     "rolls": 1
                 },
                 {
-                    "item_id": "bakery:oat_seeds",
+                    "item_id": "farm_and_charm:oat_seeds",
                     "chance": 0.02,
                     "rolls": 1
                 },
@@ -394,17 +394,17 @@
                     "rolls": 1
                 },
                 {
-                    "item_id": "brewery:barley_seeds",
+                    "item_id": "farm_and_charm:barley_seeds",
                     "chance": 0.02,
                     "rolls": 1
                 },
                 {
-                    "item_id": "candlelight:tomato_seeds",
+                    "item_id": "farm_and_charm:tomato_seeds",
                     "chance": 0.02,
                     "rolls": 1
                 },
                 {
-                    "item_id": "candlelight:lettuce_seeds",
+                    "item_id": "farm_and_charm:lettuce_seeds",
                     "chance": 0.02,
                     "rolls": 1
                 },
@@ -526,12 +526,12 @@
                     "rolls": 1
                 },
                 {
-                    "item_id": "bakery:strawberry_seeds",
+                    "item_id": "farm_and_charm:strawberry_seeds",
                     "chance": 0.02,
                     "rolls": 1
                 },
                 {
-                    "item_id": "bakery:oat_seeds",
+                    "item_id": "farm_and_charm:oat_seeds",
                     "chance": 0.02,
                     "rolls": 1
                 },
@@ -541,17 +541,17 @@
                     "rolls": 1
                 },
                 {
-                    "item_id": "brewery:barley_seeds",
+                    "item_id": "farm_and_charm:barley_seeds",
                     "chance": 0.02,
                     "rolls": 1
                 },
                 {
-                    "item_id": "candlelight:tomato_seeds",
+                    "item_id": "farm_and_charm:tomato_seeds",
                     "chance": 0.02,
                     "rolls": 1
                 },
                 {
-                    "item_id": "candlelight:lettuce_seeds",
+                    "item_id": "farm_and_charm:lettuce_seeds",
                     "chance": 0.02,
                     "rolls": 1
                 },
@@ -642,12 +642,12 @@
                     "rolls": 1
                 },
                 {
-                    "item_id": "bakery:strawberry_seeds",
+                    "item_id": "farm_and_charm:strawberry_seeds",
                     "chance": 0.1,
                     "rolls": 1
                 },
                 {
-                    "item_id": "bakery:oat_seeds",
+                    "item_id": "farm_and_charm:oat_seeds",
                     "chance": 0.1,
                     "rolls": 1
                 },
@@ -657,17 +657,17 @@
                     "rolls": 1
                 },
                 {
-                    "item_id": "brewery:barley_seeds",
+                    "item_id": "farm_and_charm:barley_seeds",
                     "chance": 0.1,
                     "rolls": 1
                 },
                 {
-                    "item_id": "candlelight:tomato_seeds",
+                    "item_id": "farm_and_charm:tomato_seeds",
                     "chance": 0.1,
                     "rolls": 1
                 },
                 {
-                    "item_id": "candlelight:lettuce_seeds",
+                    "item_id": "farm_and_charm:lettuce_seeds",
                     "chance": 0.1,
                     "rolls": 1
                 },
@@ -753,12 +753,12 @@
                     "rolls": 1
                 },
                 {
-                    "item_id": "bakery:strawberry_seeds",
+                    "item_id": "farm_and_charm:strawberry_seeds",
                     "chance": 0.02,
                     "rolls": 1
                 },
                 {
-                    "item_id": "bakery:oat_seeds",
+                    "item_id": "farm_and_charm:oat_seeds",
                     "chance": 0.02,
                     "rolls": 1
                 },
@@ -768,17 +768,17 @@
                     "rolls": 1
                 },
                 {
-                    "item_id": "brewery:barley_seeds",
+                    "item_id": "farm_and_charm:barley_seeds",
                     "chance": 0.02,
                     "rolls": 1
                 },
                 {
-                    "item_id": "candlelight:tomato_seeds",
+                    "item_id": "farm_and_charm:tomato_seeds",
                     "chance": 0.02,
                     "rolls": 1
                 },
                 {
-                    "item_id": "candlelight:lettuce_seeds",
+                    "item_id": "farm_and_charm:lettuce_seeds",
                     "chance": 0.02,
                     "rolls": 1
                 },

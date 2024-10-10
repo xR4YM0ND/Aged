@@ -36,7 +36,7 @@
 	"farmingBase": 10,
 	"farmingChanceBonus": 0.01,
 	"farmingTwinChance": 0.2,
-	"alchemyEnchantmentChance": 0.005,
+	"alchemyEnchantmentChance": 0.0,
 	"alchemyPotionChance": 0.05,
 	"archeryInaccuracyBonus": 0.015,
 	"archeryBowExtraDamage": 0.2,

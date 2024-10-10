@@ -22,7 +22,7 @@ All backpacks can be equipt in a trinket slot.
 
 
 <recipe;inmis:baby_backpack>
-<recipe;tales_of_aged:upgrade_baby_to_frayed_backpack>
+<recipe;aged:upgrade_baby_to_frayed_backpack>
 
 ;;;;;
 

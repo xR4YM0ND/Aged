@@ -88,7 +88,8 @@
     "30": {
         "replace": true,
         "blocks": [
-            "minecraft:ancient_debris"
+            "minecraft:ancient_debris",
+            "amarite:amarite_cluster"
         ]
     }
 }

@@ -5,8 +5,8 @@
             "minecraft:melon_slice",
             "minecraft:honey_bottle",
             "minecraft:sweet_berries",
-            "bakery:strawberry",
-            "candlelight:lettuce",
+            "farm_and_charm:strawberry",
+            "farm_and_charm:lettuce",
             "nethervinery:crimson_grape",
             "nethervinery:warped_grape",
             "vinery:cherry",
@@ -17,7 +17,10 @@
             "vinery:taiga_grapes_red",
             "vinery:taiga_grapes_white",
             "vinery:creepers_crush",
-            "natures_spirit:young_coconut_half"
+            "natures_spirit:young_coconut_half",
+            "farm_and_charm:rotten_tomato",
+            "farm_and_charm:oatmeal_with_strawberries",
+            "farm_and_charm:potato_soup"
         ]
     },
     "2": {
@@ -28,16 +31,18 @@
             "minecraft:splash_potion",
             "minecraft:lingering_potion",
             "minecraft:glow_berries",
-            "candlelight:tomato",
+            "farm_and_charm:tomato",
             "candlelight:mozzarella",
-            "candlelight:salmon_wine",
             "herbalbrews:armor_flask",
             "herbalbrews:damage_flask",
             "herbalbrews:feral_flask",
             "herbalbrews:black_tea",
             "vinery:jungle_grapes_red",
             "vinery:jungle_grapes_white",
-            "vinery:magnetic_wine"
+            "vinery:magnetic_wine",
+            "candlelight:mushroom_soup",
+            "farm_and_charm:barley_soup",
+            "farm_and_charm:onion_soup"
         ]
     },
     "3": {
@@ -49,7 +54,9 @@
             "herbalbrews:coffee",
             "dehydration:water_bowl",
             "dehydration:purified_water_bowl",
-            "natures_spirit:coconut_half"
+            "natures_spirit:coconut_half",
+            "candlelight:tomato_soup",
+            "farm_and_charm:simple_tomato_soup"
         ]
     },
     "4": {
@@ -60,7 +67,13 @@
             "herbalbrews:damage_flask_big",
             "herbalbrews:feral_flask_big",
             "herbalbrews:milk_coffee",
-            "vinery:chorus_wine"
+            "vinery:chorus_wine",
+            "farm_and_charm:strawberry_tea",
+            "farm_and_charm:nettle_tea",
+            "farm_and_charm:ribwort_tea",
+            "farm_and_charm:strawberry_tea_cup",
+            "farm_and_charm:nettle_tea_cup",
+            "farm_and_charm:ribwort_tea_cup"
         ]
     },
     "5": {
@@ -78,11 +91,11 @@
         "replace": true,
         "items": [
             "minecraft:golden_apple",
-            "candlelight:tomato_soup",
-            "candlelight:mushroom_soup",
             "brewery:beer_wheat",
             "brewery:beer_barley",
             "brewery:beer_hops",
+            "brewery:beer_nettle",
+            "brewery:beer_oat",
             "brewery:beer_haley",
             "herbalbrews:green_tea",
             "nethervinery:lava_fizz",
@@ -95,6 +108,7 @@
         "items": [
             "herbalbrews:yerba_mate_tea",
             "herbalbrews:oolong_tea",
+            "herbalbrews:rooibos_tea",
             "vinery:kelp_cider",
             "vinery:chenet_wine",
             "vinery:bolvar_wine",
@@ -123,6 +137,10 @@
             "brewery:whiskey_cristelwalker",
             "brewery:whiskey_maggoallan",
             "brewery:whiskey_carrasconlabel",
+            "brewery:whiskey_ak",
+            "brewery:whiskey_highland_hearth",
+            "brewery:whiskey_smokey_reverie",
+            "brewery:whiskey_jamesons_malt",
             "vinery:villagers_fright",
             "vinery:aegis_wine",
             "vinery:mellohi_wine"

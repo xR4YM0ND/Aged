@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "key": {
+        "+": {
+            "item": "inmis:baby_backpack"
+        },
+        "-": {
+            "item": "minecraft:string"
+        },
+        "#": {
+            "item": "minecraft:leather"
+        }
+    },
+    "pattern": [
+        "-#-",
+        "#+#",
+        "-#-"
+    ],
+    "result": {
+        "item": "inmis:frayed_backpack"
+    }
+}

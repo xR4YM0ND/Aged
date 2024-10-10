@@ -52,7 +52,7 @@
         "bbb:waxed_oxidized_cut_copper_layer",
         "minecraft:raw_copper_block",
         "brewery:copper_brewingstation",
-        "brewery:silo_copper",
+        "farm_and_charm:silo_copper",
         "candlelight:typewriter_copper",
         "dehydration:copper_cauldron",
         "herbalbrews:copper_tea_kettle"

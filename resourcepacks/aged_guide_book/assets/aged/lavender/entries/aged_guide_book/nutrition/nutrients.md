@@ -104,7 +104,7 @@ These can be attribute changes or effects
 
 {red}Debuffs:{}
 - - Armor Toughness {gray}[Atr]{}
-- Mining Fatigue {gray}[Eff]{}
+- Unluck {gray}[Eff]{}
 
 {green}Buffs:{}
 - + Armor Toughness {gray}[Atr]{}

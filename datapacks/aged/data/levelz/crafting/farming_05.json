@@ -3,6 +3,7 @@
     "skill": "farming",
     "level": 5,
     "item": [
-        "bakery:crafting_bowl"
+        "farm_and_charm:crafting_bowl",
+        "earlystage:stone_shears"
     ]
 }

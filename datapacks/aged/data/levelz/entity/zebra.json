@@ -1,7 +1,7 @@
 {
     "replace": true,
     "skill": "agility",
-    "level": 10,
+    "level": 0,
     "entity": "minecraft:custom_entity",
     "object": "naturalist:zebra"
 }

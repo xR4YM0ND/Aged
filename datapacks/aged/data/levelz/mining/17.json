@@ -21,7 +21,6 @@
         "minecraft:red_nether_brick_slab",
         "bbb:red_nether_brick_layer",
         "minecraft:red_nether_brick_wall",
-        "bakery:red_nether_bricks_stove",
         "candlelight:red_nether_bricks_stove",
         "candlelight:red_nether_bricks_kitchen_sink",
         "candlelight:red_nether_bricks_counter",
@@ -42,7 +41,6 @@
         "minecraft:smooth_quartz",
         "minecraft:smooth_quartz_stairs",
         "minecraft:smooth_quartz_slab",
-        "bakery:quartz_stove",
         "candlelight:quartz_stove",
         "candlelight:quartz_kitchen_sink",
         "candlelight:quartz_counter"

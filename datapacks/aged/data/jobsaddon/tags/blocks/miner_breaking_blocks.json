@@ -3,6 +3,7 @@
     "values": [
         "#c:ores",
         "minecraft:ancient_debris",
-        "minecraft:amethyst_cluster"
+        "minecraft:amethyst_cluster",
+        "amarite:amarite_cluster"
     ]
 }

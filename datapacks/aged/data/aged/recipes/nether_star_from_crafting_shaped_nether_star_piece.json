@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+        "#": {
+            "item": "agedaddition:nether_star_piece"
+        },
+        "O": {
+            "item": "minecraft:amethyst_shard"
+        },
+        "X": {
+            "item": "minecraft:fire_charge"
+        }
+    },
+    "pattern": [
+        "O#O",
+        "#X#",
+        "O#O"
+    ],
+    "result": {
+        "item": "minecraft:nether_star"
+    },
+    "show_notification": true
+}

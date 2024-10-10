@@ -8,7 +8,12 @@
         "bbb:brick_layer",
         "minecraft:brick_wall",
         "bakery:kitchen_sink",
-        "bakery:brick_stove",
-        "bakery:brick_counter"
+        "farm_and_charm:stove",
+        "bakery:brick_counter",
+        "bakery:baker_station",
+        "herbalbrews:stove",
+        "meadow:stove_tiles",
+        "meadow:stove_tiles_wood",
+        "meadow:stove_tiles_lid"
     ]
 }

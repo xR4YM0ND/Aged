@@ -13,6 +13,7 @@
         "betterarcheology:infested_mud_bricks",
         "betterarcheology:cracked_mud_bricks",
         "betterarcheology:cracked_mud_brick_slab",
-        "betterarcheology:cracked_mud_brick_stairs"
+        "betterarcheology:cracked_mud_brick_stairs",
+        "candlelight:mud_stove"
     ]
 }

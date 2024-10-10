@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:emerald"
+        }
+    ],
+    "result": {
+        "count": 4,
+        "item": "agedaddition:emerald_piece"
+    }
+}

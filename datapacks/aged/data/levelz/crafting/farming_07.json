@@ -5,6 +5,6 @@
     "item": [
         "minecraft:stone_axe",
         "minecraft:stone_hoe",
-        "earlystage:stone_shears"
+        "farm_and_charm:mincer"
     ]
 }

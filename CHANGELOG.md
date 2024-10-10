@@ -1,3 +1,54 @@
+# Aged 3.1.0
+
+## Important:
+
+Aged Lite & Aged are now compatible with each other
+    **Aged Lite** `1.1.0` -> **Aged** `3.1.0`
+
+## Fixed:
+
+- Enabled 3D Ladders by default
+- Readded vanilla arrow crafting instead of fletching table `// server crash - thx to @Dan`
+- Enchanting Table crash (hopefully) - removed changed restriction `// server crash - thx to @Wenzelony`
+
+## Changed:
+
+- Reworked some of the lets do levelz restrictions
+- Made structure `copper_spire` rare to find
+- some levelz text
+- Removed unclear / useless entity restrictions
+- Stone shears from `farming 7 to 5`
+- Increased `coal ore` generation
+- Decreased `iron ore` generation
+- Added player cart
+- Added more farming stuff
+
+## Added:
+
+- [Let's Do] Bakery - Farm&Charm Compat
+- [Let's Do] Brewery - Farm&Charm Compat
+- [Let's Do] Candlelight - Farm&Charm Compat
+- [Let's Do] Farm & Charm
+- Euphorium `// replacement for charmonium`
+- Fabric Language Kotlin `// Fzzy Config dependency`
+- Fzzy Config `// EMI Loot dependency`
+- OctoLib `// Immersive UI dependency`
+- SuperMartijn642's Config Lib `// Better Archeology dependency`
+
+## Removed:
+
+- Charmonium
+- Legacy: [Let's Do] Bakery
+- Legacy: [Let's Do] Brewery
+- Legacy: [Let's Do] Candlelight
+- Merged Tales_of_Aged into Aged & Aged Lite
+
+## Updated:
+
+- **Fabric Loader 0.16.7**
+
+---
+
 # Aged 3.0.2
 
 ## Fixed:
@@ -5,6 +56,7 @@
 - Removed Interactic server side `// fixes server startup crash`
 - Added barks & wheat to crafting rock items
 - Fixed conflicting recipes -> changed the recipes
+- Missing Building But Better 3D Ladders
 
 ## Changed:
 

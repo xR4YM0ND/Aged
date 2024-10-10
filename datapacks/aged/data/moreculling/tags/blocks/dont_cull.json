@@ -1,0 +1,16 @@
+{
+    "replace": true,
+    "values": [
+        "vinery:oak_lattice",
+        "vinery:spruce_lattice",
+        "vinery:birch_lattice",
+        "vinery:jungle_lattice",
+        "vinery:acacia_lattice",
+        "vinery:dark_oak_lattice",
+        "vinery:mangrove_lattice",
+        "vinery:bamboo_lattice",
+        "vinery:cherry_lattice",
+        "nethervinery:crimson_lattice",
+        "nethervinery:warped_lattice"
+    ]
+}

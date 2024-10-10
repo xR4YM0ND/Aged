@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:blasting",
+    "category": "misc",
+    "cookingtime": 4000,
+    "experience": 8,
+    "group": "emerald",
+    "ingredient": {
+        "item": "minecraft:emerald_ore"
+    },
+    "result": "minecraft:emerald"
+}

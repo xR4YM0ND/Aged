@@ -1,7 +1,7 @@
 ```json
 {
   "title": "Nutrition",
-  "icon": "brewery:corn",
+  "icon": "farm_and_charm:corn",
   "ordinal": 2
 }
 ```

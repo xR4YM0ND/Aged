@@ -18,7 +18,43 @@
         "very_cold_body": 20
     },
     "effect": {
-        "bakery:stuffed": {
+        "brewery:healingtouch": {
+            "replace": true,
+            "temperature": 0,
+            "heat_protection": 2,
+            "cold_protection": 2
+        },
+        "brewery:protectivetouch": {
+            "replace": true,
+            "temperature": 0,
+            "heat_protection": 1,
+            "cold_protection": 1
+        },
+        "brewery:renewingtouch": {
+            "replace": true,
+            "temperature": 0,
+            "heat_protection": 1,
+            "cold_protection": 1
+        },
+        "brewery:snowwhite": {
+            "replace": true,
+            "temperature": 0,
+            "heat_protection": 0,
+            "cold_protection": 2
+        },
+        "farm_and_charm:farmers_blessing": {
+            "replace": true,
+            "temperature": 0,
+            "heat_protection": 1,
+            "cold_protection": 0
+        },
+        "farm_and_charm:feast": {
+            "replace": true,
+            "temperature": 0,
+            "heat_protection": 0,
+            "cold_protection": 2
+        },
+        "farm_and_charm:grandmas_blessing": {
             "replace": true,
             "temperature": 0,
             "heat_protection": 1,

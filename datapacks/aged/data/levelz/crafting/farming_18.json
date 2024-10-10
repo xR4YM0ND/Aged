@@ -4,16 +4,6 @@
     "level": 18,
     "item": [
         "earlystage:steel_axe",
-        "earlystage:steel_hoe",
-        "bakery:brick_stove",
-        "bakery:cobblestone_stove",
-        "bakery:deepslate_stove",
-        "bakery:end_stove",
-        "bakery:granite_stove",
-        "bakery:mud_stove",
-        "bakery:quartz_stove",
-        "bakery:red_nether_bricks_stove",
-        "bakery:sandstone_stove",
-        "bakery:stone_bricks_stove"
+        "earlystage:steel_hoe"
     ]
 }

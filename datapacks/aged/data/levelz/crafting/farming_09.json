@@ -3,6 +3,7 @@
     "skill": "farming",
     "level": 9,
     "item": [
-        "niftycarts:plow"
+        "niftycarts:plow",
+        "bakery:baker_station"
     ]
 }

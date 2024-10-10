@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "farming",
+    "level": 13,
+    "block": "minecraft:custom_block",
+    "object": "candlelight:sandstone_stove"
+}

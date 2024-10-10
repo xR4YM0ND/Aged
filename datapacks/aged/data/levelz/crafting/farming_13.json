@@ -1,0 +1,19 @@
+{
+    "replace": false,
+    "skill": "farming",
+    "level": 13,
+    "item": [
+        "candlelight:cobblestone_stove",
+        "candlelight:sandstone_stove",
+        "candlelight:stone_bricks_stove",
+        "candlelight:deepslate_stove",
+        "candlelight:granite_stove",
+        "candlelight:end_stove",
+        "candlelight:mud_stove",
+        "candlelight:quartz_stove",
+        "candlelight:red_nether_bricks_stove",
+        "candlelight:basalt_stove",
+        "candlelight:bamboo_stove",
+        "farm_and_charm:stove"
+    ]
+}

@@ -35,6 +35,7 @@
             "brewery:dried_wheat",
             "brewery:dried_barley",
             "brewery:dried_corn",
+            "brewery:dried_oat",
             "meadow:cheesecake_slice",
             "meadow:cheese_tart_slice",
             "meadow:piece_of_cheese",
@@ -47,16 +48,17 @@
             "natures_spirit:desert_turnip"
         ],
         "crafting": [
-            "bakery:yeast",
+            "farm_and_charm:yeast",
+            "farm_and_charm:flour",
             "bakery:apple_jam",
             "bakery:strawberry_jam",
             "bakery:sweetberry_jam",
             "bakery:glowberry_jam",
+            "bakery:chocolate_jam",
             "minecraft:beetroot_soup",
             "brewery:gingerbread",
             "brewery:pretzel",
-            "candlelight:butter",
-            "candlelight:dough",
+            "farm_and_charm:butter",
             "meadow:cheese_roll",
             "meadow:cheese_sandwich",
             "nethervinery:crimson_grapejuice",
@@ -71,7 +73,15 @@
             "vinery:red_savanna_grapejuice",
             "vinery:white_savanna_grapejuice",
             "minecraft:bread",
-            "minecraft:cookie"
+            "minecraft:cookie",
+            "candlelight:chocolate_mousse",
+            "farm_and_charm:strawberry_tea",
+            "farm_and_charm:nettle_tea",
+            "farm_and_charm:ribwort_tea",
+            "farm_and_charm:fertilizer",
+            "farm_and_charm:strawberry_tea_cup",
+            "farm_and_charm:nettle_tea_cup",
+            "farm_and_charm:ribwort_tea_cup"
         ]
     },
     "2": {
@@ -81,13 +91,14 @@
             "minecraft:carrot",
             "minecraft:potato",
             "minecraft:beetroot",
-            "bakery:strawberry",
-            "bakery:oat",
+            "farm_and_charm:strawberry",
+            "farm_and_charm:oat",
             "brewery:hops",
-            "brewery:barley",
-            "brewery:corn",
-            "candlelight:tomato",
-            "candlelight:lettuce",
+            "farm_and_charm:barley",
+            "farm_and_charm:corn",
+            "farm_and_charm:tomato",
+            "farm_and_charm:lettuce",
+            "farm_and_charm:onion",
             "herbalbrews:coffee_beans",
             "vinery:rotten_cherry",
             "bakery:apple_cupcake",
@@ -95,7 +106,11 @@
             "bakery:strawberry_cupcake"
         ],
         "crafting": [
-            "bakery:dough",
+            "farm_and_charm:dough",
+            "farm_and_charm:minced_beef",
+            "farm_and_charm:lamb_ham",
+            "farm_and_charm:chicken_parts",
+            "farm_and_charm:bacon",
             "bakery:sweet_dough",
             "bakery:cake_dough",
             "bakery:chocolate_truffle",
@@ -106,11 +121,19 @@
             "brewery:sausage",
             "brewery:fried_chicken",
             "brewery:pork_knuckle",
-            "candlelight:mozzarella",
-            "candlelight:pasta_raw",
+            "farm_and_charm:raw_pasta",
             "minecraft:baked_potato",
             "minecraft:cooked_cod",
-            "minecraft:cooked_salmon"
+            "minecraft:cooked_salmon",
+            "candlelight:mushroom_soup",
+            "candlelight:beetroot_salad",
+            "candlelight:mozzarella",
+            "candlelight:tropical_fish_supreme",
+            "candlelight:salmon_on_white_wine",
+            "candlelight:chicken_with_vegetables",
+            "farm_and_charm:oatmeal_with_strawberries",
+            "farm_and_charm:potato_soup",
+            "farm_and_charm:grandmothers_strawberry_cake"
         ]
     },
     "3": {
@@ -127,7 +150,6 @@
         ],
         "crafting": [
             "bakery:pudding",
-            "bakery:chocolate_jam",
             "bakery:braided_bread",
             "bakery:toast",
             "bakery:cornet",
@@ -136,8 +158,7 @@
             "bakery:bun",
             "bakery:baguette",
             "bakery:bread",
-            "candlelight:mushroom_soup",
-            "candlelight:chocolate",
+            "bakery:bread_with_jam",
             "meadow:cheesecake",
             "meadow:cheese_tart",
             "meadow:cheese_block",
@@ -149,7 +170,20 @@
             "meadow:warped_cheese_block",
             "meadow:cheese_stick",
             "minecraft:mushroom_stew",
-            "herbalbrews:milk_coffee"
+            "herbalbrews:milk_coffee",
+            "candlelight:tomato_soup",
+            "candlelight:fresh_garden_salad",
+            "candlelight:tomato_mozzarella_salad",
+            "candlelight:khinkali",
+            "candlelight:chicken_alfredo",
+            "farm_and_charm:farmer_salad",
+            "farm_and_charm:simple_tomato_soup",
+            "farm_and_charm:barley_soup",
+            "farm_and_charm:corn_grits",
+            "farm_and_charm:barley_patties_with_potatoes",
+            "farm_and_charm:beef_patty_with_vegetables",
+            "farm_and_charm:oat_pancake",
+            "farm_and_charm:farmers_bread"
         ]
     },
     "4": {
@@ -158,9 +192,7 @@
         "crafting": [
             "bakery:chocolate_tart",
             "bakery:misslilitu_biscuit",
-            "candlelight:beetroot_salad",
-            "candlelight:lettuce_salad",
-            "candlelight:salmon_wine",
+            "bakery:grilled_salmon_sandwich",
             "herbalbrews:rooibos_tea",
             "herbalbrews:hibiscus_tea",
             "herbalbrews:green_tea",
@@ -175,7 +207,21 @@
             "minecraft:cooked_chicken",
             "minecraft:cooked_rabbit",
             "minecraft:suspicious_stew",
-            "minecraft:golden_carrot"
+            "minecraft:golden_carrot",
+            "candlelight:salad",
+            "candlelight:pasta_with_bolognese",
+            "candlelight:omelet",
+            "candlelight:harvest_plate",
+            "candlelight:roastbeef_with_glazed_carrots",
+            "candlelight:roasted_lamb_with_lettuce",
+            "candlelight:fillet_steak",
+            "farm_and_charm:onion_soup",
+            "farm_and_charm:pasta_with_onion_sauce",
+            "farm_and_charm:roasted_chicken",
+            "farm_and_charm:roasted_corn",
+            "farm_and_charm:bacon_with_eggs",
+            "farm_and_charm:potato_with_roast_meat",
+            "farm_and_charm:stuffed_chicken"
         ]
     },
     "5": {
@@ -185,6 +231,8 @@
             "brewery:beer_wheat",
             "brewery:beer_barley",
             "brewery:beer_hops",
+            "brewery:beer_nettle",
+            "brewery:beer_oat",
             "brewery:beer_haley"
         ],
         "crafting": [
@@ -192,13 +240,19 @@
             "bakery:apple_pie",
             "bakery:linzer_tart",
             "bakery:bundt_cake",
-            "candlelight:tomato_soup",
-            "candlelight:tomato_mozzarella_salad",
-            "candlelight:pasta_lettuce",
-            "candlelight:chicken",
-            "candlelight:tropical_fish_supreme",
+            "bakery:grilled_bacon_sandwich",
             "meadow:cooked_buffalo_meat",
-            "minecraft:rabbit_stew"
+            "minecraft:rabbit_stew",
+            "candlelight:beef_tartare",
+            "candlelight:pasta_with_lettuce",
+            "candlelight:pork_ribs",
+            "farm_and_charm:goulash",
+            "farm_and_charm:cooked_salmon",
+            "farm_and_charm:cooked_cod",
+            "farm_and_charm:cat_food",
+            "farm_and_charm:dog_food",
+            "farm_and_charm:chicken_feed",
+            "farm_and_charm:horse_fodder"
         ]
     },
     "6": {
@@ -210,16 +264,17 @@
             "bakery:chocolate_gateau"
         ],
         "crafting": [
-            "candlelight:pork_ribs",
-            "candlelight:pasta_bolognese",
-            "candlelight:veggie_plate",
-            "candlelight:chicken_alfredo",
             "herbalbrews:armor_flask",
             "herbalbrews:feral_flask",
             "herbalbrews:damage_flask",
             "minecraft:pumpkin_pie",
             "bakery:vegetable_sandwich",
-            "bakery:sandwich"
+            "bakery:sandwich",
+            "candlelight:chicken_teriyaki",
+            "farm_and_charm:sausage_with_oat_patty",
+            "farm_and_charm:lamb_with_corn",
+            "farm_and_charm:baked_lamb_ham",
+            "farm_and_charm:stuffed_rabbit"
         ]
     },
     "7": {
@@ -228,12 +283,6 @@
             "brewery:mashed_potatoes"
         ],
         "crafting": [
-            "candlelight:beef_tartare",
-            "candlelight:chicken_teriyaki",
-            "candlelight:lettuce_tomato",
-            "candlelight:cooked_beef",
-            "candlelight:lettuce_beef",
-            "candlelight:roastbeef_carrots",
             "meadow:sausage_with_cheese",
             "vinery:chorus_wine",
             "vinery:cherry_wine",
@@ -252,7 +301,11 @@
             "vinery:apple_wine",
             "vinery:apple_cider",
             "vinery:jellie_wine",
-            "vinery:red_wine"
+            "vinery:red_wine",
+            "candlelight:pasta_with_mozzarella",
+            "candlelight:bolognese",
+            "candlelight:lasagne",
+            "farm_and_charm:chicken_wrapped_in_bacon"
         ]
     },
     "8": {
@@ -262,7 +315,11 @@
             "brewery:whiskey_lilitusinglemalt",
             "brewery:whiskey_cristelwalker",
             "brewery:whiskey_maggoallan",
-            "brewery:whiskey_carrasconlabel"
+            "brewery:whiskey_carrasconlabel",
+            "brewery:whiskey_ak",
+            "brewery:whiskey_highland_hearth",
+            "brewery:whiskey_smokey_reverie",
+            "brewery:whiskey_jamesons_malt"
         ],
         "crafting": [
             "meadow:roasted_ham",
@@ -281,10 +338,7 @@
         ],
         "crafting": [
             "brewery:dumplings",
-            "candlelight:pasta",
-            "candlelight:bolognese",
-            "candlelight:fricasse",
-            "candlelight:pancake"
+            "candlelight:beef_with_mushroom_in_wine_and_potatoes"
         ]
     },
     "10": {
@@ -305,7 +359,8 @@
             "vinery:cristel_wine",
             "vinery:jo_special_mixture",
             "vinery:knulp_wine",
-            "minecraft:golden_apple"
+            "minecraft:golden_apple",
+            "farm_and_charm:farmers_breakfast"
         ]
     },
     "15": {

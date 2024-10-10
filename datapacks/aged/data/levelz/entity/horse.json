@@ -1,7 +1,7 @@
 {
     "replace": true,
     "skill": "agility",
-    "level": 7,
+    "level": 6,
     "entity": "minecraft:custom_entity",
     "object": "minecraft:horse"
 }

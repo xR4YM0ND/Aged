@@ -1,7 +1,7 @@
 {
     "replace": true,
     "skill": "farming",
-    "level": 3,
+    "level": 0,
     "entity": "minecraft:custom_entity",
     "object": "adventurez:deer"
 }
