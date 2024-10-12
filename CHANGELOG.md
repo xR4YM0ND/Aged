@@ -10,6 +10,7 @@ Aged Lite & Aged are now compatible with each other
 - Enabled 3D Ladders by default
 - Readded vanilla arrow crafting instead of fletching table `// server crash - thx to @Dan`
 - Enchanting Table crash (hopefully) - removed changed restriction `// server crash - thx to @Wenzelony`
+- Lowered camera movement factors & strength
 
 ## Changed:
 
@@ -22,6 +23,9 @@ Aged Lite & Aged are now compatible with each other
 - Decreased `iron ore` generation
 - Added player cart
 - Added more farming stuff
+- one season is now `14 days`
+- animal baby to adult now `7 days`
+- food spoils `100%` in `2 years`
 
 ## Added:
 

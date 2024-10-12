@@ -12,8 +12,8 @@
     "phantom_tick_time": 144000,
 	"passive_entity_modifications": true,
 	"passiveEntityConfig": {
-		"baby_to_adult_time": -2304000,
-		"passive_age_calculation": 2304000,
+		"baby_to_adult_time": -252000,
+		"passive_age_calculation": 504000,
 		"passive_max_age": 5
 	}
 }

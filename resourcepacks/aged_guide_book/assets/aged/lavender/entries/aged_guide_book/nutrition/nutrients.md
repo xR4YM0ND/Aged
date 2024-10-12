@@ -104,7 +104,7 @@ These can be attribute changes or effects
 
 {red}Debuffs:{}
 - - Armor Toughness {gray}[Atr]{}
-- Unluck {gray}[Eff]{}
+- Unluck II{gray}[Eff]{}
 
 {green}Buffs:{}
 - + Armor Toughness {gray}[Atr]{}

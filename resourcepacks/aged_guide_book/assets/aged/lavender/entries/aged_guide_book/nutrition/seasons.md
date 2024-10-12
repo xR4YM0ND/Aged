@@ -14,10 +14,10 @@ You endure {dark_gray}4{} seasons
 - Fall
 - Winter
 
-Each season has a period of {dark_gray}8 hrs{} real life or {dark_gray}16 days{} ingame.
+Each season has a period of {dark_gray}14{} ingame days.
 
 
-{gray}One day lasts {dark_gray}30{} minutes{}
+{gray}One day lasts {dark_gray}30{} minutes.{}
 
 ;;;;;
 
