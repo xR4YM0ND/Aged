@@ -27,6 +27,7 @@ phrases = [
     "because it is of the wrong type, a type of float is expected.",
     "Can not return client level proxy, client level clone has not been cached. This might only occur once on load.",
     "Unable to play empty soundEvent: minecraft:entity.salmon.ambient",
-    "Unable to read property: type with value: single for blockstate: "
+    "Unable to read property: type with value: single for blockstate: ",
+    "Empty or non-existent pool: minecraft:"
 ]
 regex = []

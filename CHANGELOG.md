@@ -37,6 +37,7 @@ Aged Lite & Aged are now compatible with each other
 - Fabric Language Kotlin `// Fzzy Config dependency`
 - Fzzy Config `// EMI Loot dependency`
 - OctoLib `// Immersive UI dependency`
+- Pixel Perfect [Let's Do Addon] `1.1` `// Resourcepack`
 - SuperMartijn642's Config Lib `// Better Archeology dependency`
 
 ## Removed:
@@ -46,6 +47,7 @@ Aged Lite & Aged are now compatible with each other
 - Legacy: [Let's Do] Brewery
 - Legacy: [Let's Do] Candlelight
 - Merged Tales_of_Aged into Aged & Aged Lite
+- Necronomicon API
 
 ## Updated:
 
