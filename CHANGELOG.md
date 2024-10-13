@@ -2,8 +2,9 @@
 
 ## Important:
 
-Aged Lite & Aged are now compatible with each other
-    **Aged Lite** `1.1.0` -> **Aged** `3.1.0`
+Aged Lite & Aged are now compatible with each other.
+
+Backup your world, some items will be gone after this update.
 
 ## Fixed:
 
@@ -26,19 +27,23 @@ Aged Lite & Aged are now compatible with each other
 - one season is now `14 days`
 - animal baby to adult now `7 days`
 - food spoils `100%` in `2 years`
+- Merged Tales_of_Aged into Aged & Aged Lite
 
 ## Added:
 
-- [Let's Do] Bakery - Farm&Charm Compat
-- [Let's Do] Brewery - Farm&Charm Compat
-- [Let's Do] Candlelight - Farm&Charm Compat
-- [Let's Do] Farm & Charm
-- Euphorium `// replacement for charmonium`
-- Fabric Language Kotlin `// Fzzy Config dependency`
-- Fzzy Config `// EMI Loot dependency`
-- OctoLib `// Immersive UI dependency`
+- [Let's Do] Bakery - Farm&Charm Compat `2.0.2`
+- [Let's Do] Brewery - Farm&Charm Compat `2.0.3`
+- [Let's Do] Candlelight - Farm&Charm Compat `2.0.2`
+- [Let's Do] Farm & Charm `1.0.3`
+- Almanac `1.0.2`
+- Desert Dungeon - DungeonZ Addon `1.0.0`
+- Euphonium `1.0.3` `// replacement for charmonium`
+- Fabric Language Kotlin `1.12.3 + k 2.0.21` `// Fzzy Config dependency`
+- Fzzy Config `0.5.3` `// EMI Loot dependency`
+- OctoLib `0.4.2` `// Immersive UI dependency`
 - Pixel Perfect [Let's Do Addon] `1.1` `// Resourcepack`
-- SuperMartijn642's Config Lib `// Better Archeology dependency`
+- SuperMartijn642's Config Lib `1.1.8 a` `// Better Archeology dependency`
+- Surveyor Map Framework `0.6.24` `// Antique Atlas 4 dependency`
 
 ## Removed:
 
@@ -46,12 +51,63 @@ Aged Lite & Aged are now compatible with each other
 - Legacy: [Let's Do] Bakery
 - Legacy: [Let's Do] Brewery
 - Legacy: [Let's Do] Candlelight
-- Merged Tales_of_Aged into Aged & Aged Lite
 - Necronomicon API
 
 ## Updated:
 
 - **Fabric Loader 0.16.7**
+- [EMF] Entity Model Features `2.2.6`
+- [ETF] Entity Texture Features `6.2.5`
+- [Let's Do Addon] EMI Compat `1.3`
+- [Let's Do] Vinery `1.4.28`
+- 3D Skin Layers `1.6.7`
+- Antique Atlas 4 `2.10.0`
+- Astrocraft `1.4.4`
+- Balm `7.3.9`
+- Better Archeology `1.2.1`
+- Better Combat `1.8.6`
+- Better Statistics Screen `3.12.6`
+- Cloth Config API `11.1.136`
+- Combat Roll `1.3.3`
+- Distant Horizons `2.2.1 a`
+- EMI `1.1.16`
+- EMI Enchanting `0.1.2`
+- EMI Loot `0.7.4`
+- EMI Ores `1.0`
+- Entity Culling `1.7.0`
+- Exposure `1.7.7`
+- Fabric Seasons `2.4.2`
+- Fancy Block Particles - Renewed `20.1.0.5 b`
+- Fancy Menu `3.3.0`
+- First-person Model `2.4.5`
+- GeckoLib `4.4.9`
+- ImmediatelyFast `1.2.21`
+- Immersive Aircraft `1.1.2`
+- Immersive UI `0.2.2`
+- Iris Shaders `1.7.5`
+- Kiwi Library `11.8.24`
+- Let Me Despawn `1.4.4`
+- lootbeams `2.1.1`
+- Luki's Grand Capitals `1.0`
+- M.R.U `1.0.2`
+- ModernFix `5.19.4`
+- Moonlight Lib `2.13.7`
+- Nature's Spirit `1.6.3`
+- Neruina `2.1.2`
+- NiftyCarts `20.1.3`
+- Noisium `2.3.0`
+- NutritionZ `1.0.11`
+- Overflowing Bars `8.0.1`
+- Puzzles Lib `8.1.24`
+- Resourceful Lib `2.1.29`
+- RpgDifficulty `1.3.15`
+- SeasonHUD-Fabric `1.11.0`
+- Smarter Farmers (farmers replant) `2.1.0`
+- Sounds `2.1.0`
+- Sushi Bar `0.2.2`
+- TCDCommons API `3.12.3`
+- Villages&Pillages `1.0.1`
+- YUNG's API `4.0.6`
 
 ---
 

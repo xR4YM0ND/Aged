@@ -8,7 +8,7 @@ B:force_fullscreen = 'false';
 ##[customization]
 
 B:modpack_mode = 'true';
-B:show_customization_overlay = 'true';
+B:show_customization_overlay = 'false';
 B:advanced_customization_mode = 'false';
 
 
@@ -73,3 +73,7 @@ B:debug_overlay_show_system_category = 'true';
 B:debug_overlay_show_advanced_screen_category = 'true';
 B:show_debug_overlay = 'false';
 B:debug_overlay_show_resources_category = 'true';
+
+##[tutorial]
+
+B:welcome_screen_shown = 'true';
