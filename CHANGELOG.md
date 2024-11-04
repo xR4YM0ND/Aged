@@ -1,3 +1,35 @@
+# Aged 3.1.1
+
+## Fixed:
+
+- Days now count correct in Seasons HUD
+- Disabled composter `// cause of levelz xp abuse ^^`
+
+## Updated:
+
+- **Fabric Loader 0.16.9**
+- [ETF] Entity Texture Features `6.2.7`
+- [Let’s Do] Bakery - Farm&Charm Compat `2.0.3`
+- [Let’s Do] Farm & Charm `1.0.4`
+- 3D Skin Layers `1.7.0`
+- Astrocraft `1.4.5`
+- BadOptimizations `2.2.0`
+- Chipped `3.0.7`
+- EMI `1.1.18`
+- Entity Culling `1.7.1`
+- Fancy Block Particles - Renewed `20.1.1.1`
+- Fancy Menu `3.3.2`
+- Fzzy Config `0.5.6`
+- ImmediatelyFast `1.3.1`
+- Kiwi Library `11.8.26`
+- M.R.U `1.0.4`
+- Moonlight Lib `2.13.21`
+- Raise Sound Limit Simplified `1.1.5`
+- Recipe Remover `1.0.11`
+- SeasonHUD-Fabric `1.11.2`
+- Sounds `2.2.0`
+- Surveyor Map Framework `0.6.25`
+
 # Aged 3.1.0
 
 ## Important:
