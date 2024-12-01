@@ -1,19 +1,115 @@
 {
-    "global": {
-      "freezeEffect": false
-    },
-    "rain": {
-      "enabled": false,
-      "waterPhysics": false
-    },
-    "snow": {
-      "enabled": false
-    },
-    "animations": {
-      "fancyPlacingAnimation": false,
-      "smoothAnimationLighting": false
-    },
-    "overlay": {
-      "freezeEffectOverlay": false
-    }
+  "global": {
+    "enabled": true,
+    "locked": false,
+    "disableOculusWarning": false,
+    "freezeEffect": false,
+    "cartoonMode": false,
+    "cullParticles": true,
+    "infiniteDuration": false,
+    "disabledParticles": [],
+    "disabledAnimations": []
+  },
+  "terrain": {
+    "fancyBreakingParticles": true,
+    "fancyCrackingParticles": true,
+    "spawnWhileFrozen": true,
+    "infiniteDuration": false,
+    "smartBreaking": true,
+    "lowTraction": false,
+    "restOnFloor": true,
+    "bounceOffWalls": true,
+    "entityCollision": false,
+    "waterPhysics": true,
+    "randomSize": true,
+    "randomRotation": true,
+    "randomFadingSpeed": true,
+    "particlesPerAxis": 4,
+    "minLifetime": 10,
+    "maxLifetime": 55,
+    "sizeMultiplier": 0.75,
+    "rotationMultiplier": 1.0,
+    "gravityMultiplier": 1.0
+  },
+  "flame": {
+    "enabled": true,
+    "spawnWhileFrozen": false,
+    "infiniteDuration": false,
+    "randomSize": true,
+    "randomFadingSpeed": true,
+    "minLifetime": 10,
+    "maxLifetime": 15,
+    "sizeMultiplier": 0.75
+  },
+  "smoke": {
+    "enabled": true,
+    "spawnWhileFrozen": false,
+    "infiniteDuration": false,
+    "randomSize": true,
+    "randomFadingSpeed": true,
+    "minLifetime": 10,
+    "maxLifetime": 15,
+    "sizeMultiplier": 0.75
+  },
+  "campfireSmoke": {
+    "enabled": true,
+    "spawnWhileFrozen": false,
+    "randomSize": true,
+    "randomFadingSpeed": true,
+    "transparency": 0.8,
+    "sizeMultiplier": 1.0
+  },
+  "rain": {
+    "enabled": false,
+    "puddle": true,
+    "randomSize": true,
+    "randomFadingSpeed": true,
+    "renderDistance": 4,
+    "simulationDistance": 8,
+    "transparency": 0.6,
+    "particleDensity": 1.0,
+    "sizeMultiplier": 1.0,
+    "gravityMultiplier": 1.0
+  },
+  "snow": {
+    "enabled": false,
+    "lowTraction": false,
+    "restOnFloor": true,
+    "bounceOffWalls": true,
+    "waterPhysics": true,
+    "infiniteDuration": false,
+    "randomSize": true,
+    "randomRotation": true,
+    "randomFadingSpeed": true,
+    "minLifetime": 250,
+    "maxLifetime": 300,
+    "renderDistance": 4,
+    "simulationDistance": 8,
+    "particleDensity": 1.0,
+    "sizeMultiplier": 1.0,
+    "rotationMultiplier": 1.0,
+    "gravityMultiplier": 1.0
+  },
+  "drip": {
+    "enabled": true,
+    "puddle": true,
+    "spawnWhileFrozen": true,
+    "randomSize": true,
+    "randomFadingSpeed": true,
+    "minLifetime": 60,
+    "maxLifetime": 100,
+    "sizeMultiplier": 1.0,
+    "gravityMultiplier": 1.0
+  },
+  "animations": {
+    "enabled": false,
+    "renderOutline": false,
+    "minLifetime": 3,
+    "maxLifetime": 3,
+    "sizeMultiplier": 1.0
+  },
+  "overlay": {
+    "freezeEffectOverlay": false,
+    "freezeEffectColor": 33023
   }
+}

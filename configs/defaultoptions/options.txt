@@ -37,14 +37,14 @@ simulationDistance:12
 entityDistanceScaling:1.0
 guiScale:3
 particles:0
-maxFps:260
+maxFps:170
 graphicsMode:1
 ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","extendeddrawersaddon:addon","presencefootsteps:default_sound_pack","seasons:seasonal_lush_caves","Moonlight Mods Dynamic Assets","vinery:bushy_leaves","meadow:better_leaves","file/§fFancy§5Fast §2Bushy Leaves§0.zip","file/FreshAnimations_v1.9.2.zip","file/Expressive Fresh Moves v3.0.1.zip","file/FA+Spiders-v1.1.zip","file/FA+Quivers-v1.1.zip","file/FA+Objects-v1.1.zip","file/FA+Details-v1.1.zip","file/FA+Classic_Horses-v1.2.zip","file/FA+Emissive-v1.2.zip","file/Let\u0027s Do - Pixel Perfect.zip","file/§9RAY\u0027s§r 3D Rails.zip","file/§9RAY\u0027s§r 3D Ladders.zip","aged_dirt_replace_to_gray","aged_guide_book","aged_welcome_screen","fixes_for_aged"]
-incompatibleResourcePacks:["file/§9RAY\u0027s§r 3D Rails.zip","file/§9RAY\u0027s§r 3D Ladders.zip"]
+resourcePacks:["vanilla","fabric","extendeddrawersaddon:addon","seasons:seasonal_lush_caves","Moonlight Mods Dynamic Assets","vinery:bushy_leaves","meadow:better_leaves","file/§fFancy§5Fast §2Bushy Leaves§0.zip","file/FreshAnimations_v1.9.2.zip","file/Expressive Fresh Moves v3.0.1.zip","file/FA+Spiders-v1.1.zip","file/FA+Quivers-v1.1.zip","file/FA+Objects-v1.1.zip","file/FA+Details-v1.1.zip","file/FA+Classic_Horses-v1.2.zip","file/FA+Emissive-v1.2.zip","file/Let\u0027s Do - Pixel Perfect.zip","file/§9RAY\u0027s §f3D §6Ladders§8§o§k.zip","file/§9RAY\u0027s §f3D §6Rails§8§o§k.zip","aged_dirt_replace_to_gray","aged_guide_book","aged_welcome_screen","fixes_for_aged"]
+incompatibleResourcePacks:["file/§9RAY\u0027s §f3D §6Ladders§8§o§k.zip","file/§9RAY\u0027s §f3D §6Rails§8§o§k.zip"]
 lastServer:
 lang:en_us
 soundDevice:""
