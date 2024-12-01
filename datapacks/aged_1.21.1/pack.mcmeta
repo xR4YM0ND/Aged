@@ -1,0 +1,12 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "supported_formats": {
+      "min_inclusive": 1,
+      "max_inclusive": 999
+      },
+    "description": {
+        "text": "aged default datapack"
+    }
+  }
+}

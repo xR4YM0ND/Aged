@@ -1,9 +1,0 @@
-{
-    "breaking": {
-        "enable_break": true,
-        "blast_resistant": true
-    },
-    "notifications": {
-        "disable_notifications": true
-    }
-}
