@@ -1,0 +1,16 @@
+- Adjust Water Hydration range in config (vanilla = 4 , FarmZ default = 1)
+- Watering Can's (Radius: Copper = 1, Iron = 2, Gold = 3, Diamond = 4, Netherite = 5) (Inspired by Stardew Valley)
+- Add Sprinklers that trigger after x amount of ticks (Tiers: Copper, Iron, Gold, Diamond, Netherite) (Same Range as Watering Can's) (need to have access to Water pipes)
+- Sprinklers facing south / placed at ceeling with pipes and sprinkle down
+- Water pipes (Wood channel where top is opened, Stone channel where to is opened, Copper pipes, Iron, gold, diamond, netherite)
+- Mechanical pump for pipes going upwards (Norht South) which is powered by mechanical power
+- Windwheel
+- Waterwheel
+- Wildlife can eat crops (Fences / Walls would be a good counter)
+- Well (has a x amount of water and fills up a x amount over a x ticks if not full)
+- Different crops grow different in different biomes (+ every biome has their own randomness between min & max) [ask Justin]
+- 3D Blocks
+- Crates (Wooden & maybe tilt)
+- Feeding Crate for animals (they eat when they're hungry)
+- Wooden channels (open on top)
+- Horse Whistle (lets you tp your horse to you (has durability & range to the horse))
