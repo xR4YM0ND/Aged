@@ -1,0 +1,27 @@
+{
+    "inventoryRecipeBookX": 0,
+    "inventoryRecipeBookY": 0,
+    "printErrorMessage": false,
+    "printRecipesAndAdvancements": false,
+    "removeAllVanillaAdvancements": false,
+    "removeAllAdvancements": false,
+    "recipeList": [
+        "alloy_forgery:copper_from_ores",
+        "alloy_forgery:copper_from_raw_ores",
+        "alloy_forgery:glass_from_sand",
+        "alloy_forgery:gold_from_ores",
+        "alloy_forgery:gold_from_raw_ores",
+        "alloy_forgery:iron_from_ores",
+        "alloy_forgery:iron_from_raw_ores",
+        "alloy_forgery:netherite_from_gold_and_scrap",
+        "witcher_rpg:dark_iron_ingot_blasting",
+        "witcher_rpg:dark_steel_ingot",
+        "witcher_rpg:meteorite_ingot_blasting",
+        "witcher_rpg:meteorite_silver_ingot",
+        "witcher_rpg:silver_ingot_blasting",
+        "witcher_rpg:silver_ingot_smelting",
+        "witcher_rpg:steel_ingot_blasting"
+    ],
+    "advancementList": [],
+    "itemList": []
+}

@@ -1,0 +1,26 @@
+{
+    "type": "alloy_forgery:forging",
+    "inputs": [
+        {
+            "item": "minecraft:raw_iron",
+            "count": 2
+        },
+        {
+            "item": "minecraft:coal"
+        }
+    ],
+    "output": {
+        "item": "earlystage:steel_ingot",
+        "count": 2
+    },
+    "overrides": {
+        "3": {
+            "count": 3
+        },
+        "4": {
+            "count": 4
+        }
+    },
+    "min_forge_tier": 2,
+    "fuel_per_tick": 40
+}

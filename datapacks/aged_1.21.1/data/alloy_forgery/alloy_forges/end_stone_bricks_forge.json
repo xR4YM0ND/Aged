@@ -1,0 +1,6 @@
+{
+    "material": "minecraft:end_stone_bricks",
+    "tier": 4,
+    "speed_multiplier": 2,
+    "fuel_capacity": 288000
+}
