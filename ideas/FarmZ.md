@@ -1,4 +1,5 @@
 - Adjust Water Hydration range in config (vanilla = 4 , FarmZ default = 1)
+- Bone meal works as fertilizer instead of increasing instant growth
 - Watering Can's (Radius: Copper = 1, Iron = 2, Gold = 3, Diamond = 4, Netherite = 5) (Inspired by Stardew Valley)
 - Add Sprinklers that trigger after x amount of ticks (Tiers: Copper, Iron, Gold, Diamond, Netherite) (Same Range as Watering Can's) (need to have access to Water pipes)
 - Sprinklers facing south / placed at ceeling with pipes and sprinkle down
