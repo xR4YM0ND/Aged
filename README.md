@@ -16,4 +16,4 @@ To [1.20.1 branch](https://github.com/xR4YM0ND/Aged/tree/1.20.1)
 You can find older versions source code in the [backup branch](https://github.com/xR4YM0ND/Aged/tree/backup).
 
 ### License
-Aged is licensed under [MIT](https://github.com/xR4YM0ND/Aged/tree/info/LICENSE.md).
+Aged is licensed under [MIT](https://github.com/xR4YM0ND/Aged/tree/master/LICENSE.md).
