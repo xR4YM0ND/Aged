@@ -14,3 +14,12 @@
 - Feeding Crate for animals (they eat when they're hungry)
 - Wooden channels (open on top)
 - Horse Whistle (lets you tp your horse to you (has durability & range to the horse))
+- Golden Foods
+- Beetroot Entity (Maybe called Beetling)
+- Composter outputs a Compost Block -> can be plowed into compost farmland
+- Disable bone meal speed growth (bonemeal should be compostable)
+- Crop growth relations:
+    - Hydration (Water Source / Rain / No water at all)
+    - Fertilization (Dirt / Compost)
+    - Biome (multiplier for different crops)
+    - Seasons Compat (Fabric Seasons / Serene Seasons)
