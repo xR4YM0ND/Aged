@@ -1,7 +1,0 @@
-{
-    "replace": false,
-    "skill": "farming",
-    "level": 5,
-    "block": "minecraft:custom_block",
-    "object": "farm_and_charm:crafting_bowl"
-}

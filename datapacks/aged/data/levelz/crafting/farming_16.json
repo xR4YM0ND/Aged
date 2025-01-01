@@ -1,9 +1,0 @@
-{
-    "replace": false,
-    "skill": "farming",
-    "level": 16,
-    "item": [
-        "niftycarts:animal_cart",
-        "farm_and_charm:cooking_pot"
-    ]
-}

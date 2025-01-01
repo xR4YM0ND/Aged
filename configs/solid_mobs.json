@@ -1,8 +1,0 @@
-{
-    "entityCollisionBlacklist": [
-        "niftycarts:hand_cart",
-        "niftycarts:animal_cart",
-        "niftycarts:plow",
-        "niftycarts:supply_cart"
-    ]
-}

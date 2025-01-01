@@ -10,8 +10,10 @@ Your **character** is still **weak**, so you go an adventure to **gather experie
 ### Installation
 Aged is a modpack hosted on the modrinth website and can be found [here](https://modrinth.com/modpack/aged). To install Aged, visit modrinths [documentation](https://docs.modrinth.com/docs/modpacks/playing_modpacks/) which provides instructions on using [Modrinth Launcher](https://modrinth.com/app), [ATLauncher](https://atlauncher.com/about), [MultiMC](https://multimc.org/), and [Prism Launcher](https://prismlauncher.org/).
 
-### MISC
+### Branches
+To [1.21.1 branch](https://github.com/xR4YM0ND/Aged/tree/1.21.1)
+To [1.20.1 branch](https://github.com/xR4YM0ND/Aged/tree/1.20.1)
 You can find older versions source code in the [backup branch](https://github.com/xR4YM0ND/Aged/tree/backup).
 
 ### License
-Aged is licensed under MIT.
+Aged is licensed under [MIT](https://github.com/xR4YM0ND/Aged/tree/info/LICENSE.md).

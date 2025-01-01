@@ -1,7 +1,0 @@
-{
-    "replace": false,
-    "skill": "alchemy",
-    "level": 30,
-    "item": "minecraft:custom_item",
-    "object": "dungeonnowloading:spawner_sword"
-}

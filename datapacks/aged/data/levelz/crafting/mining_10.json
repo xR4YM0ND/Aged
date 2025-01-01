@@ -1,8 +1,0 @@
-{
-    "replace": false,
-    "skill": "mining",
-    "level": 10,
-    "item": [
-        "minecraft:stonecutter"
-    ]
-}

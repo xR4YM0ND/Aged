@@ -1,9 +1,0 @@
-{
-    "replace": false,
-    "skill": "farming",
-    "level": 5,
-    "item": [
-        "farm_and_charm:crafting_bowl",
-        "earlystage:stone_shears"
-    ]
-}

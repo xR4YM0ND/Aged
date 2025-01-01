@@ -1,9 +1,0 @@
-{
-    "replace": false,
-    "skill": "health",
-    "level": 30,
-    "item": [
-        "inmis:endless_backpack",
-        "extended_drawers:t4_upgrade"
-    ]
-}

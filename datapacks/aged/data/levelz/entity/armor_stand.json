@@ -1,7 +1,0 @@
-{
-    "replace": true,
-    "skill": "smithing",
-    "level": 8,
-    "entity": "minecraft:custom_entity",
-    "object": "minecraft:armor_stand"
-}

@@ -1,8 +1,0 @@
-{
-    "replace": false,
-    "skill": "stamina",
-    "level": 25,
-    "item": [
-        "immersive_aircraft:quadrocopter"
-    ]
-}

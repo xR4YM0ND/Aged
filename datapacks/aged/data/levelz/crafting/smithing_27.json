@@ -1,9 +1,0 @@
-{
-    "replace": false,
-    "skill": "smithing",
-    "level": 27,
-    "item": [
-        "smallships:cannon",
-        "smallships:cannon_ball"
-    ]
-}

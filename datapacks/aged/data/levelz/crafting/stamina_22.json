@@ -1,9 +1,0 @@
-{
-    "replace": false,
-    "skill": "stamina",
-    "level": 22,
-    "item": [
-        "brewery:breathalyzer",
-        "herbalbrews:tea_kettle"
-    ]
-}

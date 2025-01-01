@@ -1,7 +1,0 @@
-{
-    "replace": false,
-    "skill": "alchemy",
-    "level": 17,
-    "block": "minecraft:custom_block",
-    "object": "nethervinery:crimson_fermentation_barrel"
-}

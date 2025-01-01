@@ -1,7 +1,0 @@
-{
-    "replace": false,
-    "skill": "farming",
-    "level": 22,
-    "block": "minecraft:custom_block",
-    "object": "meadow:cooking_cauldron"
-}

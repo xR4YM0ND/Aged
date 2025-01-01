@@ -1,8 +1,0 @@
-{
-    "items": [
-        "immersive_armors:steampunk_chestplate"
-    ],
-    "base": [
-        "minecraft:redstone_block"
-    ]
-}

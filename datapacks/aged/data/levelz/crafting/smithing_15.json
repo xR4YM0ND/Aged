@@ -1,9 +1,0 @@
-{
-    "replace": false,
-    "skill": "smithing",
-    "level": 15,
-    "item": [
-        "chipped:tinkering_table",
-        "immersive_aircraft:propeller"
-    ]
-}
