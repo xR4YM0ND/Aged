@@ -18,8 +18,9 @@ jobs:
       - name: Extract changelog section
         id: changelog
         run: |
-          BRANCH_NAME="1.20.1"
-          MODNAME="Aged"
+          # Get branch name from GITHUB_REF (e.g. refs/heads/1.20.1)
+          BRANCH_NAME="${GITHUB_REF##*/}"
+          MODNAME="YourModName"  # Change to your actual mod name
 
           # Extract version from first heading (only numbers and dots)
           VERSION=$(grep -m1 '^# ' CHANGELOG.md | grep -oE '[0-9]+(\.[0-9]+)*')
@@ -34,7 +35,6 @@ jobs:
             capture == 1 {print}
           ' CHANGELOG.md)
 
-          # Save to GitHub outputs
           echo "branch=$BRANCH_NAME" >> $GITHUB_OUTPUT
           echo "modname=$MODNAME" >> $GITHUB_OUTPUT
           echo "version=$VERSION" >> $GITHUB_OUTPUT
