@@ -1,73 +1,69 @@
-name: Post Update Manual
+name: Post Changelog to Discord
 
 on:
   push:
     branches:
-      - '1.20.1'         # Only auto-trigger on pushes to branch '1.20.1'
-  workflow_dispatch:
-    inputs:
-      branch:
-        description: 'Branch to run the workflow on'
-        required: true
-        default: '1.20.1'  # Default to 1.20.1 branch on manual runs
-        type: string
+      - "1.20.1"
 
 jobs:
-  post-update:
+  send-changelog:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout selected branch
+      - name: Checkout master branch
         uses: actions/checkout@v4
         with:
-          # If manual trigger, use the selected branch; else, use the push ref branch
-          ref: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.branch || github.ref_name }}
+          ref: master
 
-      - name: Read changelog content
+      - name: Extract changelog section
         id: changelog
         run: |
-          if [ ! -f CHANGELOG.md ]; then
-            echo "File CHANGELOG.md not found!"
-            echo "::set-output name=content::"
-            exit 0
-          fi
+          BRANCH_NAME="1.20.1"
+          MODNAME="Aged"
 
-          content=$(cat CHANGELOG.md)
-          echo "::set-output name=content::$content"
+          # Extract version from first heading (only numbers and dots)
+          VERSION=$(grep -m1 '^# ' CHANGELOG.md | grep -oE '[0-9]+(\.[0-9]+)*')
 
-      # Example of reading version from gradle.properties (optional)
-      - name: Read mod_version from gradle.properties
-        id: mod_version
-        run: |
-          if [ ! -f gradle.properties ]; then
-            echo "gradle.properties not found!"
-            echo "::set-output name=version::"
-            exit 0
-          fi
+          # Extract the section between the first '# ' and the next '# '
+          CONTENT=$(awk '
+            BEGIN {capture=0}
+            /^# / {
+              if (capture == 0) {capture=1; next}
+              else {capture=0}
+            }
+            capture == 1 {print}
+          ' CHANGELOG.md)
 
-          version_line=$(grep '^mod_version=' gradle.properties)
-          version=${version_line#mod_version=}
-          echo "::set-output name=version::$version"
+          # Save to GitHub outputs
+          echo "branch=$BRANCH_NAME" >> $GITHUB_OUTPUT
+          echo "modname=$MODNAME" >> $GITHUB_OUTPUT
+          echo "version=$VERSION" >> $GITHUB_OUTPUT
+          echo "content<<EOF" >> $GITHUB_OUTPUT
+          echo "$CONTENT" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
 
-      # Send message to Discord webhook (example)
-      - name: Send embed to Discord webhook
+      - name: Send to Discord
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
-          ARCHIVES_BASE_NAME: my-modpack
-          MOD_VERSION: ${{ steps.mod_version.outputs.version }}
-          MINECRAFT_VERSION: '1.20.1'
-          CHANGELOG: ${{ steps.changelog.outputs.content }}
         run: |
-          json_payload=$(jq -n --arg title "$ARCHIVES_BASE_NAME $MOD_VERSION for Minecraft $MINECRAFT_VERSION has been released!" \
-                              --arg description "**Changelog**\nmd\n$CHANGELOG\n\n**Downloads**\n<:modrinth:1110118061106798644> https://modrinth.com/mod/$ARCHIVES_BASE_NAME\n<:curseforge:1110124796362108> https://www.curseforge.com/minecraft/mc-mods/$ARCHIVES_BASE_NAME" \
-                              --arg footer "Have fun and be blessed!" \
-                              --arg color "16744448" \
-              '{
-                embeds: [{
-                  title: $title,
-                  description: $description,
-                  footer: { text: $footer },
-                  color: ($color | tonumber)
-                }]
-              }')
+          MODNAME="${{ steps.changelog.outputs.modname }}"
+          VERSION="${{ steps.changelog.outputs.version }}"
+          BRANCH="${{ steps.changelog.outputs.branch }}"
+          CONTENT="${{ steps.changelog.outputs.content }}"
 
-          curl -H "Content-Type: application/json" -X POST -d "$json_payload" "$DISCORD_WEBHOOK_URL"
+          MESSAGE="$MODNAME $VERSION for Fabric $BRANCH has been released!\n"
+          MESSAGE+="Changelog\n"
+          MESSAGE+="$CONTENT\n"
+          MESSAGE+="Downloads\n"
+          MESSAGE+="https://example.com/download1\n"
+          MESSAGE+="https://example.com/download2\n"
+          MESSAGE+="Have a great time!"
+
+          jq -n \
+            --arg username "Changelog Bot" \
+            --arg content "$MESSAGE" \
+            '{username: $username, content: $content}' \
+          | curl -H "Content-Type: application/json" \
+                 -X POST \
+                 -d @- \
+                 "$DISCORD_WEBHOOK_URL"
