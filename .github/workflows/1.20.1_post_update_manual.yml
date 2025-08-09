@@ -38,13 +38,13 @@ jobs:
         uses: tsickert/discord-webhook@v5.3.0
         with:
           webhook-url: ${{ secrets.DISCORD_WEBHOOK_URL }}
-          embed-title: "${{ steps.changelog.outputs.modname }} ${{ steps.changelog.outputs.version }} for Fabric ${{ steps.changelog.outputs.branch }} has been released!"
+          embed-title: "<:aged:1043537775737192549> **${{ steps.changelog.outputs.modname }} ${{ steps.changelog.outputs.version }}** for *Fabric ${{ steps.changelog.outputs.branch }}* has been released!"
           embed-description: |
             **Changelog**
             ```md
             ${{ steps.changelog.outputs.content }}
             ```
             **Downloads**
-            <:modrinth:1401269188215046265> https://modrinth.com/modpack/aged/version/${{ steps.changelog.outputs.version }}
+            <:modrinth:1401269188215046265> [Modrinth v${{ steps.changelog.outputs.version }}](https://modrinth.com/modpack/aged/version/${{ steps.changelog.outputs.version }})
           embed-footer-text: "Have a great time!"
           embed-color: 0x00FF80
