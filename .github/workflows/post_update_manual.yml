@@ -1,0 +1,103 @@
+name: Post Update (Manual)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  post-update:
+    runs-on: ubuntu-latest
+    env:
+      DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Determine changelog type and extract data
+        id: changelog
+        run: |
+          # Read first line of CHANGELOG.md
+          first_line=$(head -n 1 CHANGELOG.md)
+          
+          # Detect if modpack or mod by header style
+          if [[ "$first_line" =~ ^#\  ]]; then
+            echo "Detected modpack changelog"
+
+            # Extract modpack version: only digits and dots from first line
+            version=$(echo "$first_line" | grep -oE '[0-9]+(\.[0-9]+)*')
+
+            # Extract lines between first and second single # header (exclude header lines)
+            content=$(awk '
+              BEGIN { in_section=0 }
+              /^# / {
+                if (in_section == 0) { in_section=1; next }
+                else if (in_section == 1) { exit }
+              }
+              in_section==1 { print }
+            ' CHANGELOG.md)
+
+            # Escape for GitHub output
+            esc_content=$(echo "$content" | sed 's/%/%25/g; s/\r/%0D/g; s/\n/%0A/g')
+
+            echo "version=$version" >> $GITHUB_OUTPUT
+            echo "content=$esc_content" >> $GITHUB_OUTPUT
+            echo "type=modpack" >> $GITHUB_OUTPUT
+
+          elif [[ "$first_line" =~ ^##\  ]]; then
+            echo "Detected mod changelog"
+
+            # Full changelog content
+            content=$(cat CHANGELOG.md)
+
+            esc_content=$(echo "$content" | sed 's/%/%25/g; s/\r/%0D/g; s/\n/%0A/g')
+
+            echo "content=$esc_content" >> $GITHUB_OUTPUT
+            echo "type=mod" >> $GITHUB_OUTPUT
+
+          else
+            echo "CHANGELOG.md does not start with expected # or ## header"
+            exit 1
+          fi
+
+      - name: Read properties (if mod)
+        id: properties
+        if: steps.changelog.outputs.type == 'mod'
+        run: |
+          MOD_VERSION=$(grep '^mod_version=' gradle.properties | cut -d'=' -f2)
+          echo "mod_version=$MOD_VERSION" >> $GITHUB_OUTPUT
+
+          # Static values - adjust if you want
+          echo "archives_base_name=my-mod" >> $GITHUB_OUTPUT
+          echo "minecraft_version=1.20.1" >> $GITHUB_OUTPUT
+
+      - name: Set version and other properties (if modpack)
+        id: modpack_props
+        if: steps.changelog.outputs.type == 'modpack'
+        run: |
+          echo "mod_version=${{ steps.changelog.outputs.version }}" >> $GITHUB_OUTPUT
+          echo "archives_base_name=my-modpack" >> $GITHUB_OUTPUT
+          echo "minecraft_version=1.20.1" >> $GITHUB_OUTPUT
+
+      - name: Send embed to Discord
+        run: |
+          # Prepare embed JSON with embedded variables
+          # Decode changelog content back from escaped output (replace %0A with \n)
+          changelog=$(echo "${{ steps.changelog.outputs.content }}" | sed 's/%0A/\\n/g; s/%0D//g; s/%25/%/g')
+
+          title="${{ steps.modpack_props.outputs.archives_base_name || steps.properties.outputs.archives_base_name }} ${{ steps.modpack_props.outputs.mod_version || steps.properties.outputs.mod_version }} for Minecraft ${{ steps.modpack_props.outputs.minecraft_version || steps.properties.outputs.minecraft_version }} has been released!"
+
+          description="**Changelog**\nmd\n${changelog}\n\n**Downloads**\n<:modrinth:1110118061106798644> https://modrinth.com/mod/${{ steps.modpack_props.outputs.archives_base_name || steps.properties.outputs.archives_base_name }}\n<:curseforge:1110124796362108> https://www.curseforge.com/minecraft/mc-mods/${{ steps.modpack_props.outputs.archives_base_name || steps.properties.outputs.archives_base_name }}"
+
+          json_payload=$(jq -n --arg title "$title" \
+                              --arg description "$description" \
+                              --arg footer "Have fun and be blessed!" \
+                              --arg color "16744448" \
+            '{
+              embeds: [{
+                title: $title,
+                description: $description,
+                footer: { text: $footer },
+                color: ($color | tonumber)
+              }]
+            }')
+
+          curl -H "Content-Type: application/json" -X POST -d "$json_payload" "$DISCORD_WEBHOOK_URL"
