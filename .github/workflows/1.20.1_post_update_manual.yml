@@ -5,6 +5,7 @@ on:
 
 jobs:
   send-changelog:
+    if: github.ref == 'refs/heads/1.20.1'
     runs-on: ubuntu-latest
 
     steps:
