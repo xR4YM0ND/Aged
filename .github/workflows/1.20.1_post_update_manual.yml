@@ -55,6 +55,18 @@ jobs:
           MESSAGE+="https://example.com/download2\n"
           MESSAGE+="Have a great time!"
 
-          jq -n --arg username "Changelog Bot" --arg content "$MESSAGE" \
-            '{username: $username, content: $content}' | \
-          curl -H "Content-Type: application/json" -X POST -d @- "$DISCORD_WEBHOOK_URL"
+          PAYLOAD=$(jq -nc --arg username "Changelog Bot" --arg content "$MESSAGE" \
+            '{username: $username, content: $content}')
+
+          echo "Payload to send:"
+          echo "$PAYLOAD"
+
+          RESPONSE=$(curl -s -o /dev/null -w "%{http_code}" -H "Content-Type: application/json" \
+            -X POST -d "$PAYLOAD" "$DISCORD_WEBHOOK_URL")
+
+          echo "Discord webhook response status: $RESPONSE"
+
+          if [ "$RESPONSE" != "204" ]; then
+            echo "Failed to send message to Discord"
+            exit 1
+          fi
