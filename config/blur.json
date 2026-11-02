@@ -1,0 +1,35 @@
+{
+  "configVersion": 3,
+  "blurContainers": true,
+  "blurBooks": true,
+  "blurSigns": true,
+  "blurCommandBlocks": true,
+  "blurDeathScreen": false,
+  "blurTitleScreen": false,
+  "darkenTitleScreen": false,
+  "reduceInGameBlur": false,
+  "showScreenID": false,
+  "forceEnabledScreens": [
+    "dev.emi.emi.screen.RecipeScreen",
+    "mezz.jei.gui.recipes.RecipesGui",
+    "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen",
+    "net.levelz.screen.LevelScreen",
+    "net.jobsaddon.screen.JobScreen",
+    "net.partyaddon.screen.PartyScreen",
+    "net.nutritionz.screen.NutritionScreen"
+  ],
+  "forceDisabledScreens": [
+    "net.irisshaders.iris.gui.screen.ShaderPackScreen"
+  ],
+  "useGradient": true,
+  "gradientStart": "#000000",
+  "gradientStartAlpha": 75,
+  "gradientEnd": "#000000",
+  "gradientEndAlpha": 75,
+  "gradientRotation": 0,
+  "rainbowMode": false,
+  "fadeTimeMillis": 300,
+  "fadeOutTimeMillis": 300,
+  "blurAnimationCurve": "FLAT",
+  "backgroundAnimationCurve": "FLAT"
+}

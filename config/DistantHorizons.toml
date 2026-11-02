@@ -1,0 +1,9 @@
+_version = 5
+
+[server]
+[common.worldGenerator]
+generatorPlan = "CHUNKS_ONLY"
+[client]
+showDhOptionsButtonInMinecraftUi = false
+enableAutoUpdater = false
+enableSilentUpdates = false

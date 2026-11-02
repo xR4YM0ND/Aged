@@ -1,0 +1,8 @@
+version:3955
+realmsNotifications:false
+darkMojangStudiosBackground:true
+hideSplashTexts:true
+resourcePacks:["vanilla","fabric","earlystage:meadow_earlystage_compat","earlystage:dehydration_earlystage_compat","scholar:colored_books","scholar:chiseled_bookshelf_colored_books","earlystage:natures_spirit_earlystage_compat","earlystage:beachparty_earlystage_compat","spoiledz:adventurez_spoiledz_compat","farmz:farm_and_charm_farmz_compat","asset_changes","compat_levelz","fixes","guide_book","natures_spirit_ores","welcome_screen","file/Antique_Atlas_4_Compat_v1.4.zip","file/RAYs_3D_Ladders_v2.4.zip","file/RAYs_3D_Rails_v3.6.zip","file/Simple Grass Flowers v2.0.0.zip","file/FreshAnimations_v1.11.2_1.20+.zip","file/FA+Classic_Horses-v1.5.zip","file/FA+Quivers-v2.3.zip","file/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip"]
+incompatibleResourcePacks:["appleskin","asyncparticles","balm","cherishedworlds","configurable","defaultoptions","distanthorizons","emiffect","emiprofessions","entity_model_features","entity_sound_features","entity_texture_features","fancymenu","immersiveui","kiwi","konkrete","mes","modernfix","moogs_structures","mr_dungeons_andtavernsdeserttemplereplacement","mr_dungeons_andtavernsendcastlestandalone","mr_dungeons_andtavernsjungletemplereplacement","mr_dungeons_andtavernsnetherfortressoverhaul","mr_dungeons_andtavernsoceanmonumentreplacement","neruina","particle_effects","particlerain","passablefoliage","sereneseasons","streamsreflowing","terrablender","yet_another_config_lib_v3"]
+lang:en_us
+skipMultiplayerWarning:true
