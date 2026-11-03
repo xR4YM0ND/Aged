@@ -50,10 +50,10 @@ You're most likely asking yourself what the differences between [Aged Light](htt
 **Aged Light is a lightweight version of Aged with close to 0 aesthetic & visual mods.**  
 
 Since Aged v3.1.0 both modpacks are compatible with each other.  
-Take a look at the [Aged Light Changelog](https://raw.githubusercontent.com/xR4YM0ND/Aged/refs/heads/1.21.1/CHANGELOG.md) to know which Aged version its compatible with.  
+Take a look at the [Aged Light Changelog](https://raw.githubusercontent.com/xR4YM0ND/Aged-Light/refs/heads/1.21.1/CHANGELOG.md) to know which Aged version its compatible with.  
 
 <p align="center">
-  <a href="https://modrinth.com/modpack/aged-light"><img src="https://raw.githubusercontent.com/xR4YM0ND/Aged/refs/heads/1.21.1/GALLERY/aged_light_collage.png" alt="aged lite collage" width="45%" /></a>
+  <a href="https://modrinth.com/modpack/aged-light"><img src="https://raw.githubusercontent.com/xR4YM0ND/Aged-Light/refs/heads/1.21.1/GALLERY/aged_light_collage.png" alt="aged lite collage" width="45%" /></a>
   <a href="https://modrinth.com/modpack/aged"><img src="https://raw.githubusercontent.com/xR4YM0ND/Aged/refs/heads/1.21.1/GALLERY/aged_collage.png" alt="aged collage" width="45%" /></a>
 </p>
 
@@ -63,7 +63,7 @@ In this repo you will only see files specific to aged (mostly client side enhanc
 
 </center>
 <details>
-<summary>Mods which are in Aged</summary>
+<summary>Mods in Aged</summary>
 
 - all of [Aged Light](https://github.com/xR4YM0ND/Aged-Light)
 - [ETF] Entity Texture Features
@@ -105,6 +105,19 @@ In this repo you will only see files specific to aged (mostly client side enhanc
 - Visuality
 </details>
 
+<details>
+<summary>Resourcepacks in Aged-Light</summary>
+
+- all of [Aged Light](https://github.com/xR4YM0ND/Aged-Light)
+- Fresh Animations
+- Fresh Animations: Classic Horses
+- Fresh Animations: Quivers
+- Fresh Moves
+- RAY's 3D Ladders
+- RAY's 3D Rails
+- Simple Grass Flowers
+</details>
+
 <center>
 
 ![aged_wood_bar](https://raw.githubusercontent.com/xR4YM0ND/Aged/refs/heads/1.21.1/GALLERY/wood_bar_v2_33h.png)
@@ -124,7 +137,7 @@ In this repo you will only see files specific to aged (mostly client side enhanc
 > **Q: Is there a wiki or documentation?**
 >
 > **A**: Ingame you'll find a guide book at first start.  
-> Combine a  book with a sapling/seed or use `/give @s agedaddition:guide_book`
+> Combine a book with a sapling/seed or use `/give @s agedaddition:guide_book`
 
 > **Q: Where to ask for help / bug report?**
 >
@@ -143,3 +156,15 @@ In this repo you will only see files specific to aged (mostly client side enhanc
 > **To be filled**
 >
 > New verison 4.0.0 -> waiting for your feedback ^^
+
+<center>
+
+![aged_wood_bar](https://raw.githubusercontent.com/xR4YM0ND/Aged-Light/refs/heads/1.21.1/GALLERY/wood_bar_v2_33h.png)
+
+## Links
+[![Modrinth Downloads Badge](https://img.shields.io/modrinth/dt/i4XHCd7Q?style=for-the-badge&logo=modrinth&logoColor=white&label=%20&labelColor=555555&color=1BD964)](https://modrinth.com/modpack/aged)
+[![Source Code Badge](https://img.shields.io/badge/source_code-lightgray?style=for-the-badge&logo=github&label=%20&labelColor=555555)](https://github.com/xR4YM0ND/Aged/tree/1.21.1)
+[![GitHub License Badge](https://img.shields.io/github/license/xR4YM0ND/Aged?style=for-the-badge&label=%C2%A7&labelColor=555555)](https://github.com/xR4YM0ND/Aged/blob/1.21.1/LICENSE.md)
+[![Discord Badge](https://img.shields.io/discord/745451299713056791?style=for-the-badge&logo=discord&logoColor=white&label=%20&labelColor=555555&color=5865F2)](https://discord.gg/WXdSYn4yHB)
+
+</center>
