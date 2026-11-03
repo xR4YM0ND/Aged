@@ -1,10 +1,10 @@
 <center>
 
-![aged title wide](GALLERY/aged_title_wide.png)
+![aged title wide](https://raw.githubusercontent.com/xR4YM0ND/Aged/refs/heads/1.21.1/GALLERY/aged_title_wide.png)
 
 *A challenging medieval based modpack where realism & wisdom rule your life.*
 
-![aged_wood_bar](GALLERY/wood_bar_v2_33h.png)
+![aged_wood_bar](https://raw.githubusercontent.com/xR4YM0ND/Aged/refs/heads/1.21.1/GALLERY/wood_bar_v2_33h.png)
 
 You awaken in the wilderness.
 You quickly realize that you need to **gather supplies** & craft some **flint tools**.
@@ -13,7 +13,7 @@ Your **character** is still weak, so you go an adventure to **gather experience*
 
 *That's where your story begins.*
 
-![aged_wood_bar](GALLERY/wood_bar_v2_33h.png)
+![aged_wood_bar](https://raw.githubusercontent.com/xR4YM0ND/Aged/refs/heads/1.21.1/GALLERY/wood_bar_v2_33h.png)
 
 <strong>
 <font size="5">Features</font>
@@ -39,7 +39,7 @@ Your **character** is still weak, so you go an adventure to **gather experience*
 
 <center>
 
-![aged_wood_bar](GALLERY/wood_bar_v2_33h.png)
+![aged_wood_bar](https://raw.githubusercontent.com/xR4YM0ND/Aged/refs/heads/1.21.1/GALLERY/wood_bar_v2_33h.png)
 
 <strong>
 <font size="5">Different Versions</font>
@@ -50,11 +50,11 @@ You're most likely asking yourself what the differences between [Aged Light](htt
 **Aged Light is a lightweight version of Aged with close to 0 aesthetic & visual mods.**  
 
 Since Aged v3.1.0 both modpacks are compatible with each other.  
-Take a look at the [Aged Light Changelog](https://github.com/xR4YM0ND/Aged-Light/blob/1.21.1/CHANGELOG.md) to know which Aged version its compatible with.  
+Take a look at the [Aged Light Changelog](https://raw.githubusercontent.com/xR4YM0ND/Aged/refs/heads/1.21.1/CHANGELOG.md) to know which Aged version its compatible with.  
 
 <p align="center">
-  <a href="https://modrinth.com/modpack/aged-light"><img src="GALLERY/aged_light_collage.png" alt="aged lite collage" width="45%" /></a>
-  <a href="https://modrinth.com/modpack/aged"><img src="GALLERY/aged_collage.png" alt="aged collage" width="45%" /></a>
+  <a href="https://modrinth.com/modpack/aged-light"><img src="https://raw.githubusercontent.com/xR4YM0ND/Aged/refs/heads/1.21.1/GALLERY/aged_light_collage.png" alt="aged lite collage" width="45%" /></a>
+  <a href="https://modrinth.com/modpack/aged"><img src="https://raw.githubusercontent.com/xR4YM0ND/Aged/refs/heads/1.21.1/GALLERY/aged_collage.png" alt="aged collage" width="45%" /></a>
 </p>
 
 Aged also includes all datapacks, resourcepacks and config files from [aged light](https://github.com/xR4YM0ND/Aged-Light/tree/1.21.1) besides *default options config*.  
@@ -65,7 +65,7 @@ In this repo you will only see files specific to aged (mostly client side enhanc
 <details>
 <summary>Mods which are in Aged</summary>
 
-- all of Aged Light
+- all of [Aged Light](https://github.com/xR4YM0ND/Aged-Light)
 - [ETF] Entity Texture Features
 - [EMF] Entity Model Features
 - [ESF] Entity Sound Features
@@ -107,7 +107,7 @@ In this repo you will only see files specific to aged (mostly client side enhanc
 
 <center>
 
-![aged_wood_bar](GALLERY/wood_bar_v2_33h.png)
+![aged_wood_bar](https://raw.githubusercontent.com/xR4YM0ND/Aged/refs/heads/1.21.1/GALLERY/wood_bar_v2_33h.png)
 
 <strong>
 <font size="5">FAQ</font>
@@ -132,7 +132,7 @@ In this repo you will only see files specific to aged (mostly client side enhanc
 
 <center>
 
-![aged_wood_bar](GALLERY/wood_bar_v2_33h.png)
+![aged_wood_bar](https://raw.githubusercontent.com/xR4YM0ND/Aged/refs/heads/1.21.1/GALLERY/wood_bar_v2_33h.png)
 
 <strong>
 <font size="5">Known Bugs</font>
