@@ -101,7 +101,6 @@ In this repo you will only see files specific to aged (mostly client side enhanc
 - Sound Physics Remastered
 - Sounds
 - Status Effect Bars
-- Sublte Effects
 - Visuality
 </details>
 

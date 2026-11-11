@@ -1,5 +1,10 @@
 # Aged Changelog
 
+## 4.0.2
+
+**Changed**
+- Smoothed camera roll factors for a better experience
+
 ## 4.0.1
 
 **Fixed**
@@ -10,9 +15,17 @@
 - Subtle Effects `// cause of server sided dependencies`
 
 **Updated**
+- Quests
 - Guide Book
+- Agedaddition `1.1.4`
+- AsyncParticles `21.1.5.0-beta.1`
 - EMI Loot `0.7.10`
+- Fabric API `0.116.18`
+- FancyMenu `3.10.0`
+- LevelZ `2.0.13`
+- OctoLib `0.6.3`
 - Particle Rain `4.0.3`
+- StreamsReflowing `2.17.1`
 
 ## 4.0.0
 
