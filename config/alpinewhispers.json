@@ -1,0 +1,51 @@
+{
+  "fog": {
+    "enabled": false,
+    "strengthPercent": 100,
+    "startPercent": 0,
+    "hazeEndPercent": 70,
+    "morning": true,
+    "morningEndPercent": 40,
+    "night": true,
+    "nightEndPercent": 35,
+    "snowfall": true,
+    "snowfallEndPercent": 30,
+    "blizzardEndPercent": 12,
+    "hollows": true,
+    "hollowEndPercent": 20,
+    "groveThickeningPercent": 30
+  },
+  "weather": {
+    "groveSnow": true,
+    "groveSnowStrength": 15,
+    "avalanches": true,
+    "groveAmbience": true,
+    "fallingNeedles": true
+  },
+  "bathtub": {
+    "fillSeconds": 45,
+    "cleansesEffects": true,
+    "drownsZombies": true,
+    "steam": true
+  },
+  "starTopper": {
+    "treeLights": true,
+    "chime": true
+  },
+  "infoOverlay": {
+    "showPrivyInfo": true
+  },
+  "spawning": {
+    "reindeerWeight": 22,
+    "reindeerMinGroup": 3,
+    "reindeerMaxGroup": 5,
+    "alpineSheepWeight": 18,
+    "alpineSheepMinGroup": 3,
+    "alpineSheepMaxGroup": 5,
+    "replaceVanillaFarmAnimals": true
+  },
+  "food": {
+    "reindeerDishNutrition": 6,
+    "reindeerDishSaturation": 0.8
+  }
+}

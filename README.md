@@ -93,7 +93,6 @@ In this repo you will only see files specific to aged (mostly client side enhanc
 - Particle Rain
 - Particular
 - Presence Footsteps
-- Satin Free Wakes
 - ShatterLib | OctoLib `// needed for Immersive UI`
 - Smooth Scrolling Refurbished
 - Smooth Swapping

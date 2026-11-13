@@ -1,17 +1,9 @@
 1. Export pack to .mrpack
-    - config
-    - mods
-    - resourcepacks
-    - shaderpacks
+    - /config
+    - /mods
+    - /resourcepacks
+    - /shaderpacks
+    - /questz
     - icon.png
-2. Unzip it
-3. Change in modrinth.index.json Satin API
-```json
-    "env": {
-        "client": "required",
-        "server": "required"
-    },
-```
-4. Zip it again
-5. Rename .zip to .mrpack
-6. Upload
+2. Rename .mrpack
+3. Upload
