@@ -128,18 +128,22 @@ In this repo you will only see files specific to aged (mostly client side enhanc
 
 > **Q: Does Aged support multiplayer?**
 >
-> **A**: Yes and No, Aged is build for singleplayer since v3.0.0 but can be downloaded as server file via e.g. [ATLauncher](https://atlauncher.com/downloads) / [mrpack-install](https://github.com/nothub/mrpack-install#readme) / [docker](https://github.com/itzg/docker-minecraft-server).
+> **A:** Yes and No, Aged is build for singleplayer since v3.0.0 but can be downloaded as server file via e.g. [ATLauncher](https://atlauncher.com/downloads) / [mrpack-install](https://github.com/nothub/mrpack-install#readme) / [docker](https://github.com/itzg/docker-minecraft-server).
 >
 > If you want to play with a friend we recommend to use [e4mc](https://modrinth.com/mod/e4mc) to create a server for free.
 
 > **Q: Is there a wiki or documentation?**
 >
-> **A**: Ingame you'll find a guide book at first start.  
+> **A:** Ingame you'll find a guide book at first start.  
 > Combine a book with a sapling/seed or use `/give @s agedaddition:guide_book`
 
 > **Q: Where to ask for help / bug report?**
 >
-> **A**: For **questions** ask in `modpack-chat` on our [Discord](https://discord.gg/WXdSYn4yHB). For **bugs** pls open a [github issue](https://github.com/xR4YM0ND/Aged-Light/issues).
+> **A:** For **questions** ask in `modpack-chat` on our [Discord](https://discord.gg/WXdSYn4yHB). For **bugs** pls open a [github issue](https://github.com/xR4YM0ND/Aged-Light/issues).
+
+> **Q: Smelter doesn't poor from faucets.**
+>
+> **A:** Be sure to have enough molten liquid & at least 1 block air till 10 blocks high inside.
 
 <center>
 
@@ -151,9 +155,9 @@ In this repo you will only see files specific to aged (mostly client side enhanc
 <p></p>
 </center>
 
-> **To be filled**
+> **Structure template from guide book not showing.**
 >
-> New verison 4.0.0 -> waiting for your feedback ^^
+> Disable shaders then it should render a transparent layout.
 
 <center>
 
